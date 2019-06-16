@@ -1,0 +1,817 @@
+30001025@@@@@@Background@@@@1@1@ntucle-docid:39; ntucle-sid:87@LMC@2019-06-14
+30001026@@@@@@Wallet is an essential accessory for everyone.@@@@1@7@ntucle-docid:39; ntucle-sid:88@LMC@2019-06-14
+30001027@@@@@@It contains identification card, bank cards, club memberships, cash and etc.@@@@1@11@ntucle-docid:39; ntucle-sid:89@LMC@2019-06-14
+30001028@@@@@@With the introduction of many electronic wallets such as Apple Pay, consumers are able to make payment using their phone.@@@@1@20@ntucle-docid:39; ntucle-sid:90@LMC@2019-06-14
+30001029@@@@@@Hence, it reduces the needs for a wallet.@@@@1@8@ntucle-docid:39; ntucle-sid:91@LMC@2019-06-14
+30001030@@@@@@However, it is almost impossible to replace an actual wallet, as not many of the retailer accept cashless payment or e-wallets.@@@@1@21@ntucle-docid:39; ntucle-sid:92@LMC@2019-06-14
+30001031@@@@@@In addition, many developing countries still uses cash as their primary mode of payment.@@@@1@14@ntucle-docid:39; ntucle-sid:93@LMC@2019-06-14
+30001032@@@@@@According to MasterCard, cash accounts for about 85% of global consumer transactions [1].@@@@1@13@ntucle-docid:39; ntucle-sid:94@LMC@2019-06-14
+30001033@@@@@@Hence, there is still a need for a wallet, as it is necessary for everyone to bring their identification card and cash when travelling.@@@@1@24@ntucle-docid:39; ntucle-sid:95@LMC@2019-06-14
+30001034@@@@@@Problem@@@@1@1@ntucle-docid:39; ntucle-sid:96@LMC@2019-06-14
+30001035@@@@@@Most adults have too many cards in their wallet causing their wallet to be bulky.@@@@1@15@ntucle-docid:39; ntucle-sid:97@LMC@2019-06-14
+30001036@@@@@@If it is being stolen or lost, it will cause great inconvenience to replace all the cards and critical information may be compromised.@@@@1@23@ntucle-docid:39; ntucle-sid:98@LMC@2019-06-14
+30001037@@@@@@An electronic wallet is not feasible as it is not recognised in many areas and there is a risk of running out of battery.@@@@1@24@ntucle-docid:39; ntucle-sid:99@LMC@2019-06-14
+30001038@@@@@@This is especially true in developing countries, as they do not have the infrastructure to support electronic wallet [2].@@@@1@19@ntucle-docid:39; ntucle-sid:100@LMC@2019-06-14
+30001039@@@@@@Solution@@@@1@1@ntucle-docid:39; ntucle-sid:101@LMC@2019-06-14
+30001040@@@@@@A smart wallet is the solution to bulky wallet.@@@@1@9@ntucle-docid:39; ntucle-sid:102@LMC@2019-06-14
+30001041@@@@@@It contain a smart card that combine all the cards details into one single card.@@@@1@15@ntucle-docid:39; ntucle-sid:103@LMC@2019-06-14
+30001042@@@@@@Through a touch interface display, user can select the type of card they want to use for the payment.@@@@1@19@ntucle-docid:39; ntucle-sid:104@LMC@2019-06-14
+30001043@@@@@@Thus, it reduces the number of cards in the wallet, as all the cards details are stored in the wallet.@@@@1@20@ntucle-docid:39; ntucle-sid:105@LMC@2019-06-14
+30001044@@@@@@The Smart wallet can also be paired up with phone application to track its location, the loyalty points and the amount money spent.@@@@1@23@ntucle-docid:39; ntucle-sid:106@LMC@2019-06-14
+30001045@@@@@@Benefits@@@@1@1@ntucle-docid:39; ntucle-sid:107@LMC@2019-06-14
+30001046@@@@@@1@@@@1@1@ntucle-docid:39; ntucle-sid:108@LMC@2019-06-14
+30001047@@@@@@Smart wallet reduces the number of cards in your wallet by using a universal card that can store multiple cards details.@@@@1@21@ntucle-docid:39; ntucle-sid:109@LMC@2019-06-14
+30001048@@@@@@2@@@@1@1@ntucle-docid:39; ntucle-sid:110@LMC@2019-06-14
+30001049@@@@@@Features a GPS tracking and auto locking function.@@@@1@8@ntucle-docid:39; ntucle-sid:111@LMC@2019-06-14
+30001050@@@@@@The card will be disabled immediately when it goes out of range of the wallet.@@@@1@15@ntucle-docid:39; ntucle-sid:112@LMC@2019-06-14
+30001051@@@@@@This is to prevent thief and misplacement.@@@@1@7@ntucle-docid:39; ntucle-sid:113@LMC@2019-06-14
+30001052@@@@@@3@@@@1@1@ntucle-docid:39; ntucle-sid:114@LMC@2019-06-14
+30001053@@@@@@Features an alarm which will ring when you are moving away from the wallet.@@@@1@14@ntucle-docid:39; ntucle-sid:115@LMC@2019-06-14
+30001054@@@@@@4@@@@1@1@ntucle-docid:39; ntucle-sid:116@LMC@2019-06-14
+30001055@@@@@@Serves as an access key to your house and rooms using near field communication technology.@@@@1@15@ntucle-docid:39; ntucle-sid:117@LMC@2019-06-14
+30001056@@@@@@Implementation@@@@1@1@ntucle-docid:39; ntucle-sid:118@LMC@2019-06-14
+30001057@@@@@@1@@@@1@1@ntucle-docid:39; ntucle-sid:119@LMC@2019-06-14
+30001058@@@@@@We will work with Stratos, the maker of smart card to produce a card that is able to store multiple card details.@@@@1@22@ntucle-docid:39; ntucle-sid:120@LMC@2019-06-14
+30001059@@@@@@2@@@@1@1@ntucle-docid:39; ntucle-sid:121@LMC@2019-06-14
+30001060@@@@@@Next we will work with Prada, the fashion accessories designer to design a futuristic looking wallet.@@@@1@16@ntucle-docid:39; ntucle-sid:122@LMC@2019-06-14
+30001061@@@@@@3@@@@1@1@ntucle-docid:39; ntucle-sid:123@LMC@2019-06-14
+30001062@@@@@@We will engage a software developer to develop the smartphone application to be paired with the smart wallet.@@@@1@18@ntucle-docid:39; ntucle-sid:124@LMC@2019-06-14
+30001063@@@@@@4@@@@1@1@ntucle-docid:39; ntucle-sid:125@LMC@2019-06-14
+30001064@@@@@@We will market our product, through online and newspaper advertisements to raise awareness before launching the product.@@@@1@17@ntucle-docid:39; ntucle-sid:126@LMC@2019-06-14
+30001065@@@@@@We will also promote through various technological fairs and fashion accessories fairs held in Singapore.@@@@1@15@ntucle-docid:39; ntucle-sid:127@LMC@2019-06-14
+30001066@@@@@@Costs/Budget@@@@1@1@ntucle-docid:39; ntucle-sid:128@LMC@2019-06-14
+30001067@@@@@@Design of wallet@@@@1@3@ntucle-docid:39; ntucle-sid:129@LMC@2019-06-14
+30001068@@@@@@4000@@@@1@1@ntucle-docid:39; ntucle-sid:130@LMC@2019-06-14
+30001069@@@@@@Producing the smart card@@@@1@4@ntucle-docid:39; ntucle-sid:131@LMC@2019-06-14
+30001070@@@@@@10000@@@@1@1@ntucle-docid:39; ntucle-sid:132@LMC@2019-06-14
+30001071@@@@@@Phone application@@@@1@2@ntucle-docid:39; ntucle-sid:133@LMC@2019-06-14
+30001072@@@@@@2000@@@@1@1@ntucle-docid:39; ntucle-sid:134@LMC@2019-06-14
+30001073@@@@@@Marketing@@@@1@1@ntucle-docid:39; ntucle-sid:135@LMC@2019-06-14
+30001074@@@@@@10000@@@@1@1@ntucle-docid:39; ntucle-sid:136@LMC@2019-06-14
+30001075@@@@@@Production@@@@1@1@ntucle-docid:39; ntucle-sid:137@LMC@2019-06-14
+30001076@@@@@@100000@@@@1@1@ntucle-docid:39; ntucle-sid:138@LMC@2019-06-14
+30001077@@@@@@Total@@@@1@1@ntucle-docid:39; ntucle-sid:139@LMC@2019-06-14
+30001078@@@@@@126000@@@@1@1@ntucle-docid:39; ntucle-sid:140@LMC@2019-06-14
+30001079@@@@@@Conclusion@@@@1@1@ntucle-docid:39; ntucle-sid:141@LMC@2019-06-14
+30001080@@@@@@Smart wallet is convenient, easy to use and slimmer compared to your normal wallet.@@@@1@14@ntucle-docid:39; ntucle-sid:142@LMC@2019-06-14
+30001081@@@@@@With smart wallet, you no longer have to bring multiple cards with you and no longer have to worry about losing your wallet.@@@@1@23@ntucle-docid:39; ntucle-sid:143@LMC@2019-06-14
+30001082@@@@@@The phone application enables real time tracking of the wallet to prevent misplacement and thief.@@@@1@15@ntucle-docid:39; ntucle-sid:144@LMC@2019-06-14
+30001083@@@@@@In addition, it’s able to track your spending and your loyalty points accumulated for each retailer.@@@@1@16@ntucle-docid:39; ntucle-sid:145@LMC@2019-06-14
+30001084@@@@@@Word count: 554 words@@@@1@4@ntucle-docid:39; ntucle-sid:146@LMC@2019-06-14
+30001085@@@@@@ASSIGNMENT 1@@@@1@2@ntucle-docid:42; ntucle-sid:349@LMC@2019-06-14
+30001086@@@@@@Improvement on NTU Shuttle Bus application@@@@1@6@ntucle-docid:42; ntucle-sid:350@LMC@2019-06-14
+30001087@@@@@@Submitted by:@@@@1@2@ntucle-docid:42; ntucle-sid:351@LMC@2019-06-14
+30001088@@@@@@Improvement on NTU Shuttle Bus application@@@@1@6@ntucle-docid:42; ntucle-sid:355@LMC@2019-06-14
+30001089@@@@@@Introduction:@@@@1@1@ntucle-docid:42; ntucle-sid:356@LMC@2019-06-14
+30001090@@@@@@Public transport is so important in our daily lives that most of us cannot live without it.@@@@1@17@ntucle-docid:42; ntucle-sid:357@LMC@2019-06-14
+30001091@@@@@@In fact, for buses, statistics shows that the average daily ridership is around 3.75 million passenger-trips in 2014, which accounts to 48.9% of the average daily ridership, 12.9% higher than its nearest competitor, the MRT (LTA).@@@@1@36@ntucle-docid:42; ntucle-sid:358@LMC@2019-06-14
+30001092@@@@@@This makes buses the highest among public transport utilization which shows our reliance with it.@@@@1@15@ntucle-docid:42; ntucle-sid:359@LMC@2019-06-14
+30001093@@@@@@Commuters to NTU mainly use the shuttle bus or the public buses to get into NTU.@@@@1@16@ntucle-docid:42; ntucle-sid:360@LMC@2019-06-14
+30001094@@@@@@Problems:@@@@1@1@ntucle-docid:42; ntucle-sid:361@LMC@2019-06-14
+30001095@@@@@@Currently, there is an existing smartphone application called Shuttle NTU (for Android users) and NTU GO!@@@@1@16@ntucle-docid:42; ntucle-sid:362@LMC@2019-06-14
+30001096@@@@@@(for iPhone users) that has the feature of global positioning system (GPS) and the estimated time of arrival (ETA) to the individual bus stops for shuttle buses.@@@@1@27@ntucle-docid:42; ntucle-sid:363@LMC@2019-06-14
+30001097@@@@@@However, timings and the location of the bus may not be accurate and may not be updated in real time.@@@@1@20@ntucle-docid:42; ntucle-sid:364@LMC@2019-06-14
+30001098@@@@@@Students who were early and decided to wait for the shuttle buses may be late for lessons due to being misled by the ETA.@@@@1@24@ntucle-docid:42; ntucle-sid:365@LMC@2019-06-14
+30001099@@@@@@Solutions:@@@@1@1@ntucle-docid:42; ntucle-sid:366@LMC@2019-06-14
+30001100@@@@@@Improvements can be made to the application.@@@@1@7@ntucle-docid:42; ntucle-sid:367@LMC@2019-06-14
+30001101@@@@@@For example, the timings can be updated in real time.@@@@1@10@ntucle-docid:42; ntucle-sid:368@LMC@2019-06-14
+30001102@@@@@@Conditions of the road can also be implemented in the application as this affects the timing of the buses.@@@@1@19@ntucle-docid:42; ntucle-sid:369@LMC@2019-06-14
+30001103@@@@@@Since bus service 179 also leads to NTU, it can also be implemented in the application as well.@@@@1@18@ntucle-docid:42; ntucle-sid:370@LMC@2019-06-14
+30001104@@@@@@Fastest route available to NTU and directions to lecture halls are some ideas that can be implemented in the application.@@@@1@20@ntucle-docid:42; ntucle-sid:371@LMC@2019-06-14
+30001105@@@@@@Benefits:@@@@1@1@ntucle-docid:42; ntucle-sid:372@LMC@2019-06-14
+30001106@@@@@@This will benefit the commuters to NTU (mostly students) as they can check for the status of the buses, the ETA and condition of the roads on the go so that they can plan their route to NTU.@@@@1@38@ntucle-docid:42; ntucle-sid:373@LMC@2019-06-14
+30001107@@@@@@If the condition is unfavorable, commuters can choose another route to NTU by other means of public transport.@@@@1@18@ntucle-docid:42; ntucle-sid:374@LMC@2019-06-14
+30001108@@@@@@This allows flexibility to the users and also allows the commuters to plan for their journey.@@@@1@16@ntucle-docid:42; ntucle-sid:375@LMC@2019-06-14
+30001109@@@@@@Implementation:@@@@1@1@ntucle-docid:42; ntucle-sid:376@LMC@2019-06-14
+30001110@@@@@@There will be a collaboration with NTU on making a new application or improve the current application.@@@@1@17@ntucle-docid:42; ntucle-sid:377@LMC@2019-06-14
+30001111@@@@@@We can input the coding that is used for the current application and tweak it to provide a more accurate timing and location of the buses.@@@@1@26@ntucle-docid:42; ntucle-sid:378@LMC@2019-06-14
+30001112@@@@@@We can also apply a system for the fastest route available to NTU along with the ETA to the respective locations including directions to lecture halls.@@@@1@26@ntucle-docid:42; ntucle-sid:379@LMC@2019-06-14
+30001113@@@@@@Costs:@@@@1@1@ntucle-docid:42; ntucle-sid:380@LMC@2019-06-14
+30001114@@@@@@Application software (If a new application is to be made): $25,000@@@@1@11@ntucle-docid:42; ntucle-sid:381@LMC@2019-06-14
+30001115@@@@@@Coding: $35,000@@@@1@2@ntucle-docid:42; ntucle-sid:382@LMC@2019-06-14
+30001116@@@@@@Total cost: $60,000@@@@1@3@ntucle-docid:42; ntucle-sid:383@LMC@2019-06-14
+30001117@@@@@@Conclusion:@@@@1@1@ntucle-docid:42; ntucle-sid:384@LMC@2019-06-14
+30001118@@@@@@In conclusion, buses or public transport are so important in our daily lives that we use it daily without fail.@@@@1@20@ntucle-docid:42; ntucle-sid:385@LMC@2019-06-14
+30001119@@@@@@Also, commuters mainly uses the shuttle bus or public buses to enter NTU.@@@@1@13@ntucle-docid:42; ntucle-sid:386@LMC@2019-06-14
+30001120@@@@@@Due to inaccuracy of the location of the buses and ETA not updated in real time, students may be late for lessons and may miss out on the lessons.@@@@1@29@ntucle-docid:42; ntucle-sid:387@LMC@2019-06-14
+30001121@@@@@@This will help solve the problem of students being late for classes.@@@@1@12@ntucle-docid:42; ntucle-sid:388@LMC@2019-06-14
+30001122@@@@@@ScanWave@@@@1@1@ntucle-docid:44; ntucle-sid:471@LMC@2019-06-14
+30001123@@@@@@Background@@@@1@1@ntucle-docid:44; ntucle-sid:472@LMC@2019-06-14
+30001124@@@@@@Imagine yourself in a busy supermarket queue, watching every item scanned ever so slowly.@@@@1@14@ntucle-docid:44; ntucle-sid:473@LMC@2019-06-14
+30001125@@@@@@This feeling is compounded during festive seasons like the Lunar New Year, where supermarkets extend opening hours to enable last minute grocery shopping.@@@@1@23@ntucle-docid:44; ntucle-sid:474@LMC@2019-06-14
+30001126@@@@@@According to a report from Singapore Statistics, retail sales in supermarkets increased by 3.6% from May 2014 to May 2015[1].@@@@1@20@ntucle-docid:44; ntucle-sid:475@LMC@2019-06-14
+30001127@@@@@@This shows that more people are buying more products from supermarkets and the waiting time for payment increases as well.@@@@1@20@ntucle-docid:44; ntucle-sid:476@LMC@2019-06-14
+30001128@@@@@@Problem@@@@1@1@ntucle-docid:44; ntucle-sid:477@LMC@2019-06-14
+30001129@@@@@@To reduce queuing time, supermarkets have implemented single basket and self-checkout counters.@@@@1@12@ntucle-docid:44; ntucle-sid:478@LMC@2019-06-14
+30001130@@@@@@Single basket counters shorten queues by implementing a special counter for customers with fewer items.@@@@1@15@ntucle-docid:44; ntucle-sid:479@LMC@2019-06-14
+30001131@@@@@@The self-checkout system helps because it has significantly smaller counter size compared to a conventional counter [2], [3].@@@@1@18@ntucle-docid:44; ntucle-sid:480@LMC@2019-06-14
+30001132@@@@@@With more self-checkout counters, more customers can be attended to at the same time.@@@@1@14@ntucle-docid:44; ntucle-sid:481@LMC@2019-06-14
+30001133@@@@@@However, even with these two systems implemented, the manual scanning of products is still inevitable.@@@@1@15@ntucle-docid:44; ntucle-sid:482@LMC@2019-06-14
+30001134@@@@@@Therefore, a more efficient payment system is needed.@@@@1@8@ntucle-docid:44; ntucle-sid:483@LMC@2019-06-14
+30001135@@@@@@Solutions@@@@1@1@ntucle-docid:44; ntucle-sid:484@LMC@2019-06-14
+30001136@@@@@@ScanWave aims to replace barcodes with passive radio-frequency identification (RFID) tags.@@@@1@11@ntucle-docid:44; ntucle-sid:485@LMC@2019-06-14
+30001137@@@@@@These RFID tags are the size of conventional barcodes, do not require batteries and are adhesive [4].@@@@1@17@ntucle-docid:44; ntucle-sid:486@LMC@2019-06-14
+30001138@@@@@@They contain all the information of a normal barcode, including product names and prices.@@@@1@14@ntucle-docid:44; ntucle-sid:487@LMC@2019-06-14
+30001139@@@@@@Since RFID works on radio signals, no contact is required to read the barcode, thus allowing many products to be scanned simultaneously from afar [5], [6].@@@@1@26@ntucle-docid:44; ntucle-sid:488@LMC@2019-06-14
+30001140@@@@@@By walking past a RFID gantry, every item would be scanned and payment can be made subsequently at the checkout counter.@@@@1@21@ntucle-docid:44; ntucle-sid:489@LMC@2019-06-14
+30001141@@@@@@This would greatly reduce queueing time by removing the lengthy scanning.@@@@1@11@ntucle-docid:44; ntucle-sid:490@LMC@2019-06-14
+30001142@@@@@@Benefits@@@@1@1@ntucle-docid:44; ntucle-sid:491@LMC@2019-06-14
+30001143@@@@@@With this new implementation, customers would have a more pleasant shopping experience as payment will be less time consuming.@@@@1@19@ntucle-docid:44; ntucle-sid:492@LMC@2019-06-14
+30001144@@@@@@Furthermore, RFID tags can contain more information such as expiry dates.@@@@1@11@ntucle-docid:44; ntucle-sid:493@LMC@2019-06-14
+30001145@@@@@@With the use of mobile scanning applications, the RFID codes would allow customers to keep track of their products after purchase.@@@@1@21@ntucle-docid:44; ntucle-sid:494@LMC@2019-06-14
+30001146@@@@@@Supermarkets would also require fewer cashiers as an individual can monitor multiple RFID kiosks at once.@@@@1@16@ntucle-docid:44; ntucle-sid:495@LMC@2019-06-14
+30001147@@@@@@Lastly, theft cases can be reduced as products cannot be hidden when customers walk past the RFID gantry during checkout.@@@@1@20@ntucle-docid:44; ntucle-sid:496@LMC@2019-06-14
+30001148@@@@@@Implementations@@@@1@1@ntucle-docid:44; ntucle-sid:497@LMC@2019-06-14
+30001149@@@@@@Developmental procedure:@@@@1@2@ntucle-docid:44; ntucle-sid:498@LMC@2019-06-14
+30001150@@@@@@1) Collaborate with RFID manufacturers to print passive RFID tags instead of conventional barcodes.@@@@1@14@ntucle-docid:44; ntucle-sid:499@LMC@2019-06-14
+30001151@@@@@@2) Install RFID gantries in supermarkets@@@@1@6@ntucle-docid:44; ntucle-sid:500@LMC@2019-06-14
+30001152@@@@@@3) Recycling kiosks can be set up to collect used tags to entitle customers to discounts on their next visit.@@@@1@20@ntucle-docid:44; ntucle-sid:501@LMC@2019-06-14
+30001153@@@@@@Cost & budget@@@@1@3@ntucle-docid:44; ntucle-sid:502@LMC@2019-06-14
+30001154@@@@@@Passive RFID $0.10@@@@1@3@ntucle-docid:44; ntucle-sid:503@LMC@2019-06-14
+30001155@@@@@@RFID gantry $1000@@@@1@3@ntucle-docid:44; ntucle-sid:504@LMC@2019-06-14
+30001156@@@@@@Recycling kiosk $100@@@@1@3@ntucle-docid:44; ntucle-sid:505@LMC@2019-06-14
+30001157@@@@@@Total cost $1100@@@@1@3@ntucle-docid:44; ntucle-sid:506@LMC@2019-06-14
+30001158@@@@@@Prices are from taken from www.alibaba.com@@@@0@6@ntucle-docid:44; ntucle-sid:507@LMC@2019-06-14
+30001159@@@@@@Supermarkets will only have to set up recycling booths and gantries.@@@@1@11@ntucle-docid:44; ntucle-sid:508@LMC@2019-06-14
+30001160@@@@@@Prices of goods will increase due to the use of RFID tags.@@@@1@12@ntucle-docid:44; ntucle-sid:509@LMC@2019-06-14
+30001161@@@@@@However, discounts will be given if used tags are returned.@@@@1@10@ntucle-docid:44; ntucle-sid:510@LMC@2019-06-14
+30001162@@@@@@Conclusion@@@@1@1@ntucle-docid:44; ntucle-sid:511@LMC@2019-06-14
+30001163@@@@@@Waiting in line is a gruelling and boring process.@@@@1@9@ntucle-docid:44; ntucle-sid:512@LMC@2019-06-14
+30001164@@@@@@However, with ScanWave, the waiting time of shoppers can be reduced, making the shopping process more enjoyable and less of a hassle.@@@@1@22@ntucle-docid:44; ntucle-sid:513@LMC@2019-06-14
+30001165@@@@@@WaveIT, the Ntu-Generation way@@@@1@4@ntucle-docid:45; ntucle-sid:141@LMC@2019-06-14
+30001166@@@@@@BACKGROUND@@@@1@1@ntucle-docid:45; ntucle-sid:142@LMC@2019-06-14
+30001167@@@@@@Queuing has always been a major problem in Singapore.@@@@1@9@ntucle-docid:45; ntucle-sid:143@LMC@2019-06-14
+30001168@@@@@@Be it queueing for food or paying of bills, it has become a habit in every Singaporean.@@@@1@17@ntucle-docid:45; ntucle-sid:144@LMC@2019-06-14
+30001169@@@@@@As depicted in Picture 1 below, Singaporeans, in general, spend 2% of their life queuing.@@@@1@15@ntucle-docid:45; ntucle-sid:145@LMC@2019-06-14
+30001170@@@@@@Hence, organisations have been seeking ways to reduce such “wastage” of time.@@@@1@12@ntucle-docid:45; ntucle-sid:146@LMC@2019-06-14
+30001171@@@@@@For instance, certain restaurants provide mobile services which will inform you when your seats are ready and internet portal such as Chope which provides online reservation services for many of the popular diners, so as to ease the waiting situation.@@@@1@40@ntucle-docid:45; ntucle-sid:147@LMC@2019-06-14
+30001172@@@@@@Hwei, 2015@@@@1@2@ntucle-docid:45; ntucle-sid:148@LMC@2019-06-14
+30001173@@@@@@Picture 1: Graphic representation of time expenditure of an average Singaporean@@@@1@11@ntucle-docid:45; ntucle-sid:149@LMC@2019-06-14
+30001174@@@@@@Source: https://vulcanpost.com/378141/countdown-of-your-time-left-in-singapore-we-only-have-less-than-10-years-for-ourselves/@@@@1@2@ntucle-docid:45; ntucle-sid:150@LMC@2019-06-14
+30001175@@@@@@PROBLEM@@@@1@1@ntucle-docid:45; ntucle-sid:151@LMC@2019-06-14
+30001176@@@@@@In Nanyang Technological University (NTU), long queues can be seen frequently around the campus, especially during peak hours.@@@@1@18@ntucle-docid:45; ntucle-sid:152@LMC@2019-06-14
+30001177@@@@@@Several measures have been put in place, such as the implementation of NorthSpine cards, which helped to shorten time spent on payment but did little to alleviate the situation when people run out of money on their cards.@@@@1@38@ntucle-docid:45; ntucle-sid:153@LMC@2019-06-14
+30001178@@@@@@SOLUTION@@@@1@1@ntucle-docid:45; ntucle-sid:154@LMC@2019-06-14
+30001179@@@@@@The aim of this proposal is to integrate the use of WaveIT card and smart phone application, so that students of NTU will be able to make payments on campus simply by waving the WaveIT card on a scanner.@@@@1@39@ntucle-docid:45; ntucle-sid:155@LMC@2019-06-14
+30001180@@@@@@In addition, WaveIT application will allow for an auto top up feature, which will save the users the hassle of monitoring cash value in their cards.@@@@1@26@ntucle-docid:45; ntucle-sid:156@LMC@2019-06-14
+30001181@@@@@@BENEFITS@@@@1@1@ntucle-docid:45; ntucle-sid:157@LMC@2019-06-14
+30001182@@@@@@WaveIT is our proposed improvement from the current NorthSpine cards with enhanced smart phone application.@@@@1@15@ntucle-docid:45; ntucle-sid:158@LMC@2019-06-14
+30001183@@@@@@This measure aims to effectively shorten the payment process, minimise the need for handling cash and coins over the counters and in turn shorten the waiting time in queues all over the campus.@@@@1@33@ntucle-docid:45; ntucle-sid:159@LMC@2019-06-14
+30001184@@@@@@The goal is to reduce waiting time for everyone and to make time for other important aspects of life.@@@@1@19@ntucle-docid:45; ntucle-sid:160@LMC@2019-06-14
+30001185@@@@@@IMPLEMENTATION@@@@1@1@ntucle-docid:45; ntucle-sid:161@LMC@2019-06-14
+30001186@@@@@@In order to produce card and develop the application, we plan to collaborate with a company manufacturing smart cards as well as computer engineering students from School of Computer Engineering to develop the card and smart phone application.@@@@1@38@ntucle-docid:45; ntucle-sid:162@LMC@2019-06-14
+30001187@@@@@@Furthermore, we will put up advertisement around campus to introduce WaveIT to the NTU students.@@@@1@15@ntucle-docid:45; ntucle-sid:163@LMC@2019-06-14
+30001188@@@@@@EXPENDITURE BUDGET@@@@1@2@ntucle-docid:45; ntucle-sid:164@LMC@2019-06-14
+30001189@@@@@@Expenditure item@@@@1@2@ntucle-docid:45; ntucle-sid:165@LMC@2019-06-14
+30001190@@@@@@Projected cost@@@@1@2@ntucle-docid:45; ntucle-sid:166@LMC@2019-06-14
+30001191@@@@@@Production of WaveIT card@@@@1@4@ntucle-docid:45; ntucle-sid:167@LMC@2019-06-14
+30001192@@@@@@1000@@@@1@1@ntucle-docid:45; ntucle-sid:168@LMC@2019-06-14
+30001193@@@@@@Development of smart phone application@@@@1@5@ntucle-docid:45; ntucle-sid:169@LMC@2019-06-14
+30001194@@@@@@500@@@@1@1@ntucle-docid:45; ntucle-sid:170@LMC@2019-06-14
+30001195@@@@@@Advertisement@@@@1@1@ntucle-docid:45; ntucle-sid:171@LMC@2019-06-14
+30001196@@@@@@500@@@@1@1@ntucle-docid:45; ntucle-sid:172@LMC@2019-06-14
+30001197@@@@@@CONCLUSION@@@@1@1@ntucle-docid:45; ntucle-sid:173@LMC@2019-06-14
+30001198@@@@@@As Singaporeans strive to be efficient in everything we do and 88% of Singaporeans owns a smartphone, Joy et al., 2012, by integrating the smartphone application into a WaveIT card.@@@@1@30@ntucle-docid:45; ntucle-sid:174@LMC@2019-06-14
+30001199@@@@@@Furthermore, this card can also be implemented to improve the situation for the printing services around the campus.@@@@1@18@ntucle-docid:45; ntucle-sid:175@LMC@2019-06-14
+30001200@@@@@@Hence, students will be able to spend less time on waiting and more time on more important things in life.@@@@1@20@ntucle-docid:45; ntucle-sid:176@LMC@2019-06-14
+30001201@@@@@@Heat Silencer@@@@1@2@ntucle-docid:46; ntucle-sid:247@LMC@2019-06-14
+30001202@@@@@@There are a lot of people who play console games these days.@@@@1@12@ntucle-docid:46; ntucle-sid:248@LMC@2019-06-14
+30001203@@@@@@A report shows that 51% of the U.S household’s owns a game console (PS3, PS4, Xbox, etc) [1].@@@@1@18@ntucle-docid:46; ntucle-sid:249@LMC@2019-06-14
+30001204@@@@@@There is another report that shows, gamers spend an average of 22hours every week on video games [2].@@@@1@18@ntucle-docid:46; ntucle-sid:250@LMC@2019-06-14
+30001205@@@@@@Averaging 3hours a day on the console might cause the console to be very heated and therefore, a fan cooler is needed to cool the game console down before it gets overheated.@@@@1@32@ntucle-docid:46; ntucle-sid:251@LMC@2019-06-14
+30001206@@@@@@Cooler fan are common in the technology market today, they helps to minimise the overheating problem for gaming consoles.@@@@1@19@ntucle-docid:46; ntucle-sid:252@LMC@2019-06-14
+30001207@@@@@@However, there are some problems faced by gamers with the current cooler fans.@@@@1@13@ntucle-docid:46; ntucle-sid:253@LMC@2019-06-14
+30001208@@@@@@Issues include cooler fans being too bulky and it cannot fit the console perfectly.@@@@1@14@ntucle-docid:46; ntucle-sid:254@LMC@2019-06-14
+30001209@@@@@@As well as the sound produced by the cooler fan affecting the quality of the gaming session in term of sound effect.@@@@1@22@ntucle-docid:46; ntucle-sid:255@LMC@2019-06-14
+30001210@@@@@@The main goal of this proposal is to create an improved version of the cooler fan call the Heat Silencer.@@@@1@20@ntucle-docid:46; ntucle-sid:256@LMC@2019-06-14
+30001211@@@@@@Heat Silencer will be down sized to make it suitable for these gaming consoles.@@@@1@14@ntucle-docid:46; ntucle-sid:257@LMC@2019-06-14
+30001212@@@@@@Although it is small being downsized, the wind produces will be strong enough to cool the game console to the optimum level.@@@@1@22@ntucle-docid:46; ntucle-sid:258@LMC@2019-06-14
+30001213@@@@@@Furthermore, with the ‘technology’ this cooler fan adopted, it will give out minimum noise or when it is turned on at high speeds thus optimizing the gaming experience.@@@@1@28@ntucle-docid:46; ntucle-sid:259@LMC@2019-06-14
+30001214@@@@@@With its ease of usage, the product will be user friendly across all age groups.@@@@1@15@ntucle-docid:46; ntucle-sid:260@LMC@2019-06-14
+30001215@@@@@@In order to produce and develop Heat Silencer, the following steps will be taken.@@@@1@14@ntucle-docid:46; ntucle-sid:261@LMC@2019-06-14
+30001216@@@@@@The first step is to collaborate with Dyson to work on the ‘Helmholtz acoustic cavity’ technology.@@@@1@16@ntucle-docid:46; ntucle-sid:262@LMC@2019-06-14
+30001217@@@@@@This technology will be implemented to mute the sound waves and makes them 75% quieter than the current generation [3].@@@@1@20@ntucle-docid:46; ntucle-sid:263@LMC@2019-06-14
+30001218@@@@@@The second step involves studying across all the ergonomics of popular game consoles in the market to create the optimal size for the fan.@@@@1@24@ntucle-docid:46; ntucle-sid:264@LMC@2019-06-14
+30001219@@@@@@The cost of this fan will be around $20, for the hardware designing and manufacturing.@@@@1@15@ntucle-docid:46; ntucle-sid:265@LMC@2019-06-14
+30001220@@@@@@We want to make Heat Silencer affordable, because it is targeted for gamers from all age group from children to adult.@@@@1@21@ntucle-docid:46; ntucle-sid:266@LMC@2019-06-14
+30001221@@@@@@All in all, with this Heat Silencer out in the market, the current big and noisy cooler fan’s problems can be solved.@@@@1@22@ntucle-docid:46; ntucle-sid:267@LMC@2019-06-14
+30001222@@@@@@Gamers can then look forward to an optimized gaming experience.@@@@1@10@ntucle-docid:46; ntucle-sid:268@LMC@2019-06-14
+30001223@@@@@@EasyGrip:@@@@1@1@ntucle-docid:47; ntucle-sid:47@LMC@2019-06-14
+30001224@@@@@@A Helping Hand@@@@1@3@ntucle-docid:47; ntucle-sid:48@LMC@2019-06-14
+30001225@@@@@@EasyGrip@@@@1@1@ntucle-docid:47; ntucle-sid:55@LMC@2019-06-14
+30001226@@@@@@Background@@@@1@1@ntucle-docid:47; ntucle-sid:56@LMC@2019-06-14
+30001227@@@@@@People use plastic bags for many different purposes and are dependent on them in our daily lives.@@@@1@17@ntucle-docid:47; ntucle-sid:57@LMC@2019-06-14
+30001228@@@@@@A new study by Singapore Environment Council (SEC) states that Singaporeans use a staggering amount of three billion plastic bags a year.@@@@1@22@ntucle-docid:47; ntucle-sid:58@LMC@2019-06-14
+30001229@@@@@@[1] With the frequency of people visiting the supermarket each week, a large amount of plastic bags are used there.@@@@1@20@ntucle-docid:47; ntucle-sid:59@LMC@2019-06-14
+30001230@@@@@@Statistics provided from The Guardian states that the number of single-use bags from supermarkets rose from 7.4 billion in 2013 to 7.6 billion in England.@@@@1@25@ntucle-docid:47; ntucle-sid:60@LMC@2019-06-14
+30001231@@@@@@[2]@@@@1@1@ntucle-docid:47; ntucle-sid:61@LMC@2019-06-14
+30001232@@@@@@Problem@@@@1@1@ntucle-docid:47; ntucle-sid:62@LMC@2019-06-14
+30001233@@@@@@During each visit to the supermarket, a large amount of groceries maybe bought and one might end up having a problem trying to carry a few heavy plastic bags home or to their vehicles.@@@@1@34@ntucle-docid:47; ntucle-sid:63@LMC@2019-06-14
+30001234@@@@@@This problem is further amplified by the thickness and flimsiness of the plastic bag’s handles.@@@@1@15@ntucle-docid:47; ntucle-sid:64@LMC@2019-06-14
+30001235@@@@@@Thus, under the weight of the items, the handles will roll up or crumple together.@@@@1@15@ntucle-docid:47; ntucle-sid:65@LMC@2019-06-14
+30001236@@@@@@When the weight is centralised at a small area on the shopper’s hand, the pressure exerted will be very large.@@@@1@20@ntucle-docid:47; ntucle-sid:66@LMC@2019-06-14
+30001237@@@@@@This will cause discomfort to shoppers especially for those who have to carry more than one plastic bag.@@@@1@18@ntucle-docid:47; ntucle-sid:67@LMC@2019-06-14
+30001238@@@@@@Solution@@@@1@1@ntucle-docid:47; ntucle-sid:68@LMC@2019-06-14
+30001239@@@@@@To solve this discomfort, EasyGrip provides a practical and simple solution to reduce painful and unnecessary stress on the user’s palm.@@@@1@21@ntucle-docid:47; ntucle-sid:69@LMC@2019-06-14
+30001240@@@@@@EasyGrip is a 10 centimetre long plastic cylindrical handle with a diameter of 3 centimetres.@@@@1@15@ntucle-docid:47; ntucle-sid:70@LMC@2019-06-14
+30001241@@@@@@A deep groove runs along the length of the handle.@@@@1@10@ntucle-docid:47; ntucle-sid:71@LMC@2019-06-14
+30001242@@@@@@It is well cushioned with a silicone rubber exterior to provide maximum comfort without compromising a strong grip.@@@@1@18@ntucle-docid:47; ntucle-sid:72@LMC@2019-06-14
+30001243@@@@@@Users are to place the handles of the plastic bags along the groove.@@@@1@13@ntucle-docid:47; ntucle-sid:73@LMC@2019-06-14
+30001244@@@@@@With the larger surface area of EasyGrip, the weight distribution along the user’s palm will be more evenly spread.@@@@1@19@ntucle-docid:47; ntucle-sid:74@LMC@2019-06-14
+30001245@@@@@@Diagram of Frontal View of EasyGrip Prototype@@@@1@7@ntucle-docid:47; ntucle-sid:75@LMC@2019-06-14
+30001246@@@@@@Diagram of Side View of EasyGrip Prototype@@@@1@7@ntucle-docid:47; ntucle-sid:76@LMC@2019-06-14
+30001247@@@@@@Diagram of Top View of EasyGrip Prototype@@@@1@7@ntucle-docid:47; ntucle-sid:77@LMC@2019-06-14
+30001248@@@@@@Benefits@@@@1@1@ntucle-docid:47; ntucle-sid:78@LMC@2019-06-14
+30001249@@@@@@With this useful device, shoppers will not have to worry about having the discomfort carrying heavier plastic bags.@@@@1@18@ntucle-docid:47; ntucle-sid:79@LMC@2019-06-14
+30001250@@@@@@Due to EasyGrip’s small and compact size, it is portable and can be kept in vehicle dashboard compartment, handbags or even pockets, to be used at anytime.@@@@1@27@ntucle-docid:47; ntucle-sid:80@LMC@2019-06-14
+30001251@@@@@@It can benefit everyone especially the older generation, making it less of a hassle for them on their journey home.@@@@1@20@ntucle-docid:47; ntucle-sid:81@LMC@2019-06-14
+30001252@@@@@@Implementation@@@@1@1@ntucle-docid:47; ntucle-sid:82@LMC@2019-06-14
+30001253@@@@@@A prototype will be printed using a 3-dimentional printer available in Nanyang Technological University (NTU).@@@@1@15@ntucle-docid:47; ntucle-sid:83@LMC@2019-06-14
+30001254@@@@@@Next, the exploded view diagram will be sent to a manufacturing company such as Unilever to further analyse the material’s properties and durability.@@@@1@23@ntucle-docid:47; ntucle-sid:84@LMC@2019-06-14
+30001255@@@@@@Costs@@@@1@1@ntucle-docid:47; ntucle-sid:85@LMC@2019-06-14
+30001256@@@@@@Hardware@@@@1@1@ntucle-docid:47; ntucle-sid:86@LMC@2019-06-14
+30001257@@@@@@2@@@@1@1@ntucle-docid:47; ntucle-sid:87@LMC@2019-06-14
+30001258@@@@@@Manufacturing@@@@1@1@ntucle-docid:47; ntucle-sid:88@LMC@2019-06-14
+30001259@@@@@@10@@@@1@1@ntucle-docid:47; ntucle-sid:89@LMC@2019-06-14
+30001260@@@@@@Total@@@@1@1@ntucle-docid:47; ntucle-sid:90@LMC@2019-06-14
+30001261@@@@@@12@@@@1@1@ntucle-docid:47; ntucle-sid:91@LMC@2019-06-14
+30001262@@@@@@Conclusion@@@@1@1@ntucle-docid:47; ntucle-sid:92@LMC@2019-06-14
+30001263@@@@@@With such frequent usage of plastic bags, EasyGrip will be a great addition every household.@@@@1@15@ntucle-docid:47; ntucle-sid:93@LMC@2019-06-14
+30001264@@@@@@It is simple to use and easy to store, uncomfortable and heavy shopping bags will never be a hassle again.@@@@1@20@ntucle-docid:47; ntucle-sid:94@LMC@2019-06-14
+30001265@@@@@@STICK it right@@@@1@3@ntucle-docid:48; ntucle-sid:286@LMC@2019-06-14
+30001266@@@@@@Assignment 1: Short Technical Proposal@@@@1@5@ntucle-docid:48; ntucle-sid:288@LMC@2019-06-14
+30001267@@@@@@NAME:@@@@1@1@ntucle-docid:48; ntucle-sid:289@LMC@2019-06-14
+30001268@@@@@@MATRIC NO:@@@@1@2@ntucle-docid:48; ntucle-sid:291@LMC@2019-06-14
+30001269@@@@@@SCHOOL NAME:@@@@1@2@ntucle-docid:48; ntucle-sid:293@LMC@2019-06-14
+30001270@@@@@@TUTORIAL CLASS:@@@@1@2@ntucle-docid:48; ntucle-sid:295@LMC@2019-06-14
+30001271@@@@@@TUTOR’S NAME:@@@@1@2@ntucle-docid:48; ntucle-sid:297@LMC@2019-06-14
+30001272@@@@@@DATE OF SUBMISSION:@@@@1@3@ntucle-docid:48; ntucle-sid:299@LMC@2019-06-14
+30001273@@@@@@STICK IT RIGHT@@@@1@3@ntucle-docid:48; ntucle-sid:300@LMC@2019-06-14
+30001274@@@@@@Background@@@@1@1@ntucle-docid:48; ntucle-sid:301@LMC@2019-06-14
+30001275@@@@@@Drink driving has always been an issue in our current society.@@@@1@11@ntucle-docid:48; ntucle-sid:302@LMC@2019-06-14
+30001276@@@@@@According to Today Online, Senior Minister of State for Home Affairs Masagos Zulkifli revealed that there were an alarming 2330 cases of motorists being caught for drink driving in 2013.@@@@1@30@ntucle-docid:48; ntucle-sid:303@LMC@2019-06-14
+30001277@@@@@@In addition, there have been 88 cases of accidents due to drink driving and 16 fatalities in the year 2013 alone [1].@@@@1@22@ntucle-docid:48; ntucle-sid:304@LMC@2019-06-14
+30001278@@@@@@Therefore, this current issue should be looked into, to prevent further escalation in numbers.@@@@1@14@ntucle-docid:48; ntucle-sid:305@LMC@2019-06-14
+30001279@@@@@@Problem@@@@1@1@ntucle-docid:48; ntucle-sid:306@LMC@2019-06-14
+30001280@@@@@@As stated by the Singapore Traffic Police, the legal limit in Singapore is a blood alcohol content of less than or equals to 80 milligrammes (mg) per 100 millilitres (ml) of blood or breath alcohol content of 35μg per 100ml of breath [2].@@@@1@43@ntucle-docid:48; ntucle-sid:307@LMC@2019-06-14
+30001281@@@@@@The problem that many people faced when driving to parties, is that they would not want to commit an offence hence limiting themselves to non-alcoholic drinks.@@@@1@26@ntucle-docid:48; ntucle-sid:308@LMC@2019-06-14
+30001282@@@@@@Furthermore, parties normally ends in the wee hours, it will not be easy to flag a taxi.@@@@1@17@ntucle-docid:48; ntucle-sid:309@LMC@2019-06-14
+30001283@@@@@@Solution@@@@1@1@ntucle-docid:48; ntucle-sid:310@LMC@2019-06-14
+30001284@@@@@@This proposal aims to provide a non-invasive method of detecting blood alcohol level, differing from the traditional breathalyser through the use of transdermal ethanol sensors by integrating it into a waterproof multi-coloured led sticker to detect alcohol vapour emitted from the human skin [3].@@@@1@44@ntucle-docid:48; ntucle-sid:311@LMC@2019-06-14
+30001285@@@@@@This product will be small and lightweight, having a diameter of less than 30mm and weigh less than 30g.@@@@1@19@ntucle-docid:48; ntucle-sid:312@LMC@2019-06-14
+30001286@@@@@@It is non-obstructive and can be stickered anywhere.@@@@1@8@ntucle-docid:48; ntucle-sid:313@LMC@2019-06-14
+30001287@@@@@@If the users’ blood alcohol level is less than the prescribed legal limit it will glow in green, near the legal limit of 60-80mg per 100ml of blood, it will glow in amber.@@@@1@33@ntucle-docid:48; ntucle-sid:314@LMC@2019-06-14
+30001288@@@@@@If it hits above the limit it will glow in red.@@@@1@11@ntucle-docid:48; ntucle-sid:315@LMC@2019-06-14
+30001289@@@@@@In addition, this product can be utilised such that the user can wait for the sticker to turn green to indicate that the blood alcohol level has subsided below the limit to drive home safely.@@@@1@35@ntucle-docid:48; ntucle-sid:316@LMC@2019-06-14
+30001290@@@@@@Benefits@@@@1@1@ntucle-docid:48; ntucle-sid:317@LMC@2019-06-14
+30001291@@@@@@This product will benefit individuals who want to have a drink and keep their alcohol level below the legal limit to drive home safely.@@@@1@24@ntucle-docid:48; ntucle-sid:318@LMC@2019-06-14
+30001292@@@@@@Users can also have a better self-awareness of their alcohol limit.@@@@1@11@ntucle-docid:48; ntucle-sid:319@LMC@2019-06-14
+30001293@@@@@@It is more user–friendly than the current breathalyser as it is non-invasive.@@@@1@12@ntucle-docid:48; ntucle-sid:320@LMC@2019-06-14
+30001294@@@@@@It will not require any specific instructions to use as the process of colour changing is automated.@@@@1@17@ntucle-docid:48; ntucle-sid:321@LMC@2019-06-14
+30001295@@@@@@Implementation@@@@1@1@ntucle-docid:48; ntucle-sid:322@LMC@2019-06-14
+30001296@@@@@@In producing this product we will require the following.@@@@1@9@ntucle-docid:48; ntucle-sid:323@LMC@2019-06-14
+30001297@@@@@@Firstly, collaborate with a research and development team specialising in the transdermal ethanol sensor field to work on integrating it onto the sticker.@@@@1@23@ntucle-docid:48; ntucle-sid:324@LMC@2019-06-14
+30001298@@@@@@Secondly, we will form a survey team to distribute 5000 pieces of this product in its initial stage to do a market survey for feedback.@@@@1@25@ntucle-docid:48; ntucle-sid:325@LMC@2019-06-14
+30001299@@@@@@Lastly, team-up with a marketing and design team to come up with a unique design with market potential for the product.@@@@1@21@ntucle-docid:48; ntucle-sid:326@LMC@2019-06-14
+30001300@@@@@@Cost or Budget@@@@1@3@ntucle-docid:48; ntucle-sid:327@LMC@2019-06-14
+30001301@@@@@@Conclusion@@@@1@1@ntucle-docid:48; ntucle-sid:328@LMC@2019-06-14
+30001302@@@@@@The number of drink driving cases in the year 2013 is alarming.@@@@1@12@ntucle-docid:48; ntucle-sid:329@LMC@2019-06-14
+30001303@@@@@@This proposed product targets to reduce the number of drink driving cases and prevent fatalities resulting from it through the use of technology.@@@@1@23@ntucle-docid:48; ntucle-sid:330@LMC@2019-06-14
+30001304@@@@@@This product will also enable self and peer awareness of an individuals’ blood alcohol level.@@@@1@15@ntucle-docid:48; ntucle-sid:331@LMC@2019-06-14
+30001305@@@@@@CLICK IT OUT WITH YOUR PHONE:@@@@1@6@ntucle-docid:49; ntucle-sid:104@LMC@2019-06-14
+30001306@@@@@@NTU CLICKER MOBILE APPLICATION@@@@1@4@ntucle-docid:49; ntucle-sid:105@LMC@2019-06-14
+30001307@@@@@@NTU CLICKER MOBILE APPLICATION@@@@1@4@ntucle-docid:49; ntucle-sid:111@LMC@2019-06-14
+30001308@@@@@@Background@@@@1@1@ntucle-docid:49; ntucle-sid:112@LMC@2019-06-14
+30001309@@@@@@In Nanyang Technological University (NTU), lecturers are often faced with difficulties in getting students to respond effectively, as students may not want to share their opinions.@@@@1@26@ntucle-docid:49; ntucle-sid:113@LMC@2019-06-14
+30001310@@@@@@Hence, NTU had provided every students with clicker devices which helped lecturers to receive immediate feedback from students.@@@@1@18@ntucle-docid:49; ntucle-sid:114@LMC@2019-06-14
+30001311@@@@@@It allows students to have a timely question answering session which allow students to respond faster and shape their learning path.@@@@1@21@ntucle-docid:49; ntucle-sid:115@LMC@2019-06-14
+30001312@@@@@@Although this clicker device is free for every NTU students, this device is still consider a loan item which requires students to return it back to NTU upon graduation.@@@@1@29@ntucle-docid:49; ntucle-sid:116@LMC@2019-06-14
+30001313@@@@@@Problem@@@@1@1@ntucle-docid:49; ntucle-sid:117@LMC@2019-06-14
+30001314@@@@@@During lecture, students tend to forget on bring their clicker devices, whereas some students have already lost their clickers as it is portable and easily to be forgotten.@@@@1@28@ntucle-docid:49; ntucle-sid:118@LMC@2019-06-14
+30001315@@@@@@Besides, the login setting of clicker is relatively inconvenient.@@@@1@9@ntucle-docid:49; ntucle-sid:119@LMC@2019-06-14
+30001316@@@@@@It provides no display on both login and clicking results which make students unable to determine whether they are in the correct channel.@@@@1@23@ntucle-docid:49; ntucle-sid:120@LMC@2019-06-14
+30001317@@@@@@Students might have doubts on their clicked answers, as they are not sure if their lecturer has received it.@@@@1@19@ntucle-docid:49; ntucle-sid:121@LMC@2019-06-14
+30001318@@@@@@Solution@@@@1@1@ntucle-docid:49; ntucle-sid:122@LMC@2019-06-14
+30001319@@@@@@Create mobile application which act as the existing clicker device.@@@@1@10@ntucle-docid:49; ntucle-sid:123@LMC@2019-06-14
+30001320@@@@@@This application requires user to sign up with their student ID and password.@@@@1@13@ntucle-docid:49; ntucle-sid:124@LMC@2019-06-14
+30001321@@@@@@Once they have signed up, they will be automatically log in whenever their phones are connected to the wifi, as it will auto detect all the channels of the lecture theatre or tutorial room within the range and user is required to choose their desired channel to connect it up.@@@@1@50@ntucle-docid:49; ntucle-sid:125@LMC@2019-06-14
+30001322@@@@@@A keypad interface will be displayed after it is successfully connected and the “Successful!” notification will appear when the pressed answer is being received.@@@@1@24@ntucle-docid:49; ntucle-sid:126@LMC@2019-06-14
+30001323@@@@@@Benefits@@@@1@1@ntucle-docid:49; ntucle-sid:127@LMC@2019-06-14
+30001324@@@@@@The NTU Clicker application is designed with a user friendly display interface which allows user to view the channel connection status and get connected easily.@@@@1@25@ntucle-docid:49; ntucle-sid:128@LMC@2019-06-14
+30001325@@@@@@Besides, user will also be notified when their answer is pressed.@@@@1@11@ntucle-docid:49; ntucle-sid:129@LMC@2019-06-14
+30001326@@@@@@This application is free for every user and will be compatible with both Android and Apple.@@@@1@16@ntucle-docid:49; ntucle-sid:130@LMC@2019-06-14
+30001327@@@@@@Therefore, students are no longer have to bring or loan clicker devices from school.@@@@1@14@ntucle-docid:49; ntucle-sid:131@LMC@2019-06-14
+30001328@@@@@@Implementation@@@@1@1@ntucle-docid:49; ntucle-sid:132@LMC@2019-06-14
+30001329@@@@@@A mobile application will be developed by NTU software development team.@@@@1@11@ntucle-docid:49; ntucle-sid:133@LMC@2019-06-14
+30001330@@@@@@By utilizing the existing channel set up in every lecture theatres and tutorial rooms, we will collaborate with the Turning Technologies Company to allow our mobile application on accessing the Turning Point and lectures are still able to use their TurningPoint Receiver on teaching.@@@@1@44@ntucle-docid:49; ntucle-sid:134@LMC@2019-06-14
+30001331@@@@@@Costs@@@@1@1@ntucle-docid:49; ntucle-sid:135@LMC@2019-06-14
+30001332@@@@@@The estimated cost for a prototype of NTU Clicker Mobile Application is S$ 100 for developing Mobile Application Software.@@@@1@19@ntucle-docid:49; ntucle-sid:136@LMC@2019-06-14
+30001333@@@@@@Conclusion@@@@1@1@ntucle-docid:49; ntucle-sid:137@LMC@2019-06-14
+30001334@@@@@@In the midst of hectic university life, students would find it more convenient to get things done with their smartphone because it has a more reliable and handy display interface, which they will never forget to bring it for lesson.@@@@1@40@ntucle-docid:49; ntucle-sid:138@LMC@2019-06-14
+30001335@@@@@@Therefore, by installing NTU Clicker on the phone, it would save a lot of unnecessary hassle, like wasting time looking for clicker before going to school or logging in a few times on it, trying to convince yourself that you have logged in.@@@@1@43@ntucle-docid:49; ntucle-sid:139@LMC@2019-06-14
+30001336@@@@@@Modified Elder-Friendly Trolley@@@@1@3@ntucle-docid:50; ntucle-sid:341@LMC@2019-06-14
+30001337@@@@@@Background@@@@1@1@ntucle-docid:50; ntucle-sid:342@LMC@2019-06-14
+30001338@@@@@@Grocery shopping has always been a common and routine chore done by many households, particularly active and retired senior citizens as it is often viewed as a fruitful way for them to spend their free time.@@@@1@36@ntucle-docid:50; ntucle-sid:343@LMC@2019-06-14
+30001339@@@@@@With the many elderly-oriented benefits currently in place such as daily discounts on supermarket purchases, the incentive to do their family’s grocery shopping is even higher in Singapore.@@@@1@28@ntucle-docid:50; ntucle-sid:344@LMC@2019-06-14
+30001340@@@@@@For example, NTUC FairPrice offers 3% discount on all supermarket purchases every Monday for Pioneer Generation Card holders [1].@@@@1@19@ntucle-docid:50; ntucle-sid:345@LMC@2019-06-14
+30001341@@@@@@Problem@@@@1@1@ntucle-docid:50; ntucle-sid:346@LMC@2019-06-14
+30001342@@@@@@However, the pertinent problem with supermarket shopping for elderlies is the trouble of having to carry heavy bags of groceries back home.@@@@1@22@ntucle-docid:50; ntucle-sid:347@LMC@2019-06-14
+30001343@@@@@@As seen in a national survey conducted on senior citizens in 2011, a primary concern they had was their physical capacity to carry heavy things [2].@@@@1@26@ntucle-docid:50; ntucle-sid:348@LMC@2019-06-14
+30001344@@@@@@Portable shopping trolleys exist in the market but they possess a few limitations, one of which is mobility.@@@@1@18@ntucle-docid:50; ntucle-sid:349@LMC@2019-06-14
+30001345@@@@@@The wheels on the majority of present designs are locked in place on a fixed axis of rotation, permitting only forward and backward motion.@@@@1@24@ntucle-docid:50; ntucle-sid:350@LMC@2019-06-14
+30001346@@@@@@This makes the simple act of turning the cart highly inconvenient, especially for elderlies who tend to have weaker arm strength.@@@@1@21@ntucle-docid:50; ntucle-sid:351@LMC@2019-06-14
+30001347@@@@@@Another potential disadvantage lies with the hollow carrier compartment.@@@@1@9@ntucle-docid:50; ntucle-sid:352@LMC@2019-06-14
+30001348@@@@@@Its relatively deep capacity means that users will have to bend over in order to store or retrieve their goods at the bottom of the cart.@@@@1@26@ntucle-docid:50; ntucle-sid:353@LMC@2019-06-14
+30001349@@@@@@This presents a drawback to elderlies who suffer from a frail back.@@@@1@12@ntucle-docid:50; ntucle-sid:354@LMC@2019-06-14
+30001350@@@@@@As such, there are definite areas for improvement@@@@1@8@ntucle-docid:50; ntucle-sid:355@LMC@2019-06-14
+30001351@@@@@@Solution.@@@@1@1@ntucle-docid:50; ntucle-sid:356@LMC@2019-06-14
+30001352@@@@@@This proposal aims to rectify the abovementioned problems by integrating current trolley wheels with a swivel caster.@@@@1@17@ntucle-docid:50; ntucle-sid:357@LMC@2019-06-14
+30001353@@@@@@The caster enables the wheel to naturally swivel 360 degrees on its axis and will also be incorporated with a brake and locking switch, both of which are foot-activated.@@@@1@29@ntucle-docid:50; ntucle-sid:358@LMC@2019-06-14
+30001354@@@@@@When engaged, the locking mechanism prohibits the wheel from swiveling and keeps the assembly rigid, allowing steady linear motion in one direction.@@@@1@22@ntucle-docid:50; ntucle-sid:359@LMC@2019-06-14
+30001355@@@@@@Additionally, the carrier compartment will be modified into a rotatable storage system that operates in a similar fashion to a “ferris wheel”.@@@@1@22@ntucle-docid:50; ntucle-sid:360@LMC@2019-06-14
+30001356@@@@@@Four medium sized storage containers (40 x 20 x 20 cm) are positioned in a circular pattern and attached to a common frame with a center axle, which is in turn fixed to the main structure of the trolley on both sides.@@@@1@42@ntucle-docid:50; ntucle-sid:361@LMC@2019-06-14
+30001357@@@@@@Benefits@@@@1@1@ntucle-docid:50; ntucle-sid:362@LMC@2019-06-14
+30001358@@@@@@This design will improve the overall functionality of the trolley.@@@@1@10@ntucle-docid:50; ntucle-sid:363@LMC@2019-06-14
+30001359@@@@@@Maneuvering the cart around sharp corners simply requires the user to depress the switch located beside the wheels to deactivate the locking mechanism, thereby enabling the wheels to swivel freely in the desired direction.@@@@1@34@ntucle-docid:50; ntucle-sid:364@LMC@2019-06-14
+30001360@@@@@@Users also no longer have to bend over to reach their goods as the immediate top container is situated at a convenient height with respect to the trolley handles.@@@@1@29@ntucle-docid:50; ntucle-sid:365@LMC@2019-06-14
+30001361@@@@@@By applying a gentle force to the container, the system is able to rotate in a circular motion, allowing easy access to the other bottom containers.@@@@1@26@ntucle-docid:50; ntucle-sid:366@LMC@2019-06-14
+30001362@@@@@@Implementation@@@@1@1@ntucle-docid:50; ntucle-sid:367@LMC@2019-06-14
+30001363@@@@@@The implementation process of the modified trolley is detailed in general below:@@@@1@12@ntucle-docid:50; ntucle-sid:368@LMC@2019-06-14
+30001364@@@@@@1@@@@1@1@ntucle-docid:50; ntucle-sid:369@LMC@2019-06-14
+30001365@@@@@@Collaboration with a company manufacturing portable shopping trolleys so as to apply the proposed changes on their products@@@@1@18@ntucle-docid:50; ntucle-sid:370@LMC@2019-06-14
+30001366@@@@@@2@@@@1@1@ntucle-docid:50; ntucle-sid:371@LMC@2019-06-14
+30001367@@@@@@Sourcing of required parts from a company specializing in the field of custom material supply for the manufacturing and construction industries@@@@1@21@ntucle-docid:50; ntucle-sid:372@LMC@2019-06-14
+30001368@@@@@@Costs@@@@1@1@ntucle-docid:50; ntucle-sid:373@LMC@2019-06-14
+30001369@@@@@@Basic Trolley Frame $30@@@@1@4@ntucle-docid:50; ntucle-sid:374@LMC@2019-06-14
+30001370@@@@@@Swivel Caster Wheel Components $50@@@@1@5@ntucle-docid:50; ntucle-sid:375@LMC@2019-06-14
+30001371@@@@@@Rotatable Storage System Components $50@@@@1@5@ntucle-docid:50; ntucle-sid:376@LMC@2019-06-14
+30001372@@@@@@Construction $30@@@@1@2@ntucle-docid:50; ntucle-sid:377@LMC@2019-06-14
+30001373@@@@@@Total $160@@@@1@2@ntucle-docid:50; ntucle-sid:378@LMC@2019-06-14
+30001374@@@@@@Conclusion@@@@1@1@ntucle-docid:50; ntucle-sid:379@LMC@2019-06-14
+30001375@@@@@@Grocery shopping is a basic task that should not be seen as a challenge for elderlies looking to contribute to their family’s needs.@@@@1@23@ntucle-docid:50; ntucle-sid:380@LMC@2019-06-14
+30001376@@@@@@This elder-friendly trolley serves to ensure that transportation of the purchased items is a smooth and hassle-free process.@@@@1@18@ntucle-docid:50; ntucle-sid:381@LMC@2019-06-14
+30001377@@@@@@Background@@@@1@1@ntucle-docid:51; ntucle-sid:149@LMC@2019-06-14
+30001378@@@@@@The amount of information shared on the web has increased exponentially with the increase emergence of social media sites such as Facebook, Twitter and other online forums [1].@@@@1@28@ntucle-docid:51; ntucle-sid:150@LMC@2019-06-14
+30001379@@@@@@As I have observed, many NTU students have used these platforms to share academic and non-academic information and interact with fellow students.@@@@1@22@ntucle-docid:51; ntucle-sid:151@LMC@2019-06-14
+30001380@@@@@@Many NTU students have joined local forums such as SGClub and HardwareZone to seek advice and opinion about academic issues.@@@@1@20@ntucle-docid:51; ntucle-sid:152@LMC@2019-06-14
+30001381@@@@@@Problem@@@@1@1@ntucle-docid:51; ntucle-sid:153@LMC@2019-06-14
+30001382@@@@@@There is no single platform for NTU students to obtain and share information easily and to interact with other NTU students.@@@@1@21@ntucle-docid:51; ntucle-sid:154@LMC@2019-06-14
+30001383@@@@@@When NTU students want to seek help online, they have to visit other social media sites or local forums to create a thread or look for an existing thread to ask question.@@@@1@32@ntucle-docid:51; ntucle-sid:155@LMC@2019-06-14
+30001384@@@@@@In addition, the forum thread might not be updated frequently depending on the number of users who are NTU students on that forum.@@@@1@23@ntucle-docid:51; ntucle-sid:156@LMC@2019-06-14
+30001385@@@@@@Hence, it is not convenient for NTU students to interact with other fellow students online.@@@@1@15@ntucle-docid:51; ntucle-sid:157@LMC@2019-06-14
+30001386@@@@@@Solution@@@@1@1@ntucle-docid:51; ntucle-sid:158@LMC@2019-06-14
+30001387@@@@@@A sharing platform that allows NTU students to interact and share information, named NTU Student Pal, can help to address this problem.@@@@1@22@ntucle-docid:51; ntucle-sid:159@LMC@2019-06-14
+30001388@@@@@@The forum within the application allows students to create threads for discussion and questions (See Fig.@@@@1@16@ntucle-docid:51; ntucle-sid:160@LMC@2019-06-14
+30001389@@@@@@1).@@@@1@1@ntucle-docid:51; ntucle-sid:161@LMC@2019-06-14
+30001390@@@@@@The thread starter will be notified instantly when someone replies to the thread.@@@@1@13@ntucle-docid:51; ntucle-sid:162@LMC@2019-06-14
+30001391@@@@@@The application also allows users to create groups to gather all students with similar interests or students from the same course, class or co-curricular activity.@@@@1@25@ntucle-docid:51; ntucle-sid:163@LMC@2019-06-14
+30001392@@@@@@There are other features such as newsfeed, timetable, groups, notes, bus arrival timing checker and NTU campus map.@@@@1@18@ntucle-docid:51; ntucle-sid:164@LMC@2019-06-14
+30001393@@@@@@Fig 1.@@@@1@2@ntucle-docid:51; ntucle-sid:165@LMC@2019-06-14
+30001394@@@@@@Screenshot of a thread in the NTU Student Pal forums.@@@@1@10@ntucle-docid:51; ntucle-sid:166@LMC@2019-06-14
+30001395@@@@@@Benefits@@@@1@1@ntucle-docid:51; ntucle-sid:167@LMC@2019-06-14
+30001396@@@@@@NTU Student Pal acts like a personal assistant to NTU students by managing their timetable and providing them convenience with information they need with just a few taps on the mobile.@@@@1@31@ntucle-docid:51; ntucle-sid:168@LMC@2019-06-14
+30001397@@@@@@If the user has created a thread in the forum, there will be a real-time notification when there is a reply from other students, which will be useful when the user needs a reply urgently.@@@@1@35@ntucle-docid:51; ntucle-sid:169@LMC@2019-06-14
+30001398@@@@@@Unlike NTULearn Discussion Board, which only allows students within the same faculty or class to interact, the forum allows interactions across faculties.@@@@1@22@ntucle-docid:51; ntucle-sid:170@LMC@2019-06-14
+30001399@@@@@@Users can exchange notes and advices from students from other faculties, improving their learning experience.@@@@1@15@ntucle-docid:51; ntucle-sid:171@LMC@2019-06-14
+30001400@@@@@@Other features such as the Newsfeed provide convenience with real-time updates; for example, users can make alternative plans in the event of road closure or facilities maintenance.@@@@1@27@ntucle-docid:51; ntucle-sid:172@LMC@2019-06-14
+30001401@@@@@@Implementation@@@@1@1@ntucle-docid:51; ntucle-sid:173@LMC@2019-06-14
+30001402@@@@@@NTU Student Pal is a fairly large application, thus it will require 3 programmers and a user interface (UI) designer.@@@@1@20@ntucle-docid:51; ntucle-sid:174@LMC@2019-06-14
+30001403@@@@@@The programmers will split the workload into several modules to work on separately while the UI designer focuses on designing the icons and visual elements and ensuring user-friendliness.@@@@1@28@ntucle-docid:51; ntucle-sid:175@LMC@2019-06-14
+30001404@@@@@@It will take approximately two months to code and test the application for each mobile platforms (Android and iPhone).@@@@1@19@ntucle-docid:51; ntucle-sid:176@LMC@2019-06-14
+30001405@@@@@@Cost@@@@1@1@ntucle-docid:51; ntucle-sid:177@LMC@2019-06-14
+30001406@@@@@@Project Cost – $10,000 (For both platforms)@@@@1@7@ntucle-docid:51; ntucle-sid:178@LMC@2019-06-14
+30001407@@@@@@The project cost is an estimated cost for the mobile application development services in Singapore, which is approximately $5,000 for each platform [2].@@@@1@23@ntucle-docid:51; ntucle-sid:179@LMC@2019-06-14
+30001408@@@@@@Conclusion@@@@1@1@ntucle-docid:51; ntucle-sid:180@LMC@2019-06-14
+30001409@@@@@@Manage them all on NTU Student Pal.@@@@1@7@ntucle-docid:51; ntucle-sid:181@LMC@2019-06-14
+30001410@@@@@@It effectively integrates multiple existing applications into one and includes a forum which allows the students to share and interact with each other.@@@@1@23@ntucle-docid:51; ntucle-sid:182@LMC@2019-06-14
+30001411@@@@@@This provides convenience as the information comes handy with a few taps in a single application and thus improves efficiency and productivity for the students.@@@@1@25@ntucle-docid:51; ntucle-sid:183@LMC@2019-06-14
+30001412@@@@@@Mobile application to reduce attraction@@@@1@5@ntucle-docid:52; ntucle-sid:195@LMC@2019-06-14
+30001413@@@@@@of Ades Mosquito@@@@1@3@ntucle-docid:52; ntucle-sid:196@LMC@2019-06-14
+30001414@@@@@@Background@@@@1@1@ntucle-docid:52; ntucle-sid:202@LMC@2019-06-14
+30001415@@@@@@The main goal of this proposal is to create a mobile application to reduce the attraction of Ades Mosquito in Singapore, in addition to the current 10 minute 5-Step Mozzie Wipeout campaign that was launched by NEA, in response to 2005 Singapore Dengue Outbreak.@@@@1@44@ntucle-docid:52; ntucle-sid:203@LMC@2019-06-14
+30001416@@@@@@It would be made free on all smartphone platforms, such that the application would be readily available for download.@@@@1@19@ntucle-docid:52; ntucle-sid:204@LMC@2019-06-14
+30001417@@@@@@The mobile application would emit a specific range of frequency that is targeted at Ades Mosquito.@@@@1@16@ntucle-docid:52; ntucle-sid:205@LMC@2019-06-14
+30001418@@@@@@Problem@@@@1@1@ntucle-docid:52; ntucle-sid:206@LMC@2019-06-14
+30001419@@@@@@Mosquitoes are one of the most annoying issues that involve everyone in this world.@@@@1@14@ntucle-docid:52; ntucle-sid:207@LMC@2019-06-14
+30001420@@@@@@This insect does not only irritate one with the itchiness from its bite, but it also spread diseases such as Malaria and Dengue.@@@@1@23@ntucle-docid:52; ntucle-sid:208@LMC@2019-06-14
+30001421@@@@@@While this is a worldwide issue, Singapore is also facing the persistent high amount of cases of Dengue over the recent years.@@@@1@22@ntucle-docid:52; ntucle-sid:209@LMC@2019-06-14
+30001422@@@@@@Since the First Dengue Outbreak in Singapore in 2005 (Wikipedia), with 14,209 dengue cases including 25 death cases, and the second outbreak in 2013, with 22,318 dengue cases including 8 death cases, in 2014 is 18,335.@@@@1@36@ntucle-docid:52; ntucle-sid:210@LMC@2019-06-14
+30001423@@@@@@Current cumulative cases is 7720 as of 081015 1530H.@@@@1@9@ntucle-docid:52; ntucle-sid:211@LMC@2019-06-14
+30001424@@@@@@(NEA) Although the number of cases had declined, they are still relatively high.@@@@1@13@ntucle-docid:52; ntucle-sid:212@LMC@2019-06-14
+30001425@@@@@@Solution@@@@1@1@ntucle-docid:52; ntucle-sid:213@LMC@2019-06-14
+30001426@@@@@@There are actually several applications available in the respective mobile platforms, which work by emitting ultra-high frequency to prevent mosquitoes from coming near the user.@@@@1@25@ntucle-docid:52; ntucle-sid:214@LMC@2019-06-14
+30001427@@@@@@However there are existing problems with the current technology:@@@@1@9@ntucle-docid:52; ntucle-sid:215@LMC@2019-06-14
+30001428@@@@@@1@@@@1@1@ntucle-docid:52; ntucle-sid:216@LMC@2019-06-14
+30001429@@@@@@It is claimed that ultra-high frequency, such as 15 kHz, repels mosquitoes.@@@@1@12@ntucle-docid:52; ntucle-sid:217@LMC@2019-06-14
+30001430@@@@@@However, dragonflies and mosquitoes emit a frequency of 20 – 170 Hz and 700 Hz respectively, which is far lower than the 15 kHz claimed.@@@@1@25@ntucle-docid:52; ntucle-sid:218@LMC@2019-06-14
+30001431@@@@@@(Kermer, 2012).@@@@1@2@ntucle-docid:52; ntucle-sid:219@LMC@2019-06-14
+30001432@@@@@@2@@@@1@1@ntucle-docid:52; ntucle-sid:220@LMC@2019-06-14
+30001433@@@@@@Others use the sound made by the wings of male mosquitoes, which females avoid once they’ve mated.@@@@1@17@ntucle-docid:52; ntucle-sid:221@LMC@2019-06-14
+30001434@@@@@@However, this is not scientifically proven.@@@@1@6@ntucle-docid:52; ntucle-sid:222@LMC@2019-06-14
+30001435@@@@@@Furthermore, female mosquitoes have a weaker hearing sense than males.@@@@1@10@ntucle-docid:52; ntucle-sid:223@LMC@2019-06-14
+30001436@@@@@@(A. Enayati, J. Hemingway and P. Garner, 2010)@@@@1@8@ntucle-docid:52; ntucle-sid:224@LMC@2019-06-14
+30001437@@@@@@Therefore, the proposed solution would be more specific for the Ades Mosquitoes, which would be furthered experimented on top of the problems of the currents available.@@@@1@26@ntucle-docid:52; ntucle-sid:225@LMC@2019-06-14
+30001438@@@@@@In order to accomplish this, the targeted frequency will be tested specifically with Ades mosquitoes.@@@@1@15@ntucle-docid:52; ntucle-sid:226@LMC@2019-06-14
+30001439@@@@@@Also, the ability of the sound frequency to pass through our clothing and bags to reach out to the surroundings would be further experimented.@@@@1@24@ntucle-docid:52; ntucle-sid:227@LMC@2019-06-14
+30001440@@@@@@Benefits@@@@1@1@ntucle-docid:52; ntucle-sid:228@LMC@2019-06-14
+30001441@@@@@@The users would be able to reduce the attraction of Ades mosquitoes, in which the risk of getting infected by Dengue virus is relatively lowered.@@@@1@25@ntucle-docid:52; ntucle-sid:229@LMC@2019-06-14
+30001442@@@@@@This application would also be a better improved version which attends to Singapore’s need.@@@@1@14@ntucle-docid:52; ntucle-sid:230@LMC@2019-06-14
+30001443@@@@@@Moreover, the application is going to be user friendly, to cater for all targeted audiences.@@@@1@15@ntucle-docid:52; ntucle-sid:231@LMC@2019-06-14
+30001444@@@@@@Implementation@@@@1@1@ntucle-docid:52; ntucle-sid:232@LMC@2019-06-14
+30001445@@@@@@As this is a mobile application, programmers skilled in mobile programming will be tasked with the development of the software.@@@@1@20@ntucle-docid:52; ntucle-sid:233@LMC@2019-06-14
+30001446@@@@@@On the other hand, the frequency testing would be done by Entomologists.@@@@1@12@ntucle-docid:52; ntucle-sid:234@LMC@2019-06-14
+30001447@@@@@@Cost@@@@1@1@ntucle-docid:52; ntucle-sid:235@LMC@2019-06-14
+30001448@@@@@@Application software $200@@@@1@3@ntucle-docid:52; ntucle-sid:236@LMC@2019-06-14
+30001449@@@@@@Mosquito Samples $500@@@@1@3@ntucle-docid:52; ntucle-sid:237@LMC@2019-06-14
+30001450@@@@@@Total Prototype Software $700@@@@1@4@ntucle-docid:52; ntucle-sid:238@LMC@2019-06-14
+30001451@@@@@@Conclusion@@@@1@1@ntucle-docid:52; ntucle-sid:239@LMC@2019-06-14
+30001452@@@@@@The risk of getting infected with Dengue virus is present in our daily life and often unavoidable to be bitten by mosquitoes in any location.@@@@1@25@ntucle-docid:52; ntucle-sid:240@LMC@2019-06-14
+30001453@@@@@@The proposed software aims to reduce the attraction of Ades mosquitoes toward the user of this software, by improving the current available products in the market to suit the targeted audiences.@@@@1@31@ntucle-docid:52; ntucle-sid:241@LMC@2019-06-14
+30001454@@@@@@L-POD@@@@1@1@ntucle-docid:53; ntucle-sid:591@LMC@2019-06-14
+30001455@@@@@@Background@@@@1@1@ntucle-docid:53; ntucle-sid:592@LMC@2019-06-14
+30001456@@@@@@Students often skip lectures, with reasons ranging from being unproductive or unconducive to thinking that it is a waste of time.@@@@1@21@ntucle-docid:53; ntucle-sid:593@LMC@2019-06-14
+30001457@@@@@@Students find that they usually get the most out from tutorial classes than lectures.@@@@1@14@ntucle-docid:53; ntucle-sid:594@LMC@2019-06-14
+30001458@@@@@@But more often than not, students have found lectures a total waste of time to attend because of the noise pollution generated by peers communicating with each other; further exacerbated by the pace of the lectures.@@@@1@36@ntucle-docid:53; ntucle-sid:595@LMC@2019-06-14
+30001459@@@@@@Henceforth, the clarity and quality of the lecture declines drastically.@@@@1@10@ntucle-docid:53; ntucle-sid:596@LMC@2019-06-14
+30001460@@@@@@Problem@@@@1@1@ntucle-docid:53; ntucle-sid:597@LMC@2019-06-14
+30001461@@@@@@With the advent age of internet, lectures are recorded and made available online.@@@@1@13@ntucle-docid:53; ntucle-sid:598@LMC@2019-06-14
+30001462@@@@@@This further aggravates the problem of students not attending lectures as they can otherwise skip the “live” lectures and watch the recordings online at their own comfort.@@@@1@27@ntucle-docid:53; ntucle-sid:599@LMC@2019-06-14
+30001463@@@@@@That being said, there are however a few drawbacks to students not attending lectures such as losing out on learning and social opportunities.@@@@1@23@ntucle-docid:53; ntucle-sid:600@LMC@2019-06-14
+30001464@@@@@@[2, 3, 5] Therefore, there is a need to address this prevailing problem.@@@@1@13@ntucle-docid:53; ntucle-sid:601@LMC@2019-06-14
+30001465@@@@@@Solution@@@@1@1@ntucle-docid:53; ntucle-sid:602@LMC@2019-06-14
+30001466@@@@@@The proposed solution is to install a touch screen pod that is no larger than a palm size of 150mm x 50mm x 10mm, at every seat in the lecture hall.@@@@1@31@ntucle-docid:53; ntucle-sid:603@LMC@2019-06-14
+30001467@@@@@@The pod allows user to alternate between applications namely the “questionSMS” and audio control tool.@@@@1@15@ntucle-docid:53; ntucle-sid:604@LMC@2019-06-14
+30001468@@@@@@It will also effectively allow the students to block out any noise within the hall through their own headset connected to the pod which essentially allows them to focus better.@@@@1@30@ntucle-docid:53; ntucle-sid:605@LMC@2019-06-14
+30001469@@@@@@On the other hand, the “questionSMS” tool allows students to respond to the lecturers’ question and vice versa; and also allowing students to provide feedback to their respective lecturers.@@@@1@29@ntucle-docid:53; ntucle-sid:606@LMC@2019-06-14
+30001470@@@@@@[4] Figure 1 shows where the device will be placed.@@@@1@10@ntucle-docid:53; ntucle-sid:607@LMC@2019-06-14
+30001471@@@@@@Figure 1@@@@1@2@ntucle-docid:53; ntucle-sid:608@LMC@2019-06-14
+30001472@@@@@@Benefits@@@@1@1@ntucle-docid:53; ntucle-sid:609@LMC@2019-06-14
+30001473@@@@@@With this newly integrated device designed for lectures, students will be able to engage actively and closely with the lecturer with minimal distractions thereby encouraging more questions and acquiring comprehensive knowledge they would not be able to outside lectures.@@@@1@39@ntucle-docid:53; ntucle-sid:610@LMC@2019-06-14
+30001474@@@@@@Students will also be able to meet different people of various cultures that will beneficially broaden their social network globally.@@@@1@20@ntucle-docid:53; ntucle-sid:611@LMC@2019-06-14
+30001475@@@@@@Additionally, the lecturers can alter their teaching style base on the feedbacks which allows them to evaluate on their teaching and what concept the students are lacking.@@@@1@27@ntucle-docid:53; ntucle-sid:612@LMC@2019-06-14
+30001476@@@@@@Henceforth, lecturers will continuously improve for future classes.@@@@1@8@ntucle-docid:53; ntucle-sid:613@LMC@2019-06-14
+30001477@@@@@@Implementation@@@@1@1@ntucle-docid:53; ntucle-sid:614@LMC@2019-06-14
+30001478@@@@@@To produce and develop this device and at the same time enrich the relevant students’ learning opportunity, the following steps will be taken:@@@@1@23@ntucle-docid:53; ntucle-sid:615@LMC@2019-06-14
+30001479@@@@@@1@@@@1@1@ntucle-docid:53; ntucle-sid:616@LMC@2019-06-14
+30001480@@@@@@We will adopt the current “questionSMS” technology incorporated in National University of Singapore.@@@@1@13@ntucle-docid:53; ntucle-sid:617@LMC@2019-06-14
+30001481@@@@@@[4]@@@@1@1@ntucle-docid:53; ntucle-sid:618@LMC@2019-06-14
+30001482@@@@@@2@@@@1@1@ntucle-docid:53; ntucle-sid:619@LMC@2019-06-14
+30001483@@@@@@Touch Screen systems will be supplied from local based company, iNOmobile and 3M@@@@1@13@ntucle-docid:53; ntucle-sid:620@LMC@2019-06-14
+30001484@@@@@@3@@@@1@1@ntucle-docid:53; ntucle-sid:621@LMC@2019-06-14
+30001485@@@@@@Sound system will be provided by Yamaha, a company that specializes in sound globally.@@@@1@14@ntucle-docid:53; ntucle-sid:622@LMC@2019-06-14
+30001486@@@@@@[1]@@@@1@1@ntucle-docid:53; ntucle-sid:623@LMC@2019-06-14
+30001487@@@@@@4@@@@1@1@ntucle-docid:53; ntucle-sid:624@LMC@2019-06-14
+30001488@@@@@@Collaboration with relevant engineering students on their Final Year Project to impose this project.@@@@1@14@ntucle-docid:53; ntucle-sid:625@LMC@2019-06-14
+30001489@@@@@@Cost@@@@1@1@ntucle-docid:53; ntucle-sid:626@LMC@2019-06-14
+30001490@@@@@@Cost will be minimal because students’ expertise will be utilized for this project.@@@@1@13@ntucle-docid:53; ntucle-sid:627@LMC@2019-06-14
+30001491@@@@@@iNOmobile technology - ±$500@@@@1@4@ntucle-docid:53; ntucle-sid:628@LMC@2019-06-14
+30001492@@@@@@Sound system for large Lecture hall - $2000@@@@1@8@ntucle-docid:53; ntucle-sid:629@LMC@2019-06-14
+30001493@@@@@@questionSMS technology - <$200@@@@1@4@ntucle-docid:53; ntucle-sid:630@LMC@2019-06-14
+30001494@@@@@@Total price - < $3000@@@@1@5@ntucle-docid:53; ntucle-sid:631@LMC@2019-06-14
+30001495@@@@@@Conclusion@@@@1@1@ntucle-docid:53; ntucle-sid:632@LMC@2019-06-14
+30001496@@@@@@Students skipping lectures is inevitable.@@@@1@5@ntucle-docid:53; ntucle-sid:633@LMC@2019-06-14
+30001497@@@@@@The proposed device primarily targets these students through the inclusion of a technology that most cannot live without.@@@@1@18@ntucle-docid:53; ntucle-sid:634@LMC@2019-06-14
+30001498@@@@@@It also provides engineering students a close learning opportunity with big firms.@@@@1@12@ntucle-docid:53; ntucle-sid:635@LMC@2019-06-14
+30001499@@@@@@The device secondarily aims to improve the quality of the lecture via regular feedbacks from the students through feedbacks which will give the lecturers the understanding where the students are lacking.@@@@1@31@ntucle-docid:53; ntucle-sid:636@LMC@2019-06-14
+30001500@@@@@@Ultimately, with this device, going to lectures will never be the same again; it will be more practical to do so; it will be more fruitful.@@@@1@26@ntucle-docid:53; ntucle-sid:637@LMC@2019-06-14
+30001501@@@@@@Child’s Safety from Heights@@@@1@4@ntucle-docid:55; ntucle-sid:202@LMC@2019-06-14
+30001502@@@@@@Background@@@@1@1@ntucle-docid:55; ntucle-sid:203@LMC@2019-06-14
+30001503@@@@@@Safety for children has been a challenge over the years, especially faced by working parents.@@@@1@15@ntucle-docid:55; ntucle-sid:204@LMC@2019-06-14
+30001504@@@@@@As pre-schoolers learn to walk, run and climb on objects, they are likely to sustain limb injuries.@@@@1@17@ntucle-docid:55; ntucle-sid:205@LMC@2019-06-14
+30001505@@@@@@At KK Women’s and Children’s Hospital, about 10-12% of 400 daily cases seek treatment pertaining to childhood injuries [1].@@@@1@19@ntucle-docid:55; ntucle-sid:206@LMC@2019-06-14
+30001506@@@@@@Its leading cause is unintentional falls from a height, which can prove to be serious and fatal.@@@@1@17@ntucle-docid:55; ntucle-sid:207@LMC@2019-06-14
+30001507@@@@@@Therefore, the safety management of children is a major concern for their well-being.@@@@1@13@ntucle-docid:55; ntucle-sid:208@LMC@2019-06-14
+30001508@@@@@@Problem@@@@1@1@ntucle-docid:55; ntucle-sid:209@LMC@2019-06-14
+30001509@@@@@@To prevent falls that commonly occur at homes and in playgrounds, hospitals have raised awareness on the preventive measures regarding injuries in children.@@@@1@23@ntucle-docid:55; ntucle-sid:210@LMC@2019-06-14
+30001510@@@@@@However, parents may not follow their advices, having other schedules to meet.@@@@1@12@ntucle-docid:55; ntucle-sid:211@LMC@2019-06-14
+30001511@@@@@@Moreover, after a day spent at work, they would be tired to constantly look after their children.@@@@1@17@ntucle-docid:55; ntucle-sid:212@LMC@2019-06-14
+30001512@@@@@@Hence, for the convenience of parents, a development of a new product is required that can minimise the rates of injuries from falls.@@@@1@23@ntucle-docid:55; ntucle-sid:213@LMC@2019-06-14
+30001513@@@@@@Solution@@@@1@1@ntucle-docid:55; ntucle-sid:214@LMC@2019-06-14
+30001514@@@@@@The main objective of this proposal is to produce a digital sensor wristband for pre-schoolers.@@@@1@15@ntucle-docid:55; ntucle-sid:215@LMC@2019-06-14
+30001515@@@@@@A pushbutton switch is attached on it for activating or resetting, along with a green LED in power mode.@@@@1@19@ntucle-docid:55; ntucle-sid:216@LMC@2019-06-14
+30001516@@@@@@In addition, the switch is programmable to a buzzer and an infrared (IR) distance sensor, which can detect a range upto 1.5 meters [2].@@@@1@24@ntucle-docid:55; ntucle-sid:217@LMC@2019-06-14
+30001517@@@@@@The sensor operates from a reference that is the point when users start to climb.@@@@1@15@ntucle-docid:55; ntucle-sid:218@LMC@2019-06-14
+30001518@@@@@@Gradually, if they exceed the vertical distance range, the buzzer would trigger sound using the sensor’s measurement through an analog-to-digital (ADC) converter chip.@@@@1@23@ntucle-docid:55; ntucle-sid:219@LMC@2019-06-14
+30001519@@@@@@As a result, this would draw attention and alert parents at a critical time when their child needs assistance and support.@@@@1@21@ntucle-docid:55; ntucle-sid:220@LMC@2019-06-14
+30001520@@@@@@Model of pushbutton switch on the wristband@@@@1@7@ntucle-docid:55; ntucle-sid:221@LMC@2019-06-14
+30001521@@@@@@(Acknowledged from http://www.instructables.com/id/Time-Sensing-Bracelet/)@@@@1@3@ntucle-docid:55; ntucle-sid:222@LMC@2019-06-14
+30001522@@@@@@Similar prototype of the end-product, with Velcro strap used instead@@@@1@10@ntucle-docid:55; ntucle-sid:223@LMC@2019-06-14
+30001523@@@@@@(Acknowledged from https://blog.arduino.cc/wp-content/uploads/2015/06/gemma_mindfulnj.jpg)@@@@1@3@ntucle-docid:55; ntucle-sid:224@LMC@2019-06-14
+30001524@@@@@@Benefits@@@@1@1@ntucle-docid:55; ntucle-sid:225@LMC@2019-06-14
+30001525@@@@@@This wristband benefits pre-schoolers who probably lack judgement of height and do not realise the consequences of falling, when they continue to rise higher.@@@@1@24@ntucle-docid:55; ntucle-sid:226@LMC@2019-06-14
+30001526@@@@@@Furthermore, the product is designed to weigh light, as a child’s hand is usually delicate at that age.@@@@1@18@ntucle-docid:55; ntucle-sid:227@LMC@2019-06-14
+30001527@@@@@@Its components are mounted on the wristband’s Velcro material strap, ensuring that it can be tightly secured on the user’s hand at all times while playing.@@@@1@26@ntucle-docid:55; ntucle-sid:228@LMC@2019-06-14
+30001528@@@@@@Implementation@@@@1@1@ntucle-docid:55; ntucle-sid:229@LMC@2019-06-14
+30001529@@@@@@In order to develop the product, the following procedures are considered:@@@@1@11@ntucle-docid:55; ntucle-sid:230@LMC@2019-06-14
+30001530@@@@@@The Velcro straps for the wristband would be manufactured from a company producing fine quality straps.@@@@1@16@ntucle-docid:55; ntucle-sid:231@LMC@2019-06-14
+30001531@@@@@@The IR sensor, buzzer and default patches would be supplied from Pololu Corporation which expertise in robotics and electronics.@@@@1@19@ntucle-docid:55; ntucle-sid:232@LMC@2019-06-14
+30001532@@@@@@The pushbutton switch is programmed by a software development team, using codes to link with the sensor and buzzer for their timely functioning.@@@@1@23@ntucle-docid:55; ntucle-sid:233@LMC@2019-06-14
+30001533@@@@@@Costs@@@@1@1@ntucle-docid:55; ntucle-sid:234@LMC@2019-06-14
+30001534@@@@@@Velcro Strap $5@@@@1@3@ntucle-docid:55; ntucle-sid:235@LMC@2019-06-14
+30001535@@@@@@IR Sensor $17@@@@1@3@ntucle-docid:55; ntucle-sid:236@LMC@2019-06-14
+30001536@@@@@@Product Components $18@@@@1@3@ntucle-docid:55; ntucle-sid:237@LMC@2019-06-14
+30001537@@@@@@Software Coding $40@@@@1@3@ntucle-docid:55; ntucle-sid:238@LMC@2019-06-14
+30001538@@@@@@Total Cost $80@@@@1@3@ntucle-docid:55; ntucle-sid:239@LMC@2019-06-14
+30001539@@@@@@Conclusion@@@@1@1@ntucle-docid:55; ntucle-sid:240@LMC@2019-06-14
+30001540@@@@@@Childhood accidents involving fall from heights are common in daily situations.@@@@1@11@ntucle-docid:55; ntucle-sid:241@LMC@2019-06-14
+30001541@@@@@@The proposed wristband aims to reduce the chances of injuries happening.@@@@1@11@ntucle-docid:55; ntucle-sid:242@LMC@2019-06-14
+30001542@@@@@@This product would ensure that users are well-supervised within safety limits at play, through the interface of audio and sensing techniques.@@@@1@21@ntucle-docid:55; ntucle-sid:243@LMC@2019-06-14
+30001543@@@@@@Thus, there would be a better approach towards ensuring safety among parents who may not always keep an eye on their children all the time.@@@@1@25@ntucle-docid:55; ntucle-sid:244@LMC@2019-06-14
+30001544@@@@@@Background@@@@1@1@ntucle-docid:57; ntucle-sid:661@LMC@2019-06-14
+30001545@@@@@@According to the Workplace Safety and Health Council of Singapore (WSH) guidelines, workers in the logistics industry often have to forcefully exert themselves to lift heavy loads.@@@@1@27@ntucle-docid:57; ntucle-sid:662@LMC@2019-06-14
+30001546@@@@@@This frequent carrying of heavy loads over long distances increases the chances of back injuries.@@@@1@15@ntucle-docid:57; ntucle-sid:663@LMC@2019-06-14
+30001547@@@@@@Thus, to minimise back injuries, the simplest mechanised handling equipment that are widely used are the wheeled-trolleys (Vinod V. Sople, Logistics Management, 2007, P. 63).@@@@1@25@ntucle-docid:57; ntucle-sid:664@LMC@2019-06-14
+30001548@@@@@@Problem@@@@1@1@ntucle-docid:57; ntucle-sid:665@LMC@2019-06-14
+30001549@@@@@@These trolleys are efficient mechanisms that are capable of moving light loads horizontally over short distances.@@@@1@16@ntucle-docid:57; ntucle-sid:666@LMC@2019-06-14
+30001550@@@@@@However, they are only effective on flat horizontal platforms.@@@@1@9@ntucle-docid:57; ntucle-sid:667@LMC@2019-06-14
+30001551@@@@@@When faced with a difference in height between platforms, users might find that the use of a wheeled-trolley can be rather disruptive to their work.@@@@1@25@ntucle-docid:57; ntucle-sid:668@LMC@2019-06-14
+30001552@@@@@@Yet, ramps are not always available to connect the different platforms, making it common for users to be unable to bring these items to their desired locations.@@@@1@27@ntucle-docid:57; ntucle-sid:669@LMC@2019-06-14
+30001553@@@@@@Solution@@@@1@1@ntucle-docid:57; ntucle-sid:670@LMC@2019-06-14
+30001554@@@@@@The main goal of this proposal is to automate and modify the front wheels of the trolleys.@@@@1@17@ntucle-docid:57; ntucle-sid:671@LMC@2019-06-14
+30001555@@@@@@The 2 front-wheels will be designed to be able to extend out - both horizontally and vertically.@@@@1@17@ntucle-docid:57; ntucle-sid:672@LMC@2019-06-14
+30001556@@@@@@This allows the user to push the trolley forward over to the next platform and thus, counters the difference in height.@@@@1@21@ntucle-docid:57; ntucle-sid:673@LMC@2019-06-14
+30001557@@@@@@On the other hand, the 2 back-wheels which acts as a pivot point, will be designed to be stationary wheels that are of a larger size, keeping in mind that the platform of the trolley ultimately still levels.@@@@1@38@ntucle-docid:57; ntucle-sid:674@LMC@2019-06-14
+30001558@@@@@@When the trolley has passed the difference between the two platforms, the user can then level the trolley back to its original position.@@@@1@23@ntucle-docid:57; ntucle-sid:675@LMC@2019-06-14
+30001559@@@@@@The trolley is also caged - to secure the items and prevent them from falling off when the trolley is transiting in height.@@@@1@23@ntucle-docid:57; ntucle-sid:676@LMC@2019-06-14
+30001560@@@@@@Benefits@@@@1@1@ntucle-docid:57; ntucle-sid:677@LMC@2019-06-14
+30001561@@@@@@Users no longer have to make a big detour when transporting their goods from one point to another just because of the difference in height between platforms.@@@@1@27@ntucle-docid:57; ntucle-sid:678@LMC@2019-06-14
+30001562@@@@@@With the new features in place, users will be able to overcome this problem effectively, which eventually brings productivity to a whole new level.@@@@1@24@ntucle-docid:57; ntucle-sid:679@LMC@2019-06-14
+30001563@@@@@@Implementation and Costs@@@@1@3@ntucle-docid:57; ntucle-sid:680@LMC@2019-06-14
+30001564@@@@@@In order to automate and modify the trolleys, the following steps will be taken:@@@@1@14@ntucle-docid:57; ntucle-sid:681@LMC@2019-06-14
+30001565@@@@@@1@@@@1@1@ntucle-docid:57; ntucle-sid:682@LMC@2019-06-14
+30001566@@@@@@We will collaborate with researchers from the School of Mechanical and Aerospace Engineering from Nanyang Technological University to test if this modification is feasible.@@@@1@24@ntucle-docid:57; ntucle-sid:683@LMC@2019-06-14
+30001567@@@@@@2@@@@1@1@ntucle-docid:57; ntucle-sid:684@LMC@2019-06-14
+30001568@@@@@@If it is tested to be feasible, we will then work with an engineering company such as ST Technology to implement and integrate these automations and modifications on the trolleys.@@@@1@30@ntucle-docid:57; ntucle-sid:685@LMC@2019-06-14
+30001569@@@@@@3@@@@1@1@ntucle-docid:57; ntucle-sid:686@LMC@2019-06-14
+30001570@@@@@@The costs of the trolley and modifications are as follows:@@@@1@10@ntucle-docid:57; ntucle-sid:687@LMC@2019-06-14
+30001571@@@@@@Trolley: $50.00@@@@1@2@ntucle-docid:57; ntucle-sid:688@LMC@2019-06-14
+30001572@@@@@@Modifications & automations: $100.00@@@@1@4@ntucle-docid:57; ntucle-sid:689@LMC@2019-06-14
+30001573@@@@@@Total: $150.00@@@@1@2@ntucle-docid:57; ntucle-sid:690@LMC@2019-06-14
+30001574@@@@@@Conclusion@@@@1@1@ntucle-docid:57; ntucle-sid:691@LMC@2019-06-14
+30001575@@@@@@The current trolleys that we have in the market are indeed efficient mechanisms that are capable of moving light loads horizontally over short distances.@@@@1@24@ntucle-docid:57; ntucle-sid:692@LMC@2019-06-14
+30001576@@@@@@However, as mentioned, the use of these wheeled-trolleys are only effective on flat horizontal grounds.@@@@1@15@ntucle-docid:57; ntucle-sid:693@LMC@2019-06-14
+30001577@@@@@@The proposed modifications and automations to the trolleys aims to ease and improve workplace productivity for workers in a wide range of industries, enabling them to achieve their goals of sending their desired items to their desired destinations, without the need for a connecting ramp.@@@@1@45@ntucle-docid:57; ntucle-sid:694@LMC@2019-06-14
+30001578@@@@@@(507 words)@@@@1@2@ntucle-docid:57; ntucle-sid:695@LMC@2019-06-14
+30001579@@@@@@Integrated Mobile Application for NTU Canteens@@@@1@6@ntucle-docid:58; ntucle-sid:258@LMC@2019-06-14
+30001580@@@@@@Background:@@@@1@1@ntucle-docid:58; ntucle-sid:259@LMC@2019-06-14
+30001581@@@@@@During lunch hours, canteens are very packed.@@@@1@7@ntucle-docid:58; ntucle-sid:260@LMC@2019-06-14
+30001582@@@@@@Currently, North Spine Food Court is the only food court in campus that utilises a stored-value card for transactions (NTUSU, 2014).@@@@1@21@ntucle-docid:58; ntucle-sid:261@LMC@2019-06-14
+30001583@@@@@@Anyone who wishes to purchase something from the North Spine Food Court has to purchase one of this card.@@@@1@19@ntucle-docid:58; ntucle-sid:262@LMC@2019-06-14
+30001584@@@@@@Problem:@@@@1@1@ntucle-docid:58; ntucle-sid:263@LMC@2019-06-14
+30001585@@@@@@Due to the placement of top-up kiosks within the food court, there is often a human jam to the right of the entrance.@@@@1@23@ntucle-docid:58; ntucle-sid:264@LMC@2019-06-14
+30001586@@@@@@The aisles between tables are too narrow for people to pass in opposite directions whenever there is a queue at the kiosks.@@@@1@22@ntucle-docid:58; ntucle-sid:265@LMC@2019-06-14
+30001587@@@@@@A survey done by the NTU Students’ Union found out that 39% of the respondents thinks that North Spine Food Court is overcrowded among four others (NTUSU, 2011).@@@@1@28@ntucle-docid:58; ntucle-sid:266@LMC@2019-06-14
+30001588@@@@@@In addition, the stored-value card can be used only in the North Spine Food Court and not anywhere else.@@@@1@19@ntucle-docid:58; ntucle-sid:267@LMC@2019-06-14
+30001589@@@@@@Users might find it a hassle to buy a stored-value card for the sole purpose of purchasing food or drinks at the North Spine Food Court.@@@@1@26@ntucle-docid:58; ntucle-sid:268@LMC@2019-06-14
+30001590@@@@@@Solution:@@@@1@1@ntucle-docid:58; ntucle-sid:269@LMC@2019-06-14
+30001591@@@@@@A smartphone application could be developed that allows the user to register their stored-value card using the serial number found at the back of the card.@@@@1@26@ntucle-docid:58; ntucle-sid:270@LMC@2019-06-14
+30001592@@@@@@Through the application, the user could check their card balance and also top-up their card through internet banking, debit or credit card.@@@@1@22@ntucle-docid:58; ntucle-sid:271@LMC@2019-06-14
+30001593@@@@@@Given enough popularity, the use of the card could be extended to other food courts in campus such as Hall Canteens.@@@@1@21@ntucle-docid:58; ntucle-sid:272@LMC@2019-06-14
+30001594@@@@@@Benefits:@@@@1@1@ntucle-docid:58; ntucle-sid:273@LMC@2019-06-14
+30001595@@@@@@The use of the application would ease the usage of the kiosks, thus reducing the chances of congestions occurring.@@@@1@19@ntucle-docid:58; ntucle-sid:274@LMC@2019-06-14
+30001596@@@@@@Time is saved as the user does not need to queue up at the kiosk to check their card balance or to top-up their card.@@@@1@25@ntucle-docid:58; ntucle-sid:275@LMC@2019-06-14
+30001597@@@@@@Additionally, the extended use of the card could improve efficiency and level of hygiene as the stallholders do not have to handle cash physically.@@@@1@24@ntucle-docid:58; ntucle-sid:276@LMC@2019-06-14
+30001598@@@@@@However, so as to not inconvenient people who are not at NTU on a long-term basis, such as visitors, use of the stored-value card would not be made compulsory.@@@@1@29@ntucle-docid:58; ntucle-sid:277@LMC@2019-06-14
+30001599@@@@@@The option of payment by cash would still be made available.@@@@1@11@ntucle-docid:58; ntucle-sid:278@LMC@2019-06-14
+30001600@@@@@@Implementation:@@@@1@1@ntucle-docid:58; ntucle-sid:279@LMC@2019-06-14
+30001601@@@@@@The smartphone application will be designed by a software development team comprising of students from NTU.@@@@1@16@ntucle-docid:58; ntucle-sid:280@LMC@2019-06-14
+30001602@@@@@@As they would be the ones using the application, it would be easier for them to gather feedback and improve on subsequent versions of the application.@@@@1@26@ntucle-docid:58; ntucle-sid:281@LMC@2019-06-14
+30001603@@@@@@This also grants them an opportunity to work on a project before they graduate.@@@@1@14@ntucle-docid:58; ntucle-sid:282@LMC@2019-06-14
+30001604@@@@@@Costs:@@@@1@1@ntucle-docid:58; ntucle-sid:283@LMC@2019-06-14
+30001605@@@@@@Software Design and Installation $1,000@@@@1@5@ntucle-docid:58; ntucle-sid:284@LMC@2019-06-14
+30001606@@@@@@Hardware Design and Installation $500@@@@1@5@ntucle-docid:58; ntucle-sid:285@LMC@2019-06-14
+30001607@@@@@@Total $1,500@@@@1@2@ntucle-docid:58; ntucle-sid:286@LMC@2019-06-14
+30001608@@@@@@Conclusion:@@@@1@1@ntucle-docid:58; ntucle-sid:287@LMC@2019-06-14
+30001609@@@@@@The aim of this proposal is to ease the congestion and queuing time at the kiosks.@@@@1@16@ntucle-docid:58; ntucle-sid:288@LMC@2019-06-14
+30001610@@@@@@The use of this application would make it more convenient for students and staff of NTU when making purchases in food courts around campus.@@@@1@24@ntucle-docid:58; ntucle-sid:289@LMC@2019-06-14
+30001611@@@@@@Proposal To Develop Virtual Makeup Tester Application@@@@1@7@ntucle-docid:59; ntucle-sid:393@LMC@2019-06-14
+30001612@@@@@@Background@@@@1@1@ntucle-docid:59; ntucle-sid:394@LMC@2019-06-14
+30001613@@@@@@The society is generally fixated on physical attractiveness nowadays [Elizabeth Landau, 2012] and the pursuit for beauty is ubiquitous.@@@@1@19@ntucle-docid:59; ntucle-sid:395@LMC@2019-06-14
+30001614@@@@@@A pleasant physical appearance would certainly help to impress people in social situations as it enhances personality.@@@@1@17@ntucle-docid:59; ntucle-sid:396@LMC@2019-06-14
+30001615@@@@@@Moreover, a pleasing face is always nice to look at and it certainly boosts self-confidence and self-esteem.@@@@1@17@ntucle-docid:59; ntucle-sid:397@LMC@2019-06-14
+30001616@@@@@@Problem@@@@1@1@ntucle-docid:59; ntucle-sid:398@LMC@2019-06-14
+30001617@@@@@@People sometimes find it laborious and difficult to sort out the most suitable product among various collections provided by enormous numbers of cosmetic suppliers.@@@@1@24@ntucle-docid:59; ntucle-sid:399@LMC@2019-06-14
+30001618@@@@@@It is time-consuming for customers to apply various lipsticks repeatedly on the spot to figure out the best fit at the cosmetic shop.@@@@1@23@ntucle-docid:59; ntucle-sid:400@LMC@2019-06-14
+30001619@@@@@@Moreover, some products such as artificial eyelash prohibit customers from trying on.@@@@1@12@ntucle-docid:59; ntucle-sid:401@LMC@2019-06-14
+30001620@@@@@@Thus, there is a need to provide customers with an easier and smarter shopping experience.@@@@1@15@ntucle-docid:59; ntucle-sid:402@LMC@2019-06-14
+30001621@@@@@@Solution@@@@1@1@ntucle-docid:59; ntucle-sid:403@LMC@2019-06-14
+30001622@@@@@@The predominant objective of the proposal is to introduce a mobile application named virtual makeup tester.@@@@1@16@ntucle-docid:59; ntucle-sid:404@LMC@2019-06-14
+30001623@@@@@@It is an application which mobilizes and personalizes beauty.@@@@1@9@ntucle-docid:59; ntucle-sid:405@LMC@2019-06-14
+30001624@@@@@@Firstly, Virtual makeup tester provides real-time skin beautification effects for instant selfies and portrait photos.@@@@1@15@ntucle-docid:59; ntucle-sid:406@LMC@2019-06-14
+30001625@@@@@@It functions as a smart cosmetic kit which utilizes the accurate facial mapping technology for a true-to-life virtual makeover.@@@@1@19@ntucle-docid:59; ntucle-sid:407@LMC@2019-06-14
+30001626@@@@@@It allows customers to apply a wide spectrum of color cosmetic products virtually with photos taken.@@@@1@16@ntucle-docid:59; ntucle-sid:408@LMC@2019-06-14
+30001627@@@@@@Secondly, there is another unique function which intelligently senses the facial features at all angles.@@@@1@15@ntucle-docid:59; ntucle-sid:409@LMC@2019-06-14
+30001628@@@@@@The smart face detection allows users to experiment with hundreds of makeup and hairstyle and observe the effects in 3 dimensional way through front camera display.@@@@1@26@ntucle-docid:59; ntucle-sid:410@LMC@2019-06-14
+30001629@@@@@@The application provides customers with the opportunity to match various lipstick, eye shadow or foundation color combinations.@@@@1@17@ntucle-docid:59; ntucle-sid:411@LMC@2019-06-14
+30001630@@@@@@Besides virtual facial makeup feature, hair color and styles makeover are also introduced, making the makeup tests instant and effective.@@@@1@20@ntucle-docid:59; ntucle-sid:412@LMC@2019-06-14
+30001631@@@@@@This function certainly enhances the way customers experience beauty by helping them narrow down the selection scope and providing them with instant access to the products from their favorite brands.@@@@1@30@ntucle-docid:59; ntucle-sid:413@LMC@2019-06-14
+30001632@@@@@@Benefits@@@@1@1@ntucle-docid:59; ntucle-sid:414@LMC@2019-06-14
+30001633@@@@@@This mobile application interface is user friendly.@@@@1@7@ntucle-docid:59; ntucle-sid:415@LMC@2019-06-14
+30001634@@@@@@The virtual makeup effects could be instantly displayed in either 2 dimensional photos or 3 dimensional angles with a few touches of screen.@@@@1@23@ntucle-docid:59; ntucle-sid:416@LMC@2019-06-14
+30001635@@@@@@The customers could make thorough comparison based on the true-to-life facial makeover.@@@@1@12@ntucle-docid:59; ntucle-sid:417@LMC@2019-06-14
+30001636@@@@@@Even though the virtual effect may not be flawless, it indeed helps customers to make wise choice effectively.@@@@1@18@ntucle-docid:59; ntucle-sid:418@LMC@2019-06-14
+30001637@@@@@@Customization of facial makeups and hairstyles provides an entirely fresh and pragmatic way of enhancing cosmetic shopping experiences.@@@@1@18@ntucle-docid:59; ntucle-sid:419@LMC@2019-06-14
+30001638@@@@@@Implementation@@@@1@1@ntucle-docid:59; ntucle-sid:420@LMC@2019-06-14
+30001639@@@@@@In order to produce and develop the application, the following steps will be taken:@@@@1@14@ntucle-docid:59; ntucle-sid:421@LMC@2019-06-14
+30001640@@@@@@1@@@@1@1@ntucle-docid:59; ntucle-sid:422@LMC@2019-06-14
+30001641@@@@@@Collaboration with a company which is capable of designing and developing the mobile application.@@@@1@14@ntucle-docid:59; ntucle-sid:423@LMC@2019-06-14
+30001642@@@@@@2@@@@1@1@ntucle-docid:59; ntucle-sid:424@LMC@2019-06-14
+30001643@@@@@@A team of cosmetic consultants have to be recruited to gather first-hand and professional information about cosmetic products worldwide.@@@@1@19@ntucle-docid:59; ntucle-sid:425@LMC@2019-06-14
+30001644@@@@@@Estimated Budget@@@@1@2@ntucle-docid:59; ntucle-sid:426@LMC@2019-06-14
+30001645@@@@@@Application software design $1000@@@@1@4@ntucle-docid:59; ntucle-sid:427@LMC@2019-06-14
+30001646@@@@@@Consultant expense $500@@@@1@3@ntucle-docid:59; ntucle-sid:428@LMC@2019-06-14
+30001647@@@@@@Advertisement expense $500@@@@1@3@ntucle-docid:59; ntucle-sid:429@LMC@2019-06-14
+30001648@@@@@@Total expense $2000@@@@1@3@ntucle-docid:59; ntucle-sid:430@LMC@2019-06-14
+30001649@@@@@@Conclusion@@@@1@1@ntucle-docid:59; ntucle-sid:431@LMC@2019-06-14
+30001650@@@@@@The proposed virtual facial makeup tester aims to help customers experience instant and smart way of enhancing personal attractiveness.@@@@1@19@ntucle-docid:59; ntucle-sid:432@LMC@2019-06-14
+30001651@@@@@@With the unique functions introduced, the cosmetic shopping experience will certainly become more fun and productive.@@@@1@16@ntucle-docid:59; ntucle-sid:433@LMC@2019-06-14
+30001652@@@@@@Weightless Carrier@@@@1@2@ntucle-docid:60; ntucle-sid:311@LMC@2019-06-14
+30001653@@@@@@Background@@@@1@1@ntucle-docid:60; ntucle-sid:312@LMC@2019-06-14
+30001654@@@@@@According to National Population and Talent Division (2014), 12.4% (approx.@@@@1@10@ntucle-docid:60; ntucle-sid:313@LMC@2019-06-14
+30001655@@@@@@670,000) of Singapore population are aged 65 or above in 2014.@@@@1@11@ntucle-docid:60; ntucle-sid:314@LMC@2019-06-14
+30001656@@@@@@Also, according to National Population and Talent Division (2014), up to 25% of Singapore population will also be aged 65 or above by 2030.@@@@1@24@ntucle-docid:60; ntucle-sid:315@LMC@2019-06-14
+30001657@@@@@@And as people ages, the body may not function as ideally as they are in the youth.@@@@1@17@ntucle-docid:60; ntucle-sid:316@LMC@2019-06-14
+30001658@@@@@@It might become a chore to do even simple task such as carrying groceries.@@@@1@14@ntucle-docid:60; ntucle-sid:317@LMC@2019-06-14
+30001659@@@@@@Problem@@@@1@1@ntucle-docid:60; ntucle-sid:318@LMC@2019-06-14
+30001660@@@@@@To ease the load of carrying groceries, trolley are often use.@@@@1@11@ntucle-docid:60; ntucle-sid:319@LMC@2019-06-14
+30001661@@@@@@However, trolley has its own limitations.@@@@1@6@ntucle-docid:60; ntucle-sid:320@LMC@2019-06-14
+30001662@@@@@@It has to be carried over obstacle such as stairs or kerb.@@@@1@12@ntucle-docid:60; ntucle-sid:321@LMC@2019-06-14
+30001663@@@@@@The load then will become even heavier with the addition of the trolley weight.@@@@1@14@ntucle-docid:60; ntucle-sid:322@LMC@2019-06-14
+30001664@@@@@@Therefore, a new and revolutionary product is needed.@@@@1@8@ntucle-docid:60; ntucle-sid:323@LMC@2019-06-14
+30001665@@@@@@Solution@@@@1@1@ntucle-docid:60; ntucle-sid:324@LMC@2019-06-14
+30001666@@@@@@This proposal is to introduce a new product that will reduce the weight of the load to almost weightless.@@@@1@19@ntucle-docid:60; ntucle-sid:325@LMC@2019-06-14
+30001667@@@@@@This product comprises of two components, a carrierhandle holder equipped with engine and a passive conductor.@@@@1@16@ntucle-docid:60; ntucle-sid:326@LMC@2019-06-14
+30001668@@@@@@Both the holder and the conductor will be no larger than a size of average Smartphone.@@@@1@16@ntucle-docid:60; ntucle-sid:327@LMC@2019-06-14
+30001669@@@@@@This engine and conductor make use of Magnetic Field Architecture (MFA), a technology which levitates the engine when the conductor is vertically below it.@@@@1@24@ntucle-docid:60; ntucle-sid:328@LMC@2019-06-14
+30001670@@@@@@Therefore, the weight of the groceries will be offset by the levitation force and the user will only have to bear the weight of the conductor.@@@@1@26@ntucle-docid:60; ntucle-sid:329@LMC@2019-06-14
+30001671@@@@@@Also, stairs and kerb will not be an obstacle to this product as it does not have to touch the floor unlike the trolleys.@@@@1@24@ntucle-docid:60; ntucle-sid:330@LMC@2019-06-14
+30001672@@@@@@Benefits@@@@1@1@ntucle-docid:60; ntucle-sid:331@LMC@2019-06-14
+30001673@@@@@@The new product is revolutionary and completely different from how carriers are being carried currently.@@@@1@15@ntucle-docid:60; ntucle-sid:332@LMC@2019-06-14
+30001674@@@@@@The user, mainly the old aged, will be able to carry their groceries regardless of the weight.@@@@1@17@ntucle-docid:60; ntucle-sid:333@LMC@2019-06-14
+30001675@@@@@@The product is also user-friendly.@@@@1@5@ntucle-docid:60; ntucle-sid:334@LMC@2019-06-14
+30001676@@@@@@It only required the user switch on the engine and hover it above the conductor.@@@@1@15@ntucle-docid:60; ntucle-sid:335@LMC@2019-06-14
+30001677@@@@@@It suits the old age group user which might not be able to handle a product of too much complexity.@@@@1@20@ntucle-docid:60; ntucle-sid:336@LMC@2019-06-14
+30001678@@@@@@Implementation@@@@1@1@ntucle-docid:60; ntucle-sid:337@LMC@2019-06-14
+30001679@@@@@@To develop the product, we need to collaborate with ArxPax.@@@@1@10@ntucle-docid:60; ntucle-sid:338@LMC@2019-06-14
+30001680@@@@@@They will provide us with the technology of MFA.@@@@1@9@ntucle-docid:60; ntucle-sid:339@LMC@2019-06-14
+30001681@@@@@@We will also need to get our holder supplies from Ningbo Hopec Imp.@@@@1@13@ntucle-docid:60; ntucle-sid:340@LMC@2019-06-14
+30001682@@@@@@& Exp.@@@@1@2@ntucle-docid:60; ntucle-sid:341@LMC@2019-06-14
+30001683@@@@@@Co. Ltd. We will also have a team to design the product look to increase its attractiveness.@@@@1@17@ntucle-docid:60; ntucle-sid:342@LMC@2019-06-14
+30001684@@@@@@Cost or Budgets@@@@1@3@ntucle-docid:60; ntucle-sid:343@LMC@2019-06-14
+30001685@@@@@@Carrier Handle Holder- $3.50@@@@1@4@ntucle-docid:60; ntucle-sid:344@LMC@2019-06-14
+30001686@@@@@@MFA Engine and conductor-$149@@@@1@4@ntucle-docid:60; ntucle-sid:345@LMC@2019-06-14
+30001687@@@@@@Design Team-$100@@@@1@2@ntucle-docid:60; ntucle-sid:346@LMC@2019-06-14
+30001688@@@@@@Total Product Prototype Cost-$252.50@@@@1@4@ntucle-docid:60; ntucle-sid:347@LMC@2019-06-14
+30001689@@@@@@Conclusion@@@@1@1@ntucle-docid:60; ntucle-sid:348@LMC@2019-06-14
+30001690@@@@@@Old aged people carrying groceries are very common in Singapore.@@@@1@10@ntucle-docid:60; ntucle-sid:349@LMC@2019-06-14
+30001691@@@@@@The product will ease the burden on the user by using MFA technology to offset the weight.@@@@1@17@ntucle-docid:60; ntucle-sid:350@LMC@2019-06-14
+30001692@@@@@@It will be totally different from current method of carrying groceries and better serve the user.@@@@1@16@ntucle-docid:60; ntucle-sid:351@LMC@2019-06-14
+30001693@@@@@@Words Count: 443@@@@1@3@ntucle-docid:60; ntucle-sid:352@LMC@2019-06-14
+30001694@@@@@@Eat\sNTU@@@@1@1@ntucle-docid:62; ntucle-sid:490@LMC@2019-06-14
+30001695@@@@@@Background@@@@1@1@ntucle-docid:62; ntucle-sid:491@LMC@2019-06-14
+30001696@@@@@@Food is an integral part of a university student’s life in campus.@@@@1@12@ntucle-docid:62; ntucle-sid:492@LMC@2019-06-14
+30001697@@@@@@It is not uncommon for students to have all three meals in school on a typical school day.@@@@1@18@ntucle-docid:62; ntucle-sid:493@LMC@2019-06-14
+30001698@@@@@@A great dining experience may facilitate learning and vice versa.@@@@1@10@ntucle-docid:62; ntucle-sid:494@LMC@2019-06-14
+30001699@@@@@@It is thus of great importance for students to have an enjoyable dining experience in school.@@@@1@16@ntucle-docid:62; ntucle-sid:495@LMC@2019-06-14
+30001700@@@@@@According to Hannah (2008), the factors affecting the choice of food includes among others, taste, price, and accessibility.@@@@1@18@ntucle-docid:62; ntucle-sid:496@LMC@2019-06-14
+30001701@@@@@@In order to make a good decision on the next meal, ample consideration must be given to the above 3 factors.@@@@1@21@ntucle-docid:62; ntucle-sid:497@LMC@2019-06-14
+30001702@@@@@@Problem@@@@1@1@ntucle-docid:62; ntucle-sid:498@LMC@2019-06-14
+30001703@@@@@@Nanyang Technological University (NTU) encompasses an extremely large surface area and is host to a large number of eateries.@@@@1@19@ntucle-docid:62; ntucle-sid:499@LMC@2019-06-14
+30001704@@@@@@According to NTU’s website, NTU has a surface area of 2.0km2, which is the equivalent of roughly 280 soccer fields, and over 30 eateries located all around campus ground.@@@@1@29@ntucle-docid:62; ntucle-sid:500@LMC@2019-06-14
+30001705@@@@@@This translates to over a hundred menus, and over a thousand dishes spread across an area of 280 soccer fields.@@@@1@20@ntucle-docid:62; ntucle-sid:501@LMC@2019-06-14
+30001706@@@@@@It is nigh impossible to remember all the dishes served, pricing of the dishes served, and the locations of all the eateries.@@@@1@22@ntucle-docid:62; ntucle-sid:502@LMC@2019-06-14
+30001707@@@@@@Without full knowledge of the taste, price, and accessibility of the food available in NTU, students may not be able to make good decisions on their next meals.@@@@1@28@ntucle-docid:62; ntucle-sid:503@LMC@2019-06-14
+30001708@@@@@@Solution@@@@1@1@ntucle-docid:62; ntucle-sid:504@LMC@2019-06-14
+30001709@@@@@@A mobile application, named Eat\sNTU will be created to address the aforementioned problem.@@@@1@13@ntucle-docid:62; ntucle-sid:505@LMC@2019-06-14
+30001710@@@@@@The menus of all the stalls in all the eateries will be consolidated and reflected in the mobile application.@@@@1@19@ntucle-docid:62; ntucle-sid:506@LMC@2019-06-14
+30001711@@@@@@The mobile application will also provide support for Global Positioning System (GPS) and be made available for download and use across the different mobile platforms, namely iOS, Android, and Windows.@@@@1@30@ntucle-docid:62; ntucle-sid:507@LMC@2019-06-14
+30001712@@@@@@Benefits@@@@1@1@ntucle-docid:62; ntucle-sid:508@LMC@2019-06-14
+30001713@@@@@@Users of Eat\sNTU will have access to all the menus and locations of all the eateries in NTU at their fingertips.@@@@1@21@ntucle-docid:62; ntucle-sid:509@LMC@2019-06-14
+30001714@@@@@@Eat\sNTU will incorporate a search function which will allow users to sort the information available into categories such as pricing, location, and type of cuisines to better suit their needs.@@@@1@30@ntucle-docid:62; ntucle-sid:510@LMC@2019-06-14
+30001715@@@@@@For example, if convenience is an issue, the search function can be configured to display the results by proximity using the GPS of the device.@@@@1@25@ntucle-docid:62; ntucle-sid:511@LMC@2019-06-14
+30001716@@@@@@Users will also be able to rate and leave comments to register their satisfaction, or lack thereof, with their dining experiences.@@@@1@21@ntucle-docid:62; ntucle-sid:512@LMC@2019-06-14
+30001717@@@@@@This will provide potential customers with a rough guide of what to expect and hopefully aid them in making an informed decision.@@@@1@22@ntucle-docid:62; ntucle-sid:513@LMC@2019-06-14
+30001718@@@@@@Implementation@@@@1@1@ntucle-docid:62; ntucle-sid:514@LMC@2019-06-14
+30001719@@@@@@The following steps will be taken:@@@@1@6@ntucle-docid:62; ntucle-sid:515@LMC@2019-06-14
+30001720@@@@@@1) Source for volunteers to collate the menus of all the eateries in NTU.@@@@1@14@ntucle-docid:62; ntucle-sid:516@LMC@2019-06-14
+30001721@@@@@@2) Collaborate with a NTU student with expertise in mobile application development.@@@@1@12@ntucle-docid:62; ntucle-sid:517@LMC@2019-06-14
+30001722@@@@@@3) Once Eat\sNTU is ready, make in available for download.@@@@1@10@ntucle-docid:62; ntucle-sid:518@LMC@2019-06-14
+30001723@@@@@@4) Users will be allowed to update the database pending approval from moderators should there be any changes in the menus.@@@@1@21@ntucle-docid:62; ntucle-sid:519@LMC@2019-06-14
+30001724@@@@@@This will keep Eat\sNTU relevant in the future.@@@@1@8@ntucle-docid:62; ntucle-sid:520@LMC@2019-06-14
+30001725@@@@@@Costs@@@@1@1@ntucle-docid:62; ntucle-sid:521@LMC@2019-06-14
+30001726@@@@@@Initial charges from application stores $150@@@@1@6@ntucle-docid:62; ntucle-sid:522@LMC@2019-06-14
+30001727@@@@@@Annual charges from application stores $450/year@@@@1@6@ntucle-docid:62; ntucle-sid:523@LMC@2019-06-14
+30001728@@@@@@Conclusion@@@@1@1@ntucle-docid:62; ntucle-sid:524@LMC@2019-06-14
+30001729@@@@@@With Eat\sNTU, never again will students make uninformed decisions on their meals.@@@@1@12@ntucle-docid:62; ntucle-sid:525@LMC@2019-06-14
+30001730@@@@@@They will have all available information at hand to make the best dining decisions.@@@@1@14@ntucle-docid:62; ntucle-sid:526@LMC@2019-06-14
+30001731@@@@@@Return my trolley!@@@@1@3@ntucle-docid:63; ntucle-sid:290@LMC@2019-06-14
+30001732@@@@@@Background@@@@1@1@ntucle-docid:63; ntucle-sid:291@LMC@2019-06-14
+30001733@@@@@@Trolley misplacement and theft is one of the main issues facing the supermarket industry.@@@@1@14@ntucle-docid:63; ntucle-sid:292@LMC@2019-06-14
+30001734@@@@@@The Straits Times [1] reports that for the first half of 2013, Sheng Siong lost about 38 trolleys per month and FairPrice lost 100 trolleys per month.@@@@1@27@ntucle-docid:63; ntucle-sid:293@LMC@2019-06-14
+30001735@@@@@@Most of these trolleys have been found abandoned at residential areas.@@@@1@11@ntucle-docid:63; ntucle-sid:294@LMC@2019-06-14
+30001736@@@@@@FairPrice has tried implementing a program to report lost trolleys and a wheel locking system also popular in other parts of the world [2] but both have not been very successful.@@@@1@31@ntucle-docid:63; ntucle-sid:295@LMC@2019-06-14
+30001737@@@@@@Only the courtesy campaign has seen reasonable improvements.@@@@1@8@ntucle-docid:63; ntucle-sid:296@LMC@2019-06-14
+30001738@@@@@@Problem@@@@1@1@ntucle-docid:63; ntucle-sid:297@LMC@2019-06-14
+30001739@@@@@@While measures have been implemented, there is currently no accountability on the part of the customer who has no reason to return the trolley except in good faith.@@@@1@28@ntucle-docid:63; ntucle-sid:298@LMC@2019-06-14
+30001740@@@@@@The popular system of locking wheels defeats the purpose of having a trolley to easily wheel groceries either to the car or to a neighboring HDB flat if one stays near enough.@@@@1@32@ntucle-docid:63; ntucle-sid:299@LMC@2019-06-14
+30001741@@@@@@The proposed solution is to have an RFID (radio-frequency identification) server-based trolley borrowing system which works similarly to that of a library.@@@@1@22@ntucle-docid:63; ntucle-sid:300@LMC@2019-06-14
+30001742@@@@@@Solution@@@@1@1@ntucle-docid:63; ntucle-sid:301@LMC@2019-06-14
+30001743@@@@@@The borrowing system consists of a scanning device located at the cashier counter and a unique RFID for each trolley.@@@@1@20@ntucle-docid:63; ntucle-sid:302@LMC@2019-06-14
+30001744@@@@@@A membership card, registered with the supermarket company with address and other relevant information provided, will be scanned in tandem with the trolley if the customer so wishes to bring the trolley out of the store.@@@@1@36@ntucle-docid:63; ntucle-sid:303@LMC@2019-06-14
+30001745@@@@@@This will then prevent the alarms from sounding, but will also register the trolley RFID to the name of the person borrowing it to a server.@@@@1@26@ntucle-docid:63; ntucle-sid:304@LMC@2019-06-14
+30001746@@@@@@The entry will be deregistered by staff after return to a trolley return bay.@@@@1@14@ntucle-docid:63; ntucle-sid:305@LMC@2019-06-14
+30001747@@@@@@The trolley return bays will have a simple lock to prevent people from using returned trolleys and getting the associated trolley borrowers in trouble.@@@@1@24@ntucle-docid:63; ntucle-sid:306@LMC@2019-06-14
+30001748@@@@@@Benefits@@@@1@1@ntucle-docid:63; ntucle-sid:307@LMC@2019-06-14
+30001749@@@@@@The proposed trolley borrowing system allows the supermarket to hold the borrower responsible for the return of the trolley once it is brought out of the store.@@@@1@27@ntucle-docid:63; ntucle-sid:308@LMC@2019-06-14
+30001750@@@@@@The company would thus benefit from reduced financial wastage in replacing trolleys, while consumers could indirectly benefit if expenses previously used to replace trolleys are instead used to fund discounts and other programs.@@@@1@33@ntucle-docid:63; ntucle-sid:309@LMC@2019-06-14
+30001751@@@@@@Implementation@@@@1@1@ntucle-docid:63; ntucle-sid:310@LMC@2019-06-14
+30001752@@@@@@1@@@@1@1@ntucle-docid:63; ntucle-sid:311@LMC@2019-06-14
+30001753@@@@@@We will contact the company that created the RFID, server and alarm system for the National Library Board and collaborate with them to come up with a similar system for trolleys as a prototype.@@@@1@34@ntucle-docid:63; ntucle-sid:312@LMC@2019-06-14
+30001754@@@@@@2@@@@1@1@ntucle-docid:63; ntucle-sid:313@LMC@2019-06-14
+30001755@@@@@@Upon successful prototyping, we will negotiate with the supermarket company’s senior management to persuade them to take up this system and work out any concerns.@@@@1@25@ntucle-docid:63; ntucle-sid:314@LMC@2019-06-14
+30001756@@@@@@Costs@@@@1@1@ntucle-docid:63; ntucle-sid:315@LMC@2019-06-14
+30001757@@@@@@RFID and server system: $2000@@@@1@5@ntucle-docid:63; ntucle-sid:316@LMC@2019-06-14
+30001758@@@@@@Scanning and alarm devices: $500@@@@1@5@ntucle-docid:63; ntucle-sid:317@LMC@2019-06-14
+30001759@@@@@@Conclusion@@@@1@1@ntucle-docid:63; ntucle-sid:318@LMC@2019-06-14
+30001760@@@@@@Trolley misplacement and theft is a key issue for supermarkets which has only been solved partially on the diplomatic side by courtesy campaigns.@@@@1@23@ntucle-docid:63; ntucle-sid:319@LMC@2019-06-14
+30001761@@@@@@A deterrent is needed which is best fulfilled by an RFID trolley borrowing system in the same way the library system facilitates proper handling and return of library books.@@@@1@29@ntucle-docid:63; ntucle-sid:320@LMC@2019-06-14
+30001762@@@@@@Background@@@@1@1@ntucle-docid:66; ntucle-sid:536@LMC@2019-06-14
+30001763@@@@@@When the body temperature of a person increases, sweat is produced by the skin to cool down the body.@@@@1@19@ntucle-docid:66; ntucle-sid:537@LMC@2019-06-14
+30001764@@@@@@There are various causes for the temperature of a body to rise such as hot weather and exercise.@@@@1@18@ntucle-docid:66; ntucle-sid:538@LMC@2019-06-14
+30001765@@@@@@[1]@@@@1@1@ntucle-docid:66; ntucle-sid:539@LMC@2019-06-14
+30001766@@@@@@The weather, in general, is getting warmer around the world.@@@@1@10@ntucle-docid:66; ntucle-sid:540@LMC@2019-06-14
+30001767@@@@@@According to NASA’s Global Land-Ocean Index, from 1880 to 2014, nine of the ten warmest years have all occurred since 2000.@@@@1@21@ntucle-docid:66; ntucle-sid:541@LMC@2019-06-14
+30001768@@@@@@[2]As such, in recent years, the increase in an average person’s body temperature due to hot weather is more likely.@@@@1@20@ntucle-docid:66; ntucle-sid:542@LMC@2019-06-14
+30001769@@@@@@Problem@@@@1@1@ntucle-docid:66; ntucle-sid:543@LMC@2019-06-14
+30001770@@@@@@Due to the climate change, extremely high air temperatures have been more likely to occur.@@@@1@15@ntucle-docid:66; ntucle-sid:544@LMC@2019-06-14
+30001771@@@@@@This contributes to deaths from cardiovascular and respiratory disease, especially among the elderly.@@@@1@13@ntucle-docid:66; ntucle-sid:545@LMC@2019-06-14
+30001772@@@@@@For example, in 2003, the European heat wave caused a death toll of about 70,000.@@@@1@15@ntucle-docid:66; ntucle-sid:546@LMC@2019-06-14
+30001773@@@@@@[3]@@@@1@1@ntucle-docid:66; ntucle-sid:547@LMC@2019-06-14
+30001774@@@@@@Hot weather also causes the body to lose water in the form of sweat, increasing the chances of dehydration.@@@@1@19@ntucle-docid:66; ntucle-sid:548@LMC@2019-06-14
+30001775@@@@@@Additionally, sweat causes skin to be moist and this may be uncomfortable to some people.@@@@1@15@ntucle-docid:66; ntucle-sid:549@LMC@2019-06-14
+30001776@@@@@@Air-conditioners and fans help to cool the body faster and thus, decreasing such negative effects of increase in body temperature.@@@@1@20@ntucle-docid:66; ntucle-sid:550@LMC@2019-06-14
+30001777@@@@@@However, such devices are often fixed in position and hence not accessible at all times.@@@@1@15@ntucle-docid:66; ntucle-sid:551@LMC@2019-06-14
+30001778@@@@@@Mini portable fans also have limitations as they require the user to hold it in their hands or place the fan facing them on a desk.@@@@1@26@ntucle-docid:66; ntucle-sid:552@LMC@2019-06-14
+30001779@@@@@@Solution@@@@1@1@ntucle-docid:66; ntucle-sid:553@LMC@2019-06-14
+30001780@@@@@@The solution to the problem is the cloth fan.@@@@1@9@ntucle-docid:66; ntucle-sid:554@LMC@2019-06-14
+30001781@@@@@@It is a battery-operated mini portable fan with a transparent detachable clip.@@@@1@12@ntucle-docid:66; ntucle-sid:555@LMC@2019-06-14
+30001782@@@@@@The clip allows the fan to be attached to clothes.@@@@1@10@ntucle-docid:66; ntucle-sid:556@LMC@2019-06-14
+30001783@@@@@@The device is worn such that only the clip is revealed while the rest of the device remains concealed under clothing.@@@@1@21@ntucle-docid:66; ntucle-sid:557@LMC@2019-06-14
+30001784@@@@@@The product comes with various aesthetically appealing clip designs and the user can detach the clip on the device and replace it with a clip design that they prefer to wear on their clothing.@@@@1@34@ntucle-docid:66; ntucle-sid:558@LMC@2019-06-14
+30001785@@@@@@Benefits@@@@1@1@ntucle-docid:66; ntucle-sid:559@LMC@2019-06-14
+30001786@@@@@@The fan helps the body to remain at a healthy, cool temperature and consequently, it reduces sweating as well.@@@@1@19@ntucle-docid:66; ntucle-sid:560@LMC@2019-06-14
+30001787@@@@@@Since the product is concealed, it does not interfere much with the aesthetics of the clothing worn by the user.@@@@1@20@ntucle-docid:66; ntucle-sid:561@LMC@2019-06-14
+30001788@@@@@@The use of the device is flexible as it can be attached to any ends of a clothing, such as the front collar or the back neckline to cool down the front or the back of your body accordingly.@@@@1@39@ntucle-docid:66; ntucle-sid:562@LMC@2019-06-14
+30001789@@@@@@The device is also cheap and portable due to its small size.@@@@1@12@ntucle-docid:66; ntucle-sid:563@LMC@2019-06-14
+30001790@@@@@@Unlike the mini-portable fan, the cloth fan also allows its users to have a hands-free operation so they can go about their daily activities as per normal while wearing the device.@@@@1@31@ntucle-docid:66; ntucle-sid:564@LMC@2019-06-14
+30001791@@@@@@Implementation@@@@1@1@ntucle-docid:66; ntucle-sid:565@LMC@2019-06-14
+30001792@@@@@@The fan requires two AA batteries to be inserted into it to operate.@@@@1@13@ntucle-docid:66; ntucle-sid:566@LMC@2019-06-14
+30001793@@@@@@Simply clip the device onto clothing and push the switch to on the device.@@@@1@14@ntucle-docid:66; ntucle-sid:567@LMC@2019-06-14
+30001794@@@@@@Costs@@@@1@1@ntucle-docid:66; ntucle-sid:568@LMC@2019-06-14
+30001795@@@@@@Manufacturing of : Fan - $4@@@@1@6@ntucle-docid:66; ntucle-sid:569@LMC@2019-06-14
+30001796@@@@@@Clips - $1@@@@1@3@ntucle-docid:66; ntucle-sid:570@LMC@2019-06-14
+30001797@@@@@@Conclusion@@@@1@1@ntucle-docid:66; ntucle-sid:571@LMC@2019-06-14
+30001798@@@@@@The cloth fan will help cool down the body temperature of a person and also reduce sweating.@@@@1@17@ntucle-docid:66; ntucle-sid:572@LMC@2019-06-14
+30001799@@@@@@This reduces the negative effects caused by increase in body temperature such as dehydration, death from extreme heat and the uncomfortable feeeling of sweating.@@@@1@24@ntucle-docid:66; ntucle-sid:573@LMC@2019-06-14
+30001800@@@@@@512 words@@@@1@2@ntucle-docid:66; ntucle-sid:574@LMC@2019-06-14
+30001801@@@@@@OPPA MeetUp – Organise, Participate, Pursue Activities@@@@1@7@ntucle-docid:69; ntucle-sid:254@LMC@2019-06-14
+30001802@@@@@@Background@@@@1@1@ntucle-docid:69; ntucle-sid:255@LMC@2019-06-14
+30001803@@@@@@The prevalence of the Internet in today’s world enables people to connect to each other, and even pursue their interests online.@@@@1@21@ntucle-docid:69; ntucle-sid:256@LMC@2019-06-14
+30001804@@@@@@Survey shows 32% of the people are interested to learn new things and gain exposure [1], but are uncertain how they can go about to doing it.@@@@1@27@ntucle-docid:69; ntucle-sid:257@LMC@2019-06-14
+30001805@@@@@@Current platforms are available, but they may not be user-friendly.@@@@1@10@ntucle-docid:69; ntucle-sid:258@LMC@2019-06-14
+30001806@@@@@@Hence, there is a need to improve on existing online platforms to gain exposure to new skills.@@@@1@17@ntucle-docid:69; ntucle-sid:259@LMC@2019-06-14
+30001807@@@@@@Problem@@@@1@1@ntucle-docid:69; ntucle-sid:260@LMC@2019-06-14
+30001808@@@@@@There are several online platforms like Eventbrite and MeetIn made available to the public to organize events.@@@@1@17@ntucle-docid:69; ntucle-sid:261@LMC@2019-06-14
+30001809@@@@@@However, they are not as popular as MeetUp, based on a survey which shows one in every seven New Yorker using it [2].@@@@1@23@ntucle-docid:69; ntucle-sid:262@LMC@2019-06-14
+30001810@@@@@@Although it is popular, MeetUp charges the organizers on a monthly basis [3], deterring people who are keen to utilise this platform to reach out to others with common interests.@@@@1@30@ntucle-docid:69; ntucle-sid:263@LMC@2019-06-14
+30001811@@@@@@Furthermore, the lack of knowledge, connections and expertise hinder people from organizing events of their interests.@@@@1@16@ntucle-docid:69; ntucle-sid:264@LMC@2019-06-14
+30001812@@@@@@Hence, there is a need to enhance the current version of MeetUp.@@@@1@12@ntucle-docid:69; ntucle-sid:265@LMC@2019-06-14
+30001813@@@@@@Solution@@@@1@1@ntucle-docid:69; ntucle-sid:266@LMC@2019-06-14
+30001814@@@@@@The main goal of this proposal is to introduce OPPA MeetUp, an improved version of MeetUp that enables people to initiate new events to pursue their interests.@@@@1@27@ntucle-docid:69; ntucle-sid:267@LMC@2019-06-14
+30001815@@@@@@A way to eliminate the subscription fee for organisers would be to offset it through revenues generated from advertising.@@@@1@19@ntucle-docid:69; ntucle-sid:268@LMC@2019-06-14
+30001816@@@@@@MeetUp can allocate spaces for advertisers to promote their products or services which are relevant to the participants at the event.@@@@1@21@ntucle-docid:69; ntucle-sid:269@LMC@2019-06-14
+30001817@@@@@@Furthermore, MeetUp can become an integrated platform which provides information such as the list of contacts for coaches, and provide also facility booking services.@@@@1@24@ntucle-docid:69; ntucle-sid:270@LMC@2019-06-14
+30001818@@@@@@With these improvements, event organising will be less intimidating for the new organisers.@@@@1@13@ntucle-docid:69; ntucle-sid:271@LMC@2019-06-14
+30001819@@@@@@Benefits@@@@1@1@ntucle-docid:69; ntucle-sid:272@LMC@2019-06-14
+30001820@@@@@@OPPA MeetUp’s integrated system is free and makes it easier to organise events.@@@@1@13@ntucle-docid:69; ntucle-sid:273@LMC@2019-06-14
+30001821@@@@@@It also makes information easily available to the general public.@@@@1@10@ntucle-docid:69; ntucle-sid:274@LMC@2019-06-14
+30001822@@@@@@People who are interested in a particular activity will utilise it to find out know more, and they may even initiate new groups to complement existing ones.@@@@1@27@ntucle-docid:69; ntucle-sid:275@LMC@2019-06-14
+30001823@@@@@@The wide array of interest groups will greatly benefit people from all walks of lives who like to gain exposure as well as those who want to pursue their interests.@@@@1@30@ntucle-docid:69; ntucle-sid:276@LMC@2019-06-14
+30001824@@@@@@Implementation@@@@1@1@ntucle-docid:69; ntucle-sid:277@LMC@2019-06-14
+30001825@@@@@@In order to create an improved version of the online platform, the following steps will be taken:@@@@1@17@ntucle-docid:69; ntucle-sid:278@LMC@2019-06-14
+30001826@@@@@@1@@@@1@1@ntucle-docid:69; ntucle-sid:279@LMC@2019-06-14
+30001827@@@@@@We will liaise with Meet-Up personnel and share about the improved version.@@@@1@12@ntucle-docid:69; ntucle-sid:280@LMC@2019-06-14
+30001828@@@@@@2@@@@1@1@ntucle-docid:69; ntucle-sid:281@LMC@2019-06-14
+30001829@@@@@@Once approved, a software development team will be created to work on the integrated system.@@@@1@15@ntucle-docid:69; ntucle-sid:282@LMC@2019-06-14
+30001830@@@@@@It can be pilot-tested in Singapore first while collaborating with People’s Association on the online booking platform.@@@@1@17@ntucle-docid:69; ntucle-sid:283@LMC@2019-06-14
+30001831@@@@@@3@@@@1@1@ntucle-docid:69; ntucle-sid:284@LMC@2019-06-14
+30001832@@@@@@We will approach advertisers and promote about this new advertising platform, persuade them to utilise our platform.@@@@1@17@ntucle-docid:69; ntucle-sid:285@LMC@2019-06-14
+30001833@@@@@@Cost/Budget@@@@1@1@ntucle-docid:69; ntucle-sid:286@LMC@2019-06-14
+30001834@@@@@@Operations $200@@@@1@2@ntucle-docid:69; ntucle-sid:287@LMC@2019-06-14
+30001835@@@@@@Software development $650@@@@1@3@ntucle-docid:69; ntucle-sid:288@LMC@2019-06-14
+30001836@@@@@@Total cost $850@@@@1@3@ntucle-docid:69; ntucle-sid:289@LMC@2019-06-14
+30001837@@@@@@Conclusion@@@@1@1@ntucle-docid:69; ntucle-sid:290@LMC@2019-06-14
+30001838@@@@@@Minister Indranee Rajah mentioned the importance of opportunities for students to pursue their interests [4].@@@@1@15@ntucle-docid:69; ntucle-sid:291@LMC@2019-06-14
+30001839@@@@@@OPPA MeetUp can be the platform that provides these opportunities for people to learn and enjoy.@@@@1@16@ntucle-docid:69; ntucle-sid:292@LMC@2019-06-14
+30001840@@@@@@At the end of the day, the success of our project hinges on people who are passionate to learn new skills, and we are making it easier for them by providing an integrated platform that is free and user-friendly interface.@@@@1@40@ntucle-docid:69; ntucle-sid:293@LMC@2019-06-14
+30001841@@@@@@517 words@@@@1@2@ntucle-docid:69; ntucle-sid:294@LMC@2019-06-14

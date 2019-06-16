@@ -1,0 +1,889 @@
+30003750@@@@@@Restaurant “KnowQ” system@@@@1@3@ntucle-docid:135; ntucle-sid:1053@LMC@2019-06-14
+30003751@@@@@@Background@@@@1@1@ntucle-docid:135; ntucle-sid:1054@LMC@2019-06-14
+30003752@@@@@@According to the figures obtained by the Singapore Department of Statistics in 2014, there is a growth of 1.3% in Singapore’s total population [1].@@@@1@24@ntucle-docid:135; ntucle-sid:1055@LMC@2019-06-14
+30003753@@@@@@Due to the rise in population, it is expected for consumers to queue for longer hours in a particular restaurant.@@@@1@20@ntucle-docid:135; ntucle-sid:1056@LMC@2019-06-14
+30003754@@@@@@Queuing is known to be one of the biggest dissatisfaction faced by most people.@@@@1@14@ntucle-docid:135; ntucle-sid:1057@LMC@2019-06-14
+30003755@@@@@@Customers often get frustrated over the uncertainty in the waiting time, as they are restricted to remain in the queue line till their turn arrives.@@@@1@25@ntucle-docid:135; ntucle-sid:1058@LMC@2019-06-14
+30003756@@@@@@Problem@@@@1@1@ntucle-docid:135; ntucle-sid:1059@LMC@2019-06-14
+30003757@@@@@@The uncertainty in waiting time is identified to be one problem which people faced due to the lack of an appropriate queuing system.@@@@1@23@ntucle-docid:135; ntucle-sid:1060@LMC@2019-06-14
+30003758@@@@@@In today’s context, there hasn’t been any system which allows customers to view on the available number of seats hence customers find it tough to determine the waiting time.@@@@1@29@ntucle-docid:135; ntucle-sid:1061@LMC@2019-06-14
+30003759@@@@@@Customers like the working adults face an urgent need to have their meal quickly in order to meet the 1-hour lunch break policy.@@@@1@23@ntucle-docid:135; ntucle-sid:1062@LMC@2019-06-14
+30003760@@@@@@Besides, customers often get annoyed when they are confined in the queue, losing their freedom to move around.@@@@1@18@ntucle-docid:135; ntucle-sid:1063@LMC@2019-06-14
+30003761@@@@@@Hogging outside the restaurant isn’t appropriate as it blocks off human traffic along the passageway, invading into the corridor of others.@@@@1@21@ntucle-docid:135; ntucle-sid:1064@LMC@2019-06-14
+30003762@@@@@@Solution@@@@1@1@ntucle-docid:135; ntucle-sid:1065@LMC@2019-06-14
+30003763@@@@@@The objective of this proposal is to propose “KnowQ”, a smart queuing system which allows restaurants to communicate with customers through their smart phones.@@@@1@24@ntucle-docid:135; ntucle-sid:1066@LMC@2019-06-14
+30003764@@@@@@“KnowQ” encompasses many features, it allows users to request for a queue number online and inform the customer through a SMS notification.@@@@1@22@ntucle-docid:135; ntucle-sid:1067@LMC@2019-06-14
+30003765@@@@@@Customers are issued access to view on the seats arrangement and the estimated waiting time by login in to the restaurant website with their queue number.@@@@1@26@ntucle-docid:135; ntucle-sid:1068@LMC@2019-06-14
+30003766@@@@@@“KnowQ” collects data in the restaurant and displays it onto the monitor screen and the website.@@@@1@16@ntucle-docid:135; ntucle-sid:1069@LMC@2019-06-14
+30003767@@@@@@Benefits@@@@1@1@ntucle-docid:135; ntucle-sid:1070@LMC@2019-06-14
+30003768@@@@@@“KnowQ” enables users to view on the number of available seats and the estimated waiting time through their phones.@@@@1@19@ntucle-docid:135; ntucle-sid:1071@LMC@2019-06-14
+30003769@@@@@@Consumers are no longer restricted to the queue, allowing them to utilize their time effectively.@@@@1@15@ntucle-docid:135; ntucle-sid:1072@LMC@2019-06-14
+30003770@@@@@@The customer will also be notified through an SMS when their queue number is nearing so as to allow them to make their way towards the restaurant in time.@@@@1@29@ntucle-docid:135; ntucle-sid:1073@LMC@2019-06-14
+30003771@@@@@@Implementation@@@@1@1@ntucle-docid:135; ntucle-sid:1074@LMC@2019-06-14
+30003772@@@@@@The implementation of the smart queuing system requires the collaboration of restaurants as the system has to display collected data onto the monitor screen and the website.@@@@1@27@ntucle-docid:135; ntucle-sid:1075@LMC@2019-06-14
+30003773@@@@@@In order for the system to determine the occupied seats, low power pressure sensors are placed beneath customer’s chair.@@@@1@19@ntucle-docid:135; ntucle-sid:1076@LMC@2019-06-14
+30003774@@@@@@The waiter has to activate the table button so that when the user actually leaves his/her seats, the system will not be disrupted.@@@@1@23@ntucle-docid:135; ntucle-sid:1077@LMC@2019-06-14
+30003775@@@@@@A mobile application will be designed to aid consumers in retrieving useful data through their mobile phones.@@@@1@17@ntucle-docid:135; ntucle-sid:1078@LMC@2019-06-14
+30003776@@@@@@Cost or Budget@@@@1@3@ntucle-docid:135; ntucle-sid:1079@LMC@2019-06-14
+30003777@@@@@@The cost of the setup is as follows:@@@@1@8@ntucle-docid:135; ntucle-sid:1080@LMC@2019-06-14
+30003778@@@@@@LCD screen (Monitor)@@@@1@3@ntucle-docid:135; ntucle-sid:1081@LMC@2019-06-14
+30003779@@@@@@500@@@@1@1@ntucle-docid:135; ntucle-sid:1082@LMC@2019-06-14
+30003780@@@@@@Pressure Sensor@@@@1@2@ntucle-docid:135; ntucle-sid:1083@LMC@2019-06-14
+30003781@@@@@@100@@@@1@1@ntucle-docid:135; ntucle-sid:1084@LMC@2019-06-14
+30003782@@@@@@Application Software@@@@1@2@ntucle-docid:135; ntucle-sid:1085@LMC@2019-06-14
+30003783@@@@@@150@@@@1@1@ntucle-docid:135; ntucle-sid:1086@LMC@2019-06-14
+30003784@@@@@@Wireless System@@@@1@2@ntucle-docid:135; ntucle-sid:1087@LMC@2019-06-14
+30003785@@@@@@1000@@@@1@1@ntucle-docid:135; ntucle-sid:1088@LMC@2019-06-14
+30003786@@@@@@Conclusion@@@@1@1@ntucle-docid:135; ntucle-sid:1089@LMC@2019-06-14
+30003787@@@@@@The flow of consumers is unpredictable during peak hours.@@@@1@9@ntucle-docid:135; ntucle-sid:1090@LMC@2019-06-14
+30003788@@@@@@However, the proposed smart@@@@1@4@ntucle-docid:135; ntucle-sid:1091@LMC@2019-06-14
+30003789@@@@@@queuing system, “KnowQ” aims to help consumers save time, reduce congestions, estimate waiting time and access current queuing situation through their phone to enhance their dining experience anytime anywhere.@@@@1@29@ntucle-docid:135; ntucle-sid:1092@LMC@2019-06-14
+30003790@@@@@@[499 words]@@@@1@2@ntucle-docid:135; ntucle-sid:1093@LMC@2019-06-14
+30003791@@@@@@THE AIRPORT WATCH@@@@1@3@ntucle-docid:137; ntucle-sid:789@LMC@2019-06-14
+30003792@@@@@@Background@@@@1@1@ntucle-docid:137; ntucle-sid:790@LMC@2019-06-14
+30003793@@@@@@Imagine a situation in the airport, where a traveller overslept whilst waiting for his flight.@@@@1@15@ntucle-docid:137; ntucle-sid:791@LMC@2019-06-14
+30003794@@@@@@Upon waking up and discovering it is ‘last-call’ on the flight information display, he immediately rushes towards the designated boarding gate, only to find out that he has missed his flight as he was too late.@@@@1@36@ntucle-docid:137; ntucle-sid:792@LMC@2019-06-14
+30003795@@@@@@Similar situations might be occurring on a daily basis in airports around the world, especially with the enormous amount of global passenger traffic.@@@@1@23@ntucle-docid:137; ntucle-sid:793@LMC@2019-06-14
+30003796@@@@@@In fact, according to statistics obtained from the International Air Transport Association (IATA), ‘air traffic transports 3.5 billion passengers yearly over 50,000 routes’ [1].@@@@1@24@ntucle-docid:137; ntucle-sid:794@LMC@2019-06-14
+30003797@@@@@@Problem@@@@1@1@ntucle-docid:137; ntucle-sid:795@LMC@2019-06-14
+30003798@@@@@@Most of the time, travellers rely on the flight information display system in the airport to obtain flight information.@@@@1@19@ntucle-docid:137; ntucle-sid:796@LMC@2019-06-14
+30003799@@@@@@However, there are still instances where people misses their flight.@@@@1@10@ntucle-docid:137; ntucle-sid:797@LMC@2019-06-14
+30003800@@@@@@This could be due to a myriad of reasons, such as being too engrossed in shopping at duty free shops, falling asleep whilst waiting for a late night flight, or simply not being aware when airlines decides to bring forward the boarding and last-call timings.@@@@1@45@ntucle-docid:137; ntucle-sid:798@LMC@2019-06-14
+30003801@@@@@@For passengers, missing a flight could result in inconveniences such as being stranded and delayed, while having to source for another flight.@@@@1@22@ntucle-docid:137; ntucle-sid:799@LMC@2019-06-14
+30003802@@@@@@Similarly, airlines also faces issues, ‘airlines wait for some time for such passengers to show up who unmindful of boarding time stroll at the duty free area.@@@@1@27@ntucle-docid:137; ntucle-sid:800@LMC@2019-06-14
+30003803@@@@@@Then their baggage has to be offloaded for aircraft, a process that delays flights by over 45 minutes.’[2] Hence, when a passenger misses a flight, both the passenger and the airline would be affected.@@@@1@34@ntucle-docid:137; ntucle-sid:801@LMC@2019-06-14
+30003804@@@@@@Solution@@@@1@1@ntucle-docid:137; ntucle-sid:802@LMC@2019-06-14
+30003805@@@@@@A watch-like device can be invented to alert travellers whenever there is a change in the flight information, be it ‘gate open’, ‘boarding’ or ‘last-call’.@@@@1@25@ntucle-docid:137; ntucle-sid:803@LMC@2019-06-14
+30003806@@@@@@For example, when the gate opens for boarding, the device could vibrate and sound off an alert to the passenger, notify them of the changes.@@@@1@25@ntucle-docid:137; ntucle-sid:804@LMC@2019-06-14
+30003807@@@@@@This device could be distributed to passengers when they check-in, and retrieved when they enter the boarding area.@@@@1@18@ntucle-docid:137; ntucle-sid:805@LMC@2019-06-14
+30003808@@@@@@Benefits@@@@1@1@ntucle-docid:137; ntucle-sid:806@LMC@2019-06-14
+30003809@@@@@@With a device like this, passengers do not have to worry about missing their flights, as they will be notified of changes in the flight status instantly, without having to constantly refer to the flight information display boards.@@@@1@38@ntucle-docid:137; ntucle-sid:807@LMC@2019-06-14
+30003810@@@@@@For airlines, it could mean time savings, as flights are able to depart on time with punctual passengers.@@@@1@18@ntucle-docid:137; ntucle-sid:808@LMC@2019-06-14
+30003811@@@@@@Implementation@@@@1@1@ntucle-docid:137; ntucle-sid:809@LMC@2019-06-14
+30003812@@@@@@Some of the technologies currently used in the advanced Apple Watch, could be used for developing the device and its functions.@@@@1@21@ntucle-docid:137; ntucle-sid:810@LMC@2019-06-14
+30003813@@@@@@Airlines and airports also has to work together to synchronise and transmit status updates to the device.@@@@1@17@ntucle-docid:137; ntucle-sid:811@LMC@2019-06-14
+30003814@@@@@@Costs or budget@@@@1@3@ntucle-docid:137; ntucle-sid:812@LMC@2019-06-14
+30003815@@@@@@The cost of producing an Apple Watch is about US$225.@@@@1@10@ntucle-docid:137; ntucle-sid:813@LMC@2019-06-14
+30003816@@@@@@[3] The world’s busiest airport serves about 150,000 departing passengers per day, hence total watch costs could be around US$35 million.@@@@1@21@ntucle-docid:137; ntucle-sid:814@LMC@2019-06-14
+30003817@@@@@@[4]@@@@1@1@ntucle-docid:137; ntucle-sid:815@LMC@2019-06-14
+30003818@@@@@@Conclusion@@@@1@1@ntucle-docid:137; ntucle-sid:816@LMC@2019-06-14
+30003819@@@@@@Missing a flight is never a pleasant experience, as both passenger and airline would be affected.@@@@1@16@ntucle-docid:137; ntucle-sid:817@LMC@2019-06-14
+30003820@@@@@@Having a device which can ensure passengers are on time would definitely reduce inconveniences caused to all parties, and make air travel trouble free and pleasurable.@@@@1@26@ntucle-docid:137; ntucle-sid:818@LMC@2019-06-14
+30003821@@@@@@Problem@@@@1@1@ntucle-docid:137; ntucle-sid:819@LMC@2019-06-14
+30003822@@@@@@Most of the time, travellers rely on the flight information display system in the airport to obtain flight information.@@@@1@19@ntucle-docid:137; ntucle-sid:820@LMC@2019-06-14
+30003823@@@@@@However, there are still instances where people misses their flight.@@@@1@10@ntucle-docid:137; ntucle-sid:821@LMC@2019-06-14
+30003824@@@@@@This could be due to a myriad of reasons, such as being too engrossed in shopping at duty free shops, falling asleep whilst waiting for a late night flight, or simply not being aware when airlines decides to bring forward the boarding and last-call timings.@@@@1@45@ntucle-docid:137; ntucle-sid:822@LMC@2019-06-14
+30003825@@@@@@For passengers, missing a flight could result in inconveniences such as being stranded and delayed, while having to source for another flight.@@@@1@22@ntucle-docid:137; ntucle-sid:823@LMC@2019-06-14
+30003826@@@@@@Similarly, airlines also faces issues, ‘airlines wait for some time for such passengers to show up who unmindful of boarding time stroll at the duty free area.@@@@1@27@ntucle-docid:137; ntucle-sid:824@LMC@2019-06-14
+30003827@@@@@@Then their baggage has to be offloaded for aircraft, a process that delays flights by over 45 minutes.’[2] Hence, when a passenger misses a flight, both the passenger and the airline would be affected.@@@@1@34@ntucle-docid:137; ntucle-sid:825@LMC@2019-06-14
+30003828@@@@@@Solution@@@@1@1@ntucle-docid:137; ntucle-sid:826@LMC@2019-06-14
+30003829@@@@@@A watch-like device can be invented to alert travellers whenever there is a change in the flight information, be it ‘gate open’, ‘boarding’ or ‘last-call’.@@@@1@25@ntucle-docid:137; ntucle-sid:827@LMC@2019-06-14
+30003830@@@@@@For example, when the gate opens for boarding, the device could vibrate and sound off an alert to the passenger, notify them of the changes.@@@@1@25@ntucle-docid:137; ntucle-sid:828@LMC@2019-06-14
+30003831@@@@@@This device could be distributed to passengers when they check-in, and retrieved when they enter the boarding area.@@@@1@18@ntucle-docid:137; ntucle-sid:829@LMC@2019-06-14
+30003832@@@@@@Benefits@@@@1@1@ntucle-docid:137; ntucle-sid:830@LMC@2019-06-14
+30003833@@@@@@With a device like this, passengers do not have to worry about missing their flights, as they will be notified of changes in the flight status instantly, without having to constantly refer to the flight information display boards.@@@@1@38@ntucle-docid:137; ntucle-sid:831@LMC@2019-06-14
+30003834@@@@@@For airlines, it could mean time savings, as flights are able to depart on time with punctual passengers.@@@@1@18@ntucle-docid:137; ntucle-sid:832@LMC@2019-06-14
+30003835@@@@@@Implementation@@@@1@1@ntucle-docid:137; ntucle-sid:833@LMC@2019-06-14
+30003836@@@@@@Some of the technologies currently used in the advanced Apple Watch, could be used for developing the device and its functions.@@@@1@21@ntucle-docid:137; ntucle-sid:834@LMC@2019-06-14
+30003837@@@@@@Airlines and airports also has to work together to synchronise and transmit status updates to the device.@@@@1@17@ntucle-docid:137; ntucle-sid:835@LMC@2019-06-14
+30003838@@@@@@Costs or budget@@@@1@3@ntucle-docid:137; ntucle-sid:836@LMC@2019-06-14
+30003839@@@@@@The cost of producing an Apple Watch is about US$225.@@@@1@10@ntucle-docid:137; ntucle-sid:837@LMC@2019-06-14
+30003840@@@@@@[3] The world’s busiest airport serves about 150,000 departing passengers per day, hence total watch costs could be around US$35 million.@@@@1@21@ntucle-docid:137; ntucle-sid:838@LMC@2019-06-14
+30003841@@@@@@[4]@@@@1@1@ntucle-docid:137; ntucle-sid:839@LMC@2019-06-14
+30003842@@@@@@Conclusion@@@@1@1@ntucle-docid:137; ntucle-sid:840@LMC@2019-06-14
+30003843@@@@@@Missing a flight is never a pleasant experience, as both passenger and airline would be affected.@@@@1@16@ntucle-docid:137; ntucle-sid:841@LMC@2019-06-14
+30003844@@@@@@Having a device which can ensure passengers are on time would definitely reduce inconveniences caused to all parties, and make air travel trouble free and pleasurable.@@@@1@26@ntucle-docid:137; ntucle-sid:842@LMC@2019-06-14
+30003845@@@@@@Year 2, Semester@@@@1@3@ntucle-docid:138; ntucle-sid:839@LMC@2019-06-14
+30003846@@@@@@Location:@@@@1@1@ntucle-docid:138; ntucle-sid:840@LMC@2019-06-14
+30003847@@@@@@Title: Saving My NTULearn@@@@1@4@ntucle-docid:138; ntucle-sid:843@LMC@2019-06-14
+30003848@@@@@@GRADE: _____________@@@@1@2@ntucle-docid:138; ntucle-sid:844@LMC@2019-06-14
+30003849@@@@@@Background:@@@@1@1@ntucle-docid:138; ntucle-sid:845@LMC@2019-06-14
+30003850@@@@@@It has been estimated that around 23k undergraduate enrolled themselves in Nanyang Technology University (NTU).@@@@1@15@ntucle-docid:138; ntucle-sid:846@LMC@2019-06-14
+30003851@@@@@@In the last Academic Ranking of World Universities (ARWU), which is released in August 2015, NTU was overall ranked at ranking band of the Top 200 Universities in world.@@@@1@29@ntucle-docid:138; ntucle-sid:847@LMC@2019-06-14
+30003852@@@@@@NTU manages their information transfer of lectures notes, tutorial notes, assignments, online lectures and recording of lectures using an online platform called My NTULearn (Blackboard).@@@@1@25@ntucle-docid:138; ntucle-sid:848@LMC@2019-06-14
+30003853@@@@@@Everyday students will log on to My NTULearn to do their daily learning before and after lectures and tutorials to complete their learning.@@@@1@23@ntucle-docid:138; ntucle-sid:849@LMC@2019-06-14
+30003854@@@@@@Problem:@@@@1@1@ntucle-docid:138; ntucle-sid:850@LMC@2019-06-14
+30003855@@@@@@All Students in NTU have to get on My NTULearn to get their daily classes' Lecture notes, Tutorial notes & Assignments.@@@@1@21@ntucle-docid:138; ntucle-sid:851@LMC@2019-06-14
+30003856@@@@@@Students will have to make time off their busy schedules to sit in front of the laptop or computer to download and print out items on daily basis.@@@@1@28@ntucle-docid:138; ntucle-sid:852@LMC@2019-06-14
+30003857@@@@@@This sometimes can be rather time-consuming as they would need to cross-check to what they have already downloaded to make sure that is the right stuff.@@@@1@26@ntucle-docid:138; ntucle-sid:853@LMC@2019-06-14
+30003858@@@@@@At times, when the students put aside their activities and sit down to complete their daily learning, they realized that the lecturers have not uploaded the slides or assignments.@@@@1@29@ntucle-docid:138; ntucle-sid:854@LMC@2019-06-14
+30003859@@@@@@Subsequently, they would require coming back at a later timing to download again.@@@@1@13@ntucle-docid:138; ntucle-sid:855@LMC@2019-06-14
+30003860@@@@@@Solution:@@@@1@1@ntucle-docid:138; ntucle-sid:856@LMC@2019-06-14
+30003861@@@@@@Create an application similar to "Dropbox".@@@@1@6@ntucle-docid:138; ntucle-sid:857@LMC@2019-06-14
+30003862@@@@@@So that when lecturers uploading the files into the system, the students can have it directly streamed into their computers and this will save them the hassle of having to sit in front of the computer to download into their computer and cross-checking the files one by one.@@@@1@48@ntucle-docid:138; ntucle-sid:858@LMC@2019-06-14
+30003863@@@@@@All they need to do is turn on the computer and the files they need directly streamed into their computer and ready for them to use it for revision, preparation for classes and doing their tasks upon activation.@@@@1@38@ntucle-docid:138; ntucle-sid:859@LMC@2019-06-14
+30003864@@@@@@Benefits:@@@@1@1@ntucle-docid:138; ntucle-sid:860@LMC@2019-06-14
+30003865@@@@@@Students will save quite a lot of time sitting in front of My NTULearn trying to get the resources.@@@@1@19@ntucle-docid:138; ntucle-sid:861@LMC@2019-06-14
+30003866@@@@@@They won’t have to go through the hassle of having to have missing the resources when they are doing their revision or preparing for the class.@@@@1@26@ntucle-docid:138; ntucle-sid:862@LMC@2019-06-14
+30003867@@@@@@Implementation:@@@@1@1@ntucle-docid:138; ntucle-sid:863@LMC@2019-06-14
+30003868@@@@@@This application only requires the timetable of the classes, the students installing the application on both the mobile devices and the computer and the deadlines of assignments to kick start the process.@@@@1@32@ntucle-docid:138; ntucle-sid:864@LMC@2019-06-14
+30003869@@@@@@The current plans are to start off with the school of engineering then troubleshooting the problems as it surfaces along the way.@@@@1@22@ntucle-docid:138; ntucle-sid:865@LMC@2019-06-14
+30003870@@@@@@After problems that will affect the functionality of the system, had been eradicated, the system goes on full auto-pilot mode for another 1 to 3 months before moving next academic school.@@@@1@31@ntucle-docid:138; ntucle-sid:866@LMC@2019-06-14
+30003871@@@@@@The process will repeat itself till the system has been implemented across the board.@@@@1@14@ntucle-docid:138; ntucle-sid:867@LMC@2019-06-14
+30003872@@@@@@Costs:@@@@1@1@ntucle-docid:138; ntucle-sid:868@LMC@2019-06-14
+30003873@@@@@@Application development for mobile devices -@@@@1@6@ntucle-docid:138; ntucle-sid:869@LMC@2019-06-14
+30003874@@@@@@USD $153,000@@@@1@2@ntucle-docid:138; ntucle-sid:870@LMC@2019-06-14
+30003875@@@@@@Application maintenance for mobile devices -@@@@1@6@ntucle-docid:138; ntucle-sid:871@LMC@2019-06-14
+30003876@@@@@@USD $ 25,000 per month@@@@1@5@ntucle-docid:138; ntucle-sid:872@LMC@2019-06-14
+30003877@@@@@@Software development for computers -@@@@1@5@ntucle-docid:138; ntucle-sid:873@LMC@2019-06-14
+30003878@@@@@@USD $145,000@@@@1@2@ntucle-docid:138; ntucle-sid:874@LMC@2019-06-14
+30003879@@@@@@Software maintenance for computers -@@@@1@5@ntucle-docid:138; ntucle-sid:875@LMC@2019-06-14
+30003880@@@@@@USD $22,000 per month@@@@1@4@ntucle-docid:138; ntucle-sid:876@LMC@2019-06-14
+30003881@@@@@@Total Cost annually (12 months) -@@@@1@6@ntucle-docid:138; ntucle-sid:877@LMC@2019-06-14
+30003882@@@@@@USD $862,000@@@@1@2@ntucle-docid:138; ntucle-sid:878@LMC@2019-06-14
+30003883@@@@@@Conclusion:@@@@1@1@ntucle-docid:138; ntucle-sid:879@LMC@2019-06-14
+30003884@@@@@@The aim of this project is to improve the time consumed, the productiveness and the effectiveness of the students’ learning by introducing this new system so that students can spend more times studying and other activities instead of being in front of the computer doing all these downloading and administrative stuff.@@@@1@51@ntucle-docid:138; ntucle-sid:880@LMC@2019-06-14
+30003885@@@@@@This new system will be able to bring the academics to a higher height here in NTU.@@@@1@17@ntucle-docid:138; ntucle-sid:881@LMC@2019-06-14
+30003886@@@@@@So that when lecturers uploading the files into the system, the students can have it directly streamed into their computers and this will save them the hassle of having to sit in front of the computer to download into their computer and cross-checking the files one by one.@@@@1@48@ntucle-docid:138; ntucle-sid:882@LMC@2019-06-14
+30003887@@@@@@All they need to do is turn on the computer and the files they need directly streamed into their computer and ready for them to use it for revision, preparation for classes and doing their tasks upon activation.@@@@1@38@ntucle-docid:138; ntucle-sid:883@LMC@2019-06-14
+30003888@@@@@@Benefits:@@@@1@1@ntucle-docid:138; ntucle-sid:884@LMC@2019-06-14
+30003889@@@@@@Students will save quite a lot of time sitting in front of My NTULearn trying to get the resources.@@@@1@19@ntucle-docid:138; ntucle-sid:885@LMC@2019-06-14
+30003890@@@@@@They won’t have to go through the hassle of having to have missing the resources when they are doing their revision or preparing for the class.@@@@1@26@ntucle-docid:138; ntucle-sid:886@LMC@2019-06-14
+30003891@@@@@@Implementation:@@@@1@1@ntucle-docid:138; ntucle-sid:887@LMC@2019-06-14
+30003892@@@@@@This application only requires the timetable of the classes, the students installing the application on both the mobile devices and the computer and the deadlines of assignments to kick start the process.@@@@1@32@ntucle-docid:138; ntucle-sid:888@LMC@2019-06-14
+30003893@@@@@@The current plans are to start off with the school of engineering then troubleshooting the problems as it surfaces along the way.@@@@1@22@ntucle-docid:138; ntucle-sid:889@LMC@2019-06-14
+30003894@@@@@@After problems that will affect the functionality of the system, had been eradicated, the system goes on full auto-pilot mode for another 1 to 3 months before moving next academic school.@@@@1@31@ntucle-docid:138; ntucle-sid:890@LMC@2019-06-14
+30003895@@@@@@The process will repeat itself till the system has been implemented across the board.@@@@1@14@ntucle-docid:138; ntucle-sid:891@LMC@2019-06-14
+30003896@@@@@@Costs:@@@@1@1@ntucle-docid:138; ntucle-sid:892@LMC@2019-06-14
+30003897@@@@@@Application development for mobile devices -@@@@1@6@ntucle-docid:138; ntucle-sid:893@LMC@2019-06-14
+30003898@@@@@@USD $153,000@@@@1@2@ntucle-docid:138; ntucle-sid:894@LMC@2019-06-14
+30003899@@@@@@Application maintenance for mobile devices -@@@@1@6@ntucle-docid:138; ntucle-sid:895@LMC@2019-06-14
+30003900@@@@@@USD $ 25,000 per month@@@@1@5@ntucle-docid:138; ntucle-sid:896@LMC@2019-06-14
+30003901@@@@@@Software development for computers -@@@@1@5@ntucle-docid:138; ntucle-sid:897@LMC@2019-06-14
+30003902@@@@@@USD $145,000@@@@1@2@ntucle-docid:138; ntucle-sid:898@LMC@2019-06-14
+30003903@@@@@@Software maintenance for computers -@@@@1@5@ntucle-docid:138; ntucle-sid:899@LMC@2019-06-14
+30003904@@@@@@USD $22,000 per month@@@@1@4@ntucle-docid:138; ntucle-sid:900@LMC@2019-06-14
+30003905@@@@@@Total Cost annually (12 months) -@@@@1@6@ntucle-docid:138; ntucle-sid:901@LMC@2019-06-14
+30003906@@@@@@USD $862,000@@@@1@2@ntucle-docid:138; ntucle-sid:902@LMC@2019-06-14
+30003907@@@@@@Conclusion:@@@@1@1@ntucle-docid:138; ntucle-sid:903@LMC@2019-06-14
+30003908@@@@@@The aim of this project is to improve the time consumed, the productiveness and the effectiveness of the students’ learning by introducing this new system so that students can spend more times studying and other activities instead of being in front of the computer doing all these downloading and administrative stuff.@@@@1@51@ntucle-docid:138; ntucle-sid:904@LMC@2019-06-14
+30003909@@@@@@This new system will be able to bring the academics to a higher height here in NTU.@@@@1@17@ntucle-docid:138; ntucle-sid:905@LMC@2019-06-14
+30003910@@@@@@Eat it or bin it@@@@1@5@ntucle-docid:139; ntucle-sid:1100@LMC@2019-06-14
+30003911@@@@@@Background@@@@1@1@ntucle-docid:139; ntucle-sid:1101@LMC@2019-06-14
+30003912@@@@@@There has been a significant increase in food wastage in Singapore over the past decade.@@@@1@15@ntucle-docid:139; ntucle-sid:1102@LMC@2019-06-14
+30003913@@@@@@In 2014, 687 200 tonnes of food wastage have been disposed and it’s predicted to increase in the upcoming years.@@@@1@20@ntucle-docid:139; ntucle-sid:1103@LMC@2019-06-14
+30003914@@@@@@In view of the fast-filling Semakau landfill, there is a pressing need to deal with excess food waste.@@@@1@18@ntucle-docid:139; ntucle-sid:1104@LMC@2019-06-14
+30003915@@@@@@Due to limited initiatives aimed at recycling these waste, only 13% of the waste was recycled in 2014.@@@@1@18@ntucle-docid:139; ntucle-sid:1105@LMC@2019-06-14
+30003916@@@@@@Problem@@@@1@1@ntucle-docid:139; ntucle-sid:1106@LMC@2019-06-14
+30003917@@@@@@Although, there are movements like “makan mantra”, and “save food cut waste” focused on cutting down food waste but these initiatives failed to target food recycling at hawker centres, one of the largest food waste contributors.@@@@1@36@ntucle-docid:139; ntucle-sid:1107@LMC@2019-06-14
+30003918@@@@@@There is thus a compelling need to introduce food waste recycling at hawker centres.@@@@1@14@ntucle-docid:139; ntucle-sid:1108@LMC@2019-06-14
+30003919@@@@@@Solution:@@@@1@1@ntucle-docid:139; ntucle-sid:1109@LMC@2019-06-14
+30003920@@@@@@Hence, it is proposed that a food waste decomposer (FWD) be implemented in hawker centres which provides onsite digestion and composting of food waste within 24 hours into water or compost.@@@@1@31@ntucle-docid:139; ntucle-sid:1110@LMC@2019-06-14
+30003921@@@@@@On-site digestion avoids the trouble for moving food waste to the main recycling centre.@@@@1@14@ntucle-docid:139; ntucle-sid:1111@LMC@2019-06-14
+30003922@@@@@@At each recycling point, there would be 4 different coloured bins labelled clearly: “kitchen waste” (no liquids), “bones and food skins”, “recyclables” (accepts aluminium cans, plastic bottles) and “non–recyclables” (like drink boxes), facilitating the conversion process.@@@@1@36@ntucle-docid:139; ntucle-sid:1112@LMC@2019-06-14
+30003923@@@@@@Furthermore, this initiative could collaborate with the ongoing tray return initiative.@@@@1@11@ntucle-docid:139; ntucle-sid:1113@LMC@2019-06-14
+30003924@@@@@@Patrons can separate their food waste for disposal into the bins located at recycling points before returning their trays at the tray return points as shown in the figure.@@@@1@29@ntucle-docid:139; ntucle-sid:1114@LMC@2019-06-14
+30003925@@@@@@Benefits:@@@@1@1@ntucle-docid:139; ntucle-sid:1115@LMC@2019-06-14
+30003926@@@@@@With the use of FWD, there would be an increase in recycling of food wastage, allowing better waste management.@@@@1@19@ntucle-docid:139; ntucle-sid:1116@LMC@2019-06-14
+30003927@@@@@@In addition, since the products from recycling can be used as raw materials for manufacturing processes, Singapore can be better self-reliant.@@@@1@21@ntucle-docid:139; ntucle-sid:1117@LMC@2019-06-14
+30003928@@@@@@Implementation:@@@@1@1@ntucle-docid:139; ntucle-sid:1118@LMC@2019-06-14
+30003929@@@@@@1@@@@1@1@ntucle-docid:139; ntucle-sid:1119@LMC@2019-06-14
+30003930@@@@@@We will first work with companies such as Flexi Systems (Singapore) Pte Ltd who expertise in creating food waste decomposers to manufacture an economical FWD@@@@1@25@ntucle-docid:139; ntucle-sid:1120@LMC@2019-06-14
+30003931@@@@@@2@@@@1@1@ntucle-docid:139; ntucle-sid:1121@LMC@2019-06-14
+30003932@@@@@@Once a prototype is created, we will work with NEA to set up the recycling corner and the FWD at a few of the hawker centres on Singapore.@@@@1@28@ntucle-docid:139; ntucle-sid:1122@LMC@2019-06-14
+30003933@@@@@@Concurrently, we would send out teams of volunteers as well as work with NEA to educate the public about this pilot project through campaigns, etc.@@@@1@25@ntucle-docid:139; ntucle-sid:1123@LMC@2019-06-14
+30003934@@@@@@3@@@@1@1@ntucle-docid:139; ntucle-sid:1124@LMC@2019-06-14
+30003935@@@@@@Finally, if this pilot project turns out to be successful in a span of a year, we would gradually set up FWDs at all hawker centres along with increasing campaigns to educate the public on the process.@@@@1@37@ntucle-docid:139; ntucle-sid:1125@LMC@2019-06-14
+30003936@@@@@@Costs:@@@@1@1@ntucle-docid:139; ntucle-sid:1126@LMC@2019-06-14
+30003937@@@@@@Pilot project@@@@1@2@ntucle-docid:139; ntucle-sid:1127@LMC@2019-06-14
+30003938@@@@@@Cost($)@@@@1@1@ntucle-docid:139; ntucle-sid:1128@LMC@2019-06-14
+30003939@@@@@@Research@@@@1@1@ntucle-docid:139; ntucle-sid:1129@LMC@2019-06-14
+30003940@@@@@@15000@@@@1@1@ntucle-docid:139; ntucle-sid:1130@LMC@2019-06-14
+30003941@@@@@@Pilot FWD@@@@1@2@ntucle-docid:139; ntucle-sid:1131@LMC@2019-06-14
+30003942@@@@@@30000@@@@1@1@ntucle-docid:139; ntucle-sid:1132@LMC@2019-06-14
+30003943@@@@@@Bins at recycling corners@@@@1@4@ntucle-docid:139; ntucle-sid:1133@LMC@2019-06-14
+30003944@@@@@@100@@@@1@1@ntucle-docid:139; ntucle-sid:1134@LMC@2019-06-14
+30003945@@@@@@Campaigns@@@@1@1@ntucle-docid:139; ntucle-sid:1135@LMC@2019-06-14
+30003946@@@@@@500@@@@1@1@ntucle-docid:139; ntucle-sid:1136@LMC@2019-06-14
+30003947@@@@@@Actual implementation@@@@1@2@ntucle-docid:139; ntucle-sid:1137@LMC@2019-06-14
+30003948@@@@@@Manufacturing of FWDs@@@@1@3@ntucle-docid:139; ntucle-sid:1138@LMC@2019-06-14
+30003949@@@@@@2100000@@@@1@1@ntucle-docid:139; ntucle-sid:1139@LMC@2019-06-14
+30003950@@@@@@Bins at recycling corners@@@@1@4@ntucle-docid:139; ntucle-sid:1140@LMC@2019-06-14
+30003951@@@@@@600@@@@1@1@ntucle-docid:139; ntucle-sid:1141@LMC@2019-06-14
+30003952@@@@@@Campaigns@@@@1@1@ntucle-docid:139; ntucle-sid:1142@LMC@2019-06-14
+30003953@@@@@@2000@@@@1@1@ntucle-docid:139; ntucle-sid:1143@LMC@2019-06-14
+30003954@@@@@@Total cost@@@@1@2@ntucle-docid:139; ntucle-sid:1144@LMC@2019-06-14
+30003955@@@@@@2148200@@@@1@1@ntucle-docid:139; ntucle-sid:1145@LMC@2019-06-14
+30003956@@@@@@Conclusion:@@@@1@1@ntucle-docid:139; ntucle-sid:1146@LMC@2019-06-14
+30003957@@@@@@In conclusion, food wastage has become an increasingly prevalent problem in Singapore.@@@@1@12@ntucle-docid:139; ntucle-sid:1147@LMC@2019-06-14
+30003958@@@@@@Considering the land constraints in Singapore, it is important that an alternative disposal method of food wastage is adopted.@@@@1@19@ntucle-docid:139; ntucle-sid:1148@LMC@2019-06-14
+30003959@@@@@@Implementation of food wastage decomposers (FWD) would not only help with the recycling of food wastage but also allows Singapore to better manage her waste.@@@@1@25@ntucle-docid:139; ntucle-sid:1149@LMC@2019-06-14
+30003960@@@@@@Background:@@@@1@1@ntucle-docid:140; ntucle-sid:1053@LMC@2019-06-14
+30003961@@@@@@Singapore’s healthcare system ranked 1st most efficient globally in 2014 according to the World Health Organisation and Bloomberg (Bloomberg, 2014).@@@@1@20@ntucle-docid:140; ntucle-sid:1054@LMC@2019-06-14
+30003962@@@@@@With only approximately eighteen polyclinics throughout the island and a large population of about 5.47 million (Singapore Department of Statistics, 2014), this may result in a shortage, which could be a challenge to the country.@@@@1@35@ntucle-docid:140; ntucle-sid:1055@LMC@2019-06-14
+30003963@@@@@@Problem:@@@@1@1@ntucle-docid:140; ntucle-sid:1056@LMC@2019-06-14
+30003964@@@@@@The mean waiting times for registration and consultation in polyclinics in the month of June 2015 ranged from 25 to 40 minutes, and 50 minutes to 1 hour 30 minutes respectively.@@@@1@31@ntucle-docid:140; ntucle-sid:1057@LMC@2019-06-14
+30003965@@@@@@(Ministry of Health, 2015).@@@@1@4@ntucle-docid:140; ntucle-sid:1058@LMC@2019-06-14
+30003966@@@@@@With an increasing population in Singapore, as well as the issue of a rapidly ageing population (The Straits Times, 2013), there are not enough public doctors to keep up with the increasing number of patients.@@@@1@35@ntucle-docid:140; ntucle-sid:1059@LMC@2019-06-14
+30003967@@@@@@To reduce the waiting times in polyclinics, self-service kiosks are made available for registering, making payments and appointments.@@@@1@18@ntucle-docid:140; ntucle-sid:1060@LMC@2019-06-14
+30003968@@@@@@(How, 2015) Yet, this is not sufficient to tackle the issue of inefficiency.@@@@1@13@ntucle-docid:140; ntucle-sid:1061@LMC@2019-06-14
+30003969@@@@@@Surveys found decreased satisfaction over polyclinics’ waiting time for consultation, medication collection and payment processes (TodayOnline, 2015), resulting in wastage of time and inefficiencies.@@@@1@24@ntucle-docid:140; ntucle-sid:1062@LMC@2019-06-14
+30003970@@@@@@Therefore, a proposed improvement on current measures is needed.@@@@1@9@ntucle-docid:140; ntucle-sid:1063@LMC@2019-06-14
+30003971@@@@@@Solution:@@@@1@1@ntucle-docid:140; ntucle-sid:1064@LMC@2019-06-14
+30003972@@@@@@The aimed solution is to allow patients to plan ahead of the estimated waiting time for registration and consultation at the polyclinic.@@@@1@22@ntucle-docid:140; ntucle-sid:1065@LMC@2019-06-14
+30003973@@@@@@I propose to design a phone application named “PolyYQ”.@@@@1@9@ntucle-docid:140; ntucle-sid:1066@LMC@2019-06-14
+30003974@@@@@@This application will feature on-the-spot live camera screenings of all polyclinics, its waiting areas at registration and consultation counters.@@@@1@19@ntucle-docid:140; ntucle-sid:1067@LMC@2019-06-14
+30003975@@@@@@This application allows users to navigate with a tab, to the polyclinic of their choice, redirecting them to a live scene of the clinic, allowing patients access the crowd situation.@@@@1@30@ntucle-docid:140; ntucle-sid:1068@LMC@2019-06-14
+30003976@@@@@@In addition, whenever the polyclinic is full and waiting time is approximately 1.5 hours, the tab will appear red.@@@@1@19@ntucle-docid:140; ntucle-sid:1069@LMC@2019-06-14
+30003977@@@@@@When waiting time is less than 30 minutes, it will appear green.@@@@1@12@ntucle-docid:140; ntucle-sid:1070@LMC@2019-06-14
+30003978@@@@@@Patients are now better informed and can manage their time properly before they visit the polyclinic.@@@@1@16@ntucle-docid:140; ntucle-sid:1071@LMC@2019-06-14
+30003979@@@@@@To use this application, users must enable location services on their smartphones, and they would be informed of the next nearest polyclinic, in the case that their desired polyclinic is full.@@@@1@31@ntucle-docid:140; ntucle-sid:1072@LMC@2019-06-14
+30003980@@@@@@For elderly patients, a small hand-held device would be given to them, with the application already installed.@@@@1@17@ntucle-docid:140; ntucle-sid:1073@LMC@2019-06-14
+30003981@@@@@@Small and lightweight, like an iPod nano, this helps them to conveniently keep the device, or hang it around their neck whenever they visit the polyclinic.@@@@1@26@ntucle-docid:140; ntucle-sid:1074@LMC@2019-06-14
+30003982@@@@@@Benefits:@@@@1@1@ntucle-docid:140; ntucle-sid:1075@LMC@2019-06-14
+30003983@@@@@@In this increasingly technologically-advanced age, this application will be largely useful and attractive, especially for youths and working adults.@@@@1@19@ntucle-docid:140; ntucle-sid:1076@LMC@2019-06-14
+30003984@@@@@@As for elderly patients, considering that most of them may not own a smartphone, the device enables them with the same functions.@@@@1@22@ntucle-docid:140; ntucle-sid:1077@LMC@2019-06-14
+30003985@@@@@@This device is also user-friendly as it is a simple one-buttoned device.@@@@1@12@ntucle-docid:140; ntucle-sid:1078@LMC@2019-06-14
+30003986@@@@@@Implementation:@@@@1@1@ntucle-docid:140; ntucle-sid:1079@LMC@2019-06-14
+30003987@@@@@@This application will be designed by a professional software development team@@@@1@11@ntucle-docid:140; ntucle-sid:1080@LMC@2019-06-14
+30003988@@@@@@Available in online smartphone application stores (e.g.@@@@1@7@ntucle-docid:140; ntucle-sid:1081@LMC@2019-06-14
+30003989@@@@@@Apple Store for iPhone users, PlayStore for android users.)@@@@1@9@ntucle-docid:140; ntucle-sid:1082@LMC@2019-06-14
+30003990@@@@@@For the small device, collaboration with manufacturers in the medical industry and Ministry of Health@@@@1@15@ntucle-docid:140; ntucle-sid:1083@LMC@2019-06-14
+30003991@@@@@@Made available at all polyclinics@@@@1@5@ntucle-docid:140; ntucle-sid:1084@LMC@2019-06-14
+30003992@@@@@@Free for elderly aged above 65@@@@1@6@ntucle-docid:140; ntucle-sid:1085@LMC@2019-06-14
+30003993@@@@@@Costs/Budget:@@@@1@1@ntucle-docid:140; ntucle-sid:1086@LMC@2019-06-14
+30003994@@@@@@Application Software Design: $100@@@@1@4@ntucle-docid:140; ntucle-sid:1087@LMC@2019-06-14
+30003995@@@@@@Device Design: $150@@@@1@3@ntucle-docid:140; ntucle-sid:1088@LMC@2019-06-14
+30003996@@@@@@Device Application: $50@@@@1@3@ntucle-docid:140; ntucle-sid:1089@LMC@2019-06-14
+30003997@@@@@@Total Cost: $200@@@@1@3@ntucle-docid:140; ntucle-sid:1090@LMC@2019-06-14
+30003998@@@@@@Conclusion:@@@@1@1@ntucle-docid:140; ntucle-sid:1091@LMC@2019-06-14
+30003999@@@@@@In the healthcare industry, while problems such as long waiting times are often inevitable and impossible to eliminate due to the lack of doctors, land space, lack of manpower etc., the phone application and device can still help to ensure patients’ satisfaction and needs.@@@@1@44@ntucle-docid:140; ntucle-sid:1092@LMC@2019-06-14
+30004000@@@@@@Background:@@@@1@1@ntucle-docid:142; ntucle-sid:1118@LMC@2019-06-14
+30004001@@@@@@A lift is a platform that ascends and descends in a channel, which transports people or items with ease from one level to another higher or lower (Dictionary.com, Thesaurus, 2007)₁.@@@@1@30@ntucle-docid:142; ntucle-sid:1119@LMC@2019-06-14
+30004002@@@@@@People often take lifts out of convenience as an American national survey (National Institute of Standards and Technology, Internal Report, 2006)₂ has shown more people taking lifts than stairs.@@@@1@29@ntucle-docid:142; ntucle-sid:1120@LMC@2019-06-14
+30004003@@@@@@Hence begetting convenience from lifts, the system gets more popular, advanced and implemented into different aspects of our society.@@@@1@19@ntucle-docid:142; ntucle-sid:1121@LMC@2019-06-14
+30004004@@@@@@Problem:@@@@1@1@ntucle-docid:142; ntucle-sid:1122@LMC@2019-06-14
+30004005@@@@@@Yet, there is still an absence of lifts in most of the Halls of Residence (Nanyang Technological University, Undergraduate Housing, 2012)₃ or namely Halls in Nanyang Technological University (NTU).@@@@1@29@ntucle-docid:142; ntucle-sid:1123@LMC@2019-06-14
+30004006@@@@@@As sports is popular among NTU students, there is definitely a risk of movement injuries (Australian Government Sports Commission, Risk in Sport, 2015)₄. Additionally, we have aged adults working staff in most of the halls, with probable movement difficulties.@@@@1@39@ntucle-docid:142; ntucle-sid:1124@LMC@2019-06-14
+30004007@@@@@@Since most of the halls have at least six stories, moving up and down poses as a chore for these aged workers and students.@@@@1@24@ntucle-docid:142; ntucle-sid:1125@LMC@2019-06-14
+30004008@@@@@@Solution:@@@@1@1@ntucle-docid:142; ntucle-sid:1126@LMC@2019-06-14
+30004009@@@@@@Therefore, the objective of this proposal mainly is to facilitate movement of these aged workers and students with movement injuries.@@@@1@20@ntucle-docid:142; ntucle-sid:1127@LMC@2019-06-14
+30004010@@@@@@One lift with 2 units will be built in each residential block, preferably in the middle of each level, for fair and easy access.@@@@1@24@ntucle-docid:142; ntucle-sid:1128@LMC@2019-06-14
+30004011@@@@@@A magnetic card reader will be installed inside and outside the lift at each level, to increase the door opening timespan.@@@@1@21@ntucle-docid:142; ntucle-sid:1129@LMC@2019-06-14
+30004012@@@@@@This magnetic card reader, with a size of a standard card (85.60 x 53.98mm), will be positioned below the ‘door close’ and ‘door open’ buttons for easy access.@@@@1@28@ntucle-docid:142; ntucle-sid:1130@LMC@2019-06-14
+30004013@@@@@@For around 1 to 2 seconds, the workers and students have to tap their staff pass and matriculation cards respectively on the reader, then a notification will be sent into the lift system server, which proceeds to execute the pause.@@@@1@40@ntucle-docid:142; ntucle-sid:1131@LMC@2019-06-14
+30004014@@@@@@The pause will be 15 seconds and it is dependent on the number of taps recorded.@@@@1@16@ntucle-docid:142; ntucle-sid:1132@LMC@2019-06-14
+30004015@@@@@@A camera will also be installed inside and outside the lift to check on the safety of the users and abuses of the lifts.@@@@1@24@ntucle-docid:142; ntucle-sid:1133@LMC@2019-06-14
+30004016@@@@@@Benefits:@@@@1@1@ntucle-docid:142; ntucle-sid:1134@LMC@2019-06-14
+30004017@@@@@@This will probably reap convenience because the aged workers and students are able to move with ease from one floor to another, with relatively reduced risks in suffering from fall and climbing injuries.@@@@1@33@ntucle-docid:142; ntucle-sid:1135@LMC@2019-06-14
+30004018@@@@@@Implementation:@@@@1@1@ntucle-docid:142; ntucle-sid:1136@LMC@2019-06-14
+30004019@@@@@@Accordingly, to fulfil feasibility we have to consult NTU’s board of directors.@@@@1@12@ntucle-docid:142; ntucle-sid:1137@LMC@2019-06-14
+30004020@@@@@@Concurrently, we consult Otis Elevator Company (Otis Elevator (S) Co Pte Ltd)₅, which specialises in lift construction.@@@@1@17@ntucle-docid:142; ntucle-sid:1138@LMC@2019-06-14
+30004021@@@@@@For the card reader and camera, the steps are as follows:@@@@1@11@ntucle-docid:142; ntucle-sid:1139@LMC@2019-06-14
+30004022@@@@@@1@@@@1@1@ntucle-docid:142; ntucle-sid:1140@LMC@2019-06-14
+30004023@@@@@@We will collaborate with Omron Asia Pacific Pte Ltd (OMRON Singapore)₆, that specialises in manufacturing magnetic card reader or sensors to work on the device structure.@@@@1@26@ntucle-docid:142; ntucle-sid:1141@LMC@2019-06-14
+30004024@@@@@@2@@@@1@1@ntucle-docid:142; ntucle-sid:1142@LMC@2019-06-14
+30004025@@@@@@The lift notification server will be handled by Otis Elevator Company.@@@@1@11@ntucle-docid:142; ntucle-sid:1143@LMC@2019-06-14
+30004026@@@@@@3@@@@1@1@ntucle-docid:142; ntucle-sid:1144@LMC@2019-06-14
+30004027@@@@@@We will collaborate with CCTV-Singapore (MicroSwift CCTV – SG)₇ to install their cameras.@@@@1@13@ntucle-docid:142; ntucle-sid:1145@LMC@2019-06-14
+30004028@@@@@@Cost:@@@@1@1@ntucle-docid:142; ntucle-sid:1146@LMC@2019-06-14
+30004029@@@@@@1)Magnetic Card Sensor: $10@@@@1@4@ntucle-docid:142; ntucle-sid:1147@LMC@2019-06-14
+30004030@@@@@@2)Device Components: $100@@@@1@3@ntucle-docid:142; ntucle-sid:1148@LMC@2019-06-14
+30004031@@@@@@3)Closed-Circuit-Television: $200@@@@1@2@ntucle-docid:142; ntucle-sid:1149@LMC@2019-06-14
+30004032@@@@@@4)Lift Construction: $15,000 - $25,000@@@@1@5@ntucle-docid:142; ntucle-sid:1150@LMC@2019-06-14
+30004033@@@@@@Conclusion:@@@@1@1@ntucle-docid:142; ntucle-sid:1151@LMC@2019-06-14
+30004034@@@@@@Despite the high construction and maintenance cost of a lift, finances can be funded and managed by each hall office probably through an increment of hall-stay fee.@@@@1@27@ntucle-docid:142; ntucle-sid:1152@LMC@2019-06-14
+30004035@@@@@@Nonetheless, the proposed lift construction ultimately aims to bring convenience to anyone, especially those with movement difficulty, to enrich hall life.@@@@1@21@ntucle-docid:142; ntucle-sid:1153@LMC@2019-06-14
+30004036@@@@@@The SmartBin@@@@1@2@ntucle-docid:143; ntucle-sid:913@LMC@2019-06-14
+30004037@@@@@@A new way to incentivize recycling@@@@1@6@ntucle-docid:143; ntucle-sid:914@LMC@2019-06-14
+30004038@@@@@@in Singapore@@@@1@2@ntucle-docid:143; ntucle-sid:915@LMC@2019-06-14
+30004039@@@@@@Background@@@@1@1@ntucle-docid:143; ntucle-sid:921@LMC@2019-06-14
+30004040@@@@@@Environmental concerns have dominated public perceptions in the 21st century.@@@@1@10@ntucle-docid:143; ntucle-sid:922@LMC@2019-06-14
+30004041@@@@@@There have been many campaigns to get people to reduce, reuse and recycle.@@@@1@13@ntucle-docid:143; ntucle-sid:923@LMC@2019-06-14
+30004042@@@@@@Recycling in particular receives much attention as the prices of natural resources have been increasing rapidly.@@@@1@16@ntucle-docid:143; ntucle-sid:924@LMC@2019-06-14
+30004043@@@@@@Thus, people are very much aware of the importance of recycling.@@@@1@11@ntucle-docid:143; ntucle-sid:925@LMC@2019-06-14
+30004044@@@@@@Yet they are unwilling to do so.@@@@1@7@ntucle-docid:143; ntucle-sid:926@LMC@2019-06-14
+30004045@@@@@@According to the National Environment Agency’s Waste Statistics and Recycling Rates for 2014, only 9% of plastic waste and 20% of glass waste nationwide were recycled [1].@@@@1@27@ntucle-docid:143; ntucle-sid:927@LMC@2019-06-14
+30004046@@@@@@The figure stands at 52% for paper/cardboard waste, possibly due to the efforts of Karang Guni men to whom people sell their used newspapers to for a token incentive sum.@@@@1@30@ntucle-docid:143; ntucle-sid:928@LMC@2019-06-14
+30004047@@@@@@Problem@@@@1@1@ntucle-docid:143; ntucle-sid:929@LMC@2019-06-14
+30004048@@@@@@Despite numerous government-recycling campaigns, an Asiaone article recently reported that domestic recycling rates have actually dipped to 19% in 2014, down from 22% in 2010 [2].@@@@1@26@ntucle-docid:143; ntucle-sid:930@LMC@2019-06-14
+30004049@@@@@@This is despite the Housing Development Board’s initiative to place common recycling bins in-between every 5 blocks.@@@@1@17@ntucle-docid:143; ntucle-sid:931@LMC@2019-06-14
+30004050@@@@@@However, people may not be willing to go out of their ways to recycle a stack of soda bottles, when they can just throw them away from their in-unit refuse chutes.@@@@1@31@ntucle-docid:143; ntucle-sid:932@LMC@2019-06-14
+30004051@@@@@@Solution@@@@1@1@ntucle-docid:143; ntucle-sid:933@LMC@2019-06-14
+30004052@@@@@@Research conducted by Greenredeem UK has shown that people want to get rewarded for their recycling efforts [3].@@@@1@18@ntucle-docid:143; ntucle-sid:934@LMC@2019-06-14
+30004053@@@@@@As an incentive to get more people to recycle, I propose the SmartBin – a recycling bin that rewards people for their recycling efforts.@@@@1@24@ntucle-docid:143; ntucle-sid:935@LMC@2019-06-14
+30004054@@@@@@When people put their recyclables into the SmartBin, the system would generate a token, which people could use to redeem goodies from sponsors.@@@@1@23@ntucle-docid:143; ntucle-sid:936@LMC@2019-06-14
+30004055@@@@@@The more recyclables a person submits, the more attractive the incentive.@@@@1@11@ntucle-docid:143; ntucle-sid:937@LMC@2019-06-14
+30004056@@@@@@Benefits@@@@1@1@ntucle-docid:143; ntucle-sid:938@LMC@2019-06-14
+30004057@@@@@@By incentivizing recycling, more people will begin to consciously recycle their waste.@@@@1@12@ntucle-docid:143; ntucle-sid:939@LMC@2019-06-14
+30004058@@@@@@When people consciously recycle, they will form a habit.@@@@1@9@ntucle-docid:143; ntucle-sid:940@LMC@2019-06-14
+30004059@@@@@@This in turn will increase the long-term recycling rates in Singapore.@@@@1@11@ntucle-docid:143; ntucle-sid:941@LMC@2019-06-14
+30004060@@@@@@There is also the added bonus of publicity for sponsors, as more and more people get drawn to using their sponsored items.@@@@1@22@ntucle-docid:143; ntucle-sid:942@LMC@2019-06-14
+30004061@@@@@@Implementation@@@@1@1@ntucle-docid:143; ntucle-sid:943@LMC@2019-06-14
+30004062@@@@@@Such a system could make use of existing collection bins that are already separated into different recycling categories.@@@@1@18@ntucle-docid:143; ntucle-sid:944@LMC@2019-06-14
+30004063@@@@@@There will be a tie-up with the HDB to use their existing recycling bins.@@@@1@14@ntucle-docid:143; ntucle-sid:945@LMC@2019-06-14
+30004064@@@@@@One simply has to attach a weighing unit, power unit and a display unit to a bin to set up the system.@@@@1@22@ntucle-docid:143; ntucle-sid:946@LMC@2019-06-14
+30004065@@@@@@The system takes note of the final and initial weight of the recyclables to calculate the weight of materials submitted.@@@@1@20@ntucle-docid:143; ntucle-sid:947@LMC@2019-06-14
+30004066@@@@@@The display then generates a QR code with instructions on prize redemption.@@@@1@12@ntucle-docid:143; ntucle-sid:948@LMC@2019-06-14
+30004067@@@@@@The key here is to make the incentive something attractive, which all people could use, such as supermarket vouchers.@@@@1@19@ntucle-docid:143; ntucle-sid:949@LMC@2019-06-14
+30004068@@@@@@Costs/Budget Considerations@@@@1@2@ntucle-docid:143; ntucle-sid:950@LMC@2019-06-14
+30004069@@@@@@Software Design : $ 1500@@@@1@5@ntucle-docid:143; ntucle-sid:951@LMC@2019-06-14
+30004070@@@@@@Hardware Design : $ 3000@@@@1@5@ntucle-docid:143; ntucle-sid:952@LMC@2019-06-14
+30004071@@@@@@Manufacturing 100 Bins : $20000@@@@1@5@ntucle-docid:143; ntucle-sid:953@LMC@2019-06-14
+30004072@@@@@@Installation Cost for 100 Bins : $ 500@@@@1@8@ntucle-docid:143; ntucle-sid:954@LMC@2019-06-14
+30004073@@@@@@Total Cost for 100 Bins : $24000@@@@1@7@ntucle-docid:143; ntucle-sid:955@LMC@2019-06-14
+30004074@@@@@@Conclusion@@@@1@1@ntucle-docid:143; ntucle-sid:956@LMC@2019-06-14
+30004075@@@@@@By giving people an incentive to recycling, we aim to get people from all sectors to recycle.@@@@1@17@ntucle-docid:143; ntucle-sid:957@LMC@2019-06-14
+30004076@@@@@@As more people start to consciously recycle, they would cultivate a habit of recycling.@@@@1@14@ntucle-docid:143; ntucle-sid:958@LMC@2019-06-14
+30004077@@@@@@This in turn would boost our national recycling rates.@@@@1@9@ntucle-docid:143; ntucle-sid:959@LMC@2019-06-14
+30004078@@@@@@Mapping NTU@@@@1@2@ntucle-docid:144; ntucle-sid:967@LMC@2019-06-14
+30004079@@@@@@Date of Submission:@@@@1@3@ntucle-docid:144; ntucle-sid:971@LMC@2019-06-14
+30004080@@@@@@BACKGROUND@@@@1@1@ntucle-docid:144; ntucle-sid:972@LMC@2019-06-14
+30004081@@@@@@Navigation in and out of buildings is amongst the primary concerns of students at NTU.@@@@1@15@ntucle-docid:144; ntucle-sid:973@LMC@2019-06-14
+30004082@@@@@@There have been several instances where students entered the wrong building despite directions being provided, and reached late for their classes.@@@@1@21@ntucle-docid:144; ntucle-sid:974@LMC@2019-06-14
+30004083@@@@@@NTU’s recent jump [1] in status calls for a better set of facilities and services for its students.@@@@1@18@ntucle-docid:144; ntucle-sid:975@LMC@2019-06-14
+30004084@@@@@@PROBLEM@@@@1@1@ntucle-docid:144; ntucle-sid:976@LMC@2019-06-14
+30004085@@@@@@NTU Campus Map has some prominent flaws; its 2-dimensional floor layout is highly incomprehensible and is based on an outdated technology.@@@@1@21@ntucle-docid:144; ntucle-sid:977@LMC@2019-06-14
+30004086@@@@@@Features such as Street View do not function inside buildings [2].@@@@1@11@ntucle-docid:144; ntucle-sid:978@LMC@2019-06-14
+30004087@@@@@@Moreover, NTU Campus Map is not available for every operating system (OS).@@@@1@12@ntucle-docid:144; ntucle-sid:979@LMC@2019-06-14
+30004088@@@@@@Hence, students are often late because they lose their way to classes.@@@@1@12@ntucle-docid:144; ntucle-sid:980@LMC@2019-06-14
+30004089@@@@@@An interactive mobile application packed with updated technology will therefore ensure that students get to their classes quickly with a few touches.@@@@1@22@ntucle-docid:144; ntucle-sid:981@LMC@2019-06-14
+30004090@@@@@@SOLUTION@@@@1@1@ntucle-docid:144; ntucle-sid:982@LMC@2019-06-14
+30004091@@@@@@The proposal is to develop a smart mobile app that will cater to the needs of students on campus.@@@@1@19@ntucle-docid:144; ntucle-sid:983@LMC@2019-06-14
+30004092@@@@@@The application will require students to login using iNTU login details.@@@@1@11@ntucle-docid:144; ntucle-sid:984@LMC@2019-06-14
+30004093@@@@@@This will help the application to retrieve and store useful information about the students such as their STARS PLANNER and the location of their classes.@@@@1@25@ntucle-docid:144; ntucle-sid:985@LMC@2019-06-14
+30004094@@@@@@Hence, the users would not need to type in their classroom destinations.@@@@1@12@ntucle-docid:144; ntucle-sid:986@LMC@2019-06-14
+30004095@@@@@@Mapping NTU will also include an advanced version of NTU Campus Map which will display 360° Panoramic View of buildings, streets and floor layouts around campus.@@@@1@26@ntucle-docid:144; ntucle-sid:987@LMC@2019-06-14
+30004096@@@@@@Lastly, the App will feature voice navigation and GPS tracking to ease students’ journey to classes in a shorter time.@@@@1@20@ntucle-docid:144; ntucle-sid:988@LMC@2019-06-14
+30004097@@@@@@BENEFITS@@@@1@1@ntucle-docid:144; ntucle-sid:989@LMC@2019-06-14
+30004098@@@@@@Mapping NTU will be tailored for students travelling inside campus and hence, is specifically for NTU and NIE students.@@@@1@19@ntucle-docid:144; ntucle-sid:990@LMC@2019-06-14
+30004099@@@@@@The app aims at ensuring that students find their way and reach their classes in time.@@@@1@16@ntucle-docid:144; ntucle-sid:991@LMC@2019-06-14
+30004100@@@@@@Mapping NTU will also be useful for freshmen and exchange students, since they are not accustomed to the places around campus.@@@@1@21@ntucle-docid:144; ntucle-sid:992@LMC@2019-06-14
+30004101@@@@@@IMPLEMENTATION@@@@1@1@ntucle-docid:144; ntucle-sid:993@LMC@2019-06-14
+30004102@@@@@@A team of photographers, map developers and software developers will coordinate to build the mobile app using the following steps:@@@@1@20@ntucle-docid:144; ntucle-sid:994@LMC@2019-06-14
+30004103@@@@@@1) Overlapping panoramic photographs of streets, buildings and in-building pathways will be captured using a panoramic camera.@@@@1@17@ntucle-docid:144; ntucle-sid:995@LMC@2019-06-14
+30004104@@@@@@2) These overlapping photographs will be digitally stitched together to create a 360° view.@@@@1@14@ntucle-docid:144; ntucle-sid:996@LMC@2019-06-14
+30004105@@@@@@3) To construct 3D models of nearby objects, two laser sensors will send impulses and measure how quickly signals from such surfaces are reflected.@@@@1@24@ntucle-docid:144; ntucle-sid:997@LMC@2019-06-14
+30004106@@@@@@4) Map developers will then use the overlapping photographs and reflection data to constitute the 360° Panoramic View.@@@@1@18@ntucle-docid:144; ntucle-sid:998@LMC@2019-06-14
+30004107@@@@@@5) A software development team will add voice-navigation and GPS tracking to 360° Panoramic View and develop the mobile app for Windows, iOS, and Android Operating System.@@@@1@27@ntucle-docid:144; ntucle-sid:999@LMC@2019-06-14
+30004108@@@@@@COST@@@@1@1@ntucle-docid:144; ntucle-sid:1000@LMC@2019-06-14
+30004109@@@@@@Panoramic Camera: $150@@@@1@3@ntucle-docid:144; ntucle-sid:1001@LMC@2019-06-14
+30004110@@@@@@Motion Sensors: $70@@@@1@3@ntucle-docid:144; ntucle-sid:1002@LMC@2019-06-14
+30004111@@@@@@Database and accessories: $60@@@@1@4@ntucle-docid:144; ntucle-sid:1003@LMC@2019-06-14
+30004112@@@@@@Software Development: $300@@@@1@3@ntucle-docid:144; ntucle-sid:1004@LMC@2019-06-14
+30004113@@@@@@Total Cost: $580@@@@1@3@ntucle-docid:144; ntucle-sid:1005@LMC@2019-06-14
+30004114@@@@@@CONCLUSION@@@@1@1@ntucle-docid:144; ntucle-sid:1006@LMC@2019-06-14
+30004115@@@@@@Mapping NTU will help students find their way to their classes and save them time and energy.@@@@1@17@ntucle-docid:144; ntucle-sid:1007@LMC@2019-06-14
+30004116@@@@@@Mapping NTU utilizes new technology and hence investing in it will produce durable results for the university.@@@@1@17@ntucle-docid:144; ntucle-sid:1008@LMC@2019-06-14
+30004117@@@@@@Plagiarism declaration form@@@@1@3@ntucle-docid:144; ntucle-sid:1014@LMC@2019-06-14
+30004118@@@@@@Assignment title: Short technical proposal@@@@1@5@ntucle-docid:144; ntucle-sid:1016@LMC@2019-06-14
+30004119@@@@@@Student’s (official) name:@@@@1@3@ntucle-docid:144; ntucle-sid:1018@LMC@2019-06-14
+30004120@@@@@@Declaration@@@@1@1@ntucle-docid:144; ntucle-sid:1022@LMC@2019-06-14
+30004121@@@@@@I/We have read and understood the guidelines on academic dishonesty as found at http://www.plagiarism.org/and the penalties for academic dishonesty (seeGeneral instructions), and declare that this assignment is my own work and does not involve plagiarism or collusion according to the University’s honour code and pledge.@@@@1@45@ntucle-docid:144; ntucle-sid:1023@LMC@2019-06-14
+30004122@@@@@@The sources of other people’s work have been appropriately referenced.@@@@1@10@ntucle-docid:144; ntucle-sid:1024@LMC@2019-06-14
+30004123@@@@@@I have also not submitted any part of this assignment for another course.@@@@1@13@ntucle-docid:144; ntucle-sid:1025@LMC@2019-06-14
+30004124@@@@@@I/We give our consent for our assignment to be used for teaching or research purposes.@@@@1@15@ntucle-docid:144; ntucle-sid:1026@LMC@2019-06-14
+30004125@@@@@@Student’s signature: Date:@@@@1@3@ntucle-docid:144; ntucle-sid:1027@LMC@2019-06-14
+30004126@@@@@@Student’s signature:@@@@1@2@ntucle-docid:144; ntucle-sid:1028@LMC@2019-06-14
+30004127@@@@@@Note:The assignment will not be marked unless all this form is completed and signed.@@@@1@14@ntucle-docid:144; ntucle-sid:1029@LMC@2019-06-14
+30004128@@@@@@Penalties will be imposed for late submissions and plagiarism.@@@@1@9@ntucle-docid:144; ntucle-sid:1030@LMC@2019-06-14
+30004129@@@@@@Please refer to the General instructions for details.@@@@1@8@ntucle-docid:144; ntucle-sid:1031@LMC@2019-06-14
+30004130@@@@@@Ez-Link Mobile App (E-zapp)@@@@1@4@ntucle-docid:145; ntucle-sid:907@LMC@2019-06-14
+30004131@@@@@@Background@@@@1@1@ntucle-docid:145; ntucle-sid:908@LMC@2019-06-14
+30004132@@@@@@Transportation plays a very important part in everyone’s life.@@@@1@9@ntucle-docid:145; ntucle-sid:909@LMC@2019-06-14
+30004133@@@@@@According to the national statistics, average utilization of public transport is about 6,356,000 passenger trip per day [1].@@@@1@18@ntucle-docid:145; ntucle-sid:910@LMC@2019-06-14
+30004134@@@@@@Majority of the commuters use EZ-link cards to pay for their fares.@@@@1@12@ntucle-docid:145; ntucle-sid:911@LMC@2019-06-14
+30004135@@@@@@EZ-link cards are contactless smartcards where users will load some value into the card before using it for payments [2].@@@@1@20@ntucle-docid:145; ntucle-sid:912@LMC@2019-06-14
+30004136@@@@@@Low card value has always been a problem for commuters using EZ-link card.@@@@1@13@ntucle-docid:145; ntucle-sid:913@LMC@2019-06-14
+30004137@@@@@@Commuters usually tap in and out of the gantry and card reader, without taking a closer look at their card value.@@@@1@21@ntucle-docid:145; ntucle-sid:914@LMC@2019-06-14
+30004138@@@@@@Problem@@@@1@1@ntucle-docid:145; ntucle-sid:915@LMC@2019-06-14
+30004139@@@@@@While card readers do signal to the commuters when their card values are running low, people tend to overlook this trivial matter.@@@@1@22@ntucle-docid:145; ntucle-sid:916@LMC@2019-06-14
+30004140@@@@@@Whenever there is low card value, commuters will have to queue up at top-up stations to top-up their cards.@@@@1@19@ntucle-docid:145; ntucle-sid:917@LMC@2019-06-14
+30004141@@@@@@Majority of the commuters will definitely find this troublesome and time consuming.@@@@1@12@ntucle-docid:145; ntucle-sid:918@LMC@2019-06-14
+30004142@@@@@@Furthermore, when EZ-link cards have insufficient values, commuters are not allowed to enter the MRT gantry or board the bus, causing inconvenience to them.@@@@1@24@ntucle-docid:145; ntucle-sid:919@LMC@2019-06-14
+30004143@@@@@@Current online reload service requires commuters to purchase an external card reader and install it into their computers [3].@@@@1@19@ntucle-docid:145; ntucle-sid:920@LMC@2019-06-14
+30004144@@@@@@Commuters are deterred from using this service as they have to spend extra cash and trouble to get an EZ-link card reader and installing it in order to enjoy this convenience.@@@@1@31@ntucle-docid:145; ntucle-sid:921@LMC@2019-06-14
+30004145@@@@@@Solution@@@@1@1@ntucle-docid:145; ntucle-sid:922@LMC@2019-06-14
+30004146@@@@@@A secured mobile application can be developed to allow commuters to check their card value, top-up their card on the go and even report a lost or stolen card.@@@@1@29@ntucle-docid:145; ntucle-sid:923@LMC@2019-06-14
+30004147@@@@@@Commuters will first set-up an account and register their card using the unique C.A.N number found at the back of EZ-link card.@@@@1@22@ntucle-docid:145; ntucle-sid:924@LMC@2019-06-14
+30004148@@@@@@Data of the card such as the balanced value will be stored in the account and linked to the mobile application.@@@@1@21@ntucle-docid:145; ntucle-sid:925@LMC@2019-06-14
+30004149@@@@@@When commuters open the mobile application, they will enter a four digits passcode before proceeding to the home page.@@@@1@19@ntucle-docid:145; ntucle-sid:926@LMC@2019-06-14
+30004150@@@@@@To top-up the card, commuters will enter the value to top-up and the bill will be charged to their credit or debit card.@@@@1@23@ntucle-docid:145; ntucle-sid:927@LMC@2019-06-14
+30004151@@@@@@The new balance will be reflected immediately.@@@@1@7@ntucle-docid:145; ntucle-sid:928@LMC@2019-06-14
+30004152@@@@@@When commuters misplaced their card, they can suspend it and the stored value will be transferred to their new card.@@@@1@20@ntucle-docid:145; ntucle-sid:929@LMC@2019-06-14
+30004153@@@@@@Benefits@@@@1@1@ntucle-docid:145; ntucle-sid:930@LMC@2019-06-14
+30004154@@@@@@This allows commuters to check the stored value and top-up their EZ-link card during their free time.@@@@1@17@ntucle-docid:145; ntucle-sid:931@LMC@2019-06-14
+30004155@@@@@@This reduces the hassle of queuing at the top-up kiosk, saving commuters’ time and avoid a delay of journey.@@@@1@19@ntucle-docid:145; ntucle-sid:932@LMC@2019-06-14
+30004156@@@@@@This also results in a shorter queues for commuters who do not have access to this application.@@@@1@17@ntucle-docid:145; ntucle-sid:933@LMC@2019-06-14
+30004157@@@@@@Cost@@@@1@1@ntucle-docid:145; ntucle-sid:934@LMC@2019-06-14
+30004158@@@@@@App development: $130,000 to $250,000 [4]@@@@1@6@ntucle-docid:145; ntucle-sid:935@LMC@2019-06-14
+30004159@@@@@@Implementation@@@@1@1@ntucle-docid:145; ntucle-sid:936@LMC@2019-06-14
+30004160@@@@@@The process of developing an application will be:@@@@1@8@ntucle-docid:145; ntucle-sid:937@LMC@2019-06-14
+30004161@@@@@@1@@@@1@1@ntucle-docid:145; ntucle-sid:938@LMC@2019-06-14
+30004162@@@@@@Hire an application developer to design a highly secured mobile application.@@@@1@11@ntucle-docid:145; ntucle-sid:939@LMC@2019-06-14
+30004163@@@@@@2@@@@1@1@ntucle-docid:145; ntucle-sid:940@LMC@2019-06-14
+30004164@@@@@@Collaborate with banks for their online payment services.@@@@1@8@ntucle-docid:145; ntucle-sid:941@LMC@2019-06-14
+30004165@@@@@@3@@@@1@1@ntucle-docid:145; ntucle-sid:942@LMC@2019-06-14
+30004166@@@@@@Application will roll out in phases as the system improves to handle larger usage.@@@@1@14@ntucle-docid:145; ntucle-sid:943@LMC@2019-06-14
+30004167@@@@@@Conclusion@@@@1@1@ntucle-docid:145; ntucle-sid:944@LMC@2019-06-14
+30004168@@@@@@This new development will definitely bring about greater convenience to majority of commuters, allowing them to have a smooth and enjoyable journey on public transport, without worrying for “low card value” situation.@@@@1@32@ntucle-docid:145; ntucle-sid:945@LMC@2019-06-14
+30004169@@@@@@Dual-display Television – The Better Television@@@@1@6@ntucle-docid:146; ntucle-sid:957@LMC@2019-06-14
+30004170@@@@@@Background@@@@1@1@ntucle-docid:146; ntucle-sid:958@LMC@2019-06-14
+30004171@@@@@@Watching television has always been a favourite pastime of many people, irrespective of genders and ages.@@@@1@16@ntucle-docid:146; ntucle-sid:959@LMC@2019-06-14
+30004172@@@@@@According to a study targeting adults in 2004, Europeans watched about 3.75 hours while Americans spent almost 21% of their times watching television daily.@@@@1@24@ntucle-docid:146; ntucle-sid:960@LMC@2019-06-14
+30004173@@@@@@[1] Besides that, a study conducted in Brazil verifies that 60% of children below 8 watch more than 2 hours daily, out of 616 children with almost equal number of both genders.@@@@1@32@ntucle-docid:146; ntucle-sid:961@LMC@2019-06-14
+30004174@@@@@@[2] Hence, quarrel is sometimes unavoidable among family members who have contrasting preferences of programmes.@@@@1@15@ntucle-docid:146; ntucle-sid:962@LMC@2019-06-14
+30004175@@@@@@Problem@@@@1@1@ntucle-docid:146; ntucle-sid:963@LMC@2019-06-14
+30004176@@@@@@Each one would snatch the television remote controller away from others to watch the programme he desires, engendering deterioration of family relations.@@@@1@22@ntucle-docid:146; ntucle-sid:964@LMC@2019-06-14
+30004177@@@@@@A person watching television might deliberately turn up the volume of the speakers, affecting others who want to focus on their studies or work.@@@@1@24@ntucle-docid:146; ntucle-sid:965@LMC@2019-06-14
+30004178@@@@@@For two users watching different channels simultaneously on the same screen, a conventional method would be split-screen viewing, which results in smaller yet confusing display.@@@@1@25@ntucle-docid:146; ntucle-sid:966@LMC@2019-06-14
+30004179@@@@@@Solution@@@@1@1@ntucle-docid:146; ntucle-sid:967@LMC@2019-06-14
+30004180@@@@@@The dual-display technology blends two display inputs into one single output.@@@@1@11@ntucle-docid:146; ntucle-sid:968@LMC@2019-06-14
+30004181@@@@@@The screen has alternating rows (or columns) of pixels emitting polarised light in perpendicular directions, displaying the output of corresponding images.@@@@1@21@ntucle-docid:146; ntucle-sid:969@LMC@2019-06-14
+30004182@@@@@@Users wearing polarisers only see one particular image.@@@@1@8@ntucle-docid:146; ntucle-sid:970@LMC@2019-06-14
+30004183@@@@@@Therefore, two people can utilise the television at the same instant.@@@@1@11@ntucle-docid:146; ntucle-sid:971@LMC@2019-06-14
+30004184@@@@@@To address the problem of different sounds produced, television viewers will have to wear wireless headphones accordingly.@@@@1@17@ntucle-docid:146; ntucle-sid:972@LMC@2019-06-14
+30004185@@@@@@Benefits@@@@1@1@ntucle-docid:146; ntucle-sid:973@LMC@2019-06-14
+30004186@@@@@@Not only users can watch two programmes simultaneously, innovation further leads to better gaming experience.@@@@1@15@ntucle-docid:146; ntucle-sid:974@LMC@2019-06-14
+30004187@@@@@@Gamers no longer would view another player’s screen and cheat unintentionally.@@@@1@11@ntucle-docid:146; ntucle-sid:975@LMC@2019-06-14
+30004188@@@@@@Putting on the headphones, users can now listen to their programmes loudly without creating noises to their companions.@@@@1@18@ntucle-docid:146; ntucle-sid:976@LMC@2019-06-14
+30004189@@@@@@Also, viewers can leave shortly for a snack or for toilet and still do not lose track.@@@@1@17@ntucle-docid:146; ntucle-sid:977@LMC@2019-06-14
+30004190@@@@@@Implementation@@@@1@1@ntucle-docid:146; ntucle-sid:978@LMC@2019-06-14
+30004191@@@@@@To put this proposal into work, the following steps are to be implemented:@@@@1@13@ntucle-docid:146; ntucle-sid:979@LMC@2019-06-14
+30004192@@@@@@1@@@@1@1@ntucle-docid:146; ntucle-sid:980@LMC@2019-06-14
+30004193@@@@@@We will collaborate with a television screen manufacturer to create a prototype which integrates alternating pixels emitting differently-polarised light.@@@@1@19@ntucle-docid:146; ntucle-sid:981@LMC@2019-06-14
+30004194@@@@@@2@@@@1@1@ntucle-docid:146; ntucle-sid:982@LMC@2019-06-14
+30004195@@@@@@A semi-product with bigger screen size and higher resolution will be built and put to ability test.@@@@1@17@ntucle-docid:146; ntucle-sid:983@LMC@2019-06-14
+30004196@@@@@@3@@@@1@1@ntucle-docid:146; ntucle-sid:984@LMC@2019-06-14
+30004197@@@@@@Polariser glasses will be supplied by a glasses manufacturing company, which come in various colours and sizes, for adults and children.@@@@1@21@ntucle-docid:146; ntucle-sid:985@LMC@2019-06-14
+30004198@@@@@@4@@@@1@1@ntucle-docid:146; ntucle-sid:986@LMC@2019-06-14
+30004199@@@@@@Headphones will be outsourced by other electronic companies.@@@@1@8@ntucle-docid:146; ntucle-sid:987@LMC@2019-06-14
+30004200@@@@@@Cost@@@@1@1@ntucle-docid:146; ntucle-sid:988@LMC@2019-06-14
+30004201@@@@@@Television screen manufacturing $1,500@@@@1@4@ntucle-docid:146; ntucle-sid:989@LMC@2019-06-14
+30004202@@@@@@Polariser glasses manufacturing $10@@@@1@4@ntucle-docid:146; ntucle-sid:990@LMC@2019-06-14
+30004203@@@@@@Headphones manufacturing $5@@@@1@3@ntucle-docid:146; ntucle-sid:991@LMC@2019-06-14
+30004204@@@@@@Overhead cost $30@@@@1@3@ntucle-docid:146; ntucle-sid:992@LMC@2019-06-14
+30004205@@@@@@Total $1,545@@@@1@2@ntucle-docid:146; ntucle-sid:993@LMC@2019-06-14
+30004206@@@@@@Conclusion@@@@1@1@ntucle-docid:146; ntucle-sid:994@LMC@2019-06-14
+30004207@@@@@@In general, the dual-display television reduces the negative impact caused by unequal television viewing in families.@@@@1@16@ntucle-docid:146; ntucle-sid:995@LMC@2019-06-14
+30004208@@@@@@It does not require them to purchase two television sets in a household.@@@@1@13@ntucle-docid:146; ntucle-sid:996@LMC@2019-06-14
+30004209@@@@@@What it can accomplish is drawing the family members more closely together while viewing each favourite programme.@@@@1@17@ntucle-docid:146; ntucle-sid:997@LMC@2019-06-14
+30004210@@@@@@In short, this provides a very good example of how modern technology is able to transform our life into a better life.@@@@1@22@ntucle-docid:146; ntucle-sid:998@LMC@2019-06-14
+30004211@@@@@@Background:@@@@1@1@ntucle-docid:148; ntucle-sid:928@LMC@2019-06-14
+30004212@@@@@@Living in Singapore, the ease of obtaining food makes it hard to notice the large amounts of food wasted.@@@@1@19@ntucle-docid:148; ntucle-sid:929@LMC@2019-06-14
+30004213@@@@@@Food waste is a major problem in Singapore that leads to wastage of resources.@@@@1@14@ntucle-docid:148; ntucle-sid:930@LMC@2019-06-14
+30004214@@@@@@A video-documentary by Channel News Asia showed how food suppliers and restaurants easily discard food products and dishes that are not perfect-looking or unsold (Trouble in Food Paradise).@@@@1@28@ntucle-docid:148; ntucle-sid:931@LMC@2019-06-14
+30004215@@@@@@In a report by student journalists, banquet staff revealed that an estimated 30% of food is discarded (Low & Aw, 2010).@@@@1@21@ntucle-docid:148; ntucle-sid:932@LMC@2019-06-14
+30004216@@@@@@These result in large amounts of wasted edible food and resources, while close to 400,000 Singaporeans struggle to live on $5 daily for food and transport in one of the world’s costliest countries (Leyl, 2014).@@@@1@35@ntucle-docid:148; ntucle-sid:933@LMC@2019-06-14
+30004217@@@@@@Therefore, it is essential that more attention be paid to the issue of food waste.@@@@1@15@ntucle-docid:148; ntucle-sid:934@LMC@2019-06-14
+30004218@@@@@@Problem:@@@@1@1@ntucle-docid:148; ntucle-sid:935@LMC@2019-06-14
+30004219@@@@@@Currently, there are some improvements made by supermarkets to sell cosmetically imperfect food at lower prices.@@@@1@16@ntucle-docid:148; ntucle-sid:936@LMC@2019-06-14
+30004220@@@@@@Additionally, Food from the Heart and Food Bank Singapore collects non-perishables and unsold bread to distribute to the needy.@@@@1@19@ntucle-docid:148; ntucle-sid:937@LMC@2019-06-14
+30004221@@@@@@However, this is insufficient to counter food waste, which has grown by 45% (Tay, 2014) compared to a 31% population growth within 10 years (Population and Population Growth, 2015).@@@@1@29@ntucle-docid:148; ntucle-sid:938@LMC@2019-06-14
+30004222@@@@@@Thus, further action is needed to remediate the food waste situation.@@@@1@11@ntucle-docid:148; ntucle-sid:939@LMC@2019-06-14
+30004223@@@@@@Solution:@@@@1@1@ntucle-docid:148; ntucle-sid:940@LMC@2019-06-14
+30004224@@@@@@Given the widespread smartphone usage and the ease of real-time sharing on applications, the implementation of the "Share to save" can reduce food wastage by making distribution convenient.@@@@1@28@ntucle-docid:148; ntucle-sid:941@LMC@2019-06-14
+30004225@@@@@@Food retailers can post food to be discarded onto Share-To-Save, for charities and their beneficiaries to pick-up directly.@@@@1@18@ntucle-docid:148; ntucle-sid:942@LMC@2019-06-14
+30004226@@@@@@Posts are categorised into ingredients, banquets and restaurants, bread, and non-perishables.@@@@1@11@ntucle-docid:148; ntucle-sid:943@LMC@2019-06-14
+30004227@@@@@@Additionally, a location filter enables alternative categorisation by location, allowing recipients to quickly identify nearby suppliers.@@@@1@16@ntucle-docid:148; ntucle-sid:944@LMC@2019-06-14
+30004228@@@@@@Also, when suppliers are looking to quickly give away their food – such as cooked food which has a limited consumption period, suppliers can set a limited collection time frame as well as open up collection for all members of the public.@@@@1@42@ntucle-docid:148; ntucle-sid:945@LMC@2019-06-14
+30004229@@@@@@Figure 1 Layout for Share-To Save (Wikimedia), (Lebensmittelfotos), (Niekverlaan)@@@@1@9@ntucle-docid:148; ntucle-sid:946@LMC@2019-06-14
+30004230@@@@@@Benefits:@@@@1@1@ntucle-docid:148; ntucle-sid:947@LMC@2019-06-14
+30004231@@@@@@Share-To-Save boosts efficiency and variety of distributable food.@@@@1@8@ntucle-docid:148; ntucle-sid:948@LMC@2019-06-14
+30004232@@@@@@Currently, Food Bank Singapore and Food From The Heart needs to collect, stock before delivering them to charities for redistribution (The Food Bank Singapore Ltd, 2014) (Food from the Heart, n.d.).@@@@1@31@ntucle-docid:148; ntucle-sid:949@LMC@2019-06-14
+30004233@@@@@@This longer supply chain limits distributable food to mainly non-perishables.@@@@1@10@ntucle-docid:148; ntucle-sid:950@LMC@2019-06-14
+30004234@@@@@@However, Share-To-Save enables quick distribution of most perishables too.@@@@1@9@ntucle-docid:148; ntucle-sid:951@LMC@2019-06-14
+30004235@@@@@@Most importantly, food redistribution becomes much more accessible and convenient for suppliers, thereby reducing food wastage.@@@@1@16@ntucle-docid:148; ntucle-sid:952@LMC@2019-06-14
+30004236@@@@@@Implementation:@@@@1@1@ntucle-docid:148; ntucle-sid:953@LMC@2019-06-14
+30004237@@@@@@The following steps will be taken:@@@@1@6@ntucle-docid:148; ntucle-sid:954@LMC@2019-06-14
+30004238@@@@@@1@@@@1@1@ntucle-docid:148; ntucle-sid:955@LMC@2019-06-14
+30004239@@@@@@Collaborate with computing degree students to create and maintain Share-To-Save as part of their Final-Year-Projects or community service.@@@@1@18@ntucle-docid:148; ntucle-sid:956@LMC@2019-06-14
+30004240@@@@@@2@@@@1@1@ntucle-docid:148; ntucle-sid:957@LMC@2019-06-14
+30004241@@@@@@For sustainability, we will use Google Ads or collaborate with companies for their Corporate Social Responsibility and provide advertisement placements in exchange.@@@@1@22@ntucle-docid:148; ntucle-sid:958@LMC@2019-06-14
+30004242@@@@@@3@@@@1@1@ntucle-docid:148; ntucle-sid:959@LMC@2019-06-14
+30004243@@@@@@Sharing Share-To-Save with food distribution wings of charities like MINDS and Singapore Children’s Society and their beneficiaries.@@@@1@17@ntucle-docid:148; ntucle-sid:960@LMC@2019-06-14
+30004244@@@@@@Costs:@@@@1@1@ntucle-docid:148; ntucle-sid:961@LMC@2019-06-14
+30004245@@@@@@Placing Share-To-Save in Apple Store USD$99/year (Mackenzie, 2012)@@@@1@8@ntucle-docid:148; ntucle-sid:962@LMC@2019-06-14
+30004246@@@@@@Registering Share-To-Save in Google Play USD$25 (Mackenzie, 2012)@@@@1@8@ntucle-docid:148; ntucle-sid:963@LMC@2019-06-14
+30004247@@@@@@Conclusion:@@@@1@1@ntucle-docid:148; ntucle-sid:964@LMC@2019-06-14
+30004248@@@@@@Despite current efforts, food wastage remains a pertinent and growing issue while the needy struggle to cope with high costs.@@@@1@20@ntucle-docid:148; ntucle-sid:965@LMC@2019-06-14
+30004249@@@@@@Until there is heightened public awareness and remedial plans for food wastage, Share-To-Save will be instrumental in bridging inequity due to food waste in Singapore.@@@@1@25@ntucle-docid:148; ntucle-sid:966@LMC@2019-06-14
+30004250@@@@@@ASSIGNMENT 1@@@@1@2@ntucle-docid:149; ntucle-sid:1006@LMC@2019-06-14
+30004251@@@@@@Implementation of automated ramp on SBS buses@@@@1@7@ntucle-docid:149; ntucle-sid:1008@LMC@2019-06-14
+30004252@@@@@@Implementation of automated ramp on SBS buses@@@@1@7@ntucle-docid:149; ntucle-sid:1012@LMC@2019-06-14
+30004253@@@@@@Background:@@@@1@1@ntucle-docid:149; ntucle-sid:1013@LMC@2019-06-14
+30004254@@@@@@Although Singapore continue to experience economic growth and the welfare of the people has increased, ageing population remains a challenge to be solve.@@@@1@23@ntucle-docid:149; ntucle-sid:1014@LMC@2019-06-14
+30004255@@@@@@There will be a smaller ratio of working adults to each elderly above 65, from 13.5 in 1970 to 5.5 in 2013.i Some elderly will find it hard to access to the outside world as they need to sit on wheelchair due to sickness or accidents.@@@@1@46@ntucle-docid:149; ntucle-sid:1015@LMC@2019-06-14
+30004256@@@@@@Problem:@@@@1@1@ntucle-docid:149; ntucle-sid:1016@LMC@2019-06-14
+30004257@@@@@@Singapore Bus Services (SBS) offered wheelchair-accessible bus so that passenger in wheelchair will have a greater accessibility.@@@@1@17@ntucle-docid:149; ntucle-sid:1017@LMC@2019-06-14
+30004258@@@@@@Currently, 90% of SBS bus services are wheelchair-friendly.ii However, the ramp on these buses need to be operated manually by the bus captain.@@@@1@23@ntucle-docid:149; ntucle-sid:1018@LMC@2019-06-14
+30004259@@@@@@Whenever there is a passenger in wheelchair who want to board the bus, the bus captain will have to open the rear door, put down the ramp physically and then push the person inside (Fig.1).@@@@1@35@ntucle-docid:149; ntucle-sid:1019@LMC@2019-06-14
+30004260@@@@@@The front door will not be open in the meantime and the people outside will have to wait for a longer time (5-10minutes).@@@@1@23@ntucle-docid:149; ntucle-sid:1020@LMC@2019-06-14
+30004261@@@@@@The time waiting may cause inconvenience to the other passengers especially during peak hours (7-9am) and (5-7pm).@@@@1@17@ntucle-docid:149; ntucle-sid:1021@LMC@2019-06-14
+30004262@@@@@@Solution:@@@@1@1@ntucle-docid:149; ntucle-sid:1022@LMC@2019-06-14
+30004263@@@@@@The ramp can be modified to become automated instead.@@@@1@9@ntucle-docid:149; ntucle-sid:1023@LMC@2019-06-14
+30004264@@@@@@The bus captain can press a button for the ramp to be remotely put down for the passenger in wheelchair to come up the bus (Fig.2).@@@@1@26@ntucle-docid:149; ntucle-sid:1024@LMC@2019-06-14
+30004265@@@@@@The button can be placed near the steering wheel for the bus captain to press the button when needed.@@@@1@19@ntucle-docid:149; ntucle-sid:1025@LMC@2019-06-14
+30004266@@@@@@Since the surface of the wheelchair is approximately 760mm x 760mmiii, the size of the ramp can be 850mm x 850mm so as to have additional space for larger wheelchair.@@@@1@30@ntucle-docid:149; ntucle-sid:1026@LMC@2019-06-14
+30004267@@@@@@After the button is pressed, the ramp will extend outward to the platform so that the wheelchair-bound person can go up the ramp.@@@@1@23@ntucle-docid:149; ntucle-sid:1027@LMC@2019-06-14
+30004268@@@@@@Meanwhile, the other people can also start boarding the bus from the front door.@@@@1@14@ntucle-docid:149; ntucle-sid:1028@LMC@2019-06-14
+30004269@@@@@@This will save the waiting time for the bus captain to manually assist the passenger in wheelchair.@@@@1@17@ntucle-docid:149; ntucle-sid:1029@LMC@2019-06-14
+30004270@@@@@@Benefits:@@@@1@1@ntucle-docid:149; ntucle-sid:1030@LMC@2019-06-14
+30004271@@@@@@Firstly, the bus captain will not have to move about and physically do all the work as he just need to press a button for the ramp to automatically extend to the platform.@@@@1@33@ntucle-docid:149; ntucle-sid:1031@LMC@2019-06-14
+30004272@@@@@@Next, the wheelchair-bound person will still be able to board the bus with ease.@@@@1@14@ntucle-docid:149; ntucle-sid:1032@LMC@2019-06-14
+30004273@@@@@@Lastly, the other passengers do not need to wait for the bus captain to finish helping the wheelchair-bound person before they can board the bus.@@@@1@25@ntucle-docid:149; ntucle-sid:1033@LMC@2019-06-14
+30004274@@@@@@This will be a more efficient method and reduces the travelling time.@@@@1@12@ntucle-docid:149; ntucle-sid:1034@LMC@2019-06-14
+30004275@@@@@@Implementation:@@@@1@1@ntucle-docid:149; ntucle-sid:1035@LMC@2019-06-14
+30004276@@@@@@SBS can coordinate with some electronics companyiv so as to change the existing ramp to automated ramp.@@@@1@17@ntucle-docid:149; ntucle-sid:1036@LMC@2019-06-14
+30004277@@@@@@The time for the ramp to extend outward should be less than 10seconds so that the wheelchair-bound person can board the bus faster.@@@@1@23@ntucle-docid:149; ntucle-sid:1037@LMC@2019-06-14
+30004278@@@@@@Costs:@@@@1@1@ntucle-docid:149; ntucle-sid:1038@LMC@2019-06-14
+30004279@@@@@@The price to install one automated ramp will be $400 per bus, including the button near the steering wheel.@@@@1@19@ntucle-docid:149; ntucle-sid:1039@LMC@2019-06-14
+30004280@@@@@@Conclusion:@@@@1@1@ntucle-docid:149; ntucle-sid:1040@LMC@2019-06-14
+30004281@@@@@@Although most SBS buses are wheelchair friendly, it is not as efficient as the ramp has to be put down manually by the bus captain and other passengers have to wait for a longer time to board the bus.@@@@1@39@ntucle-docid:149; ntucle-sid:1041@LMC@2019-06-14
+30004282@@@@@@After the implementation of the automated ramp, these problems can be solved and everyone can have a better ride.@@@@1@19@ntucle-docid:149; ntucle-sid:1042@LMC@2019-06-14
+30004283@@@@@@Fig.1 showing how the ramp is operated manually by the bus captainv@@@@1@12@ntucle-docid:149; ntucle-sid:1043@LMC@2019-06-14
+30004284@@@@@@Fig.2 showing an example of a button to extend the ramp to the platformvi@@@@1@14@ntucle-docid:149; ntucle-sid:1044@LMC@2019-06-14
+30004285@@@@@@Background:@@@@1@1@ntucle-docid:151; ntucle-sid:1005@LMC@2019-06-14
+30004286@@@@@@When travelling to an unfamiliar place, many commuters tend to get lost.@@@@1@12@ntucle-docid:151; ntucle-sid:1006@LMC@2019-06-14
+30004287@@@@@@In Singapore, there are bus applications that assist commuters to get to a destination.@@@@1@14@ntucle-docid:151; ntucle-sid:1007@LMC@2019-06-14
+30004288@@@@@@However, these applications do not inform the users beforehand which bus stop they should alight at.@@@@1@16@ntucle-docid:151; ntucle-sid:1008@LMC@2019-06-14
+30004289@@@@@@Hence, increasing the chances of the user dropping at the wrong stop and losing their way.@@@@1@16@ntucle-docid:151; ntucle-sid:1009@LMC@2019-06-14
+30004290@@@@@@Problem:@@@@1@1@ntucle-docid:151; ntucle-sid:1010@LMC@2019-06-14
+30004291@@@@@@Existing bus applications (e.g.@@@@1@4@ntucle-docid:151; ntucle-sid:1011@LMC@2019-06-14
+30004292@@@@@@Google Maps) are good at giving directions by suggesting different routes to direct us from one point to another by stating the name of the bus stop to alight at.@@@@1@30@ntucle-docid:151; ntucle-sid:1012@LMC@2019-06-14
+30004293@@@@@@However, commuters may not recognize the surroundings of the place and could be unsure even after knowing the name of the bus stop.@@@@1@23@ntucle-docid:151; ntucle-sid:1013@LMC@2019-06-14
+30004294@@@@@@This would cause the commuter to alight earlier or later.@@@@1@10@ntucle-docid:151; ntucle-sid:1014@LMC@2019-06-14
+30004295@@@@@@Solution:@@@@1@1@ntucle-docid:151; ntucle-sid:1015@LMC@2019-06-14
+30004296@@@@@@To curb this problem, the Bus Alarm application will be integrated to the existing bus applications.@@@@1@16@ntucle-docid:151; ntucle-sid:1016@LMC@2019-06-14
+30004297@@@@@@The Bus Alarm uses the user’s phone location to identify which bus stop the user is at and the user will be alerted one stop before their chosen bus stop location.@@@@1@31@ntucle-docid:151; ntucle-sid:1017@LMC@2019-06-14
+30004298@@@@@@Besides that, it is able to pick up on the subsequent bus stop name and the number of bus stops before the user’s stop.@@@@1@24@ntucle-docid:151; ntucle-sid:1018@LMC@2019-06-14
+30004299@@@@@@Added features like the estimated time between each bus stop depending on the traffic and a wake up alarm can be used to alert the user to alight the bus if he falls asleep.@@@@1@34@ntucle-docid:151; ntucle-sid:1019@LMC@2019-06-14
+30004300@@@@@@Benefits:@@@@1@1@ntucle-docid:151; ntucle-sid:1020@LMC@2019-06-14
+30004301@@@@@@Bus Alarm would aid tourists and commuters in Singapore as well.@@@@1@11@ntucle-docid:151; ntucle-sid:1021@LMC@2019-06-14
+30004302@@@@@@Although Singapore is a small country, there may be certain places that one has not been to before.@@@@1@18@ntucle-docid:151; ntucle-sid:1022@LMC@2019-06-14
+30004303@@@@@@Also, with the estimated time feature, users who need to plan their appointments would get the most out of it.@@@@1@20@ntucle-docid:151; ntucle-sid:1023@LMC@2019-06-14
+30004304@@@@@@Moreover, this application is user friendly and can be integrated with the existing bus applications.@@@@1@15@ntucle-docid:151; ntucle-sid:1024@LMC@2019-06-14
+30004305@@@@@@Implementation:@@@@1@1@ntucle-docid:151; ntucle-sid:1025@LMC@2019-06-14
+30004306@@@@@@In order to create Bus Alarm, there will be a collaboration with TransitLink to obtain the most accurate estimated time between each bus stop and the vast list of bus transport routes in Singapore.@@@@1@34@ntucle-docid:151; ntucle-sid:1026@LMC@2019-06-14
+30004307@@@@@@The application will be designed by a software development team which will help to incorporate it with the current bus applications.@@@@1@21@ntucle-docid:151; ntucle-sid:1027@LMC@2019-06-14
+30004308@@@@@@Cost:@@@@1@1@ntucle-docid:151; ntucle-sid:1028@LMC@2019-06-14
+30004309@@@@@@The estimated cost of this application is about $89,775.@@@@1@9@ntucle-docid:151; ntucle-sid:1029@LMC@2019-06-14
+30004310@@@@@@The breakdown of the cost is as follows:@@@@1@8@ntucle-docid:151; ntucle-sid:1030@LMC@2019-06-14
+30004311@@@@@@Geolocation@@@@1@1@ntucle-docid:151; ntucle-sid:1031@LMC@2019-06-14
+30004312@@@@@@9450@@@@1@1@ntucle-docid:151; ntucle-sid:1032@LMC@2019-06-14
+30004313@@@@@@Compass@@@@1@1@ntucle-docid:151; ntucle-sid:1033@LMC@2019-06-14
+30004314@@@@@@9450@@@@1@1@ntucle-docid:151; ntucle-sid:1034@LMC@2019-06-14
+30004315@@@@@@Custom User Interface@@@@1@3@ntucle-docid:151; ntucle-sid:1035@LMC@2019-06-14
+30004316@@@@@@3700@@@@1@1@ntucle-docid:151; ntucle-sid:1036@LMC@2019-06-14
+30004317@@@@@@Maps@@@@1@1@ntucle-docid:151; ntucle-sid:1037@LMC@2019-06-14
+30004318@@@@@@14175@@@@1@1@ntucle-docid:151; ntucle-sid:1038@LMC@2019-06-14
+30004319@@@@@@Search@@@@1@1@ntucle-docid:151; ntucle-sid:1039@LMC@2019-06-14
+30004320@@@@@@18900@@@@1@1@ntucle-docid:151; ntucle-sid:1040@LMC@2019-06-14
+30004321@@@@@@Total@@@@1@1@ntucle-docid:151; ntucle-sid:1041@LMC@2019-06-14
+30004322@@@@@@89775@@@@1@1@ntucle-docid:151; ntucle-sid:1042@LMC@2019-06-14
+30004323@@@@@@Conclusion:@@@@1@1@ntucle-docid:151; ntucle-sid:1043@LMC@2019-06-14
+30004324@@@@@@The proposed application is to improve the current bus applications by allowing users to know when to alight from the bus by alerting them one stop before their destination by using modern technology.@@@@1@33@ntucle-docid:151; ntucle-sid:1044@LMC@2019-06-14
+30004325@@@@@@To enhance the usage, one is able to customise the alarms to his preference.@@@@1@14@ntucle-docid:151; ntucle-sid:1045@LMC@2019-06-14
+30004326@@@@@@This application will lower the chances of users losing their way.@@@@1@11@ntucle-docid:151; ntucle-sid:1046@LMC@2019-06-14
+30004327@@@@@@Title of Proposal: Improvement of Singapore Public Transport Apps@@@@1@9@ntucle-docid:152; ntucle-sid:1045@LMC@2019-06-14
+30004328@@@@@@Improvement of Singapore Public Transport Apps@@@@1@6@ntucle-docid:152; ntucle-sid:1050@LMC@2019-06-14
+30004329@@@@@@Background@@@@1@1@ntucle-docid:152; ntucle-sid:1051@LMC@2019-06-14
+30004330@@@@@@Punctuality plays an important role in the society.@@@@1@8@ntucle-docid:152; ntucle-sid:1052@LMC@2019-06-14
+30004331@@@@@@(Mokhtar, 2011) stated that according to the Singapore satisfactory statistic report conducted in 2011, 35% of the respondents were not satisfied about the arrival times of the public transport.@@@@1@29@ntucle-docid:152; ntucle-sid:1053@LMC@2019-06-14
+30004332@@@@@@(Fang, 2014) stated that 2014 holds the highest record of train delays of twelve incidents in the first nine months as compared to 2011, which had eleven incidents.@@@@1@28@ntucle-docid:152; ntucle-sid:1054@LMC@2019-06-14
+30004333@@@@@@Hence, the punctuality of the affected commuters reaching their designated places is a concern.@@@@1@14@ntucle-docid:152; ntucle-sid:1055@LMC@2019-06-14
+30004334@@@@@@Problem@@@@1@1@ntucle-docid:152; ntucle-sid:1056@LMC@2019-06-14
+30004335@@@@@@To deter this problem, there are many local public transport smartphone apps available with the warning notification service to alert users of any disruptions of affected train lines during that period, the arrival time of buses at any bus stops and the journey duration for any transport route.@@@@1@48@ntucle-docid:152; ntucle-sid:1057@LMC@2019-06-14
+30004336@@@@@@Since commuters cannot do anything to improve the transport system, these apps can be further improved to help plan out the user’s punctuality more effectively.@@@@1@25@ntucle-docid:152; ntucle-sid:1058@LMC@2019-06-14
+30004337@@@@@@Solution@@@@1@1@ntucle-docid:152; ntucle-sid:1059@LMC@2019-06-14
+30004338@@@@@@The main goal of this proposal is to enhance the public transport app to benefit users effectively for punctuality.@@@@1@19@ntucle-docid:152; ntucle-sid:1060@LMC@2019-06-14
+30004339@@@@@@Firstly, a “journey planner” will not only provide the journey time, but also plan out the time so as to let users reach their destination on time.@@@@1@27@ntucle-docid:152; ntucle-sid:1061@LMC@2019-06-14
+30004340@@@@@@The users need to input their destination, starting point, the meeting time and their choice of transport route.@@@@1@18@ntucle-docid:152; ntucle-sid:1062@LMC@2019-06-14
+30004341@@@@@@Secondly, an alert can be issued to notify the users of nearby buses approaching within range.@@@@1@16@ntucle-docid:152; ntucle-sid:1063@LMC@2019-06-14
+30004342@@@@@@Benefits@@@@1@1@ntucle-docid:152; ntucle-sid:1064@LMC@2019-06-14
+30004343@@@@@@These added features are implemented to all users, but especially targeted to users with time management issues.@@@@1@17@ntucle-docid:152; ntucle-sid:1065@LMC@2019-06-14
+30004344@@@@@@The “journey planner” would generate several time plans so that the user can manage and keep track of their travelling time in advance.@@@@1@23@ntucle-docid:152; ntucle-sid:1066@LMC@2019-06-14
+30004345@@@@@@The alert of approaching buses are efficiently, especially for users who are nearby the bus stops so that they would not miss their bus and wait for the next.@@@@1@29@ntucle-docid:152; ntucle-sid:1067@LMC@2019-06-14
+30004346@@@@@@Implementation@@@@1@1@ntucle-docid:152; ntucle-sid:1068@LMC@2019-06-14
+30004347@@@@@@In order to improve the current app, we will need to collaborate with the creator of the local public transport smartphone application and make it available to all smartphone application stores.@@@@1@31@ntucle-docid:152; ntucle-sid:1069@LMC@2019-06-14
+30004348@@@@@@Costs/Budget@@@@1@1@ntucle-docid:152; ntucle-sid:1070@LMC@2019-06-14
+30004349@@@@@@Cost of creating a mobile app $50,000@@@@1@7@ntucle-docid:152; ntucle-sid:1071@LMC@2019-06-14
+30004350@@@@@@Conclusion@@@@1@1@ntucle-docid:152; ntucle-sid:1072@LMC@2019-06-14
+30004351@@@@@@The chances of being late in daily situations due to waiting time of delayed public transport are inevitable.@@@@1@18@ntucle-docid:152; ntucle-sid:1073@LMC@2019-06-14
+30004352@@@@@@Hence, this proposed enhancement aims to let users to plan out their travelling time effectively and widen choices of other transport if there is a breakdown of train occurring.@@@@1@29@ntucle-docid:152; ntucle-sid:1074@LMC@2019-06-14
+30004353@@@@@@Title@@@@1@1@ntucle-docid:153; ntucle-sid:1051@LMC@2019-06-14
+30004354@@@@@@Saving your time with NFC food poster@@@@1@7@ntucle-docid:153; ntucle-sid:1052@LMC@2019-06-14
+30004355@@@@@@Background@@@@1@1@ntucle-docid:153; ntucle-sid:1053@LMC@2019-06-14
+30004356@@@@@@With the increasing pace of our daily life, more and more people choose food delivery in order to save time for their works or studies.@@@@1@25@ntucle-docid:153; ntucle-sid:1054@LMC@2019-06-14
+30004357@@@@@@For an instance, a recent survey by World Health Organization in 2014 shows that over 67% of customers prefer to order food delivery instead of eating in the restaurants, and the number is still increasing.@@@@1@35@ntucle-docid:153; ntucle-sid:1055@LMC@2019-06-14
+30004358@@@@@@Problem@@@@1@1@ntucle-docid:153; ntucle-sid:1056@LMC@2019-06-14
+30004359@@@@@@It is a very disappointing fact that the methods to order food delivery did not develop rapidly although people’s demand for food delivery increases exponentially.@@@@1@25@ntucle-docid:153; ntucle-sid:1057@LMC@2019-06-14
+30004360@@@@@@The current methods either are not efficient enough so you need to wait for a long time to order, such as calling restaurant hot-line to order, or are not simple enough such as ordering online which requests you to register and some people find it very difficult to operate with Internet .Therefore it is obvious that we need a new method to order food delivery, which is both convenient and simple.@@@@1@71@ntucle-docid:153; ntucle-sid:1058@LMC@2019-06-14
+30004361@@@@@@Solution@@@@1@1@ntucle-docid:153; ntucle-sid:1059@LMC@2019-06-14
+30004362@@@@@@The prime purpose of this proposal is to introduce a new way of ordering food delivery, NFC food poster.@@@@1@19@ntucle-docid:153; ntucle-sid:1060@LMC@2019-06-14
+30004363@@@@@@[1]Nowadays all the smart phones people use contain Near Field Communication (NFC) sensors.@@@@1@13@ntucle-docid:153; ntucle-sid:1061@LMC@2019-06-14
+30004364@@@@@@It can detect NFC chips and read information inside to run certain functions on the phone requested by NFC chips.@@@@1@20@ntucle-docid:153; ntucle-sid:1062@LMC@2019-06-14
+30004365@@@@@@We will put NFC chips, which are small circles with thickness of 0.5mm and radius of 2mm, into a normal restaurant poster to make a NFC poster.@@@@1@27@ntucle-docid:153; ntucle-sid:1063@LMC@2019-06-14
+30004366@@@@@@To order food delivery using NFC food poster, you only need to take out the NFC food poster and use your phone to touch the picture of food you want on the poster.@@@@1@33@ntucle-docid:153; ntucle-sid:1064@LMC@2019-06-14
+30004367@@@@@@Under each picture, there is one NFC chip inside the paper which stores the information of the dish.@@@@1@18@ntucle-docid:153; ntucle-sid:1065@LMC@2019-06-14
+30004368@@@@@@By touching the picture, the sensor will read the name of the food which is stored in advance in chips and record it in a text message.@@@@1@27@ntucle-docid:153; ntucle-sid:1066@LMC@2019-06-14
+30004369@@@@@@[2]Finally, use your phone to touch the name of the restaurant on the poster, the NFC chip under it will request your phone to send this message with your GPS address to the restaurant preset number.@@@@1@36@ntucle-docid:153; ntucle-sid:1067@LMC@2019-06-14
+30004370@@@@@@Benefit@@@@1@1@ntucle-docid:153; ntucle-sid:1068@LMC@2019-06-14
+30004371@@@@@@The NFC food poster is a easier way to order food delivery compared to others.@@@@1@15@ntucle-docid:153; ntucle-sid:1069@LMC@2019-06-14
+30004372@@@@@@People can order by using their phone to touch the pictures of the food on the poster, so it won’t be necessary to register or wait to order.@@@@1@28@ntucle-docid:153; ntucle-sid:1070@LMC@2019-06-14
+30004373@@@@@@Its user-friendly design makes it acceptable for all ages.@@@@1@9@ntucle-docid:153; ntucle-sid:1071@LMC@2019-06-14
+30004374@@@@@@Implementation@@@@1@1@ntucle-docid:153; ntucle-sid:1072@LMC@2019-06-14
+30004375@@@@@@In order to produce and develop the device, the following steps will be taken:@@@@1@14@ntucle-docid:153; ntucle-sid:1073@LMC@2019-06-14
+30004376@@@@@@1@@@@1@1@ntucle-docid:153; ntucle-sid:1074@LMC@2019-06-14
+30004377@@@@@@We need to cooperate with a company fabricating NFC chips.@@@@1@10@ntucle-docid:153; ntucle-sid:1075@LMC@2019-06-14
+30004378@@@@@@2@@@@1@1@ntucle-docid:153; ntucle-sid:1076@LMC@2019-06-14
+30004379@@@@@@We will cooperate with restaurants to replace their poster with NFC food posters.@@@@1@13@ntucle-docid:153; ntucle-sid:1077@LMC@2019-06-14
+30004380@@@@@@3@@@@1@1@ntucle-docid:153; ntucle-sid:1078@LMC@2019-06-14
+30004381@@@@@@NFC program will be designed and transferred into chips by a software development team.@@@@1@14@ntucle-docid:153; ntucle-sid:1079@LMC@2019-06-14
+30004382@@@@@@Budget@@@@1@1@ntucle-docid:153; ntucle-sid:1080@LMC@2019-06-14
+30004383@@@@@@NFC chip $0.20@@@@1@3@ntucle-docid:153; ntucle-sid:1081@LMC@2019-06-14
+30004384@@@@@@NFC program $30.00@@@@1@3@ntucle-docid:153; ntucle-sid:1082@LMC@2019-06-14
+30004385@@@@@@Food poster $0.05@@@@1@3@ntucle-docid:153; ntucle-sid:1083@LMC@2019-06-14
+30004386@@@@@@Total Device Prototype Cost $30.25@@@@1@5@ntucle-docid:153; ntucle-sid:1084@LMC@2019-06-14
+30004387@@@@@@Conclusion@@@@1@1@ntucle-docid:153; ntucle-sid:1085@LMC@2019-06-14
+30004388@@@@@@As the current food delivery ordering methods are not efficient and simple enough.@@@@1@13@ntucle-docid:153; ntucle-sid:1086@LMC@2019-06-14
+30004389@@@@@@We invent NFC food poster which makes a good use of modern technology to meet customer demand for efficiency and ease of operation.@@@@1@23@ntucle-docid:153; ntucle-sid:1087@LMC@2019-06-14
+30004390@@@@@@This device will make food delivery ordering more convenient and pleasant.@@@@1@11@ntucle-docid:153; ntucle-sid:1088@LMC@2019-06-14
+30004391@@@@@@Have a good meal@@@@1@4@ntucle-docid:154; ntucle-sid:1133@LMC@2019-06-14
+30004392@@@@@@Background@@@@1@1@ntucle-docid:154; ntucle-sid:1134@LMC@2019-06-14
+30004393@@@@@@Eating is important and necessary for human but have you ever found it too difficult to have a good meal?@@@@1@20@ntucle-docid:154; ntucle-sid:1135@LMC@2019-06-14
+30004394@@@@@@In Nanyang Technological University, the overcrowded canteens with long queues of people and the fact that there is no empty seat is not a strange problem.@@@@1@26@ntucle-docid:154; ntucle-sid:1136@LMC@2019-06-14
+30004395@@@@@@According to the NTU home page, the population of NTU is about 39700 people include undergraduate, postgraduate students, faculties and staffs.@@@@1@21@ntucle-docid:154; ntucle-sid:1137@LMC@2019-06-14
+30004396@@@@@@However, there are only 11 canteens and food courts with the seating capacity about 6100.@@@@1@15@ntucle-docid:154; ntucle-sid:1138@LMC@2019-06-14
+30004397@@@@@@This means during peak hours at lunch or dinner, having meals is inconvenient and time-consuming.@@@@1@15@ntucle-docid:154; ntucle-sid:1139@LMC@2019-06-14
+30004398@@@@@@Problem@@@@1@1@ntucle-docid:154; ntucle-sid:1140@LMC@2019-06-14
+30004399@@@@@@Since it takes a lot of time to queue and order food and find an empty seat, people who only have one or two hours break before the next class have to choose between skipping lunch or having the take-away meals and finding other places to eat.@@@@1@47@ntucle-docid:154; ntucle-sid:1141@LMC@2019-06-14
+30004400@@@@@@Skipping lunch is very unhealthy because having lunch is the only way to provide energy after a hard morning and make you ready for the work in the afternoon.@@@@1@29@ntucle-docid:154; ntucle-sid:1142@LMC@2019-06-14
+30004401@@@@@@The choice of buying a take-away meal and eating in another place which is not always possible and convenient is not a long-term solution.@@@@1@24@ntucle-docid:154; ntucle-sid:1143@LMC@2019-06-14
+30004402@@@@@@Therefore, a good solution for this problem is neeeded.@@@@1@9@ntucle-docid:154; ntucle-sid:1144@LMC@2019-06-14
+30004403@@@@@@Solution@@@@1@1@ntucle-docid:154; ntucle-sid:1145@LMC@2019-06-14
+30004404@@@@@@We will design some sensors in the canteens and a multifuctional app called NTU Good Meals which is utilized on your own phones.@@@@1@23@ntucle-docid:154; ntucle-sid:1146@LMC@2019-06-14
+30004405@@@@@@The app can give all information about each canteens and foodcourts such as the number of people and seats in the canteen at that time, which seats are available.@@@@1@29@ntucle-docid:154; ntucle-sid:1147@LMC@2019-06-14
+30004406@@@@@@It will show you the nearest alternative canteens if the one you choose is overcrowded.@@@@1@15@ntucle-docid:154; ntucle-sid:1148@LMC@2019-06-14
+30004407@@@@@@Not only that, you can order foods and pay for it online, the app will estimate the wait time for your food before paying so you can change your decision.@@@@1@30@ntucle-docid:154; ntucle-sid:1149@LMC@2019-06-14
+30004408@@@@@@Benefit@@@@1@1@ntucle-docid:154; ntucle-sid:1150@LMC@2019-06-14
+30004409@@@@@@By using this simple app, it will definitely allow you to access the situation of the canteens without needing to be physically there.@@@@1@23@ntucle-docid:154; ntucle-sid:1151@LMC@2019-06-14
+30004410@@@@@@It can save a lot of time queuing and finding a seat which make having meals easier and more comfortable than before.@@@@1@22@ntucle-docid:154; ntucle-sid:1152@LMC@2019-06-14
+30004411@@@@@@You no longer have to skip lunch because of waiting too long.@@@@1@12@ntucle-docid:154; ntucle-sid:1153@LMC@2019-06-14
+30004412@@@@@@We can sell the app at a cost of 2$ for each and the profit will be great since the population of NTU is very large and increases every year.@@@@1@30@ntucle-docid:154; ntucle-sid:1154@LMC@2019-06-14
+30004413@@@@@@Implementation@@@@1@1@ntucle-docid:154; ntucle-sid:1155@LMC@2019-06-14
+30004414@@@@@@The app is designed to work as the following principle:@@@@1@10@ntucle-docid:154; ntucle-sid:1156@LMC@2019-06-14
+30004415@@@@@@There will be only two kinds of doors in canteens: go in and go out.@@@@1@15@ntucle-docid:154; ntucle-sid:1157@LMC@2019-06-14
+30004416@@@@@@Each door will have a sensor which counts the number of people going in and going out.@@@@1@17@ntucle-docid:154; ntucle-sid:1158@LMC@2019-06-14
+30004417@@@@@@The app will show the number of people in canteens by taking the number of people going-in minus that of people going-out then tell you if the canteens is overcrowded with some pictures from CCTVs.@@@@1@35@ntucle-docid:154; ntucle-sid:1159@LMC@2019-06-14
+30004418@@@@@@Each group of seats can be numbered and equiped with a sensor connecting to the app so that the app can tell which seat is empty when you are in a crowded canteens.@@@@1@33@ntucle-docid:154; ntucle-sid:1160@LMC@2019-06-14
+30004419@@@@@@The app connects with your bank account which allow you to order food and pay for it online and estimate the wait time by a mathematical formula.@@@@1@27@ntucle-docid:154; ntucle-sid:1161@LMC@2019-06-14
+30004420@@@@@@You can download the app online at a cost of $2.@@@@1@11@ntucle-docid:154; ntucle-sid:1162@LMC@2019-06-14
+30004421@@@@@@Cost@@@@1@1@ntucle-docid:154; ntucle-sid:1163@LMC@2019-06-14
+30004422@@@@@@Door Motion Sensors $16,060@@@@1@4@ntucle-docid:154; ntucle-sid:1164@LMC@2019-06-14
+30004423@@@@@@Seat Motion Sensors $4,700@@@@1@4@ntucle-docid:154; ntucle-sid:1165@LMC@2019-06-14
+30004424@@@@@@App Design $2,500@@@@1@3@ntucle-docid:154; ntucle-sid:1166@LMC@2019-06-14
+30004425@@@@@@Total $23,260@@@@1@2@ntucle-docid:154; ntucle-sid:1167@LMC@2019-06-14
+30004426@@@@@@Conclusion@@@@1@1@ntucle-docid:154; ntucle-sid:1168@LMC@2019-06-14
+30004427@@@@@@In conclusion, having a good meal is a necessary demand of human but it is still a difficulty in NTU since the capacity of the canteens and foodcourts is not enough for the large population.@@@@1@35@ntucle-docid:154; ntucle-sid:1169@LMC@2019-06-14
+30004428@@@@@@The Good Meals app will almost solve this problem by giving you all information about the canteens and the ability to order food online.@@@@1@24@ntucle-docid:154; ntucle-sid:1170@LMC@2019-06-14
+30004429@@@@@@With the Good Meals, it is easier for you to have a good meal in NTU.@@@@1@16@ntucle-docid:154; ntucle-sid:1171@LMC@2019-06-14
+30004430@@@@@@Refillable Travel Toothbrush@@@@1@3@ntucle-docid:155; ntucle-sid:1095@LMC@2019-06-14
+30004431@@@@@@Proposal@@@@1@1@ntucle-docid:155; ntucle-sid:1096@LMC@2019-06-14
+30004432@@@@@@Background:@@@@1@1@ntucle-docid:155; ntucle-sid:1101@LMC@2019-06-14
+30004433@@@@@@Weildy appliance has always been a hot-selling product as people prefer an easy life.@@@@1@14@ntucle-docid:155; ntucle-sid:1102@LMC@2019-06-14
+30004434@@@@@@People are vexed about packing their luggage because of the limited space.@@@@1@12@ntucle-docid:155; ntucle-sid:1103@LMC@2019-06-14
+30004435@@@@@@Easy-to-use and handy gadget like mechanical pencil, it has sold over 565 million in 2007 according to WIMA statistics.@@@@1@19@ntucle-docid:155; ntucle-sid:1104@LMC@2019-06-14
+30004436@@@@@@Problem:@@@@1@1@ntucle-docid:155; ntucle-sid:1105@LMC@2019-06-14
+30004437@@@@@@People nowadays are always lack of time, squeezing a toothpaste will also make them feel like wasting their time as well.@@@@1@21@ntucle-docid:155; ntucle-sid:1106@LMC@2019-06-14
+30004438@@@@@@Bringing a tube of toothpaste along to brush our teeth is also very troublesome.@@@@1@14@ntucle-docid:155; ntucle-sid:1107@LMC@2019-06-14
+30004439@@@@@@For example, for the students that stay in hall of residences in NTU, they need to bring along their toothpaste to the washroom.@@@@1@23@ntucle-docid:155; ntucle-sid:1108@LMC@2019-06-14
+30004440@@@@@@For travelers, they need to pack a tube of toothpaste into their luggage as well.@@@@1@15@ntucle-docid:155; ntucle-sid:1109@LMC@2019-06-14
+30004441@@@@@@Solution:@@@@1@1@ntucle-docid:155; ntucle-sid:1110@LMC@2019-06-14
+30004442@@@@@@I propose a solution that using the principle of a mechanical pencil on a toothbrush.@@@@1@15@ntucle-docid:155; ntucle-sid:1111@LMC@2019-06-14
+30004443@@@@@@I can increase the diameter and length of the barrel to 2 cm and 12 cm respectively so that much toothpaste can be filled.@@@@1@24@ntucle-docid:155; ntucle-sid:1112@LMC@2019-06-14
+30004444@@@@@@The toothpaste can be refilled through a hole made at the end of the handle, the size of the inlet hole is suitable for most toothpaste tube to fill its toothpaste into it.@@@@1@33@ntucle-docid:155; ntucle-sid:1113@LMC@2019-06-14
+30004445@@@@@@There are several small holes underneath the brushing hair which toothpaste can be shoved out.@@@@1@15@ntucle-docid:155; ntucle-sid:1114@LMC@2019-06-14
+30004446@@@@@@There is a press button beside the handle, our thumb can easily press on it to squeeze the toothpaste out.@@@@1@20@ntucle-docid:155; ntucle-sid:1115@LMC@2019-06-14
+30004447@@@@@@The amount of toothpaste in the tooth brush is enough for up to 40 times of brushing.@@@@1@17@ntucle-docid:155; ntucle-sid:1116@LMC@2019-06-14
+30004448@@@@@@With this method, we can just bring only tooth brush whenever we go and brush our teeth.@@@@1@17@ntucle-docid:155; ntucle-sid:1117@LMC@2019-06-14
+30004449@@@@@@Moreover, this toothbrush has a replaceable brush head as well.@@@@1@10@ntucle-docid:155; ntucle-sid:1118@LMC@2019-06-14
+30004450@@@@@@Users can pull off the brush head from barrel easily when the brush hair has broken or worn out.@@@@1@19@ntucle-docid:155; ntucle-sid:1119@LMC@2019-06-14
+30004451@@@@@@Benefits:@@@@1@1@ntucle-docid:155; ntucle-sid:1120@LMC@2019-06-14
+30004452@@@@@@This travel toothbrush is a convenience tool for travelers as they can just leave their cumbersome toothpaste tube at home and start their journey.@@@@1@24@ntucle-docid:155; ntucle-sid:1121@LMC@2019-06-14
+30004453@@@@@@It can be piled into a purse and take it along their travel.@@@@1@13@ntucle-docid:155; ntucle-sid:1122@LMC@2019-06-14
+30004454@@@@@@It’s only 50 grams with toothpaste fully filled-up.@@@@1@8@ntucle-docid:155; ntucle-sid:1123@LMC@2019-06-14
+30004455@@@@@@The overall appearance is so much like a normal toothbrush sold on market.@@@@1@13@ntucle-docid:155; ntucle-sid:1124@LMC@2019-06-14
+30004456@@@@@@Softer rubber in variety of colors will be used on the ergonomic-design handle for a much comfortable handling.@@@@1@18@ntucle-docid:155; ntucle-sid:1125@LMC@2019-06-14
+30004457@@@@@@The cap is use to keep wet toothbrush away from the belongings in your bag.@@@@1@15@ntucle-docid:155; ntucle-sid:1126@LMC@2019-06-14
+30004458@@@@@@The removable brush head can prevent money wasting when only need to replace the bristle.@@@@1@15@ntucle-docid:155; ntucle-sid:1127@LMC@2019-06-14
+30004459@@@@@@Implementation:@@@@1@1@ntucle-docid:155; ntucle-sid:1128@LMC@2019-06-14
+30004460@@@@@@In order to produce and develop the toothbrush, the following steps will be taken:@@@@1@14@ntucle-docid:155; ntucle-sid:1129@LMC@2019-06-14
+30004461@@@@@@1@@@@1@1@ntucle-docid:155; ntucle-sid:1130@LMC@2019-06-14
+30004462@@@@@@Collaborate with toothpaste and toothbrush manufacturer, Colgate, to work on the production of the travel toothbrush.@@@@1@16@ntucle-docid:155; ntucle-sid:1131@LMC@2019-06-14
+30004463@@@@@@2@@@@1@1@ntucle-docid:155; ntucle-sid:1132@LMC@2019-06-14
+30004464@@@@@@Provide the design of the toothbrush and Colgate will start working on the production.@@@@1@14@ntucle-docid:155; ntucle-sid:1133@LMC@2019-06-14
+30004465@@@@@@3. Colgate decide the materials used of the toothbrush.@@@@1@9@ntucle-docid:155; ntucle-sid:1134@LMC@2019-06-14
+30004466@@@@@@Costs/Budget:@@@@1@1@ntucle-docid:155; ntucle-sid:1135@LMC@2019-06-14
+30004467@@@@@@Toothbrush Barrel $1.50@@@@1@3@ntucle-docid:155; ntucle-sid:1136@LMC@2019-06-14
+30004468@@@@@@Replaceable Brush Head $2.00@@@@1@4@ntucle-docid:155; ntucle-sid:1137@LMC@2019-06-14
+30004469@@@@@@Rubber $1.00@@@@1@2@ntucle-docid:155; ntucle-sid:1138@LMC@2019-06-14
+30004470@@@@@@Total Toothbrush Prototype Cost $4.50@@@@1@5@ntucle-docid:155; ntucle-sid:1139@LMC@2019-06-14
+30004471@@@@@@Conclusion:@@@@1@1@ntucle-docid:155; ntucle-sid:1140@LMC@2019-06-14
+30004472@@@@@@People nowadays prefer handy stuffs.@@@@1@5@ntucle-docid:155; ntucle-sid:1141@LMC@2019-06-14
+30004473@@@@@@Without this travel toothbrush, bringing a toothpaste all the way on traveling is unavoidable.@@@@1@14@ntucle-docid:155; ntucle-sid:1142@LMC@2019-06-14
+30004474@@@@@@The toothbrush is proposed to bring convenience to all kind of user as well as prevent unnecessary wasting.@@@@1@18@ntucle-docid:155; ntucle-sid:1143@LMC@2019-06-14
+30004475@@@@@@Furthermore, this is a low cost product, everyone can afford it.@@@@1@11@ntucle-docid:155; ntucle-sid:1144@LMC@2019-06-14
+30004476@@@@@@LikeAGlove@@@@1@1@ntucle-docid:156; ntucle-sid:1177@LMC@2019-06-14
+30004477@@@@@@Background@@@@1@1@ntucle-docid:156; ntucle-sid:1178@LMC@2019-06-14
+30004478@@@@@@‘Boon or bane?’ Improved technology has provided us abundantly with ways to quench our fashion thirst.@@@@1@16@ntucle-docid:156; ntucle-sid:1179@LMC@2019-06-14
+30004479@@@@@@These days, manual shopping largely is replaced by online shopping to compensate our serious lack of time to ourselves.@@@@1@19@ntucle-docid:156; ntucle-sid:1180@LMC@2019-06-14
+30004480@@@@@@Many Singaporeans shop for clothes online due to the fact that it obviously is less time and energy consuming.@@@@1@19@ntucle-docid:156; ntucle-sid:1181@LMC@2019-06-14
+30004481@@@@@@But how effective are these ways when customers are still not satisfied with what they get?@@@@1@16@ntucle-docid:156; ntucle-sid:1182@LMC@2019-06-14
+30004482@@@@@@Problem@@@@1@1@ntucle-docid:156; ntucle-sid:1183@LMC@2019-06-14
+30004483@@@@@@Online shopping is much easier as compared to going shopping in person, fighting with crowd and of course a chance of returning home empty handed.@@@@1@25@ntucle-docid:156; ntucle-sid:1184@LMC@2019-06-14
+30004484@@@@@@However, a problem that most people face while shopping online is getting the size that fits perfectly (Doll, 2013).@@@@1@19@ntucle-docid:156; ntucle-sid:1185@LMC@2019-06-14
+30004485@@@@@@Eventually, a change in size has to be made and even the replaced dress might not be the perfect one.@@@@1@20@ntucle-docid:156; ntucle-sid:1186@LMC@2019-06-14
+30004486@@@@@@This can be a problem as people may lose interest in online shopping.@@@@1@13@ntucle-docid:156; ntucle-sid:1187@LMC@2019-06-14
+30004487@@@@@@Solution@@@@1@1@ntucle-docid:156; ntucle-sid:1188@LMC@2019-06-14
+30004488@@@@@@A great solution would be LikeAGlove garments.@@@@1@7@ntucle-docid:156; ntucle-sid:1189@LMC@2019-06-14
+30004489@@@@@@It is a garment made out of a polyester smart fabric which measures our body instantly and precisely (LikeAGlove 2014).@@@@1@20@ntucle-docid:156; ntucle-sid:1190@LMC@2019-06-14
+30004490@@@@@@The measurements are sent to their LikeAGlove App via Bluetooth or USB.@@@@1@12@ntucle-docid:156; ntucle-sid:1191@LMC@2019-06-14
+30004491@@@@@@Consumers could download the App in our Smartphones or computer devices, create a personal online LikeAGlove.me account and find perfectly fitting clothing with ease.@@@@1@24@ntucle-docid:156; ntucle-sid:1192@LMC@2019-06-14
+30004492@@@@@@LikeAGlove has been set up in many countries such as New York and London.@@@@1@14@ntucle-docid:156; ntucle-sid:1193@LMC@2019-06-14
+30004493@@@@@@A branch could be opened in Singapore to cater to busy Singaporeans.@@@@1@12@ntucle-docid:156; ntucle-sid:1194@LMC@2019-06-14
+30004494@@@@@@Benefits@@@@1@1@ntucle-docid:156; ntucle-sid:1195@LMC@2019-06-14
+30004495@@@@@@LikeAGlove garments benefits many individuals who find it rather difficult to find their preferred choice.@@@@1@15@ntucle-docid:156; ntucle-sid:1196@LMC@2019-06-14
+30004496@@@@@@This App could be really useful as it filters out clothes that would a good fit for the customer.@@@@1@19@ntucle-docid:156; ntucle-sid:1197@LMC@2019-06-14
+30004497@@@@@@Even the customer would put on a few pounds or lose weight; they could always retake their measurements with their LikeAGlove garment.@@@@1@22@ntucle-docid:156; ntucle-sid:1198@LMC@2019-06-14
+30004498@@@@@@It’s a good investment as we do not need to take out the measuring tapes every single time we are going to shop online.@@@@1@24@ntucle-docid:156; ntucle-sid:1199@LMC@2019-06-14
+30004499@@@@@@When there any dresses up for grabs at discounted rates, the APP would send you a notification.@@@@1@17@ntucle-docid:156; ntucle-sid:1200@LMC@2019-06-14
+30004500@@@@@@The App would be designed in a way that customers could easily find what they are looking for and at affordable price.@@@@1@22@ntucle-docid:156; ntucle-sid:1201@LMC@2019-06-14
+30004501@@@@@@Implementation@@@@1@1@ntucle-docid:156; ntucle-sid:1202@LMC@2019-06-14
+30004502@@@@@@These will be the following steps taken to implement this product in Singapore:@@@@1@13@ntucle-docid:156; ntucle-sid:1203@LMC@2019-06-14
+30004503@@@@@@Obtain the rights from LikeAGlove.me to sell the product in Singapore.@@@@1@11@ntucle-docid:156; ntucle-sid:1204@LMC@2019-06-14
+30004504@@@@@@Collaborate with major online shopping sites such as Zalora and Lazada to promote the product and the App.@@@@1@18@ntucle-docid:156; ntucle-sid:1205@LMC@2019-06-14
+30004505@@@@@@The actual Smart Garment could be purchased online and be shipped directly to the buyers.@@@@1@15@ntucle-docid:156; ntucle-sid:1206@LMC@2019-06-14
+30004506@@@@@@Cost/Budget@@@@1@1@ntucle-docid:156; ntucle-sid:1207@LMC@2019-06-14
+30004507@@@@@@App Software – $99/Annum@@@@1@4@ntucle-docid:156; ntucle-sid:1208@LMC@2019-06-14
+30004508@@@@@@App Design - $1,000@@@@1@4@ntucle-docid:156; ntucle-sid:1209@LMC@2019-06-14
+30004509@@@@@@LikeAGlove Garment Production - $50,000@@@@1@5@ntucle-docid:156; ntucle-sid:1210@LMC@2019-06-14
+30004510@@@@@@Conclusion@@@@1@1@ntucle-docid:156; ntucle-sid:1211@LMC@2019-06-14
+30004511@@@@@@LikeAGlove garments will undoubtedly be a great success as Singaporeans could keep up with the latest trends with a lesser time and energy consuming way to grab stylish dresses.@@@@1@29@ntucle-docid:156; ntucle-sid:1212@LMC@2019-06-14
+30004512@@@@@@Online shopping is going to be a breeze with a little help from LikeAGlove garments.@@@@1@15@ntucle-docid:156; ntucle-sid:1213@LMC@2019-06-14
+30004513@@@@@@Go Safe, Go Card-less@@@@1@4@ntucle-docid:157; ntucle-sid:1436@LMC@2019-06-14
+30004514@@@@@@Assignment 1: Technical Proposal@@@@1@4@ntucle-docid:157; ntucle-sid:1439@LMC@2019-06-14
+30004515@@@@@@Go safe, go card-less@@@@1@4@ntucle-docid:157; ntucle-sid:1443@LMC@2019-06-14
+30004516@@@@@@Background@@@@1@1@ntucle-docid:157; ntucle-sid:1444@LMC@2019-06-14
+30004517@@@@@@Theft is an inevitable crime but it can be avoided by taking precautions.@@@@1@13@ntucle-docid:157; ntucle-sid:1445@LMC@2019-06-14
+30004518@@@@@@Cashcard theft is one of the easiest thefts which occur due to the driver’s carelessness and negligence of leaving their cashcards inserted in their vehicles’ IU (inspection unit).@@@@1@28@ntucle-docid:157; ntucle-sid:1446@LMC@2019-06-14
+30004519@@@@@@Just last year, a couple have been arrested over a series of cashcard theft from more than 20 vehicles, amounting to about $190.@@@@1@23@ntucle-docid:157; ntucle-sid:1447@LMC@2019-06-14
+30004520@@@@@@[1] In a more recent case, in January 2015, a 26 year old man was arrested for stealing a cashcard from a lorry.@@@@1@23@ntucle-docid:157; ntucle-sid:1448@LMC@2019-06-14
+30004521@@@@@@[2] These repeating cases of cashcard theft from vehicles is becoming more of a concern in our society.@@@@1@18@ntucle-docid:157; ntucle-sid:1449@LMC@2019-06-14
+30004522@@@@@@Problem@@@@1@1@ntucle-docid:157; ntucle-sid:1450@LMC@2019-06-14
+30004523@@@@@@It is human nature to forget.@@@@1@6@ntucle-docid:157; ntucle-sid:1451@LMC@2019-06-14
+30004524@@@@@@People always rush and do not always check if they have left any valuables in their vehicles after parking.@@@@1@19@ntucle-docid:157; ntucle-sid:1452@LMC@2019-06-14
+30004525@@@@@@Usually, a cashcard is inserted in the IU, so it is easy to not notice whether their cashcards have been removed.@@@@1@21@ntucle-docid:157; ntucle-sid:1453@LMC@2019-06-14
+30004526@@@@@@Every year, there would be cases of cashcard theft.@@@@1@9@ntucle-docid:157; ntucle-sid:1454@LMC@2019-06-14
+30004527@@@@@@Victims would find their vehicles’ window smashed.@@@@1@7@ntucle-docid:157; ntucle-sid:1455@LMC@2019-06-14
+30004528@@@@@@Although not many motorists would deposit a lot of money in their cashcards, such acts cause a lot of trouble for the affected owners, who would have to fork out a large sum for repairs, and have to experience the inconvenience of not having the car to drive.@@@@1@48@ntucle-docid:157; ntucle-sid:1456@LMC@2019-06-14
+30004529@@@@@@Solution@@@@1@1@ntucle-docid:157; ntucle-sid:1457@LMC@2019-06-14
+30004530@@@@@@The main goal of this proposal is to introduce card-less IUs.@@@@1@11@ntucle-docid:157; ntucle-sid:1458@LMC@2019-06-14
+30004531@@@@@@Instead of having to slot in a cashcard in the IU, a value-storing microchip is embedded inside it to allow card-less transaction on the road.@@@@1@25@ntucle-docid:157; ntucle-sid:1459@LMC@2019-06-14
+30004532@@@@@@The idea is to eliminate the use of cards for fee deduction of car park gantries and ERPs.@@@@1@18@ntucle-docid:157; ntucle-sid:1460@LMC@2019-06-14
+30004533@@@@@@There will be the same procedure of deducting value when passing a gantry, but the value will be deducted from the microchip inside the IU.@@@@1@25@ntucle-docid:157; ntucle-sid:1461@LMC@2019-06-14
+30004534@@@@@@Motorists can top up their IUs using the serial number through iBanking or ATMs.@@@@1@14@ntucle-docid:157; ntucle-sid:1462@LMC@2019-06-14
+30004535@@@@@@When insufficient value is detected, the IU will beep to notify the user to add value for next usage.@@@@1@19@ntucle-docid:157; ntucle-sid:1463@LMC@2019-06-14
+30004536@@@@@@Benefits@@@@1@1@ntucle-docid:157; ntucle-sid:1464@LMC@2019-06-14
+30004537@@@@@@By going card-less, there will not be any temptation to steal from vehicles.@@@@1@13@ntucle-docid:157; ntucle-sid:1465@LMC@2019-06-14
+30004538@@@@@@Vehicle owners need not worry if they have removed their cashcards.@@@@1@11@ntucle-docid:157; ntucle-sid:1466@LMC@2019-06-14
+30004539@@@@@@Thus, the crime rate for cashcard theft will be low as it is not possible to steal an IU from a vehicle.@@@@1@22@ntucle-docid:157; ntucle-sid:1467@LMC@2019-06-14
+30004540@@@@@@Implementation@@@@1@1@ntucle-docid:157; ntucle-sid:1468@LMC@2019-06-14
+30004541@@@@@@1@@@@1@1@ntucle-docid:157; ntucle-sid:1469@LMC@2019-06-14
+30004542@@@@@@Collaborate with the manufacturer of vehicle inspection units to install a value storing and deducting chip inside the IU (similar to EZ-Link).@@@@1@22@ntucle-docid:157; ntucle-sid:1470@LMC@2019-06-14
+30004543@@@@@@2@@@@1@1@ntucle-docid:157; ntucle-sid:1471@LMC@2019-06-14
+30004544@@@@@@Advertise to LTA for approval@@@@1@5@ntucle-docid:157; ntucle-sid:1472@LMC@2019-06-14
+30004545@@@@@@Costs/Budget@@@@1@1@ntucle-docid:157; ntucle-sid:1473@LMC@2019-06-14
+30004546@@@@@@The cost for producing one IU with an embedded microchip is as follows:@@@@1@13@ntucle-docid:157; ntucle-sid:1474@LMC@2019-06-14
+30004547@@@@@@Microchip sensor $5@@@@1@3@ntucle-docid:157; ntucle-sid:1475@LMC@2019-06-14
+30004548@@@@@@In-Vehicle Unit [3] $155@@@@1@4@ntucle-docid:157; ntucle-sid:1476@LMC@2019-06-14
+30004549@@@@@@Total device cost $160@@@@1@4@ntucle-docid:157; ntucle-sid:1477@LMC@2019-06-14
+30004550@@@@@@Conclusion@@@@1@1@ntucle-docid:157; ntucle-sid:1478@LMC@2019-06-14
+30004551@@@@@@The risk of daily thefts happening is unavoidable.@@@@1@8@ntucle-docid:157; ntucle-sid:1479@LMC@2019-06-14
+30004552@@@@@@This is why we should take measures to limit the chances of theft from vehicles.@@@@1@15@ntucle-docid:157; ntucle-sid:1480@LMC@2019-06-14
+30004553@@@@@@This proposed idea is to implement a safer way of deducting money on the road without the need for cards.@@@@1@20@ntucle-docid:157; ntucle-sid:1481@LMC@2019-06-14
+30004554@@@@@@This device will prevent unnecessary loss of vehicle owners and provide a more comfortable journey on the road.@@@@1@18@ntucle-docid:157; ntucle-sid:1482@LMC@2019-06-14
+30004555@@@@@@Title@@@@1@1@ntucle-docid:158; ntucle-sid:1179@LMC@2019-06-14
+30004556@@@@@@Supermarket Catalogue@@@@1@2@ntucle-docid:158; ntucle-sid:1180@LMC@2019-06-14
+30004557@@@@@@Background@@@@1@1@ntucle-docid:158; ntucle-sid:1181@LMC@2019-06-14
+30004558@@@@@@Globalisation, through advances in transportation and telecommunication infrastructure, has led to the increase in the interchange of products throughout the world [1].@@@@1@22@ntucle-docid:158; ntucle-sid:1182@LMC@2019-06-14
+30004559@@@@@@The amount and variety of products have increased dramatically over the years and will continue to do so in the future.@@@@1@21@ntucle-docid:158; ntucle-sid:1183@LMC@2019-06-14
+30004560@@@@@@Problem@@@@1@1@ntucle-docid:158; ntucle-sid:1184@LMC@2019-06-14
+30004561@@@@@@With the increase in saturation of products, it appears that locating a particular product in the supermarket becomes increasingly difficult.@@@@1@20@ntucle-docid:158; ntucle-sid:1185@LMC@2019-06-14
+30004562@@@@@@Even with the existing categorizing of supermarkets into different zones for different type of products, most people are still having difficulty locating the exact location of a product.@@@@1@28@ntucle-docid:158; ntucle-sid:1186@LMC@2019-06-14
+30004563@@@@@@For example, in the aisle selling a variety of spreads, consumers still might have problems locating a particular brand of peanut butter spread with specific dietary requirement, like one with low fat and less salt content.@@@@1@36@ntucle-docid:158; ntucle-sid:1187@LMC@2019-06-14
+30004564@@@@@@Another problem related with this huge increase in the amount products is that big supermarket chains need to categorize of their outlets in order to sell the full range of products they carry.@@@@1@33@ntucle-docid:158; ntucle-sid:1188@LMC@2019-06-14
+30004565@@@@@@For example Fairprice introduced Fairprice Finest and Fairprice Xtra in addition to their normal outlets to carry a different variety of products.@@@@1@22@ntucle-docid:158; ntucle-sid:1189@LMC@2019-06-14
+30004566@@@@@@However, consumers are not made known which exact products are sold at which outlets, often causing them to make a wasted trip.@@@@1@22@ntucle-docid:158; ntucle-sid:1190@LMC@2019-06-14
+30004567@@@@@@Solution@@@@1@1@ntucle-docid:158; ntucle-sid:1191@LMC@2019-06-14
+30004568@@@@@@In order to tackle this existing problem, we can integrate the way we find books in a library to that in a supermarket.@@@@1@23@ntucle-docid:158; ntucle-sid:1192@LMC@2019-06-14
+30004569@@@@@@By labelling individual product with a product number and the rows and columns of the shelves with these numbers, we can show exactly what products are sold on each shelf.@@@@1@30@ntucle-docid:158; ntucle-sid:1193@LMC@2019-06-14
+30004570@@@@@@Consumers can identify the product number of a product through an online catalogue which can be easily accessed through mobile application.@@@@1@21@ntucle-docid:158; ntucle-sid:1194@LMC@2019-06-14
+30004571@@@@@@This catalogue consists of all products carried by the supermarket chain, and is also designed to show the specific outlet where a product can be found, allowing consumers to locate their desired products without making a wasted trip.@@@@1@38@ntucle-docid:158; ntucle-sid:1195@LMC@2019-06-14
+30004572@@@@@@Benefits@@@@1@1@ntucle-docid:158; ntucle-sid:1196@LMC@2019-06-14
+30004573@@@@@@With the products precisely categorized, it allows consumers to pinpoint the location of specific product.@@@@1@15@ntucle-docid:158; ntucle-sid:1197@LMC@2019-06-14
+30004574@@@@@@This allow the consumers to have a better shopping experience as they spend less time locating their products within supermarkets and among the different outlets.@@@@1@25@ntucle-docid:158; ntucle-sid:1198@LMC@2019-06-14
+30004575@@@@@@Implementation@@@@1@1@ntucle-docid:158; ntucle-sid:1199@LMC@2019-06-14
+30004576@@@@@@1@@@@1@1@ntucle-docid:158; ntucle-sid:1200@LMC@2019-06-14
+30004577@@@@@@Generate an inventory list of all products carried by the supermarket chain@@@@1@12@ntucle-docid:158; ntucle-sid:1201@LMC@2019-06-14
+30004578@@@@@@2@@@@1@1@ntucle-docid:158; ntucle-sid:1202@LMC@2019-06-14
+30004579@@@@@@Categorize products and assign product number to individual products@@@@1@9@ntucle-docid:158; ntucle-sid:1203@LMC@2019-06-14
+30004580@@@@@@3@@@@1@1@ntucle-docid:158; ntucle-sid:1204@LMC@2019-06-14
+30004581@@@@@@Label the product numbers on columns and rows of the shelves@@@@1@11@ntucle-docid:158; ntucle-sid:1205@LMC@2019-06-14
+30004582@@@@@@4@@@@1@1@ntucle-docid:158; ntucle-sid:1206@LMC@2019-06-14
+30004583@@@@@@Determine the outlets where individual products are sold@@@@1@8@ntucle-docid:158; ntucle-sid:1207@LMC@2019-06-14
+30004584@@@@@@5@@@@1@1@ntucle-docid:158; ntucle-sid:1208@LMC@2019-06-14
+30004585@@@@@@Combine all the data into a catalogue@@@@1@7@ntucle-docid:158; ntucle-sid:1209@LMC@2019-06-14
+30004586@@@@@@6@@@@1@1@ntucle-docid:158; ntucle-sid:1210@LMC@2019-06-14
+30004587@@@@@@Hire a software firm to upload these data online and launch relevant mobile applications@@@@1@14@ntucle-docid:158; ntucle-sid:1211@LMC@2019-06-14
+30004588@@@@@@Costs@@@@1@1@ntucle-docid:158; ntucle-sid:1212@LMC@2019-06-14
+30004589@@@@@@Digital labelling unit@@@@1@3@ntucle-docid:158; ntucle-sid:1213@LMC@2019-06-14
+30004590@@@@@@2@@@@1@1@ntucle-docid:158; ntucle-sid:1214@LMC@2019-06-14
+30004591@@@@@@Apple iOS and Android Application@@@@1@5@ntucle-docid:158; ntucle-sid:1215@LMC@2019-06-14
+30004592@@@@@@$150 000 [2]@@@@1@3@ntucle-docid:158; ntucle-sid:1216@LMC@2019-06-14
+30004593@@@@@@This chart only shows the estimated value of a single digital labelling unit and the cost of Apple iOS and Android Application.@@@@1@22@ntucle-docid:158; ntucle-sid:1217@LMC@2019-06-14
+30004594@@@@@@[3] The full cost of the project greatly depends on the number of outlets owned by the supermarket chain and the size of these outlets.@@@@1@25@ntucle-docid:158; ntucle-sid:1218@LMC@2019-06-14
+30004595@@@@@@Conclusion@@@@1@1@ntucle-docid:158; ntucle-sid:1219@LMC@2019-06-14
+30004596@@@@@@The saturation of products in the globalised world makes locating a specific product increasingly difficult.@@@@1@15@ntucle-docid:158; ntucle-sid:1220@LMC@2019-06-14
+30004597@@@@@@The proposed solution aims to improve this situation by categorizing and labelling these products using an online catalogue, thus saving time and effort for the consumers.@@@@1@26@ntucle-docid:158; ntucle-sid:1221@LMC@2019-06-14
+30004598@@@@@@(513 words)@@@@1@2@ntucle-docid:158; ntucle-sid:1222@LMC@2019-06-14
+30004599@@@@@@Pocket sized scanner@@@@1@3@ntucle-docid:159; ntucle-sid:1148@LMC@2019-06-14
+30004600@@@@@@Background@@@@1@1@ntucle-docid:159; ntucle-sid:1149@LMC@2019-06-14
+30004601@@@@@@Photocopying or duplicating documents is a necessary activity in schools and businesses.@@@@1@12@ntucle-docid:159; ntucle-sid:1150@LMC@2019-06-14
+30004602@@@@@@Whether it is from a physical to physical medium, physical to digital or vice versa, at some point in our lives we find a need to duplicate certain pages or documents.@@@@1@31@ntucle-docid:159; ntucle-sid:1151@LMC@2019-06-14
+30004603@@@@@@According to a market survey, photocopying service establishments has increased at an annual rate of 10.6% from the 1990s to 2000s.@@@@1@21@ntucle-docid:159; ntucle-sid:1152@LMC@2019-06-14
+30004604@@@@@@By 2010, there were 6640 photocopying services operating in the US alone.@@@@1@12@ntucle-docid:159; ntucle-sid:1153@LMC@2019-06-14
+30004605@@@@@@Problem@@@@1@1@ntucle-docid:159; ntucle-sid:1154@LMC@2019-06-14
+30004606@@@@@@Existing duplicating machines include the photocopier and scanner which aren’t portable for easy daily usage.@@@@1@15@ntucle-docid:159; ntucle-sid:1155@LMC@2019-06-14
+30004607@@@@@@There are several portable scanners available in the market.@@@@1@9@ntucle-docid:159; ntucle-sid:1156@LMC@2019-06-14
+30004608@@@@@@However, the scanner uses a rolling motion to drag the device on the object thus a flat surface is needed and its size is limited its sensor length.@@@@1@28@ntucle-docid:159; ntucle-sid:1157@LMC@2019-06-14
+30004609@@@@@@Therefore, a more portable and multipurpose scanning device is needed that is not restricted to its size.@@@@1@17@ntucle-docid:159; ntucle-sid:1158@LMC@2019-06-14
+30004610@@@@@@Solution@@@@1@1@ntucle-docid:159; ntucle-sid:1159@LMC@2019-06-14
+30004611@@@@@@The purpose of this product is to be able to scan documents irregardless of its surface and of various sizes in addition to being portable (120 x 60 mm).@@@@1@29@ntucle-docid:159; ntucle-sid:1160@LMC@2019-06-14
+30004612@@@@@@Users would select one of the many predetermined sizes such as A2 or A4 from the device.@@@@1@17@ntucle-docid:159; ntucle-sid:1161@LMC@2019-06-14
+30004613@@@@@@An optical laser grid will be mapped out reading the highlighted text or image and storing it to an external memory card or a digital storage space such as cloud.@@@@1@30@ntucle-docid:159; ntucle-sid:1162@LMC@2019-06-14
+30004614@@@@@@Users are also given the option to search nearby for a Bluetooth printer to connect to.@@@@1@16@ntucle-docid:159; ntucle-sid:1163@LMC@2019-06-14
+30004615@@@@@@Other modes include reading barcodes and QR codes.@@@@1@8@ntucle-docid:159; ntucle-sid:1164@LMC@2019-06-14
+30004616@@@@@@Benefits@@@@1@1@ntucle-docid:159; ntucle-sid:1165@LMC@2019-06-14
+30004617@@@@@@Unlike other conventional handheld scanners, the device offers a way to scan on uneven surfaces such as pages of a book or a cylindrical object.@@@@1@25@ntucle-docid:159; ntucle-sid:1166@LMC@2019-06-14
+30004618@@@@@@It is convenient to use, simply select the size, and point the device at the target akin to using a camera.@@@@1@21@ntucle-docid:159; ntucle-sid:1167@LMC@2019-06-14
+30004619@@@@@@The device is small enough to fit into a pocket and provide a quick and hassle free way to scan while on the go.@@@@1@24@ntucle-docid:159; ntucle-sid:1168@LMC@2019-06-14
+30004620@@@@@@Moreover, bluetooth and wireless connectivity to cloud provide users an alternative way to store data other than an external memory card.@@@@1@21@ntucle-docid:159; ntucle-sid:1169@LMC@2019-06-14
+30004621@@@@@@Implementation@@@@1@1@ntucle-docid:159; ntucle-sid:1170@LMC@2019-06-14
+30004622@@@@@@These steps are taken to develop and produce the device:@@@@1@10@ntucle-docid:159; ntucle-sid:1171@LMC@2019-06-14
+30004623@@@@@@1@@@@1@1@ntucle-docid:159; ntucle-sid:1172@LMC@2019-06-14
+30004624@@@@@@Work with optic and laser specialist company to develop the main component of device.@@@@1@14@ntucle-docid:159; ntucle-sid:1173@LMC@2019-06-14
+30004625@@@@@@2@@@@1@1@ntucle-docid:159; ntucle-sid:1174@LMC@2019-06-14
+30004626@@@@@@Collaborate with a wireless communication company and develop its wireless capabilities.@@@@1@11@ntucle-docid:159; ntucle-sid:1175@LMC@2019-06-14
+30004627@@@@@@3@@@@1@1@ntucle-docid:159; ntucle-sid:1176@LMC@2019-06-14
+30004628@@@@@@Product testing and advertisement through campaigns and social media@@@@1@9@ntucle-docid:159; ntucle-sid:1177@LMC@2019-06-14
+30004629@@@@@@Costs/ Budget@@@@1@2@ntucle-docid:159; ntucle-sid:1178@LMC@2019-06-14
+30004630@@@@@@Hardware design $10,000@@@@1@3@ntucle-docid:159; ntucle-sid:1179@LMC@2019-06-14
+30004631@@@@@@Optical components $20,000@@@@1@3@ntucle-docid:159; ntucle-sid:1180@LMC@2019-06-14
+30004632@@@@@@Wireless Integration $15,000@@@@1@3@ntucle-docid:159; ntucle-sid:1181@LMC@2019-06-14
+30004633@@@@@@Manufacturing $5,000@@@@1@2@ntucle-docid:159; ntucle-sid:1182@LMC@2019-06-14
+30004634@@@@@@Total $50,000@@@@1@2@ntucle-docid:159; ntucle-sid:1183@LMC@2019-06-14
+30004635@@@@@@Conclusion@@@@1@1@ntucle-docid:159; ntucle-sid:1184@LMC@2019-06-14
+30004636@@@@@@The use of duplicating documents is almost inevitable by both students and working adults.@@@@1@14@ntucle-docid:159; ntucle-sid:1185@LMC@2019-06-14
+30004637@@@@@@With its convenient usage and functionality, the proposed device aims to improve the scanning devices in the market.@@@@1@18@ntucle-docid:159; ntucle-sid:1186@LMC@2019-06-14
+30004638@@@@@@Words: 429@@@@1@2@ntucle-docid:159; ntucle-sid:1187@LMC@2019-06-14

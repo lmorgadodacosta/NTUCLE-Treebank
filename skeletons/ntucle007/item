@@ -1,0 +1,869 @@
+30005580@@@@@@Smart Rubbish Bin@@@@1@3@ntucle-docid:198; ntucle-sid:1335@LMC@2019-06-15
+30005581@@@@@@Nanyang Technological University@@@@1@3@ntucle-docid:198; ntucle-sid:1337@LMC@2019-06-15
+30005582@@@@@@Background@@@@1@1@ntucle-docid:198; ntucle-sid:1341@LMC@2019-06-15
+30005583@@@@@@The Rubbish bin is a common object in public areas where people frequently throw their litter.@@@@1@16@ntucle-docid:198; ntucle-sid:1342@LMC@2019-06-15
+30005584@@@@@@They are normally placed where paths are of high human traffic.@@@@1@11@ntucle-docid:198; ntucle-sid:1343@LMC@2019-06-15
+30005585@@@@@@This encourages people to avoid littering and a healthy and aesthetically pleasant social environment can be maintained [1] which will look good on the locals especially when tourists see it.@@@@1@30@ntucle-docid:198; ntucle-sid:1344@LMC@2019-06-15
+30005586@@@@@@Problem@@@@1@1@ntucle-docid:198; ntucle-sid:1345@LMC@2019-06-15
+30005587@@@@@@Rubbish bins are facing one problem in crowded areas where bins fill up quickly that cleaners have hard time discerning as there are too many bins, and only come at fixed timings to clear the rubbish currently.@@@@1@37@ntucle-docid:198; ntucle-sid:1346@LMC@2019-06-15
+30005588@@@@@@Thus, rubbish will be all around the bin especially at the edge of the openings resulting cleaners having difficulty in clearing the litter which flows out from the bins.@@@@1@29@ntucle-docid:198; ntucle-sid:1347@LMC@2019-06-15
+30005589@@@@@@This gets worse when it flies all over the place due to strong wind and causes improper management of the human resources.@@@@1@22@ntucle-docid:198; ntucle-sid:1348@LMC@2019-06-15
+30005590@@@@@@Solution@@@@1@1@ntucle-docid:198; ntucle-sid:1349@LMC@2019-06-15
+30005591@@@@@@The solution is to install automatic opening covers for the rubbish bins.@@@@1@12@ntucle-docid:198; ntucle-sid:1350@LMC@2019-06-15
+30005592@@@@@@It will close the moment the bin is full.@@@@1@9@ntucle-docid:198; ntucle-sid:1351@LMC@2019-06-15
+30005593@@@@@@The product will be designed to fit to a maximum of 15cm in length of the bin space and placed at the inner top.@@@@1@24@ntucle-docid:198; ntucle-sid:1352@LMC@2019-06-15
+30005594@@@@@@It is a waterproof product and rechargeable DC batteries will be used, allowing unrestricted placement of the bin.@@@@1@18@ntucle-docid:198; ntucle-sid:1353@LMC@2019-06-15
+30005595@@@@@@Motor will be modified by size and power, sized at 5cm in width and 10cm in height, to implement in the bin.@@@@1@22@ntucle-docid:198; ntucle-sid:1354@LMC@2019-06-15
+30005596@@@@@@[2] Position sensor will be used to detect when the rubbish is full.@@@@1@13@ntucle-docid:198; ntucle-sid:1355@LMC@2019-06-15
+30005597@@@@@@[3, 4] An ultrasonic transducer will be installed in each bin to send a wave signal to the cleaner when it detects the bin is full.@@@@1@26@ntucle-docid:198; ntucle-sid:1356@LMC@2019-06-15
+30005598@@@@@@[5]@@@@1@1@ntucle-docid:198; ntucle-sid:1357@LMC@2019-06-15
+30005599@@@@@@Benefits@@@@1@1@ntucle-docid:198; ntucle-sid:1358@LMC@2019-06-15
+30005600@@@@@@As for the recycling bins, cleaners will only need to come by when they are full.@@@@1@16@ntucle-docid:198; ntucle-sid:1359@LMC@2019-06-15
+30005601@@@@@@Cleaners will have an easier time to clear away the rubbish as it does not flow around the area and bins will be cleared at more frequently.@@@@1@27@ntucle-docid:198; ntucle-sid:1360@LMC@2019-06-15
+30005602@@@@@@With the ultrasonic transducer, cleaners will not have to spend time finding which bins are full.@@@@1@16@ntucle-docid:198; ntucle-sid:1361@LMC@2019-06-15
+30005603@@@@@@Hence, it results in time efficiency management.@@@@1@7@ntucle-docid:198; ntucle-sid:1362@LMC@2019-06-15
+30005604@@@@@@From there, a healthy and aesthetically pleasant social environment can be maintained.@@@@1@12@ntucle-docid:198; ntucle-sid:1363@LMC@2019-06-15
+30005605@@@@@@Implementation@@@@1@1@ntucle-docid:198; ntucle-sid:1364@LMC@2019-06-15
+30005606@@@@@@1@@@@1@1@ntucle-docid:198; ntucle-sid:1365@LMC@2019-06-15
+30005607@@@@@@Collaborate with a door motor manufacturing company to develop a motor suitable for operation in the rubbish bin.@@@@1@18@ntucle-docid:198; ntucle-sid:1366@LMC@2019-06-15
+30005608@@@@@@2@@@@1@1@ntucle-docid:198; ntucle-sid:1367@LMC@2019-06-15
+30005609@@@@@@Get position sensor and ultrasonic transducer from the electrical suppliers, and then develop it with an electronics company to incorporate inside the bin.@@@@1@23@ntucle-docid:198; ntucle-sid:1368@LMC@2019-06-15
+30005610@@@@@@3@@@@1@1@ntucle-docid:198; ntucle-sid:1369@LMC@2019-06-15
+30005611@@@@@@To build a station to detect the level of rubbish inside the bin.@@@@1@13@ntucle-docid:198; ntucle-sid:1370@LMC@2019-06-15
+30005612@@@@@@4@@@@1@1@ntucle-docid:198; ntucle-sid:1371@LMC@2019-06-15
+30005613@@@@@@A rubbish bin to test our idea as well as human resource from the companies.@@@@1@15@ntucle-docid:198; ntucle-sid:1372@LMC@2019-06-15
+30005614@@@@@@Costs/Budget@@@@1@1@ntucle-docid:198; ntucle-sid:1373@LMC@2019-06-15
+30005615@@@@@@Motor-S$50@@@@1@1@ntucle-docid:198; ntucle-sid:1374@LMC@2019-06-15
+30005616@@@@@@Sensors-S$100@@@@1@1@ntucle-docid:198; ntucle-sid:1375@LMC@2019-06-15
+30005617@@@@@@Prototype Cost -S$100@@@@1@3@ntucle-docid:198; ntucle-sid:1376@LMC@2019-06-15
+30005618@@@@@@Manpower-S$200@@@@1@1@ntucle-docid:198; ntucle-sid:1377@LMC@2019-06-15
+30005619@@@@@@Conclusion@@@@1@1@ntucle-docid:198; ntucle-sid:1378@LMC@2019-06-15
+30005620@@@@@@All people are using rubbish bins every day, which is a common sight, so if rubbish is all over the place, the area will look dirty and affect our environment which look bad on us.@@@@1@35@ntucle-docid:198; ntucle-sid:1379@LMC@2019-06-15
+30005621@@@@@@Cleaners will have very hard time to clean and this wastes time and bad efficiency of human resources, and also public inconvenience which is happening every day.@@@@1@27@ntucle-docid:198; ntucle-sid:1380@LMC@2019-06-15
+30005622@@@@@@Hence, this improved product will eradicate the problems people are facing and both the cleaning companies and public will get the best of both worlds.@@@@1@25@ntucle-docid:198; ntucle-sid:1381@LMC@2019-06-15
+30005623@@@@@@NANYANG TECHNOLOGICAL UNIVERSITY@@@@1@3@ntucle-docid:199; ntucle-sid:1544@LMC@2019-06-15
+30005624@@@@@@Technical Proposal@@@@1@2@ntucle-docid:199; ntucle-sid:1547@LMC@2019-06-15
+30005625@@@@@@SLEEP TRACKING DEVICE@@@@1@3@ntucle-docid:199; ntucle-sid:1548@LMC@2019-06-15
+30005626@@@@@@Name :@@@@1@2@ntucle-docid:199; ntucle-sid:1549@LMC@2019-06-15
+30005627@@@@@@Matriculation No.@@@@1@2@ntucle-docid:199; ntucle-sid:1551@LMC@2019-06-15
+30005628@@@@@@:@@@@1@1@ntucle-docid:199; ntucle-sid:1552@LMC@2019-06-15
+30005629@@@@@@School :@@@@1@2@ntucle-docid:199; ntucle-sid:1554@LMC@2019-06-15
+30005630@@@@@@Group :@@@@1@2@ntucle-docid:199; ntucle-sid:1556@LMC@2019-06-15
+30005631@@@@@@Tutor :@@@@1@2@ntucle-docid:199; ntucle-sid:1558@LMC@2019-06-15
+30005632@@@@@@Date of submission :@@@@1@4@ntucle-docid:199; ntucle-sid:1560@LMC@2019-06-15
+30005633@@@@@@Background@@@@1@1@ntucle-docid:199; ntucle-sid:1562@LMC@2019-06-15
+30005634@@@@@@Many people wake up feeling drowsy even though they had enough sleep.@@@@1@12@ntucle-docid:199; ntucle-sid:1563@LMC@2019-06-15
+30005635@@@@@@It affects their productivity for the rest of the day.@@@@1@10@ntucle-docid:199; ntucle-sid:1564@LMC@2019-06-15
+30005636@@@@@@This is due to an unfinished sleep cycle.@@@@1@8@ntucle-docid:199; ntucle-sid:1565@LMC@2019-06-15
+30005637@@@@@@When people are asleep, they experience several cycles of sleep [1].@@@@1@11@ntucle-docid:199; ntucle-sid:1566@LMC@2019-06-15
+30005638@@@@@@By controlling their sleep cycle, people can improve their sleep quality and wake up refreshed [2].@@@@1@16@ntucle-docid:199; ntucle-sid:1567@LMC@2019-06-15
+30005639@@@@@@A recent research has shown that people could track our sleep cycle by observing their own sound and movement when they are asleep [3].@@@@1@24@ntucle-docid:199; ntucle-sid:1568@LMC@2019-06-15
+30005640@@@@@@Problem@@@@1@1@ntucle-docid:199; ntucle-sid:1569@LMC@2019-06-15
+30005641@@@@@@Today, there is already an application for smartphones that can track body movements when someone is asleep.@@@@1@17@ntucle-docid:199; ntucle-sid:1570@LMC@2019-06-15
+30005642@@@@@@However, this application still have many downsides.@@@@1@7@ntucle-docid:199; ntucle-sid:1571@LMC@2019-06-15
+30005643@@@@@@It is not very practical since the user has to charge the phone when the application is being used.@@@@1@19@ntucle-docid:199; ntucle-sid:1572@LMC@2019-06-15
+30005644@@@@@@The user may also damage the phone by accidentally knock the phone out of the bed.@@@@1@16@ntucle-docid:199; ntucle-sid:1573@LMC@2019-06-15
+30005645@@@@@@Therefore, a simpler device that can do the same thing needs to be developed.@@@@1@14@ntucle-docid:199; ntucle-sid:1574@LMC@2019-06-15
+30005646@@@@@@Solution@@@@1@1@ntucle-docid:199; ntucle-sid:1575@LMC@2019-06-15
+30005647@@@@@@The objective of this proposal is to make a device that is more convenient to use than the smartphone application.@@@@1@20@ntucle-docid:199; ntucle-sid:1576@LMC@2019-06-15
+30005648@@@@@@The form of the product is like a pebble and it uses accelerometer to identify movements.@@@@1@16@ntucle-docid:199; ntucle-sid:1577@LMC@2019-06-15
+30005649@@@@@@The user can put it near him when he is asleep without noticing it.@@@@1@14@ntucle-docid:199; ntucle-sid:1578@LMC@2019-06-15
+30005650@@@@@@The design is waterproof and shock resistant.@@@@1@7@ntucle-docid:199; ntucle-sid:1579@LMC@2019-06-15
+30005651@@@@@@The device consumes low energy and is able to operate for more than 30 hours.@@@@1@15@ntucle-docid:199; ntucle-sid:1580@LMC@2019-06-15
+30005652@@@@@@This device will also be developed along with a website and an application for smartphones.@@@@1@15@ntucle-docid:199; ntucle-sid:1581@LMC@2019-06-15
+30005653@@@@@@After the sleep cycle is identified, the application will calculate the range of time that is most suitable to ring the alarm.@@@@1@22@ntucle-docid:199; ntucle-sid:1582@LMC@2019-06-15
+30005654@@@@@@Benefits­­@@@@1@1@ntucle-docid:199; ntucle-sid:1583@LMC@2019-06-15
+30005655@@@@@@This sleep tracking device is an advanced version of the sleep tracking application on smartphones.@@@@1@15@ntucle-docid:199; ntucle-sid:1584@LMC@2019-06-15
+30005656@@@@@@It is more practical and safe to use.@@@@1@8@ntucle-docid:199; ntucle-sid:1585@LMC@2019-06-15
+30005657@@@@@@By using this device, the user can identify his sleep cycle and have the alarm set at the time when his sleep cycle ends.@@@@1@24@ntucle-docid:199; ntucle-sid:1586@LMC@2019-06-15
+30005658@@@@@@This leads to a refreshed feeling and improved productivity throughout the day.@@@@1@12@ntucle-docid:199; ntucle-sid:1587@LMC@2019-06-15
+30005659@@@@@@Implementation@@@@1@1@ntucle-docid:199; ntucle-sid:1588@LMC@2019-06-15
+30005660@@@@@@In order to develop the product, these steps will be carried out:@@@@1@12@ntucle-docid:199; ntucle-sid:1589@LMC@2019-06-15
+30005661@@@@@@1@@@@1@1@ntucle-docid:199; ntucle-sid:1590@LMC@2019-06-15
+30005662@@@@@@Develop the website and the application with SleepBot, an existing company that has previously made the smartphone application.@@@@1@18@ntucle-docid:199; ntucle-sid:1591@LMC@2019-06-15
+30005663@@@@@@2@@@@1@1@ntucle-docid:199; ntucle-sid:1592@LMC@2019-06-15
+30005664@@@@@@Cooperate with Pirate3D to design the product.@@@@1@7@ntucle-docid:199; ntucle-sid:1593@LMC@2019-06-15
+30005665@@@@@@3@@@@1@1@ntucle-docid:199; ntucle-sid:1594@LMC@2019-06-15
+30005666@@@@@@The electronic components will be supplied by Autonomo.@@@@1@8@ntucle-docid:199; ntucle-sid:1595@LMC@2019-06-15
+30005667@@@@@@4@@@@1@1@ntucle-docid:199; ntucle-sid:1596@LMC@2019-06-15
+30005668@@@@@@Non electronic components will be supplied by Shackle.@@@@1@8@ntucle-docid:199; ntucle-sid:1597@LMC@2019-06-15
+30005669@@@@@@Costs/Budget@@@@1@1@ntucle-docid:199; ntucle-sid:1598@LMC@2019-06-15
+30005670@@@@@@Electronic components S$30@@@@1@3@ntucle-docid:199; ntucle-sid:1599@LMC@2019-06-15
+30005671@@@@@@Non-electronic components S$10@@@@1@3@ntucle-docid:199; ntucle-sid:1600@LMC@2019-06-15
+30005672@@@@@@Software engineering (including web development) S$100@@@@1@6@ntucle-docid:199; ntucle-sid:1601@LMC@2019-06-15
+30005673@@@@@@Hardware engineering S$100@@@@1@3@ntucle-docid:199; ntucle-sid:1602@LMC@2019-06-15
+30005674@@@@@@Total Device Prototype Cost S$240@@@@1@5@ntucle-docid:199; ntucle-sid:1603@LMC@2019-06-15
+30005675@@@@@@Conclusion@@@@1@1@ntucle-docid:199; ntucle-sid:1604@LMC@2019-06-15
+30005676@@@@@@Many people experience drowsiness when waking up.@@@@1@7@ntucle-docid:199; ntucle-sid:1605@LMC@2019-06-15
+30005677@@@@@@It reduces their productivity for the rest of the day.@@@@1@10@ntucle-docid:199; ntucle-sid:1606@LMC@2019-06-15
+30005678@@@@@@This device helps people to overcome that problem by identifying their sleep cycle and ring the alarm at the right time.@@@@1@21@ntucle-docid:199; ntucle-sid:1607@LMC@2019-06-15
+30005679@@@@@@It is more practical and safer to use than the smartphone application.@@@@1@12@ntucle-docid:199; ntucle-sid:1608@LMC@2019-06-15
+30005680@@@@@@By using this device, the user can wake up at the right time and feeling rejuvenated.@@@@1@16@ntucle-docid:199; ntucle-sid:1609@LMC@2019-06-15
+30005681@@@@@@This will lead to an improved productivity throughout the day.@@@@1@10@ntucle-docid:199; ntucle-sid:1610@LMC@2019-06-15
+30005682@@@@@@Background:@@@@1@1@ntucle-docid:201; ntucle-sid:1398@LMC@2019-06-15
+30005683@@@@@@Getting around campus has been a common problem for NTU students.@@@@1@11@ntucle-docid:201; ntucle-sid:1399@LMC@2019-06-15
+30005684@@@@@@Even with the existing transportation arrangements available within campus (public buses and campus shuttle bus services), there are still criticism towards the consistency and effectiveness of these services.@@@@1@28@ntucle-docid:201; ntucle-sid:1400@LMC@2019-06-15
+30005685@@@@@@According to demographics provided by NTU (Nanyang Technological University, 2015), faculty/staff members and undergraduate population hit record highs of 7004 and 23,713 respectively in the year 2014-2015.@@@@1@27@ntucle-docid:201; ntucle-sid:1401@LMC@2019-06-15
+30005686@@@@@@This is a worrying trend for NTU as an increasing population will exacerbate the issue at hand.@@@@1@17@ntucle-docid:201; ntucle-sid:1402@LMC@2019-06-15
+30005687@@@@@@As such, it is crucial to look into alternative means of transportation to accommodate the higher human traffic within campus.@@@@1@20@ntucle-docid:201; ntucle-sid:1403@LMC@2019-06-15
+30005688@@@@@@Problem:@@@@1@1@ntucle-docid:201; ntucle-sid:1404@LMC@2019-06-15
+30005689@@@@@@NTU is a huge campus and getting around can be very tiring, especially from the academic blocks to the residential halls or Sports and Recreational Complex.@@@@1@26@ntucle-docid:201; ntucle-sid:1405@LMC@2019-06-15
+30005690@@@@@@NTU provides shuttle buses that goes around in loops, operating from 0800-2300H daily.@@@@1@13@ntucle-docid:201; ntucle-sid:1406@LMC@2019-06-15
+30005691@@@@@@However, the frequencies are often irregular and unpredictable during non-peak hours; and during peak hours, boarding the bus can be difficult, especially for the more populated bus stops.@@@@1@28@ntucle-docid:201; ntucle-sid:1407@LMC@2019-06-15
+30005692@@@@@@As such, individuals are forced to cater in a larger buffer time when getting around.@@@@1@15@ntucle-docid:201; ntucle-sid:1408@LMC@2019-06-15
+30005693@@@@@@Solution:@@@@1@1@ntucle-docid:201; ntucle-sid:1409@LMC@2019-06-15
+30005694@@@@@@The main goal of this proposal is to introduce an alternative option for people to get around NTU, in addition to buses.@@@@1@22@ntucle-docid:201; ntucle-sid:1410@LMC@2019-06-15
+30005695@@@@@@NTU Bike-Share is a model where bicycle rental terminals will be strategically placed throughout campus.@@@@1@15@ntucle-docid:201; ntucle-sid:1411@LMC@2019-06-15
+30005696@@@@@@Users will select their rental option (day-hire/distance hire) on the bike-share computer available at every terminal and make payment via their ez-link at the card reader mounted beside the computer.@@@@1@30@ntucle-docid:201; ntucle-sid:1412@LMC@2019-06-15
+30005697@@@@@@Once payment has been approved, the locking mechanism will deactivate for the selected bike hired.@@@@1@15@ntucle-docid:201; ntucle-sid:1413@LMC@2019-06-15
+30005698@@@@@@Benefits:@@@@1@1@ntucle-docid:201; ntucle-sid:1414@LMC@2019-06-15
+30005699@@@@@@With NTU Bike-Share, users are able to plan their travel time better as they do not have to factor in as much buffer time.@@@@1@24@ntucle-docid:201; ntucle-sid:1415@LMC@2019-06-15
+30005700@@@@@@Additionally, it provides users waiting for buses an assurance from being late as they always have a second option available if the bus service is inconsistent.@@@@1@26@ntucle-docid:201; ntucle-sid:1416@LMC@2019-06-15
+30005701@@@@@@Moreover, it is an eco-friendly and healthy initiative, which aligns with NTU’s goal of going green.@@@@1@16@ntucle-docid:201; ntucle-sid:1417@LMC@2019-06-15
+30005702@@@@@@Implementation:@@@@1@1@ntucle-docid:201; ntucle-sid:1418@LMC@2019-06-15
+30005703@@@@@@1) Study case studies and learn from experts who has implemented the bike-share system (eg.@@@@1@15@ntucle-docid:201; ntucle-sid:1419@LMC@2019-06-15
+30005704@@@@@@Melbourne Bike Share, Skidmore College) to understand the strengths and weaknesses of each model, before choosing the most appropriate bike-share model to adopt in NTU@@@@1@25@ntucle-docid:201; ntucle-sid:1420@LMC@2019-06-15
+30005705@@@@@@2) Collaborate with “Onbikeshare” (Onbikeshare, 2012), a niche manufacturer based in the United States with expertise in custom made bike sharing systems.@@@@1@22@ntucle-docid:201; ntucle-sid:1421@LMC@2019-06-15
+30005706@@@@@@Purchase customized bicycles, bike racks, locking system and software from them.@@@@1@11@ntucle-docid:201; ntucle-sid:1422@LMC@2019-06-15
+30005707@@@@@@3) Establish the registration process with NTU the student services center such that students and staff can adopt the new initiative seamlessly once operational.@@@@1@24@ntucle-docid:201; ntucle-sid:1423@LMC@2019-06-15
+30005708@@@@@@Cost/Budget:@@@@1@1@ntucle-docid:201; ntucle-sid:1424@LMC@2019-06-15
+30005709@@@@@@Bike-Share Terminals:@@@@1@2@ntucle-docid:201; ntucle-sid:1425@LMC@2019-06-15
+30005710@@@@@@Ez-link reader: $49 x 22 = $1078@@@@1@7@ntucle-docid:201; ntucle-sid:1426@LMC@2019-06-15
+30005711@@@@@@Bicycle parking racks: $ 1000 x 22 = $22,000@@@@1@9@ntucle-docid:201; ntucle-sid:1427@LMC@2019-06-15
+30005712@@@@@@Bike-share software and locking system: $30,000@@@@1@6@ntucle-docid:201; ntucle-sid:1428@LMC@2019-06-15
+30005713@@@@@@Customized Bicycles: $130 x 100 units = $13,000@@@@1@8@ntucle-docid:201; ntucle-sid:1429@LMC@2019-06-15
+30005714@@@@@@Total: $66,078@@@@1@2@ntucle-docid:201; ntucle-sid:1430@LMC@2019-06-15
+30005715@@@@@@Conclusion:@@@@1@1@ntucle-docid:201; ntucle-sid:1431@LMC@2019-06-15
+30005716@@@@@@NTU is still a long way from having a laudable transportation infrastructure within campus.@@@@1@14@ntucle-docid:201; ntucle-sid:1432@LMC@2019-06-15
+30005717@@@@@@Keeping in mind that student population will increase in the near future, this initiative will better prepare us to accommodate the human traffic.@@@@1@23@ntucle-docid:201; ntucle-sid:1433@LMC@2019-06-15
+30005718@@@@@@The proposed NTU Bike-Share model aims to improve the current situation by providing alternative means for people to get around campus and mitigate the common frustrations expressed on the ground.@@@@1@30@ntucle-docid:201; ntucle-sid:1434@LMC@2019-06-15
+30005719@@@@@@Title@@@@1@1@ntucle-docid:202; ntucle-sid:1529@LMC@2019-06-15
+30005720@@@@@@Thermo-regulator of the Era@@@@1@4@ntucle-docid:202; ntucle-sid:1530@LMC@2019-06-15
+30005721@@@@@@Background@@@@1@1@ntucle-docid:202; ntucle-sid:1531@LMC@2019-06-15
+30005722@@@@@@Air conditioner is an electric appliance that alternate surrounding temperature.@@@@1@10@ntucle-docid:202; ntucle-sid:1532@LMC@2019-06-15
+30005723@@@@@@Nowadays, portable air conditioners are getting ubiquitous due to the easement provided by them.@@@@1@14@ntucle-docid:202; ntucle-sid:1533@LMC@2019-06-15
+30005724@@@@@@Portable air conditioners can be carried from one place to another.@@@@1@11@ntucle-docid:202; ntucle-sid:1534@LMC@2019-06-15
+30005725@@@@@@There is no troublesome installation procedure as well.@@@@1@8@ntucle-docid:202; ntucle-sid:1535@LMC@2019-06-15
+30005726@@@@@@Portable air conditioners function alike to the traditional air conditionals.@@@@1@10@ntucle-docid:202; ntucle-sid:1536@LMC@2019-06-15
+30005727@@@@@@They absorb the air in the room, cooling it and then release it back to the room.@@@@1@17@ntucle-docid:202; ntucle-sid:1537@LMC@2019-06-15
+30005728@@@@@@Meanwhile, the hot air produced in this process is channeled away from the house through a hose [1].@@@@1@18@ntucle-docid:202; ntucle-sid:1538@LMC@2019-06-15
+30005729@@@@@@Problem@@@@1@1@ntucle-docid:202; ntucle-sid:1539@LMC@2019-06-15
+30005730@@@@@@Portable air conditioners have to be placed near a window as they have to release the hot air away from the room.@@@@1@22@ntucle-docid:202; ntucle-sid:1540@LMC@2019-06-15
+30005731@@@@@@Therefore, they are not feasible to be placed in enclosed rooms.@@@@1@11@ntucle-docid:202; ntucle-sid:1541@LMC@2019-06-15
+30005732@@@@@@Moving a portable air conditioner from one place to another is harder than it sounds as the ventilation system including the hose and the plate installed in the window have to be transferred together as well.@@@@1@36@ntucle-docid:202; ntucle-sid:1542@LMC@2019-06-15
+30005733@@@@@@Besides, portable air conditioners need a continuous power source to function.@@@@1@11@ntucle-docid:202; ntucle-sid:1543@LMC@2019-06-15
+30005734@@@@@@They cannot be used in open areas.@@@@1@7@ntucle-docid:202; ntucle-sid:1544@LMC@2019-06-15
+30005735@@@@@@Solution@@@@1@1@ntucle-docid:202; ntucle-sid:1545@LMC@2019-06-15
+30005736@@@@@@To resolve the problem, a truly portable thermo-regulator that shoot out controlled water vapors near to zero degree Celsius is introduced.@@@@1@21@ntucle-docid:202; ntucle-sid:1546@LMC@2019-06-15
+30005737@@@@@@This regulator operates by cooling a tank of water stored in it using the cooling mechanism of a refrigerator.@@@@1@19@ntucle-docid:202; ntucle-sid:1547@LMC@2019-06-15
+30005738@@@@@@This mechanism operates without a fan, enabling the appliance to be 40% smaller compare to current appliances on the market and produce zero noise.@@@@1@24@ntucle-docid:202; ntucle-sid:1548@LMC@2019-06-15
+30005739@@@@@@The rate and intensity of the water vapors released is controlled by a humistor and a thermostat to optimize energy efficiency and maintain the humidity of the surrounding.@@@@1@28@ntucle-docid:202; ntucle-sid:1549@LMC@2019-06-15
+30005740@@@@@@When the desired temperature is achieved or the humidity of the surrounding hits a critical level, it will adjust its output to fit the situation.@@@@1@25@ntucle-docid:202; ntucle-sid:1550@LMC@2019-06-15
+30005741@@@@@@Next, the thermo-regulator has a built in lithium-ion battery, allowing it to function up to 4 hours without external power source.@@@@1@21@ntucle-docid:202; ntucle-sid:1551@LMC@2019-06-15
+30005742@@@@@@Lithium-ion battery is chosen due to its lighter weight and greater energy density [2].@@@@1@14@ntucle-docid:202; ntucle-sid:1552@LMC@2019-06-15
+30005743@@@@@@Benefits@@@@1@1@ntucle-docid:202; ntucle-sid:1553@LMC@2019-06-15
+30005744@@@@@@Consumers can charge up the appliance and bring it wherever they go, regardless it is outdoor or indoor.@@@@1@18@ntucle-docid:202; ntucle-sid:1554@LMC@2019-06-15
+30005745@@@@@@This lighter weight appliance will make travelling much easier.@@@@1@9@ntucle-docid:202; ntucle-sid:1555@LMC@2019-06-15
+30005746@@@@@@Consumers will never have to worry about where the electrical outlet is.@@@@1@12@ntucle-docid:202; ntucle-sid:1556@LMC@2019-06-15
+30005747@@@@@@Moreover, consumers can enjoy a cold and quite environment by using this appliance as it is noise free.@@@@1@18@ntucle-docid:202; ntucle-sid:1557@LMC@2019-06-15
+30005748@@@@@@Implementation@@@@1@1@ntucle-docid:202; ntucle-sid:1558@LMC@2019-06-15
+30005749@@@@@@1@@@@1@1@ntucle-docid:202; ntucle-sid:1559@LMC@2019-06-15
+30005750@@@@@@Collaborate with Samsung to design and build the hardware parts@@@@1@10@ntucle-docid:202; ntucle-sid:1560@LMC@2019-06-15
+30005751@@@@@@2@@@@1@1@ntucle-docid:202; ntucle-sid:1561@LMC@2019-06-15
+30005752@@@@@@The software of the appliance will be designed by Intellectsoft, a company that specialized in cross-platform programming.@@@@1@17@ntucle-docid:202; ntucle-sid:1562@LMC@2019-06-15
+30005753@@@@@@3@@@@1@1@ntucle-docid:202; ntucle-sid:1563@LMC@2019-06-15
+30005754@@@@@@Collaborate with Tesla Motors to manufacture the batteries.@@@@1@8@ntucle-docid:202; ntucle-sid:1564@LMC@2019-06-15
+30005755@@@@@@4@@@@1@1@ntucle-docid:202; ntucle-sid:1565@LMC@2019-06-15
+30005756@@@@@@The appliance will be assembled in several factories that are under Samsung throughout Asia.@@@@1@14@ntucle-docid:202; ntucle-sid:1566@LMC@2019-06-15
+30005757@@@@@@Costs or Budget@@@@1@3@ntucle-docid:202; ntucle-sid:1567@LMC@2019-06-15
+30005758@@@@@@Hardware components $200@@@@1@3@ntucle-docid:202; ntucle-sid:1568@LMC@2019-06-15
+30005759@@@@@@Software $50@@@@1@2@ntucle-docid:202; ntucle-sid:1569@LMC@2019-06-15
+30005760@@@@@@Battery $150@@@@1@2@ntucle-docid:202; ntucle-sid:1570@LMC@2019-06-15
+30005761@@@@@@Total cost $400@@@@1@3@ntucle-docid:202; ntucle-sid:1571@LMC@2019-06-15
+30005762@@@@@@Conclusion@@@@1@1@ntucle-docid:202; ntucle-sid:1572@LMC@2019-06-15
+30005763@@@@@@Convenience is the main focus nowadays.@@@@1@6@ntucle-docid:202; ntucle-sid:1573@LMC@2019-06-15
+30005764@@@@@@With this thermo-regulator, people can enjoy the easement and simplicity that they have never experienced before with the traditional portable air conditioners.@@@@1@22@ntucle-docid:202; ntucle-sid:1574@LMC@2019-06-15
+30005765@@@@@@This thermo-regulator will surely redefine the meaning of portable air conditioner.@@@@1@11@ntucle-docid:202; ntucle-sid:1575@LMC@2019-06-15
+30005766@@@@@@Lecture Theater Controller@@@@1@3@ntucle-docid:203; ntucle-sid:1656@LMC@2019-06-15
+30005767@@@@@@Background:@@@@1@1@ntucle-docid:203; ntucle-sid:1657@LMC@2019-06-15
+30005768@@@@@@Since majority of students have lessons conducted in Lecture Theatres, it is ideal to have an environment that is conducive to learning.@@@@1@22@ntucle-docid:203; ntucle-sid:1658@LMC@2019-06-15
+30005769@@@@@@Effective learning occurs when a person is in a comfortable zone.@@@@1@11@ntucle-docid:203; ntucle-sid:1659@LMC@2019-06-15
+30005770@@@@@@A study conducted in Loyola University on the effects of temperature of the environment discovered the correlation between individual's memory and the temperature they are exposed to.@@@@1@27@ntucle-docid:203; ntucle-sid:1660@LMC@2019-06-15
+30005771@@@@@@The study concluded temperature varying higher or lower than 72 Fahrenheit (22.2 Degree Celsius), affects participants’ memory.@@@@1@17@ntucle-docid:203; ntucle-sid:1661@LMC@2019-06-15
+30005772@@@@@@Their memory is affected the same way as if they were distracted.@@@@1@12@ntucle-docid:203; ntucle-sid:1662@LMC@2019-06-15
+30005773@@@@@@This study is relatable to university students as majority of the study was conducted on undergraduate students.@@@@1@17@ntucle-docid:203; ntucle-sid:1663@LMC@2019-06-15
+30005774@@@@@@[1]@@@@1@1@ntucle-docid:203; ntucle-sid:1664@LMC@2019-06-15
+30005775@@@@@@Problem:@@@@1@1@ntucle-docid:203; ntucle-sid:1665@LMC@2019-06-15
+30005776@@@@@@Lecture theatres are not designed to maintain the above mentioned temperature range for optimal learning.@@@@1@15@ntucle-docid:203; ntucle-sid:1666@LMC@2019-06-15
+30005777@@@@@@Students get distracted by discomforts of their environmental conditions.@@@@1@9@ntucle-docid:203; ntucle-sid:1667@LMC@2019-06-15
+30005778@@@@@@Different individuals regulate their body temperature differently [2] thus a single fixed temperature is not conducive to student learning.@@@@1@19@ntucle-docid:203; ntucle-sid:1668@LMC@2019-06-15
+30005779@@@@@@Temperature, volume and lighting are the three conditions, in a lecture theatre, we can control.@@@@1@15@ntucle-docid:203; ntucle-sid:1669@LMC@2019-06-15
+30005780@@@@@@Solution:@@@@1@1@ntucle-docid:203; ntucle-sid:1670@LMC@2019-06-15
+30005781@@@@@@A simple application which would be securely linked to the central control system of the lecture theatre and allow individuals to access its settings.@@@@1@24@ntucle-docid:203; ntucle-sid:1671@LMC@2019-06-15
+30005782@@@@@@The lecture theatre would be divided in to sectors which would make it easier to approximate the user location in the lecture theatre.@@@@1@23@ntucle-docid:203; ntucle-sid:1672@LMC@2019-06-15
+30005783@@@@@@The application would be able to change the condition settings for that particular section.@@@@1@14@ntucle-docid:203; ntucle-sid:1673@LMC@2019-06-15
+30005784@@@@@@Benefits:@@@@1@1@ntucle-docid:203; ntucle-sid:1674@LMC@2019-06-15
+30005785@@@@@@This controller would allow users to easily change their environment settings so as to allow them to reach their optimal attention.@@@@1@21@ntucle-docid:203; ntucle-sid:1675@LMC@2019-06-15
+30005786@@@@@@This controller would be autonomous.@@@@1@5@ntucle-docid:203; ntucle-sid:1676@LMC@2019-06-15
+30005787@@@@@@Implementation:@@@@1@1@ntucle-docid:203; ntucle-sid:1677@LMC@2019-06-15
+30005788@@@@@@In the first stage a speaker selector would be installed which would allow individual volume control of the speakers.@@@@1@19@ntucle-docid:203; ntucle-sid:1678@LMC@2019-06-15
+30005789@@@@@@[3] The speaker selector would be installed to run simultaneously with the lecture theatre control panel.@@@@1@16@ntucle-docid:203; ntucle-sid:1679@LMC@2019-06-15
+30005790@@@@@@In the second stage the chairs will be numbered and installed with a heater which can be controlled remotely.@@@@1@19@ntucle-docid:203; ntucle-sid:1680@LMC@2019-06-15
+30005791@@@@@@Studies have shown that a heated chair can help to regulated a person’s temperature when the surrounding temperature is low.@@@@1@20@ntucle-docid:203; ntucle-sid:1681@LMC@2019-06-15
+30005792@@@@@@[4]@@@@1@1@ntucle-docid:203; ntucle-sid:1682@LMC@2019-06-15
+30005793@@@@@@In the third stage the application would be created in three languages such as Objective C, Java and C++ in order for the application to work on IOS, Android and Windows.@@@@1@31@ntucle-docid:203; ntucle-sid:1683@LMC@2019-06-15
+30005794@@@@@@The fourth stage would feature a survey to find out what settings do students prefer to have lessons in.@@@@1@19@ntucle-docid:203; ntucle-sid:1684@LMC@2019-06-15
+30005795@@@@@@This would help determine the preset range for the application.@@@@1@10@ntucle-docid:203; ntucle-sid:1685@LMC@2019-06-15
+30005796@@@@@@In the final stage, the application would be reinforced with protocols so as to prevent students from misusing this system and disrupting lessons.@@@@1@23@ntucle-docid:203; ntucle-sid:1686@LMC@2019-06-15
+30005797@@@@@@Costs:@@@@1@1@ntucle-docid:203; ntucle-sid:1687@LMC@2019-06-15
+30005798@@@@@@Hardware Cost: $6000@@@@1@3@ntucle-docid:203; ntucle-sid:1688@LMC@2019-06-15
+30005799@@@@@@Software Design: $1500@@@@1@3@ntucle-docid:203; ntucle-sid:1689@LMC@2019-06-15
+30005800@@@@@@Labor Cost: $6000@@@@1@3@ntucle-docid:203; ntucle-sid:1690@LMC@2019-06-15
+30005801@@@@@@Total cost: $13500@@@@1@3@ntucle-docid:203; ntucle-sid:1691@LMC@2019-06-15
+30005802@@@@@@(Cost is estimated according to a lecture theatre with a capacity of 991.)@@@@1@13@ntucle-docid:203; ntucle-sid:1692@LMC@2019-06-15
+30005803@@@@@@Conclusion:@@@@1@1@ntucle-docid:203; ntucle-sid:1693@LMC@2019-06-15
+30005804@@@@@@The Lecture Theatre Controller would be a great application for students to control their own learning environments.@@@@1@17@ntucle-docid:203; ntucle-sid:1694@LMC@2019-06-15
+30005805@@@@@@Based on the Loyola University study, the app would help students focus better during lessons.@@@@1@15@ntucle-docid:203; ntucle-sid:1695@LMC@2019-06-15
+30005806@@@@@@This would help to boost students’ concentration and productivity levels.@@@@1@10@ntucle-docid:203; ntucle-sid:1696@LMC@2019-06-15
+30005807@@@@@@PROPOSAL@@@@1@1@ntucle-docid:204; ntucle-sid:1526@LMC@2019-06-15
+30005808@@@@@@Background@@@@1@1@ntucle-docid:204; ntucle-sid:1531@LMC@2019-06-15
+30005809@@@@@@A series of accidents that occurred in China involving the metal flooring panels of escalators have caused increased concerns and enquiry of the country’s ageing escalators.@@@@1@26@ntucle-docid:204; ntucle-sid:1532@LMC@2019-06-15
+30005810@@@@@@A 30-year-old housewife, Xiang Liujuan, died after a metal floor panel of the escalator she was travelling on suddenly gave way [1].@@@@1@22@ntucle-docid:204; ntucle-sid:1533@LMC@2019-06-15
+30005811@@@@@@Shortly after the unfortunate incident, a 35-year-old worker of a shopping mall in Shanghai lost part of his leg after a floor panel on an escalator collapsed underneath him [2][3].@@@@1@30@ntucle-docid:204; ntucle-sid:1534@LMC@2019-06-15
+30005812@@@@@@Problem@@@@1@1@ntucle-docid:204; ntucle-sid:1535@LMC@2019-06-15
+30005813@@@@@@The increase in the usage of escalators, the heavy loads on them and the ageing of the equipment threaten their safe operation in China [1].@@@@1@25@ntucle-docid:204; ntucle-sid:1536@LMC@2019-06-15
+30005814@@@@@@Zhang Huaiji, an engineer with the Shenzhen Institute of Special Equipment Inspection and Testing, expressed to the site that there were insufficient inspectors for China’s increasing number of escalators, and added that the low wages and long hours made several maintenance workers to leave the field [2].@@@@1@47@ntucle-docid:204; ntucle-sid:1537@LMC@2019-06-15
+30005815@@@@@@Moreover, there are no detection/sensor devices in the market that detect loose escalator panels and stop the escalator.@@@@1@18@ntucle-docid:204; ntucle-sid:1538@LMC@2019-06-15
+30005816@@@@@@Solution@@@@1@1@ntucle-docid:204; ntucle-sid:1539@LMC@2019-06-15
+30005817@@@@@@Metal floor panels give riders a platform to stand before they step onto the moving stairs.@@@@1@16@ntucle-docid:204; ntucle-sid:1540@LMC@2019-06-15
+30005818@@@@@@They are even with the finished floor and are either hinged or removable [4].@@@@1@14@ntucle-docid:204; ntucle-sid:1541@LMC@2019-06-15
+30005819@@@@@@Current escalator safety devices are comprised of motorised limit switches and electronic sensors such that the actuation of a safety device stops the escalator in line with safety requirements.@@@@1@29@ntucle-docid:204; ntucle-sid:1542@LMC@2019-06-15
+30005820@@@@@@The safety devices are wirelessly connected to an escalator controller.@@@@1@10@ntucle-docid:204; ntucle-sid:1543@LMC@2019-06-15
+30005821@@@@@@This wireless connection would significantly abridge the procedure of connecting or adding a new switch, sensor or other safety device [5].@@@@1@21@ntucle-docid:204; ntucle-sid:1544@LMC@2019-06-15
+30005822@@@@@@Therefore, I propose the addition of a new safety device with an audio sensor underneath the metal floor panels of escalators.@@@@1@21@ntucle-docid:204; ntucle-sid:1545@LMC@2019-06-15
+30005823@@@@@@These devices will detect the secureness of the panels to the finished floor.@@@@1@13@ntucle-docid:204; ntucle-sid:1546@LMC@2019-06-15
+30005824@@@@@@If loose panels are detected, an alarm will be triggered to alert the public.@@@@1@14@ntucle-docid:204; ntucle-sid:1547@LMC@2019-06-15
+30005825@@@@@@Benefits@@@@1@1@ntucle-docid:204; ntucle-sid:1548@LMC@2019-06-15
+30005826@@@@@@As the technical scheme is adopted, safety hazard of the escalator caused by loose floor panels is controlled efficiently, and personal safety of passengers is guaranteed.@@@@1@26@ntucle-docid:204; ntucle-sid:1549@LMC@2019-06-15
+30005827@@@@@@The production process is simple, the production cost is low and the good performance of escalator safety detection device is guaranteed.@@@@1@21@ntucle-docid:204; ntucle-sid:1550@LMC@2019-06-15
+30005828@@@@@@Implementation@@@@1@1@ntucle-docid:204; ntucle-sid:1551@LMC@2019-06-15
+30005829@@@@@@The safety detection device is developed with the following steps:@@@@1@10@ntucle-docid:204; ntucle-sid:1552@LMC@2019-06-15
+30005830@@@@@@1@@@@1@1@ntucle-docid:204; ntucle-sid:1553@LMC@2019-06-15
+30005831@@@@@@Work with electrical engineers and software developers to come up with a@@@@1@12@ntucle-docid:204; ntucle-sid:1554@LMC@2019-06-15
+30005832@@@@@@circuit for proper working mechanism of the device.@@@@1@8@ntucle-docid:204; ntucle-sid:1555@LMC@2019-06-15
+30005833@@@@@@2@@@@1@1@ntucle-docid:204; ntucle-sid:1556@LMC@2019-06-15
+30005834@@@@@@Next, work with manufacturers to come up with designs and prototypes of@@@@1@12@ntucle-docid:204; ntucle-sid:1557@LMC@2019-06-15
+30005835@@@@@@the device.@@@@1@2@ntucle-docid:204; ntucle-sid:1558@LMC@2019-06-15
+30005836@@@@@@3@@@@1@1@ntucle-docid:204; ntucle-sid:1559@LMC@2019-06-15
+30005837@@@@@@Conduct testing to check if the prototype is working and there is a need for any@@@@1@16@ntucle-docid:204; ntucle-sid:1560@LMC@2019-06-15
+30005838@@@@@@modifications.@@@@1@1@ntucle-docid:204; ntucle-sid:1561@LMC@2019-06-15
+30005839@@@@@@4@@@@1@1@ntucle-docid:204; ntucle-sid:1562@LMC@2019-06-15
+30005840@@@@@@After the product is finalised, test it in a few places and gradually, get it installed@@@@1@16@ntucle-docid:204; ntucle-sid:1563@LMC@2019-06-15
+30005841@@@@@@country-wide.@@@@1@1@ntucle-docid:204; ntucle-sid:1564@LMC@2019-06-15
+30005842@@@@@@Cost/Budget@@@@1@1@ntucle-docid:204; ntucle-sid:1565@LMC@2019-06-15
+30005843@@@@@@Safety detection module $25, 000@@@@1@5@ntucle-docid:204; ntucle-sid:1566@LMC@2019-06-15
+30005844@@@@@@Execution unit $35, 000@@@@1@4@ntucle-docid:204; ntucle-sid:1567@LMC@2019-06-15
+30005845@@@@@@Audio Sensors $120.00@@@@1@3@ntucle-docid:204; ntucle-sid:1568@LMC@2019-06-15
+30005846@@@@@@Wireless Detection System $8000@@@@1@4@ntucle-docid:204; ntucle-sid:1569@LMC@2019-06-15
+30005847@@@@@@Total $68, 120@@@@1@3@ntucle-docid:204; ntucle-sid:1570@LMC@2019-06-15
+30005848@@@@@@Conclusion@@@@1@1@ntucle-docid:204; ntucle-sid:1571@LMC@2019-06-15
+30005849@@@@@@In conclusion, I would like to say that human loss and suffering is immeasurable.@@@@1@14@ntucle-docid:204; ntucle-sid:1572@LMC@2019-06-15
+30005850@@@@@@Safety lies in our hands and we should take appropriate actions to ensure that our environment is a safe place to live in.@@@@1@23@ntucle-docid:204; ntucle-sid:1573@LMC@2019-06-15
+30005851@@@@@@As such, the escalator safety detection device is created to save you and your family from unfortunate mishaps and unnecessary deaths.@@@@1@21@ntucle-docid:204; ntucle-sid:1574@LMC@2019-06-15
+30005852@@@@@@Background@@@@1@1@ntucle-docid:205; ntucle-sid:1585@LMC@2019-06-15
+30005853@@@@@@The smart phone has become an integral part of our human lives.@@@@1@12@ntucle-docid:205; ntucle-sid:1586@LMC@2019-06-15
+30005854@@@@@@As of today, our smart phones possess multiple functions.@@@@1@9@ntucle-docid:205; ntucle-sid:1587@LMC@2019-06-15
+30005855@@@@@@Contrary to old times where people only used their mobile phones to make phone calls, smart phones can now give us our exact location on the map, provide current weather updates, surf the internet and even transmit data to another phone.@@@@1@41@ntucle-docid:205; ntucle-sid:1588@LMC@2019-06-15
+30005856@@@@@@According to Jung (2014), 6 Billion people had subscribed to a mobile service by 2011.@@@@1@15@ntucle-docid:205; ntucle-sid:1589@LMC@2019-06-15
+30005857@@@@@@This reflects the increasing reliance on the smart phone in our modern age.@@@@1@13@ntucle-docid:205; ntucle-sid:1590@LMC@2019-06-15
+30005858@@@@@@Problem@@@@1@1@ntucle-docid:205; ntucle-sid:1591@LMC@2019-06-15
+30005859@@@@@@However, while smart phones today boasts the ability to run a vast array of sophisticated mobile applications, they still require sufficient battery power for it to run smoothly.@@@@1@28@ntucle-docid:205; ntucle-sid:1592@LMC@2019-06-15
+30005860@@@@@@Without any battery power, the smart phone would be of no use to its user at all.@@@@1@17@ntucle-docid:205; ntucle-sid:1593@LMC@2019-06-15
+30005861@@@@@@In the light of greater smart phone usage, we also need to develop a simpler, convenient and quicker alternative to charge our smart phone batteries as some find it a hassle to search for a available power socket while others may find the standard charging time too long.@@@@1@48@ntucle-docid:205; ntucle-sid:1594@LMC@2019-06-15
+30005862@@@@@@Solution@@@@1@1@ntucle-docid:205; ntucle-sid:1595@LMC@2019-06-15
+30005863@@@@@@The main aim of this proposal is to encourage a more energy efficient mode of smartphone charging through the hydraulic charging technology.@@@@1@22@ntucle-docid:205; ntucle-sid:1596@LMC@2019-06-15
+30005864@@@@@@The hydraulic charger features a hand-operated pump, which is connected to a small electrical generator required to transmit the ‘pumping’ energy into usable battery power.@@@@1@25@ntucle-docid:205; ntucle-sid:1597@LMC@2019-06-15
+30005865@@@@@@Smartphone users can simply connect their phones directly to the converter and start ‘pumping’ up the battery in their phones.@@@@1@20@ntucle-docid:205; ntucle-sid:1598@LMC@2019-06-15
+30005866@@@@@@This simple but yet ergonomic design allows its user to obtain battery power with great convenience and ease.@@@@1@18@ntucle-docid:205; ntucle-sid:1599@LMC@2019-06-15
+30005867@@@@@@This product will be placed at several accessible locations throughout campus.@@@@1@11@ntucle-docid:205; ntucle-sid:1600@LMC@2019-06-15
+30005868@@@@@@Benefit@@@@1@1@ntucle-docid:205; ntucle-sid:1601@LMC@2019-06-15
+30005869@@@@@@The biggest advantage this product has over other alternative chargers is its ergonomic design.@@@@1@14@ntucle-docid:205; ntucle-sid:1602@LMC@2019-06-15
+30005870@@@@@@Unlike power banks, the hydraulic charger does not run on electricity and therefore does not need to be charged before it can be used to provide charge to a phone, therefore allowing its user to save time.@@@@1@37@ntucle-docid:205; ntucle-sid:1603@LMC@2019-06-15
+30005871@@@@@@Moreover, users will not have to charge their phones at a power socket any longer.@@@@1@15@ntucle-docid:205; ntucle-sid:1604@LMC@2019-06-15
+30005872@@@@@@The charger will include several common charging adaptors such as that of Android, Apple, Nokia and blackberry so as to provide greater user accessibility, thus enabling the majority of smartphone users to benefit.@@@@1@33@ntucle-docid:205; ntucle-sid:1605@LMC@2019-06-15
+30005873@@@@@@Implementation@@@@1@1@ntucle-docid:205; ntucle-sid:1606@LMC@2019-06-15
+30005874@@@@@@A total of 5 Hydraulic Charging stations will be placed around ‘open’ study areas in both the ‘North Spine’ and ‘South spine’ of the NTU campus so that students can have quick access to it while making their way to classes nearby.@@@@1@42@ntucle-docid:205; ntucle-sid:1607@LMC@2019-06-15
+30005875@@@@@@These charging stations are located in common areas where slight physical movements can be tolerated.@@@@1@15@ntucle-docid:205; ntucle-sid:1608@LMC@2019-06-15
+30005876@@@@@@Costs:@@@@1@1@ntucle-docid:205; ntucle-sid:1609@LMC@2019-06-15
+30005877@@@@@@Material costs: 5 x $5000@@@@1@5@ntucle-docid:205; ntucle-sid:1610@LMC@2019-06-15
+30005878@@@@@@Design costs: $2000@@@@1@3@ntucle-docid:205; ntucle-sid:1611@LMC@2019-06-15
+30005879@@@@@@Labour costs: $5000@@@@1@3@ntucle-docid:205; ntucle-sid:1612@LMC@2019-06-15
+30005880@@@@@@Total: $32000@@@@1@2@ntucle-docid:205; ntucle-sid:1613@LMC@2019-06-15
+30005881@@@@@@The Hydraulic Charger seeks to provide all smartphone users a better battery charging experience that is more environmentally friendly, convenient to use and less time consuming.@@@@1@26@ntucle-docid:205; ntucle-sid:1614@LMC@2019-06-15
+30005882@@@@@@Appvocate@@@@1@1@ntucle-docid:206; ntucle-sid:1493@LMC@2019-06-15
+30005883@@@@@@Background@@@@1@1@ntucle-docid:206; ntucle-sid:1494@LMC@2019-06-15
+30005884@@@@@@Volunteerism has been on the rise in Singapore.@@@@1@8@ntucle-docid:206; ntucle-sid:1495@LMC@2019-06-15
+30005885@@@@@@According to research by the National Volunteer and Philanthropy Centre in 2012, one in three people are known to be volunteers.@@@@1@21@ntucle-docid:206; ntucle-sid:1496@LMC@2019-06-15
+30005886@@@@@@[1] This was the highest proportion since the start of the study in 2000.@@@@1@14@ntucle-docid:206; ntucle-sid:1497@LMC@2019-06-15
+30005887@@@@@@Hence, the smooth facilitation of civic minded activities is essential to inspire more volunteers to join and commit to the cause.@@@@1@21@ntucle-docid:206; ntucle-sid:1498@LMC@2019-06-15
+30005888@@@@@@Observations also revealed that budding volunteers are discouraged from organizations that seem unprofessional.@@@@1@13@ntucle-docid:206; ntucle-sid:1499@LMC@2019-06-15
+30005889@@@@@@[2]@@@@1@1@ntucle-docid:206; ntucle-sid:1500@LMC@2019-06-15
+30005890@@@@@@Problem@@@@1@1@ntucle-docid:206; ntucle-sid:1501@LMC@2019-06-15
+30005891@@@@@@There is an existing online portal, SG Cares, which matches people with volunteering prospects that suits their interests.@@@@1@18@ntucle-docid:206; ntucle-sid:1502@LMC@2019-06-15
+30005892@@@@@@However, there can be improvements made to enhance its functionality and reach.@@@@1@12@ntucle-docid:206; ntucle-sid:1503@LMC@2019-06-15
+30005893@@@@@@Keen volunteers can only access the portal through the website, which limits its engagement and reachability to web traffic that is directed to the website.@@@@1@25@ntucle-docid:206; ntucle-sid:1504@LMC@2019-06-15
+30005894@@@@@@Therefore, this necessitates an improvement in the online portal.@@@@1@9@ntucle-docid:206; ntucle-sid:1505@LMC@2019-06-15
+30005895@@@@@@Solution@@@@1@1@ntucle-docid:206; ntucle-sid:1506@LMC@2019-06-15
+30005896@@@@@@This proposal aims to integrate the online portal and its functions into that of a mobile smartphone application.@@@@1@18@ntucle-docid:206; ntucle-sid:1507@LMC@2019-06-15
+30005897@@@@@@Current and potential volunteers can download and install the application from online application stores.@@@@1@14@ntucle-docid:206; ntucle-sid:1508@LMC@2019-06-15
+30005898@@@@@@Firstly, the app would utilize the administrative services present on the online portal and transfer it to the user interface.@@@@1@20@ntucle-docid:206; ntucle-sid:1509@LMC@2019-06-15
+30005899@@@@@@In addition, the app would also be linked to the smartphone’s calendar, enabling users to receive reminders of their voluntary commitments.@@@@1@21@ntucle-docid:206; ntucle-sid:1510@LMC@2019-06-15
+30005900@@@@@@Furthermore, users can indicate their field of interests, and receive ‘breaking news’ updates when volunteering opportunities are available.@@@@1@18@ntucle-docid:206; ntucle-sid:1511@LMC@2019-06-15
+30005901@@@@@@The app would also have a messaging feature for users to interact with the various organizations, where they can direct any inquiry and feedback.@@@@1@24@ntucle-docid:206; ntucle-sid:1512@LMC@2019-06-15
+30005902@@@@@@Lastly, users can initiate new projects for causes and rally fellow volunteers through the app.@@@@1@15@ntucle-docid:206; ntucle-sid:1513@LMC@2019-06-15
+30005903@@@@@@Benefits@@@@1@1@ntucle-docid:206; ntucle-sid:1514@LMC@2019-06-15
+30005904@@@@@@The application is a mobile friendly platform of the existing portal.@@@@1@11@ntucle-docid:206; ntucle-sid:1515@LMC@2019-06-15
+30005905@@@@@@This helps to extend the portal’s reach and availability to Singaporean volunteers as well as interested volunteers at the same time.@@@@1@21@ntucle-docid:206; ntucle-sid:1516@LMC@2019-06-15
+30005906@@@@@@Users will also benefit from having the convenience of accessing the portal which assimilates their volunteering interests into their usual daily schedule.@@@@1@22@ntucle-docid:206; ntucle-sid:1517@LMC@2019-06-15
+30005907@@@@@@The application also helps the organizations bridge the lack of supply for volunteers by publicizing their activities directly to the users.@@@@1@21@ntucle-docid:206; ntucle-sid:1518@LMC@2019-06-15
+30005908@@@@@@The app serves as a direct medium for users and the organizations to connect, and better align their needs and interests.@@@@1@21@ntucle-docid:206; ntucle-sid:1519@LMC@2019-06-15
+30005909@@@@@@Implementation@@@@1@1@ntucle-docid:206; ntucle-sid:1520@LMC@2019-06-15
+30005910@@@@@@The subsequent procedures will be adhered to, with regards to the development of the app:@@@@1@15@ntucle-docid:206; ntucle-sid:1521@LMC@2019-06-15
+30005911@@@@@@1@@@@1@1@ntucle-docid:206; ntucle-sid:1522@LMC@2019-06-15
+30005912@@@@@@We will approach SG Cares to port their portal to an app and we will work on the design.@@@@1@19@ntucle-docid:206; ntucle-sid:1523@LMC@2019-06-15
+30005913@@@@@@2@@@@1@1@ntucle-docid:206; ntucle-sid:1524@LMC@2019-06-15
+30005914@@@@@@The app will first be released in closed beta for a select group of users to garner any feedback for improvements for one month.@@@@1@24@ntucle-docid:206; ntucle-sid:1525@LMC@2019-06-15
+30005915@@@@@@Costs@@@@1@1@ntucle-docid:206; ntucle-sid:1526@LMC@2019-06-15
+30005916@@@@@@Due to the non-profit nature of this project, volunteers would be sourced in developing the app thus keeping the costs close to zero.@@@@1@23@ntucle-docid:206; ntucle-sid:1527@LMC@2019-06-15
+30005917@@@@@@Conclusion@@@@1@1@ntucle-docid:206; ntucle-sid:1528@LMC@2019-06-15
+30005918@@@@@@Appvocate streamlines the volunteerism in Singapore by building upon the existing portal.@@@@1@12@ntucle-docid:206; ntucle-sid:1529@LMC@2019-06-15
+30005919@@@@@@As the volunteer community grows, appvocate expedites volunteering for volunteers and organizations alike.@@@@1@13@ntucle-docid:206; ntucle-sid:1530@LMC@2019-06-15
+30005920@@@@@@Hopefully, this will encourage volunteering in Singaporeans as it is much easier to start and incorporate it into their lifestyles.@@@@1@20@ntucle-docid:206; ntucle-sid:1531@LMC@2019-06-15
+30005921@@@@@@MozzieAway Container (MAC)@@@@1@3@ntucle-docid:207; ntucle-sid:1622@LMC@2019-06-15
+30005922@@@@@@Background@@@@1@1@ntucle-docid:207; ntucle-sid:1623@LMC@2019-06-15
+30005923@@@@@@MozzieAway Container (MAC)@@@@1@3@ntucle-docid:207; ntucle-sid:1624@LMC@2019-06-15
+30005924@@@@@@Background@@@@1@1@ntucle-docid:207; ntucle-sid:1625@LMC@2019-06-15
+30005925@@@@@@Mosquitoes are a menace to everyone and they are known to be the number one killer in the world by transmitting various types of diseases such as malaria and dengue.@@@@1@30@ntucle-docid:207; ntucle-sid:1626@LMC@2019-06-15
+30005926@@@@@@According to World Health Organisation, malaria has killed over 725000 people annually.@@@@1@12@ntucle-docid:207; ntucle-sid:1627@LMC@2019-06-15
+30005927@@@@@@[1] Their larvae are commonly found in places with stagnant water such as containers and drains.@@@@1@16@ntucle-docid:207; ntucle-sid:1628@LMC@2019-06-15
+30005928@@@@@@Problem@@@@1@1@ntucle-docid:207; ntucle-sid:1629@LMC@2019-06-15
+30005929@@@@@@As a country with a tropical climate, the combination of a warm and wet weather in Singapore provides a good breeding ground for the mosquitoes.@@@@1@25@ntucle-docid:207; ntucle-sid:1630@LMC@2019-06-15
+30005930@@@@@@According to NEA, the most common breeding ground for mosquitoes are domestic containers[2].@@@@1@13@ntucle-docid:207; ntucle-sid:1631@LMC@2019-06-15
+30005931@@@@@@These containers are used for everyday activities such as watering the plants and may contain residue water, thus promoting the growth of mosquitoes’ larvae.@@@@1@24@ntucle-docid:207; ntucle-sid:1632@LMC@2019-06-15
+30005932@@@@@@Therefore, in order to reduce their breeding areas, measures are needed to remove residue water found in these containers.@@@@1@19@ntucle-docid:207; ntucle-sid:1633@LMC@2019-06-15
+30005933@@@@@@Solution@@@@1@1@ntucle-docid:207; ntucle-sid:1634@LMC@2019-06-15
+30005934@@@@@@The 100mm x 220mm MAC proposed will be double-layered with the ability to displace residue water while hindering the growth of larvae.@@@@1@22@ntucle-docid:207; ntucle-sid:1635@LMC@2019-06-15
+30005935@@@@@@The main material will be plastic as it is economically efficient and durable[3].@@@@1@13@ntucle-docid:207; ntucle-sid:1636@LMC@2019-06-15
+30005936@@@@@@The main feature is that at the lower portion of the MAC, a CO2 mixer will be fitted.@@@@1@18@ntucle-docid:207; ntucle-sid:1637@LMC@2019-06-15
+30005937@@@@@@Mosquitoes are known to be attracted to heat and carbon dioxide [4]; as such the possibility of enticing the mosquitoes to breed will be higher.@@@@1@25@ntucle-docid:207; ntucle-sid:1638@LMC@2019-06-15
+30005938@@@@@@The main ingredients of the co2 mixer will consist of sugar and yeast which will result in fermentation.@@@@1@18@ntucle-docid:207; ntucle-sid:1639@LMC@2019-06-15
+30005939@@@@@@The fermentation process will produce CO2 which will seep through the first layer.@@@@1@13@ntucle-docid:207; ntucle-sid:1640@LMC@2019-06-15
+30005940@@@@@@The secondary feature is when it holds a certain amount of water, the first layer will tilt at an angle and subsequently remove all the water inside.@@@@1@27@ntucle-docid:207; ntucle-sid:1641@LMC@2019-06-15
+30005941@@@@@@The container will have a locking mechanism on the first layer to lock it in place should it be needed for water transportation.@@@@1@23@ntucle-docid:207; ntucle-sid:1642@LMC@2019-06-15
+30005942@@@@@@Not only that, it also comprises a detachable second layer for the user to get rid of the larvae.@@@@1@19@ntucle-docid:207; ntucle-sid:1643@LMC@2019-06-15
+30005943@@@@@@Benefit@@@@1@1@ntucle-docid:207; ntucle-sid:1644@LMC@2019-06-15
+30005944@@@@@@Firstly, the MAC is quite user-friendly and allows for automatic removal of residue water.@@@@1@14@ntucle-docid:207; ntucle-sid:1645@LMC@2019-06-15
+30005945@@@@@@Not only that, it can be used as a reusable mosquito trap while still retaining its ability for water storage.@@@@1@20@ntucle-docid:207; ntucle-sid:1646@LMC@2019-06-15
+30005946@@@@@@Furthermore, the component used for the co2 mixer are easily available household items which will be convenient for the users.@@@@1@20@ntucle-docid:207; ntucle-sid:1647@LMC@2019-06-15
+30005947@@@@@@Implementation@@@@1@1@ntucle-docid:207; ntucle-sid:1648@LMC@2019-06-15
+30005948@@@@@@The MAC will be developed with the following steps:@@@@1@9@ntucle-docid:207; ntucle-sid:1649@LMC@2019-06-15
+30005949@@@@@@1@@@@1@1@ntucle-docid:207; ntucle-sid:1650@LMC@2019-06-15
+30005950@@@@@@Conducting experiments to discover the optimum level of the fermentation process and exactly how much water is needed to tilt the first layer of the container.@@@@1@26@ntucle-docid:207; ntucle-sid:1651@LMC@2019-06-15
+30005951@@@@@@2@@@@1@1@ntucle-docid:207; ntucle-sid:1652@LMC@2019-06-15
+30005952@@@@@@Engaging material engineers from DUPONT to pinpoint a suitable material for the CO2 to seep through the first layer and to construct a good built-in CO2 mixer.@@@@1@27@ntucle-docid:207; ntucle-sid:1653@LMC@2019-06-15
+30005953@@@@@@Cost/Budget@@@@1@1@ntucle-docid:207; ntucle-sid:1654@LMC@2019-06-15
+30005954@@@@@@CO2 mixer $10@@@@1@3@ntucle-docid:207; ntucle-sid:1655@LMC@2019-06-15
+30005955@@@@@@Waterproofing spray $20@@@@1@3@ntucle-docid:207; ntucle-sid:1656@LMC@2019-06-15
+30005956@@@@@@Container $5@@@@1@2@ntucle-docid:207; ntucle-sid:1657@LMC@2019-06-15
+30005957@@@@@@Conclusion@@@@1@1@ntucle-docid:207; ntucle-sid:1658@LMC@2019-06-15
+30005958@@@@@@In conclusion, the health threat of the mosquito borne diseases cannot be underestimated.@@@@1@13@ntucle-docid:207; ntucle-sid:1659@LMC@2019-06-15
+30005959@@@@@@The MAC is a cost-effective solution to address this problem by preventing mosquitoes from breeding and still retaining its use.@@@@1@20@ntucle-docid:207; ntucle-sid:1660@LMC@2019-06-15
+30005960@@@@@@494 Words@@@@1@2@ntucle-docid:207; ntucle-sid:1661@LMC@2019-06-15
+30005961@@@@@@Mobile Charging Cap@@@@1@3@ntucle-docid:208; ntucle-sid:1540@LMC@2019-06-15
+30005962@@@@@@Background@@@@1@1@ntucle-docid:208; ntucle-sid:1541@LMC@2019-06-15
+30005963@@@@@@Mobile phone, an electronic device that are used by the people in this modern day.@@@@1@15@ntucle-docid:208; ntucle-sid:1542@LMC@2019-06-15
+30005964@@@@@@A device that could make all kind of communications, like making a call or message over a radio link while the user is dynamically moving around a wide geographic area, or even using a chat features, take pictures and hear music (Mobile Phone, n.d.).@@@@1@44@ntucle-docid:208; ntucle-sid:1543@LMC@2019-06-15
+30005965@@@@@@All of this could be done on the device as long it has a power that could supply electricity into it, and now it’s called battery.@@@@1@26@ntucle-docid:208; ntucle-sid:1544@LMC@2019-06-15
+30005966@@@@@@The higher technology a mobile phone has, the more power from the battery supplied, giving it a fast time for it to deplete all of the power in it.@@@@1@29@ntucle-docid:208; ntucle-sid:1545@LMC@2019-06-15
+30005967@@@@@@Thus people this day are using a portable charger that can charge the battery of their phone and extend its life.@@@@1@21@ntucle-docid:208; ntucle-sid:1546@LMC@2019-06-15
+30005968@@@@@@Problem@@@@1@1@ntucle-docid:208; ntucle-sid:1547@LMC@2019-06-15
+30005969@@@@@@The portable charger are basically portable and can be used anywhere.@@@@1@11@ntucle-docid:208; ntucle-sid:1548@LMC@2019-06-15
+30005970@@@@@@However, the problem lies when the power of itself is totally run out.@@@@1@13@ntucle-docid:208; ntucle-sid:1549@LMC@2019-06-15
+30005971@@@@@@Some product are improving the device by making it able to maintain more and more power in it, but the consequences are the dimension of the device is getting bigger and bigger, which making it less portable, heavier, and takes lots of spaces.@@@@1@43@ntucle-docid:208; ntucle-sid:1550@LMC@2019-06-15
+30005972@@@@@@Solution@@@@1@1@ntucle-docid:208; ntucle-sid:1551@LMC@2019-06-15
+30005973@@@@@@The main objective of this proposal is to introduce a wearable, portable, and user-friendly accessories called solar cap.@@@@1@18@ntucle-docid:208; ntucle-sid:1552@LMC@2019-06-15
+30005974@@@@@@This cap is basically an ordinary cap but with an upgrade, where it has solar cell, a solid-state semiconductor devices which produces DC electricity by changing the power of light (Böer, n.d.), that able to charge your electronic device, especially mobile phone just by standing or walking during the day.@@@@1@50@ntucle-docid:208; ntucle-sid:1553@LMC@2019-06-15
+30005975@@@@@@The circuit inside the cap contain small stabilizer to maintain the power input during the charge so it’ll be mobile friendly especially for the battery.@@@@1@25@ntucle-docid:208; ntucle-sid:1554@LMC@2019-06-15
+30005976@@@@@@It’s also less space consuming where you could just wear the cap to start charging as long there’s a light.@@@@1@20@ntucle-docid:208; ntucle-sid:1555@LMC@2019-06-15
+30005977@@@@@@Benefits@@@@1@1@ntucle-docid:208; ntucle-sid:1556@LMC@2019-06-15
+30005978@@@@@@Solar cap are wearable for all people, all range of age, making it very user-friendly.@@@@1@15@ntucle-docid:208; ntucle-sid:1557@LMC@2019-06-15
+30005979@@@@@@It’s also very eco-friendly where it doesn’t contain any volatile elements and use the sunlight for making an electricity power.@@@@1@20@ntucle-docid:208; ntucle-sid:1558@LMC@2019-06-15
+30005980@@@@@@Comparing to the current portable charger, it’s less space consuming and easier to be used.@@@@1@15@ntucle-docid:208; ntucle-sid:1559@LMC@2019-06-15
+30005981@@@@@@Implementation@@@@1@1@ntucle-docid:208; ntucle-sid:1560@LMC@2019-06-15
+30005982@@@@@@In order to improve this device, the following steps will be taken:@@@@1@12@ntucle-docid:208; ntucle-sid:1561@LMC@2019-06-15
+30005983@@@@@@1@@@@1@1@ntucle-docid:208; ntucle-sid:1562@LMC@2019-06-15
+30005984@@@@@@We’re going to collaborate with research team to conduct a research for creating more user-friendly solar cell on the cap and maximizing the power output from it.@@@@1@27@ntucle-docid:208; ntucle-sid:1563@LMC@2019-06-15
+30005985@@@@@@2@@@@1@1@ntucle-docid:208; ntucle-sid:1564@LMC@2019-06-15
+30005986@@@@@@Having a collaboration with certain cap manufacturer to create more comfortable and compatible cap for the device.@@@@1@17@ntucle-docid:208; ntucle-sid:1565@LMC@2019-06-15
+30005987@@@@@@Costs@@@@1@1@ntucle-docid:208; ntucle-sid:1566@LMC@2019-06-15
+30005988@@@@@@Normal Cap $5@@@@1@3@ntucle-docid:208; ntucle-sid:1567@LMC@2019-06-15
+30005989@@@@@@Small Solar Panel $20@@@@1@4@ntucle-docid:208; ntucle-sid:1568@LMC@2019-06-15
+30005990@@@@@@Small Stabilizer $30@@@@1@3@ntucle-docid:208; ntucle-sid:1569@LMC@2019-06-15
+30005991@@@@@@Wire $1@@@@1@2@ntucle-docid:208; ntucle-sid:1570@LMC@2019-06-15
+30005992@@@@@@Total Cost $56@@@@1@3@ntucle-docid:208; ntucle-sid:1571@LMC@2019-06-15
+30005993@@@@@@Conclusion@@@@1@1@ntucle-docid:208; ntucle-sid:1572@LMC@2019-06-15
+30005994@@@@@@Electronic device these days are using more power from its battery, making it faster to deplete.@@@@1@16@ntucle-docid:208; ntucle-sid:1573@LMC@2019-06-15
+30005995@@@@@@Using a portable charger is an alternative to extend its life but will be useless if there’re no power in it.@@@@1@21@ntucle-docid:208; ntucle-sid:1574@LMC@2019-06-15
+30005996@@@@@@The solar cap is a user friendly device that able to charge portable electronic device using the power of sunlight.@@@@1@20@ntucle-docid:208; ntucle-sid:1575@LMC@2019-06-15
+30005997@@@@@@Background@@@@1@1@ntucle-docid:210; ntucle-sid:1583@LMC@2019-06-15
+30005998@@@@@@Daily commuting by shuttle buses is an important part of student life in NTU.@@@@1@14@ntucle-docid:210; ntucle-sid:1584@LMC@2019-06-15
+30005999@@@@@@Its internal transportation network consists of three main shuttle bus service routes and two supplementary routes, moving approximately 40,000 people [1], around the campus each day.@@@@1@26@ntucle-docid:210; ntucle-sid:1585@LMC@2019-06-15
+30006000@@@@@@Problem@@@@1@1@ntucle-docid:210; ntucle-sid:1586@LMC@2019-06-15
+30006001@@@@@@However, most of the students have encountered situations when buses are too crowded to get on during peak-hour, ending up being late for class despite long waiting time.@@@@1@28@ntucle-docid:210; ntucle-sid:1587@LMC@2019-06-15
+30006002@@@@@@Although the current mobile app, like ‘NTU Bus’, serves the purpose of indicating waiting time for student to plan ahead, some additional functions, specifically space availability indication in this case, could further enhance the commuting experience for students.@@@@1@38@ntucle-docid:210; ntucle-sid:1588@LMC@2019-06-15
+30006003@@@@@@This proposal aims to investigate the usefulness and feasibility of the space availability indication function on mobile application, in order to alleviate the problem of long waiting time for shuttle buses.@@@@1@31@ntucle-docid:210; ntucle-sid:1589@LMC@2019-06-15
+30006004@@@@@@Solution@@@@1@1@ntucle-docid:210; ntucle-sid:1590@LMC@2019-06-15
+30006005@@@@@@To have such additional function on current mobile app, a system is necessary to enable collection of data of space availability on each bus.@@@@1@24@ntucle-docid:210; ntucle-sid:1591@LMC@2019-06-15
+30006006@@@@@@One way to collect data is to install an electronic ticketing system that is similar to the current EZ-Link system, which has already developed an EZ-Online card reader for private bus operators [2].@@@@1@33@ntucle-docid:210; ntucle-sid:1592@LMC@2019-06-15
+30006007@@@@@@Students have to tap in using their EZ-Link cards when board the bus and tap out when alight.@@@@1@18@ntucle-docid:210; ntucle-sid:1593@LMC@2019-06-15
+30006008@@@@@@Information of how many people are currently on the bus can then be generated through the system.@@@@1@17@ntucle-docid:210; ntucle-sid:1594@LMC@2019-06-15
+30006009@@@@@@There can be three levels of space availability indication on the mobile app using the data generated, namely overcrowded, which is not advisable for boarding, normal, as well as idle, each corresponding to a certain number of people.@@@@1@38@ntucle-docid:210; ntucle-sid:1595@LMC@2019-06-15
+30006010@@@@@@To facilitate the practice of tapping in and out by students, bus drivers could monitor the tap-in part and a penalty of few cents could be deducted if students fail to tap out.@@@@1@33@ntucle-docid:210; ntucle-sid:1596@LMC@2019-06-15
+30006011@@@@@@Benefits@@@@1@1@ntucle-docid:210; ntucle-sid:1597@LMC@2019-06-15
+30006012@@@@@@Students, staff as well as other commuters, like outside visitors could benefit from this additional function by having a better gage of the space availability on shuttle buses, which better allows them to plan their trips ahead.@@@@1@37@ntucle-docid:210; ntucle-sid:1598@LMC@2019-06-15
+30006013@@@@@@The data generated by the system could also provide information for the shuttle bus operators to adjust the frequency and timing of the buses to cater to the needs of the students.@@@@1@32@ntucle-docid:210; ntucle-sid:1599@LMC@2019-06-15
+30006014@@@@@@Implementation@@@@1@1@ntucle-docid:210; ntucle-sid:1600@LMC@2019-06-15
+30006015@@@@@@We will collaborate with shuttle bus operator on installation of Internet-based EZ-Link Card Readers, purchased from EZ-Link retail outlets, and school computer lab to construct a basic database and backend server to receive and process the tap-in and tap-out data in order to generate information of space availability on users’ mobile app.@@@@1@52@ntucle-docid:210; ntucle-sid:1601@LMC@2019-06-15
+30006016@@@@@@Publicity is also required to educate the students about the new practice.@@@@1@12@ntucle-docid:210; ntucle-sid:1602@LMC@2019-06-15
+30006017@@@@@@Costs@@@@1@1@ntucle-docid:210; ntucle-sid:1603@LMC@2019-06-15
+30006018@@@@@@EZ-Online Card Readers $ 3000@@@@1@5@ntucle-docid:210; ntucle-sid:1604@LMC@2019-06-15
+30006019@@@@@@Software Design $1500[3]@@@@1@3@ntucle-docid:210; ntucle-sid:1605@LMC@2019-06-15
+30006020@@@@@@Backend server operation..$1000@@@@1@3@ntucle-docid:210; ntucle-sid:1606@LMC@2019-06-15
+30006021@@@@@@Publicity $1000@@@@1@2@ntucle-docid:210; ntucle-sid:1607@LMC@2019-06-15
+30006022@@@@@@Total $6500@@@@1@2@ntucle-docid:210; ntucle-sid:1608@LMC@2019-06-15
+30006023@@@@@@Conclusion@@@@1@1@ntucle-docid:210; ntucle-sid:1609@LMC@2019-06-15
+30006024@@@@@@To wrap up, benefits of having a function of indicating space availability on current shuttle bus mobile app outweigh its cost.@@@@1@21@ntucle-docid:210; ntucle-sid:1610@LMC@2019-06-15
+30006025@@@@@@There are many complains and dissatisfaction towards the current situation of shuttle buses.@@@@1@13@ntucle-docid:210; ntucle-sid:1611@LMC@2019-06-15
+30006026@@@@@@Having such a system in place could enhance the commuting experience helping students better manage their time.@@@@1@17@ntucle-docid:210; ntucle-sid:1612@LMC@2019-06-15
+30006027@@@@@@Tablet-in-desk@@@@1@1@ntucle-docid:212; ntucle-sid:1680@LMC@2019-06-15
+30006028@@@@@@Background:@@@@1@1@ntucle-docid:212; ntucle-sid:1681@LMC@2019-06-15
+30006029@@@@@@Lugging laptops, small desks and being shy to ask questions are common problems students face in lecture.@@@@1@17@ntucle-docid:212; ntucle-sid:1682@LMC@2019-06-15
+30006030@@@@@@All of us would have experienced one if not all of the above in the course of study.@@@@1@18@ntucle-docid:212; ntucle-sid:1683@LMC@2019-06-15
+30006031@@@@@@Therefore, there is a need for desks in lecture theatres to be modernised and improved.@@@@1@15@ntucle-docid:212; ntucle-sid:1684@LMC@2019-06-15
+30006032@@@@@@Problem:@@@@1@1@ntucle-docid:212; ntucle-sid:1685@LMC@2019-06-15
+30006033@@@@@@The current desk designs in Lecture Theatre are fits either laptop or notes, never both.@@@@1@15@ntucle-docid:212; ntucle-sid:1686@LMC@2019-06-15
+30006034@@@@@@In addition, laptops these days though they are getting lighter, they still carry considerable weight and are quite bulky.@@@@1@19@ntucle-docid:212; ntucle-sid:1687@LMC@2019-06-15
+30006035@@@@@@Standard laptops weighs on average 2.3kg.@@@@1@6@ntucle-docid:212; ntucle-sid:1688@LMC@2019-06-15
+30006036@@@@@@In addition, many students face difficulty in understanding some topics in lecture and they may be shy at times to ask the lecturer in front of a crowd.@@@@1@28@ntucle-docid:212; ntucle-sid:1689@LMC@2019-06-15
+30006037@@@@@@Therefore, there is a need for improvements in infrastructure.@@@@1@9@ntucle-docid:212; ntucle-sid:1690@LMC@2019-06-15
+30006038@@@@@@Solution:@@@@1@1@ntucle-docid:212; ntucle-sid:1691@LMC@2019-06-15
+30006039@@@@@@A built in tablet encased in a foldable plastic desk which is lighter and bigger than current desks.@@@@1@18@ntucle-docid:212; ntucle-sid:1692@LMC@2019-06-15
+30006040@@@@@@With this, students have the option of going to lecture hands-free as everything needed for lecture will already be in the venue.@@@@1@22@ntucle-docid:212; ntucle-sid:1693@LMC@2019-06-15
+30006041@@@@@@The tablets will be connected to the school wireless network as well as a local network in the lecture theatre.@@@@1@20@ntucle-docid:212; ntucle-sid:1694@LMC@2019-06-15
+30006042@@@@@@A tablet is useful device for students to have in lectures as it offers more interactivity.@@@@1@16@ntucle-docid:212; ntucle-sid:1695@LMC@2019-06-15
+30006043@@@@@@It is handy tool for students and most students will probably not have both a tablet and a laptop.@@@@1@19@ntucle-docid:212; ntucle-sid:1696@LMC@2019-06-15
+30006044@@@@@@A tablet has less processing power than a laptop but, for lecture use, it is sufficient.@@@@1@16@ntucle-docid:212; ntucle-sid:1697@LMC@2019-06-15
+30006045@@@@@@Students are able to treat the tablet as a substitute for paper, able to write notes directly onto their own copy of notes online through the use of software programmes and stylus.@@@@1@32@ntucle-docid:212; ntucle-sid:1698@LMC@2019-06-15
+30006046@@@@@@Benefits:@@@@1@1@ntucle-docid:212; ntucle-sid:1699@LMC@2019-06-15
+30006047@@@@@@This tablet desk is a technologically enhanced version of the conventional desks in lecture theatres.@@@@1@15@ntucle-docid:212; ntucle-sid:1700@LMC@2019-06-15
+30006048@@@@@@Students will be able to learn better with such conveniences.@@@@1@10@ntucle-docid:212; ntucle-sid:1701@LMC@2019-06-15
+30006049@@@@@@The tablet is more user friendly than laptops, offering students much more relevant uses than laptops do in lectures.@@@@1@19@ntucle-docid:212; ntucle-sid:1702@LMC@2019-06-15
+30006050@@@@@@Students can make notes directly on their own digital copies of their notes and send it to their email.@@@@1@19@ntucle-docid:212; ntucle-sid:1703@LMC@2019-06-15
+30006051@@@@@@Tablets also have the use of apps whereby students may for example pose their questions for the lecturer and the lecturer can receive it in real time and choose to answer the relevant questions immediately or after lecture depending on relevance.@@@@1@41@ntucle-docid:212; ntucle-sid:1704@LMC@2019-06-15
+30006052@@@@@@Implementation:@@@@1@1@ntucle-docid:212; ntucle-sid:1705@LMC@2019-06-15
+30006053@@@@@@The following steps will be taken:@@@@1@6@ntucle-docid:212; ntucle-sid:1706@LMC@2019-06-15
+30006054@@@@@@1@@@@1@1@ntucle-docid:212; ntucle-sid:1707@LMC@2019-06-15
+30006055@@@@@@We will collaborate with a company producing tablets (example, Microsoft) together with another company specialising in lecture theatre designs (example, Ferco Seating).@@@@1@22@ntucle-docid:212; ntucle-sid:1708@LMC@2019-06-15
+30006056@@@@@@2@@@@1@1@ntucle-docid:212; ntucle-sid:1709@LMC@2019-06-15
+30006057@@@@@@An application will be designed by a software development team to integrate the apps with students’ emails and school accounts.@@@@1@20@ntucle-docid:212; ntucle-sid:1710@LMC@2019-06-15
+30006058@@@@@@Costs/Budget:@@@@1@1@ntucle-docid:212; ntucle-sid:1711@LMC@2019-06-15
+30006059@@@@@@- Plastic desk ($50~)@@@@1@4@ntucle-docid:212; ntucle-sid:1712@LMC@2019-06-15
+30006060@@@@@@- Tablet (Microsoft surface=> $750)@@@@1@5@ntucle-docid:212; ntucle-sid:1713@LMC@2019-06-15
+30006061@@@@@@- Screen Protector ($20)@@@@1@4@ntucle-docid:212; ntucle-sid:1714@LMC@2019-06-15
+30006062@@@@@@- Installation Costs ($100)@@@@1@4@ntucle-docid:212; ntucle-sid:1715@LMC@2019-06-15
+30006063@@@@@@- Total cost ($920)@@@@1@4@ntucle-docid:212; ntucle-sid:1716@LMC@2019-06-15
+30006064@@@@@@Conclusion:@@@@1@1@ntucle-docid:212; ntucle-sid:1717@LMC@2019-06-15
+30006065@@@@@@In conclusion, this improvement in Lecture theatre desks design is long overdue.@@@@1@12@ntucle-docid:212; ntucle-sid:1718@LMC@2019-06-15
+30006066@@@@@@It will not only reduce the problem of dropping things off the desk, but will also enhance students’ learning and integrate learning through a more tech savvy platform.@@@@1@28@ntucle-docid:212; ntucle-sid:1719@LMC@2019-06-15
+30006067@@@@@@Title:@@@@1@1@ntucle-docid:213; ntucle-sid:1446@LMC@2019-06-15
+30006068@@@@@@Green and Compact Air Purifier (GCAP)@@@@1@6@ntucle-docid:213; ntucle-sid:1447@LMC@2019-06-15
+30006069@@@@@@Background:@@@@1@1@ntucle-docid:213; ntucle-sid:1448@LMC@2019-06-15
+30006070@@@@@@Haze has been an annual problem that costs the health of citizens of South East Asia countries, especially Malaysia & Singapore.@@@@1@21@ntucle-docid:213; ntucle-sid:1449@LMC@2019-06-15
+30006071@@@@@@Every year, open burning in certain areas causes haze, making the air quality in Malaysia & Singapore drop to unhealthy level.@@@@1@21@ntucle-docid:213; ntucle-sid:1450@LMC@2019-06-15
+30006072@@@@@@The irritating smell, disturbed vision and tiny particles in the air impact our life directly.@@@@1@15@ntucle-docid:213; ntucle-sid:1451@LMC@2019-06-15
+30006073@@@@@@Haze affect our respiratory system as well as our circulatory system, especially people who are already afflicted with potentially fatal illness such as asthma and chronic obstructive pulmonary disease (COPD).@@@@1@30@ntucle-docid:213; ntucle-sid:1452@LMC@2019-06-15
+30006074@@@@@@Haze also affect our economics.@@@@1@5@ntucle-docid:213; ntucle-sid:1453@LMC@2019-06-15
+30006075@@@@@@For instance, in Singapore, “experts estimated the economic loss caused by the haze to be between S$97.5 million and S$110.5 million” [1].@@@@1@22@ntucle-docid:213; ntucle-sid:1454@LMC@2019-06-15
+30006076@@@@@@Problem:@@@@1@1@ntucle-docid:213; ntucle-sid:1455@LMC@2019-06-15
+30006077@@@@@@To purify air before we inhale, there are several device ranging from a simple mask to a high-end technological device.@@@@1@20@ntucle-docid:213; ntucle-sid:1456@LMC@2019-06-15
+30006078@@@@@@However, using a simple mask causes another problem.@@@@1@8@ntucle-docid:213; ntucle-sid:1457@LMC@2019-06-15
+30006079@@@@@@Masks are disposable, using them creates a lot of waste.@@@@1@10@ntucle-docid:213; ntucle-sid:1458@LMC@2019-06-15
+30006080@@@@@@High-end technological devices are very effective in purifying air, but they are very costly.@@@@1@14@ntucle-docid:213; ntucle-sid:1459@LMC@2019-06-15
+30006081@@@@@@Hence, a new air purifying device which is affordable, compact and efficient is needed.@@@@1@14@ntucle-docid:213; ntucle-sid:1460@LMC@2019-06-15
+30006082@@@@@@Solution:@@@@1@1@ntucle-docid:213; ntucle-sid:1461@LMC@2019-06-15
+30006083@@@@@@The main idea is to propose an air purifier which is affordable, compact and highly efficient.@@@@1@16@ntucle-docid:213; ntucle-sid:1462@LMC@2019-06-15
+30006084@@@@@@This device has a dimension of 20cm x 30 cm x 2.5cm.@@@@1@12@ntucle-docid:213; ntucle-sid:1463@LMC@2019-06-15
+30006085@@@@@@It’s a rectangle device, with its largest surface about the size of A4 paper.@@@@1@14@ntucle-docid:213; ntucle-sid:1464@LMC@2019-06-15
+30006086@@@@@@This A4 paper sized air purifier has 4 rubber suction cups that allow it to be mounted on window, where the air enter our house.@@@@1@25@ntucle-docid:213; ntucle-sid:1465@LMC@2019-06-15
+30006087@@@@@@On the side which it mounts on the window there will be a solar panel, which is the secondary energy source of this device.@@@@1@24@ntucle-docid:213; ntucle-sid:1466@LMC@2019-06-15
+30006088@@@@@@Its primary source is batteries or plug in.@@@@1@8@ntucle-docid:213; ntucle-sid:1467@LMC@2019-06-15
+30006089@@@@@@It sucks air from 4 sides and expel clean air into the house.@@@@1@13@ntucle-docid:213; ntucle-sid:1468@LMC@2019-06-15
+30006090@@@@@@The internal filter is pleated cotton filters, this type of filter has more surface area than normal single sheet filter, thus increasing its efficiency.@@@@1@24@ntucle-docid:213; ntucle-sid:1469@LMC@2019-06-15
+30006091@@@@@@It must be cleaned and replaced from time to time.@@@@1@10@ntucle-docid:213; ntucle-sid:1470@LMC@2019-06-15
+30006092@@@@@@“Dirty filters themselves can become a source for air contamination by allergens, particularly fungal spores” [2].@@@@1@16@ntucle-docid:213; ntucle-sid:1471@LMC@2019-06-15
+30006093@@@@@@Once this device powered up, it is able to make sure the quality of air flowing into the house is good.@@@@1@21@ntucle-docid:213; ntucle-sid:1472@LMC@2019-06-15
+30006094@@@@@@Benefits:@@@@1@1@ntucle-docid:213; ntucle-sid:1473@LMC@2019-06-15
+30006095@@@@@@The proposed device is an advanced yet economic air purifier currently available in the market.@@@@1@15@ntucle-docid:213; ntucle-sid:1474@LMC@2019-06-15
+30006096@@@@@@User will definitely have a better air quality in their house.@@@@1@11@ntucle-docid:213; ntucle-sid:1475@LMC@2019-06-15
+30006097@@@@@@The device is highly portable, user can switch its location anytime.@@@@1@11@ntucle-docid:213; ntucle-sid:1476@LMC@2019-06-15
+30006098@@@@@@Without high-end technology, this device is much more economical, which will benefits most of the families.@@@@1@16@ntucle-docid:213; ntucle-sid:1477@LMC@2019-06-15
+30006099@@@@@@Implementation:@@@@1@1@ntucle-docid:213; ntucle-sid:1478@LMC@2019-06-15
+30006100@@@@@@To produce and develop the device, the steps below will be taken:@@@@1@12@ntucle-docid:213; ntucle-sid:1479@LMC@2019-06-15
+30006101@@@@@@1@@@@1@1@ntucle-docid:213; ntucle-sid:1480@LMC@2019-06-15
+30006102@@@@@@A technical team will be formed to complete the design and circuit.@@@@1@12@ntucle-docid:213; ntucle-sid:1481@LMC@2019-06-15
+30006103@@@@@@2@@@@1@1@ntucle-docid:213; ntucle-sid:1482@LMC@2019-06-15
+30006104@@@@@@A prototype will be made and tested before we look for big company to buy our idea.@@@@1@17@ntucle-docid:213; ntucle-sid:1483@LMC@2019-06-15
+30006105@@@@@@Costs/Budget:@@@@1@1@ntucle-docid:213; ntucle-sid:1484@LMC@2019-06-15
+30006106@@@@@@1@@@@1@1@ntucle-docid:213; ntucle-sid:1485@LMC@2019-06-15
+30006107@@@@@@5 inch fan - $12.00@@@@1@5@ntucle-docid:213; ntucle-sid:1486@LMC@2019-06-15
+30006108@@@@@@2@@@@1@1@ntucle-docid:213; ntucle-sid:1487@LMC@2019-06-15
+30006109@@@@@@20cm x 30cm solar panel - $25.00@@@@1@7@ntucle-docid:213; ntucle-sid:1488@LMC@2019-06-15
+30006110@@@@@@3@@@@1@1@ntucle-docid:213; ntucle-sid:1489@LMC@2019-06-15
+30006111@@@@@@Wiring and casing - $8.00@@@@1@5@ntucle-docid:213; ntucle-sid:1490@LMC@2019-06-15
+30006112@@@@@@4@@@@1@1@ntucle-docid:213; ntucle-sid:1491@LMC@2019-06-15
+30006113@@@@@@Total prototype cost - $45.00@@@@1@5@ntucle-docid:213; ntucle-sid:1492@LMC@2019-06-15
+30006114@@@@@@Conclusion:@@@@1@1@ntucle-docid:213; ntucle-sid:1493@LMC@2019-06-15
+30006115@@@@@@We should not risk our health facing haze.@@@@1@8@ntucle-docid:213; ntucle-sid:1494@LMC@2019-06-15
+30006116@@@@@@The proposed device aims to improve health quality of everyone through its unique property and economic price.@@@@1@17@ntucle-docid:213; ntucle-sid:1495@LMC@2019-06-15
+30006117@@@@@@Nanyang Technological University@@@@1@3@ntucle-docid:214; ntucle-sid:1509@LMC@2019-06-15
+30006118@@@@@@First Year Engineering Communication I@@@@1@5@ntucle-docid:214; ntucle-sid:1510@LMC@2019-06-15
+30006119@@@@@@Trolley: “Stop abusing me!”@@@@1@4@ntucle-docid:214; ntucle-sid:1512@LMC@2019-06-15
+30006120@@@@@@Trolley: “Stop abusing me!”@@@@1@4@ntucle-docid:214; ntucle-sid:1516@LMC@2019-06-15
+30006121@@@@@@Background@@@@1@1@ntucle-docid:214; ntucle-sid:1517@LMC@2019-06-15
+30006122@@@@@@Shopping trolleys are usually provided by retailers to allow customers to easily transport their selected groceries within the store’s vicinity.@@@@1@20@ntucle-docid:214; ntucle-sid:1518@LMC@2019-06-15
+30006123@@@@@@However, the prevalence of trolley abuse within Singapore has been rising over the years.@@@@1@14@ntucle-docid:214; ntucle-sid:1519@LMC@2019-06-15
+30006124@@@@@@Trolleys were reported to be sighted at locations like housing estates, carparks which are beyond the store’s vicinity.@@@@1@18@ntucle-docid:214; ntucle-sid:1520@LMC@2019-06-15
+30006125@@@@@@According to Straits Times, FairPrice alone spends an estimate of $150,000 annually on repairing, replacing and retrieving abandoned trolleys (Min, 2015).@@@@1@21@ntucle-docid:214; ntucle-sid:1521@LMC@2019-06-15
+30006126@@@@@@Therefore the issue of trolley abuse is becoming a concern that needs to be addressed immediately.@@@@1@16@ntucle-docid:214; ntucle-sid:1522@LMC@2019-06-15
+30006127@@@@@@Problem@@@@1@1@ntucle-docid:214; ntucle-sid:1523@LMC@2019-06-15
+30006128@@@@@@The current system to deter trolley abuse by making customers commit to a refundable dollar for usage has proven to be ineffective.@@@@1@22@ntucle-docid:214; ntucle-sid:1524@LMC@2019-06-15
+30006129@@@@@@With this system, Sheng Siong lost an average of 38 trolleys each month in the first half of 2013 (Cheong, 2013).@@@@1@21@ntucle-docid:214; ntucle-sid:1525@LMC@2019-06-15
+30006130@@@@@@Also, the issue of trolley abuse escalated recently as FairPrice reported that 50 to 150 trolleys were located and retrieved by staff each day (Min, 2015).@@@@1@26@ntucle-docid:214; ntucle-sid:1526@LMC@2019-06-15
+30006131@@@@@@This shows that a better solution is needed to curb this issue.@@@@1@12@ntucle-docid:214; ntucle-sid:1527@LMC@2019-06-15
+30006132@@@@@@Solution@@@@1@1@ntucle-docid:214; ntucle-sid:1528@LMC@2019-06-15
+30006133@@@@@@The proposed solution aims to implement a system comprising trolley cards and barrier gates.@@@@1@14@ntucle-docid:214; ntucle-sid:1529@LMC@2019-06-15
+30006134@@@@@@Consumers are required to register for a personalised trolley card which allow them to check out trolley at collaborating retailer stores.@@@@1@21@ntucle-docid:214; ntucle-sid:1530@LMC@2019-06-15
+30006135@@@@@@All trolleys will be held and stored behind barrier gates.@@@@1@10@ntucle-docid:214; ntucle-sid:1531@LMC@2019-06-15
+30006136@@@@@@There will be two different types of barrier gates.@@@@1@9@ntucle-docid:214; ntucle-sid:1532@LMC@2019-06-15
+30006137@@@@@@One to only allow trolleys to be checked out, and another to only allow trolleys to be checked in.@@@@1@19@ntucle-docid:214; ntucle-sid:1533@LMC@2019-06-15
+30006138@@@@@@Consumers are required to scan their personalised trolley cards (via NFC) at the barrier gates, in which they will be able to check out the trolley for usage.@@@@1@28@ntucle-docid:214; ntucle-sid:1534@LMC@2019-06-15
+30006139@@@@@@For return of trolleys, consumers are required to repeat the same procedure.@@@@1@12@ntucle-docid:214; ntucle-sid:1535@LMC@2019-06-15
+30006140@@@@@@A centralise database will keep track of the of the trolley usage which is tagged to an individual.@@@@1@18@ntucle-docid:214; ntucle-sid:1536@LMC@2019-06-15
+30006141@@@@@@It will facilitate the retailers to carry out administrative actions (fines) to recover the trolleys.@@@@1@15@ntucle-docid:214; ntucle-sid:1537@LMC@2019-06-15
+30006142@@@@@@Fig 1.1 Simple outline of Integrated Trolley System@@@@1@8@ntucle-docid:214; ntucle-sid:1538@LMC@2019-06-15
+30006143@@@@@@Fig 1.2 Design of Barrier Gate (Fujica System Co., 2015)@@@@1@10@ntucle-docid:214; ntucle-sid:1539@LMC@2019-06-15
+30006144@@@@@@Fig 1.3.@@@@1@2@ntucle-docid:214; ntucle-sid:1540@LMC@2019-06-15
+30006145@@@@@@Sample of Trolley Card@@@@1@4@ntucle-docid:214; ntucle-sid:1541@LMC@2019-06-15
+30006146@@@@@@Benefits@@@@1@1@ntucle-docid:214; ntucle-sid:1542@LMC@2019-06-15
+30006147@@@@@@This system of utilising personalised trolley cards brings about a greater sense of self responsibility among users as they are aware that they will be faced with personal liability in case of misuse.@@@@1@33@ntucle-docid:214; ntucle-sid:1543@LMC@2019-06-15
+30006148@@@@@@This promotes the returning of trolleys after use, which can benefit retailers.@@@@1@12@ntucle-docid:214; ntucle-sid:1544@LMC@2019-06-15
+30006149@@@@@@Implementation@@@@1@1@ntucle-docid:214; ntucle-sid:1545@LMC@2019-06-15
+30006150@@@@@@1@@@@1@1@ntucle-docid:214; ntucle-sid:1546@LMC@2019-06-15
+30006151@@@@@@Collaborate with reputable manufacturing such as Fujica System Co., Ltd to discuss about the design and production of the barrier gates.@@@@1@21@ntucle-docid:214; ntucle-sid:1547@LMC@2019-06-15
+30006152@@@@@@2@@@@1@1@ntucle-docid:214; ntucle-sid:1548@LMC@2019-06-15
+30006153@@@@@@Approach local established retailers(NTUC, Giant) and offer help to improve their current trolley system@@@@1@14@ntucle-docid:214; ntucle-sid:1549@LMC@2019-06-15
+30006154@@@@@@3@@@@1@1@ntucle-docid:214; ntucle-sid:1550@LMC@2019-06-15
+30006155@@@@@@Outsource the design of software to students in the field of software programing doing their final year project.@@@@1@18@ntucle-docid:214; ntucle-sid:1551@LMC@2019-06-15
+30006156@@@@@@Cost@@@@1@1@ntucle-docid:214; ntucle-sid:1552@LMC@2019-06-15
+30006157@@@@@@Item@@@@1@1@ntucle-docid:214; ntucle-sid:1553@LMC@2019-06-15
+30006158@@@@@@Cost@@@@1@1@ntucle-docid:214; ntucle-sid:1554@LMC@2019-06-15
+30006159@@@@@@Barrier Gates(1 unit ) *@@@@1@5@ntucle-docid:214; ntucle-sid:1555@LMC@2019-06-15
+30006160@@@@@@800@@@@1@1@ntucle-docid:214; ntucle-sid:1556@LMC@2019-06-15
+30006161@@@@@@Software@@@@1@1@ntucle-docid:214; ntucle-sid:1557@LMC@2019-06-15
+30006162@@@@@@300@@@@1@1@ntucle-docid:214; ntucle-sid:1558@LMC@2019-06-15
+30006163@@@@@@Trolley Card@@@@1@2@ntucle-docid:214; ntucle-sid:1559@LMC@2019-06-15
+30006164@@@@@@100@@@@1@1@ntucle-docid:214; ntucle-sid:1560@LMC@2019-06-15
+30006165@@@@@@Net Cost@@@@1@2@ntucle-docid:214; ntucle-sid:1561@LMC@2019-06-15
+30006166@@@@@@1200@@@@1@1@ntucle-docid:214; ntucle-sid:1562@LMC@2019-06-15
+30006167@@@@@@Price source from Fujica System@@@@0@5@ntucle-docid:214; ntucle-sid:1563@LMC@2019-06-15
+30006168@@@@@@Conclusion@@@@1@1@ntucle-docid:214; ntucle-sid:1564@LMC@2019-06-15
+30006169@@@@@@Trolley abuse has been a challenging issue to tackle and consumers need to develop a sense of responsibility towards the trolleys.@@@@1@21@ntucle-docid:214; ntucle-sid:1565@LMC@2019-06-15
+30006170@@@@@@The introduction of personal liability through a centralised trolley system aims to develop self-responsibility within consumers which is necessary to curb the problem of trolley abuse.@@@@1@26@ntucle-docid:214; ntucle-sid:1566@LMC@2019-06-15
+30006171@@@@@@Title@@@@1@1@ntucle-docid:215; ntucle-sid:1576@LMC@2019-06-15
+30006172@@@@@@Cam·Spec@@@@1@1@ntucle-docid:215; ntucle-sid:1577@LMC@2019-06-15
+30006173@@@@@@Background@@@@1@1@ntucle-docid:215; ntucle-sid:1578@LMC@2019-06-15
+30006174@@@@@@Photography emerged at the beginning of the 19th century.@@@@1@9@ntucle-docid:215; ntucle-sid:1579@LMC@2019-06-15
+30006175@@@@@@Since then, the number of pictures taken each year has increased exponentially, especially by the end of the 20th century [1].@@@@1@21@ntucle-docid:215; ntucle-sid:1580@LMC@2019-06-15
+30006176@@@@@@Since year 2013, almost everybody has a mobile phone fitted with camera and due to that, there are 300 million photos uploaded to Facebook every day [2].@@@@1@27@ntucle-docid:215; ntucle-sid:1581@LMC@2019-06-15
+30006177@@@@@@Taking photo has become a habit of everyone.@@@@1@8@ntucle-docid:215; ntucle-sid:1582@LMC@2019-06-15
+30006178@@@@@@Problem@@@@1@1@ntucle-docid:215; ntucle-sid:1583@LMC@2019-06-15
+30006179@@@@@@Now, using cameras to take pictures of the notes in lectures or tutorials is common practice.@@@@1@16@ntucle-docid:215; ntucle-sid:1584@LMC@2019-06-15
+30006180@@@@@@Apart from practical usage, some people use it to take pictures of scenery or interesting pictures.@@@@1@16@ntucle-docid:215; ntucle-sid:1585@LMC@2019-06-15
+30006181@@@@@@But, sometimes, the time we take to set up our mobile phone for or camera just lets slip the moments that we want to capture.@@@@1@25@ntucle-docid:215; ntucle-sid:1586@LMC@2019-06-15
+30006182@@@@@@Moreover, when cameras or mobile phones are out of battery, we are rendered unequipped to record moments.@@@@1@17@ntucle-docid:215; ntucle-sid:1587@LMC@2019-06-15
+30006183@@@@@@Actually Google designed Google Glass that is spectacles that can do many things include taking pictures.@@@@1@16@ntucle-docid:215; ntucle-sid:1588@LMC@2019-06-15
+30006184@@@@@@But in February 2015, Google Glass has been banned and redesigned until it become “perfect” [3].@@@@1@16@ntucle-docid:215; ntucle-sid:1589@LMC@2019-06-15
+30006185@@@@@@This was because Google glass could identify strangers by MORIS (Mobile Offender Recognition and Identification System) [4].@@@@1@17@ntucle-docid:215; ntucle-sid:1590@LMC@2019-06-15
+30006186@@@@@@So, the issue of privacy is once more brought up to the spotlight by its advocates.@@@@1@16@ntucle-docid:215; ntucle-sid:1591@LMC@2019-06-15
+30006187@@@@@@Solution@@@@1@1@ntucle-docid:215; ntucle-sid:1592@LMC@2019-06-15
+30006188@@@@@@Cam·Spec is a spectacles that is outfitted with a night vision small camera in the middle of the spectacles to capture the scenery of the user vision.@@@@1@27@ntucle-docid:215; ntucle-sid:1593@LMC@2019-06-15
+30006189@@@@@@An application will be install into the camera to auto focus and detect objects.@@@@1@14@ntucle-docid:215; ntucle-sid:1594@LMC@2019-06-15
+30006190@@@@@@To take pictures, press the shutter that is located at the upper right of the spectacle frame.@@@@1@17@ntucle-docid:215; ntucle-sid:1595@LMC@2019-06-15
+30006191@@@@@@A mini SD card will also be used in Cam·Spec to store photo.@@@@1@13@ntucle-docid:215; ntucle-sid:1596@LMC@2019-06-15
+30006192@@@@@@A Bluetooth module will be built into the Cam·Spec to help users send the pictures to their phone.@@@@1@18@ntucle-docid:215; ntucle-sid:1597@LMC@2019-06-15
+30006193@@@@@@A battery will also be inserted into Cam·Spec to supply electrical energy to the camera.@@@@1@15@ntucle-docid:215; ntucle-sid:1598@LMC@2019-06-15
+30006194@@@@@@Benefits@@@@1@1@ntucle-docid:215; ntucle-sid:1599@LMC@2019-06-15
+30006195@@@@@@Cam·Spec is a device that is portable and light.@@@@1@9@ntucle-docid:215; ntucle-sid:1600@LMC@2019-06-15
+30006196@@@@@@Users can just wear it and go anywhere.@@@@1@8@ntucle-docid:215; ntucle-sid:1601@LMC@2019-06-15
+30006197@@@@@@With Cam·Spec, users can save the time from setting up their photo shots, avoiding missing out on crucial moments and take the scenery clearly.@@@@1@24@ntucle-docid:215; ntucle-sid:1602@LMC@2019-06-15
+30006198@@@@@@The auto focus application can help Cam·Spec to focus and detect the things that users wish to capture.@@@@1@18@ntucle-docid:215; ntucle-sid:1603@LMC@2019-06-15
+30006199@@@@@@Moreover, Cam·Spec can directly send the photos to phone by Bluetooth, allowing the user to watch the photo in the future.@@@@1@21@ntucle-docid:215; ntucle-sid:1604@LMC@2019-06-15
+30006200@@@@@@Other than that, the mini SD card in the Cam·Spec can store the photos in case the connected mobile phone via Bluetooth is out of battery.@@@@1@26@ntucle-docid:215; ntucle-sid:1605@LMC@2019-06-15
+30006201@@@@@@Users can still get back the photos by transferring the files off the SD card.@@@@1@15@ntucle-docid:215; ntucle-sid:1606@LMC@2019-06-15
+30006202@@@@@@Implementation@@@@1@1@ntucle-docid:215; ntucle-sid:1607@LMC@2019-06-15
+30006203@@@@@@To produce and develop this device, the steps below will be taken:@@@@1@12@ntucle-docid:215; ntucle-sid:1608@LMC@2019-06-15
+30006204@@@@@@1@@@@1@1@ntucle-docid:215; ntucle-sid:1609@LMC@2019-06-15
+30006205@@@@@@We will collaborate with companies manufacturing spectacles to fit a camera in the middle of it.@@@@1@16@ntucle-docid:215; ntucle-sid:1610@LMC@2019-06-15
+30006206@@@@@@2@@@@1@1@ntucle-docid:215; ntucle-sid:1611@LMC@2019-06-15
+30006207@@@@@@Camera, micro controller and Bluetooth module will be bought and built into the spectacles.@@@@1@14@ntucle-docid:215; ntucle-sid:1612@LMC@2019-06-15
+30006208@@@@@@3@@@@1@1@ntucle-docid:215; ntucle-sid:1613@LMC@2019-06-15
+30006209@@@@@@A mini SD card also will be inserted into the Cam·Spec.@@@@1@11@ntucle-docid:215; ntucle-sid:1614@LMC@2019-06-15
+30006210@@@@@@4@@@@1@1@ntucle-docid:215; ntucle-sid:1615@LMC@2019-06-15
+30006211@@@@@@An apps will be installed into the camera to auto focus and detect the object.@@@@1@15@ntucle-docid:215; ntucle-sid:1616@LMC@2019-06-15
+30006212@@@@@@Costs@@@@1@1@ntucle-docid:215; ntucle-sid:1617@LMC@2019-06-15
+30006213@@@@@@Spectacles $80@@@@1@2@ntucle-docid:215; ntucle-sid:1618@LMC@2019-06-15
+30006214@@@@@@Night vision small camera $50@@@@1@5@ntucle-docid:215; ntucle-sid:1619@LMC@2019-06-15
+30006215@@@@@@Bluetooth module $52@@@@1@3@ntucle-docid:215; ntucle-sid:1620@LMC@2019-06-15
+30006216@@@@@@Micro controller $37@@@@1@3@ntucle-docid:215; ntucle-sid:1621@LMC@2019-06-15
+30006217@@@@@@Battery $7.50@@@@1@2@ntucle-docid:215; ntucle-sid:1622@LMC@2019-06-15
+30006218@@@@@@Conclusion@@@@1@1@ntucle-docid:215; ntucle-sid:1623@LMC@2019-06-15
+30006219@@@@@@This device makes taking photos easier for people.@@@@1@8@ntucle-docid:215; ntucle-sid:1624@LMC@2019-06-15
+30006220@@@@@@It is a good device that not only helps people but also respects the privacy of every person.@@@@1@18@ntucle-docid:215; ntucle-sid:1625@LMC@2019-06-15
+30006221@@@@@@With this device, everyone will benefit without having to worry about their privacy.@@@@1@13@ntucle-docid:215; ntucle-sid:1626@LMC@2019-06-15
+30006222@@@@@@E-CONTROLLER@@@@1@1@ntucle-docid:216; ntucle-sid:1732@LMC@2019-06-15
+30006223@@@@@@Background@@@@1@1@ntucle-docid:216; ntucle-sid:1733@LMC@2019-06-15
+30006224@@@@@@Electricity is a crucial necessity which make our lives more convenient.@@@@1@11@ntucle-docid:216; ntucle-sid:1734@LMC@2019-06-15
+30006225@@@@@@However, power shortage has become a serious and urgent challenge of the modern society nowadays.@@@@1@15@ntucle-docid:216; ntucle-sid:1735@LMC@2019-06-15
+30006226@@@@@@On the one hand, the electricity consumption of the world is steadily growing over the years, according to the statistics from World Bank (2015) [1].@@@@1@25@ntucle-docid:216; ntucle-sid:1736@LMC@2019-06-15
+30006227@@@@@@On the other hand, the resources to fuel the power plants are depleting as oil, gas, and fuel are becoming scarce.@@@@1@21@ntucle-docid:216; ntucle-sid:1737@LMC@2019-06-15
+30006228@@@@@@Thus, it is each individual’s responsibility to save electricity.@@@@1@9@ntucle-docid:216; ntucle-sid:1738@LMC@2019-06-15
+30006229@@@@@@Problem@@@@1@1@ntucle-docid:216; ntucle-sid:1739@LMC@2019-06-15
+30006230@@@@@@The most efficient way to save electricity is to switch off the unused domestic appliances.@@@@1@15@ntucle-docid:216; ntucle-sid:1740@LMC@2019-06-15
+30006231@@@@@@However, this action proves to be difficult for many people as they tend to forget to turn off the lights, fans, air conditioners, etc..., or it is their bad habit of leaving the appliances on.@@@@1@35@ntucle-docid:216; ntucle-sid:1741@LMC@2019-06-15
+30006232@@@@@@Although many electronic firms have included the “standby” function is their appliances to help minimizing this waste, it is reported that by turning off the appliances completely, such as unplugging them, one could save roughly 10% of the total electric bill[2].@@@@1@41@ntucle-docid:216; ntucle-sid:1742@LMC@2019-06-15
+30006233@@@@@@When taking into account billions of household in the world, such save is a big number.@@@@1@16@ntucle-docid:216; ntucle-sid:1743@LMC@2019-06-15
+30006234@@@@@@Solution@@@@1@1@ntucle-docid:216; ntucle-sid:1744@LMC@2019-06-15
+30006235@@@@@@My device, E-Controller, is one of the best solutions to the problems mentioned above.@@@@1@14@ntucle-docid:216; ntucle-sid:1745@LMC@2019-06-15
+30006236@@@@@@E-Controller comprises of two parts: a central server and a remote control system.@@@@1@13@ntucle-docid:216; ntucle-sid:1746@LMC@2019-06-15
+30006237@@@@@@The central server will be integrated into the household circuit and will control and manage each appliance through a control panel, including disconnecting current, checking power consumption.@@@@1@27@ntucle-docid:216; ntucle-sid:1747@LMC@2019-06-15
+30006238@@@@@@The remote control system is a user-friendly mobile application on Android/iOS platform, enabling users to control the central server through the internet with their own phones.@@@@1@26@ntucle-docid:216; ntucle-sid:1748@LMC@2019-06-15
+30006239@@@@@@With these functions, users can manage appliances from everywhere.@@@@1@9@ntucle-docid:216; ntucle-sid:1749@LMC@2019-06-15
+30006240@@@@@@Benefits@@@@1@1@ntucle-docid:216; ntucle-sid:1750@LMC@2019-06-15
+30006241@@@@@@Firstly, E-Controller can help users to manage the electricity usage and check whether there is an electricity leakage.@@@@1@18@ntucle-docid:216; ntucle-sid:1751@LMC@2019-06-15
+30006242@@@@@@Secondly, E-Controller can completely switch off any appliance without having to unplug it, thus easily cut down electricity losses because of standby mode.@@@@1@23@ntucle-docid:216; ntucle-sid:1752@LMC@2019-06-15
+30006243@@@@@@Last but not least, the function of controlling through the internet allows “suddenly” forgetful users to turn off their air-conditioner at home, saving an enormous amount of electricity and money.@@@@1@30@ntucle-docid:216; ntucle-sid:1753@LMC@2019-06-15
+30006244@@@@@@Implementation@@@@1@1@ntucle-docid:216; ntucle-sid:1754@LMC@2019-06-15
+30006245@@@@@@To produce this device, the following procedures must be carried out:@@@@1@11@ntucle-docid:216; ntucle-sid:1755@LMC@2019-06-15
+30006246@@@@@@1@@@@1@1@ntucle-docid:216; ntucle-sid:1756@LMC@2019-06-15
+30006247@@@@@@The central server will be manufactured and programmed in C-programming language.@@@@1@11@ntucle-docid:216; ntucle-sid:1757@LMC@2019-06-15
+30006248@@@@@@2@@@@1@1@ntucle-docid:216; ntucle-sid:1758@LMC@2019-06-15
+30006249@@@@@@The central server will be integrated into the circuit in the house or office.@@@@1@14@ntucle-docid:216; ntucle-sid:1759@LMC@2019-06-15
+30006250@@@@@@3@@@@1@1@ntucle-docid:216; ntucle-sid:1760@LMC@2019-06-15
+30006251@@@@@@A mobile phone-platform software application will be designed and programmed.@@@@1@10@ntucle-docid:216; ntucle-sid:1761@LMC@2019-06-15
+30006252@@@@@@The application will be available on Play Store (Android) and App Store (iOS).@@@@1@13@ntucle-docid:216; ntucle-sid:1762@LMC@2019-06-15
+30006253@@@@@@Users need to download it and must complete the verification steps for security reasons to establish administration privilege.@@@@1@18@ntucle-docid:216; ntucle-sid:1763@LMC@2019-06-15
+30006254@@@@@@Costs or budget@@@@1@3@ntucle-docid:216; ntucle-sid:1764@LMC@2019-06-15
+30006255@@@@@@The breakdown of the cost of the E-Controller is:@@@@1@9@ntucle-docid:216; ntucle-sid:1765@LMC@2019-06-15
+30006256@@@@@@Central server@@@@1@2@ntucle-docid:216; ntucle-sid:1766@LMC@2019-06-15
+30006257@@@@@@Mainboard $50@@@@1@2@ntucle-docid:216; ntucle-sid:1767@LMC@2019-06-15
+30006258@@@@@@Control panel $20@@@@1@3@ntucle-docid:216; ntucle-sid:1768@LMC@2019-06-15
+30006259@@@@@@Electric components $20@@@@1@3@ntucle-docid:216; ntucle-sid:1769@LMC@2019-06-15
+30006260@@@@@@Application software Free@@@@1@3@ntucle-docid:216; ntucle-sid:1770@LMC@2019-06-15
+30006261@@@@@@Total cost $90@@@@1@3@ntucle-docid:216; ntucle-sid:1771@LMC@2019-06-15
+30006262@@@@@@Conclusion@@@@1@1@ntucle-docid:216; ntucle-sid:1772@LMC@2019-06-15
+30006263@@@@@@In the age of energy crisis, saving electricity is everyone’s mission.@@@@1@11@ntucle-docid:216; ntucle-sid:1773@LMC@2019-06-15
+30006264@@@@@@E-Controller is the best solution as the device minimizes the electricity losses.@@@@1@12@ntucle-docid:216; ntucle-sid:1774@LMC@2019-06-15
+30006265@@@@@@With its convenience and user-friendliness, E-Controller will no doubt be every household’s necessity.@@@@1@13@ntucle-docid:216; ntucle-sid:1775@LMC@2019-06-15
+30006266@@@@@@FastForward@@@@1@1@ntucle-docid:217; ntucle-sid:1640@LMC@2019-06-15
+30006267@@@@@@Background@@@@1@1@ntucle-docid:217; ntucle-sid:1641@LMC@2019-06-15
+30006268@@@@@@Due to the dense population of students within Nanyang Technological University (NTU), boarding shuttle buses especially during peak hours is incredibly difficult.@@@@1@22@ntucle-docid:217; ntucle-sid:1642@LMC@2019-06-15
+30006269@@@@@@Scores of students form beelines at bus stops, trying to squeeze into shuttle buses – often, to no avail.@@@@1@19@ntucle-docid:217; ntucle-sid:1643@LMC@2019-06-15
+30006270@@@@@@One such initiative to address this problem has taken shape in ‘The Orange Bike Project’ (University of Texas at Austin, 2015).@@@@1@21@ntucle-docid:217; ntucle-sid:1644@LMC@2019-06-15
+30006271@@@@@@It encourages students in the varsity to rent a bike either on a daily basis or for an entire semester to ease crowds and smoothen traffic flow within the campus.@@@@1@30@ntucle-docid:217; ntucle-sid:1645@LMC@2019-06-15
+30006272@@@@@@The URA (2013) in Singapore also aims to introduce cycling which, given our compact size, can be an alternative mode of transport for short distance commute.@@@@1@26@ntucle-docid:217; ntucle-sid:1646@LMC@2019-06-15
+30006273@@@@@@Problem@@@@1@1@ntucle-docid:217; ntucle-sid:1647@LMC@2019-06-15
+30006274@@@@@@NTU has a large campus that spans across 200 hectares.@@@@1@10@ntucle-docid:217; ntucle-sid:1648@LMC@2019-06-15
+30006275@@@@@@The common mode of transport is bus.@@@@1@7@ntucle-docid:217; ntucle-sid:1649@LMC@2019-06-15
+30006276@@@@@@During peak periods, shuttle buses are unable to accommodate an entire queue of students.@@@@1@14@ntucle-docid:217; ntucle-sid:1650@LMC@2019-06-15
+30006277@@@@@@Students therefore bear the brunt of unnecessary delays and experience frustration.@@@@1@11@ntucle-docid:217; ntucle-sid:1651@LMC@2019-06-15
+30006278@@@@@@Solution@@@@1@1@ntucle-docid:217; ntucle-sid:1652@LMC@2019-06-15
+30006279@@@@@@With the introduction of ‘FastForward’, fast moving pedal bikes armed with Global Positioning System (GPS) aim to bring students to their destination swiftly without having to wait for a shuttle bus.@@@@1@31@ntucle-docid:217; ntucle-sid:1653@LMC@2019-06-15
+30006280@@@@@@Benefits of introducing FastForward@@@@1@4@ntucle-docid:217; ntucle-sid:1654@LMC@2019-06-15
+30006281@@@@@@These bikes can tap into inaccessible roads within the campus that buses fail to.@@@@1@14@ntucle-docid:217; ntucle-sid:1655@LMC@2019-06-15
+30006282@@@@@@Students can now reach the doorstep of their venues without having to walk from a bus stop.@@@@1@17@ntucle-docid:217; ntucle-sid:1656@LMC@2019-06-15
+30006283@@@@@@Students unsure of the premises will find the user-friendly GPS touch-screen panels (Fig.2) mounted on the bikes handy.@@@@1@18@ntucle-docid:217; ntucle-sid:1657@LMC@2019-06-15
+30006284@@@@@@Cycling is also a good form of exercise, reducing stress levels (Better Health Channel, 2013).@@@@1@15@ntucle-docid:217; ntucle-sid:1658@LMC@2019-06-15
+30006285@@@@@@Implementation of FastForward@@@@1@3@ntucle-docid:217; ntucle-sid:1659@LMC@2019-06-15
+30006286@@@@@@These bikes will be parked and held in electronic locks in common venues around NTU.@@@@1@15@ntucle-docid:217; ntucle-sid:1660@LMC@2019-06-15
+30006287@@@@@@Students need to insert their matriculation card into a reader (Fig.1) on the bike to unlock them.@@@@1@17@ntucle-docid:217; ntucle-sid:1661@LMC@2019-06-15
+30006288@@@@@@Utilising the helmet provided is imperative to the user’s own safety.@@@@1@11@ntucle-docid:217; ntucle-sid:1662@LMC@2019-06-15
+30006289@@@@@@Users are entitled to 5 minutes of complimentary usage.@@@@1@9@ntucle-docid:217; ntucle-sid:1663@LMC@2019-06-15
+30006290@@@@@@Thereafter, a fee of 2 cents per minute is chargeable.@@@@1@10@ntucle-docid:217; ntucle-sid:1664@LMC@2019-06-15
+30006291@@@@@@Upon reaching the destination, the user needs to insert the bike into a designated parking spot.@@@@1@16@ntucle-docid:217; ntucle-sid:1665@LMC@2019-06-15
+30006292@@@@@@He pays the amount due by placing his ‘EZ-Link’ card on the reader, which in turn releases the matriculation card.@@@@1@20@ntucle-docid:217; ntucle-sid:1666@LMC@2019-06-15
+30006293@@@@@@Failure to pay up will result in the matriculation card not being released.@@@@1@13@ntucle-docid:217; ntucle-sid:1667@LMC@2019-06-15
+30006294@@@@@@The GPS function will accurately track the location of all bikes, making it difficult to loot one.@@@@1@17@ntucle-docid:217; ntucle-sid:1668@LMC@2019-06-15
+30006295@@@@@@Security guard posts will be set up at all exits of NTU to enforce that no bike leaves the premises.@@@@1@20@ntucle-docid:217; ntucle-sid:1669@LMC@2019-06-15
+30006296@@@@@@Any tampering of the bike can be traced back to the last user.@@@@1@13@ntucle-docid:217; ntucle-sid:1670@LMC@2019-06-15
+30006297@@@@@@The existing road will be revamped to include a new sheltered lane for bikers with a barrier to demarcate a clear boundary between the vehicle and bike occupying lanes.@@@@1@29@ntucle-docid:217; ntucle-sid:1671@LMC@2019-06-15
+30006298@@@@@@Bright Light Emitting Diode (LED) lights to be installed within the shelters will offer users a clear sight of their path at night.@@@@1@23@ntucle-docid:217; ntucle-sid:1672@LMC@2019-06-15
+30006299@@@@@@Costs and Proposed Budget@@@@1@4@ntucle-docid:217; ntucle-sid:1673@LMC@2019-06-15
+30006300@@@@@@2000 bikes with GPS and Reader $50,000@@@@1@7@ntucle-docid:217; ntucle-sid:1674@LMC@2019-06-15
+30006301@@@@@@Road works $2,000@@@@1@3@ntucle-docid:217; ntucle-sid:1675@LMC@2019-06-15
+30006302@@@@@@Shelters $2,000@@@@1@2@ntucle-docid:217; ntucle-sid:1676@LMC@2019-06-15
+30006303@@@@@@LED Lights $1,000@@@@1@3@ntucle-docid:217; ntucle-sid:1677@LMC@2019-06-15
+30006304@@@@@@Security guard posts $500@@@@1@4@ntucle-docid:217; ntucle-sid:1678@LMC@2019-06-15
+30006305@@@@@@Conclusion@@@@1@1@ntucle-docid:217; ntucle-sid:1679@LMC@2019-06-15
+30006306@@@@@@‘FastForward’ will allow students to be better connected around the campus.@@@@1@11@ntucle-docid:217; ntucle-sid:1680@LMC@2019-06-15
+30006307@@@@@@Working in tandem with URA’s plans serves as a stepping stone for the greater population of Singapore to embrace cycling as a mode of transport.@@@@1@25@ntucle-docid:217; ntucle-sid:1681@LMC@2019-06-15
+30006308@@@@@@In the future, one can expect the evolution of these bikes to that of electric bikes which offer greater speed and control (Woodford.@@@@1@23@ntucle-docid:217; ntucle-sid:1682@LMC@2019-06-15
+30006309@@@@@@C, 2014).@@@@1@2@ntucle-docid:217; ntucle-sid:1683@LMC@2019-06-15
+30006310@@@@@@Word Count: 547@@@@1@3@ntucle-docid:217; ntucle-sid:1684@LMC@2019-06-15
+30006311@@@@@@EZ-Park, easy ride@@@@1@3@ntucle-docid:218; ntucle-sid:1701@LMC@2019-06-15
+30006312@@@@@@Background@@@@1@1@ntucle-docid:218; ntucle-sid:1702@LMC@2019-06-15
+30006313@@@@@@For many people living in first-world countries, their means of travelling from place to place is by car.@@@@1@18@ntucle-docid:218; ntucle-sid:1703@LMC@2019-06-15
+30006314@@@@@@The four-wheeled automobile is a convenient and comfortable form of transportation.@@@@1@11@ntucle-docid:218; ntucle-sid:1704@LMC@2019-06-15
+30006315@@@@@@However, being the owner of a car also comes with its own set of problems.@@@@1@15@ntucle-docid:218; ntucle-sid:1705@LMC@2019-06-15
+30006316@@@@@@Problem@@@@1@1@ntucle-docid:218; ntucle-sid:1706@LMC@2019-06-15
+30006317@@@@@@When one drives a car, he/she also needs a place to park the car when they reach their destination.@@@@1@19@ntucle-docid:218; ntucle-sid:1707@LMC@2019-06-15
+30006318@@@@@@However, the fact that land is a limited resource and the general investment of land for more lucrative purposes means there is generally insufficient carparks and parking spaces.@@@@1@28@ntucle-docid:218; ntucle-sid:1708@LMC@2019-06-15
+30006319@@@@@@This problem is very apparent in Singapore (Barter, 2011, pp.@@@@1@10@ntucle-docid:218; ntucle-sid:1709@LMC@2019-06-15
+30006320@@@@@@14,15,16) and wastes the time of drivers all around (Shoup, 2007).@@@@1@11@ntucle-docid:218; ntucle-sid:1710@LMC@2019-06-15
+30006321@@@@@@Fortunately, this problem can be alleviated with the help of technology@@@@1@11@ntucle-docid:218; ntucle-sid:1711@LMC@2019-06-15
+30006322@@@@@@Solution@@@@1@1@ntucle-docid:218; ntucle-sid:1712@LMC@2019-06-15
+30006323@@@@@@The creation of EZ-Park sought to address this problem by providing real time information on available parking spaces in carparks.@@@@1@20@ntucle-docid:218; ntucle-sid:1713@LMC@2019-06-15
+30006324@@@@@@Sensors will be embedded in each parking space as well as around the whole carpark, recreating a 3D image of the entire carpark inside a smartphone application.@@@@1@27@ntucle-docid:218; ntucle-sid:1714@LMC@2019-06-15
+30006325@@@@@@Data on carparks and their available parking spaces and its images will be updated real-time every minute to indicate any available lots and their respective locations, with a simple colour coding of red for occupied lots, green for available ones, and the number of waiting cars.@@@@1@46@ntucle-docid:218; ntucle-sid:1715@LMC@2019-06-15
+30006326@@@@@@This is possible as when drivers enter the carpark, they are recommended to indicate on the application that they’re looking for a parking space and likewise indicate when they have found a parking space.@@@@1@34@ntucle-docid:218; ntucle-sid:1716@LMC@2019-06-15
+30006327@@@@@@EZ-Park can also suggest alternative carparks nearby with more available parking spaces if a particular carpark has a lot of waiting cars.@@@@1@22@ntucle-docid:218; ntucle-sid:1717@LMC@2019-06-15
+30006328@@@@@@Benefits@@@@1@1@ntucle-docid:218; ntucle-sid:1718@LMC@2019-06-15
+30006329@@@@@@EZ-Park makes the lives of drivers easier as they know exactly where to drive towards in the carpark to get their parking space.@@@@1@23@ntucle-docid:218; ntucle-sid:1719@LMC@2019-06-15
+30006330@@@@@@This saves their time and frustration from waiting for a parking space.@@@@1@12@ntucle-docid:218; ntucle-sid:1720@LMC@2019-06-15
+30006331@@@@@@It is also more convenient for drivers in the sense that they can plan their journey in advance by checking the carparks’ available spaces beforehand and then choosing a carpark to park at based on their own informed judgement.@@@@1@39@ntucle-docid:218; ntucle-sid:1721@LMC@2019-06-15
+30006332@@@@@@Implementation@@@@1@1@ntucle-docid:218; ntucle-sid:1722@LMC@2019-06-15
+30006333@@@@@@The following steps are taken to create the EZ-Park application:@@@@1@10@ntucle-docid:218; ntucle-sid:1723@LMC@2019-06-15
+30006334@@@@@@Sensors created by a software company will be installed by the proper authorities at various major carparks island-wide, in each parking space and around the carpark complex.@@@@1@27@ntucle-docid:218; ntucle-sid:1724@LMC@2019-06-15
+30006335@@@@@@The application, EZ-Park will be created by an IT company, which will synchronise the installed sensors in the carpark with the application database in collaboration with the software company.@@@@1@29@ntucle-docid:218; ntucle-sid:1725@LMC@2019-06-15
+30006336@@@@@@Tests will be conducted to ensure the functionality of EZ-Park.@@@@1@10@ntucle-docid:218; ntucle-sid:1726@LMC@2019-06-15
+30006337@@@@@@EZ-Park will be monitored at a designated headquarters office (HQ), whereby key user information is transmitted to and processed by EZ-Park personnel.@@@@1@22@ntucle-docid:218; ntucle-sid:1727@LMC@2019-06-15
+30006338@@@@@@Cost@@@@1@1@ntucle-docid:218; ntucle-sid:1728@LMC@2019-06-15
+30006339@@@@@@Parking Sensors $6000@@@@1@3@ntucle-docid:218; ntucle-sid:1729@LMC@2019-06-15
+30006340@@@@@@Installation & Initial Tests $3000@@@@1@5@ntucle-docid:218; ntucle-sid:1730@LMC@2019-06-15
+30006341@@@@@@Application Software & Creation $2500@@@@1@5@ntucle-docid:218; ntucle-sid:1731@LMC@2019-06-15
+30006342@@@@@@Total Cost $11500@@@@1@3@ntucle-docid:218; ntucle-sid:1732@LMC@2019-06-15
+30006343@@@@@@Conclusion@@@@1@1@ntucle-docid:218; ntucle-sid:1733@LMC@2019-06-15
+30006344@@@@@@Carparks are designed for the convenience of drivers, there should be no reason why drivers should not be able to find parking spaces easily.@@@@1@24@ntucle-docid:218; ntucle-sid:1734@LMC@2019-06-15
+30006345@@@@@@With EZ-Park, drivers will be able to drive without parking worries.@@@@1@11@ntucle-docid:218; ntucle-sid:1735@LMC@2019-06-15
+30006346@@@@@@Word-count: 502@@@@1@2@ntucle-docid:218; ntucle-sid:1736@LMC@2019-06-15
+30006347@@@@@@Title@@@@1@1@ntucle-docid:220; ntucle-sid:1747@LMC@2019-06-15
+30006348@@@@@@“Santé” - an elderly-friendly smart phone that is more than just a phone.@@@@1@13@ntucle-docid:220; ntucle-sid:1748@LMC@2019-06-15
+30006349@@@@@@Background@@@@1@1@ntucle-docid:220; ntucle-sid:1749@LMC@2019-06-15
+30006350@@@@@@With advanced and affordable medical treatments, Singaporeans are living longer.@@@@1@10@ntucle-docid:220; ntucle-sid:1750@LMC@2019-06-15
+30006351@@@@@@Currently, 20% of Singaporeans are above the age of 65 (Ng.@@@@1@11@ntucle-docid:220; ntucle-sid:1751@LMC@2019-06-15
+30006352@@@@@@K, 2015).@@@@1@2@ntucle-docid:220; ntucle-sid:1752@LMC@2019-06-15
+30006353@@@@@@Such a high population of elderly will require unprecedented amount of medical care.@@@@1@13@ntucle-docid:220; ntucle-sid:1753@LMC@2019-06-15
+30006354@@@@@@In preparation for the increase in demand, the government is utilizing Information Communication Technology (ICT) in managing patients’ medical records, facilitating communication and allowing the patients to perform self-monitoring (IDA, 2015).@@@@1@31@ntucle-docid:220; ntucle-sid:1754@LMC@2019-06-15
+30006355@@@@@@Problem@@@@1@1@ntucle-docid:220; ntucle-sid:1755@LMC@2019-06-15
+30006356@@@@@@Although ICT has the potential to meet the needs of the elderly especially in the health care sector, seniors are not empowered to make full use of it.@@@@1@28@ntucle-docid:220; ntucle-sid:1756@LMC@2019-06-15
+30006357@@@@@@This is because existing mobile devices for the elderly such as “iNo elderly phone” are limited to calling and texting (iNoMobile Singapore).@@@@1@22@ntucle-docid:220; ntucle-sid:1757@LMC@2019-06-15
+30006358@@@@@@Moreover, mainstream smart phones are not elderly-friendly.@@@@1@7@ntucle-docid:220; ntucle-sid:1758@LMC@2019-06-15
+30006359@@@@@@The abcNEWS reported how a smart watch saved a teenager as early detection led to timely medical treatment (Shapiro E, 2015).@@@@1@21@ntucle-docid:220; ntucle-sid:1759@LMC@2019-06-15
+30006360@@@@@@Such lifesaving technology can benefit the elderly population only if they are technologically literate.@@@@1@14@ntucle-docid:220; ntucle-sid:1760@LMC@2019-06-15
+30006361@@@@@@Therefore, an improved version of elderly-friendly mobile phone is necessary.@@@@1@10@ntucle-docid:220; ntucle-sid:1761@LMC@2019-06-15
+30006362@@@@@@Solution@@@@1@1@ntucle-docid:220; ntucle-sid:1762@LMC@2019-06-15
+30006363@@@@@@With health in mind, an elderly-friendly smart phone called “Santé” (French word for health) will be produced.@@@@1@17@ntucle-docid:220; ntucle-sid:1763@LMC@2019-06-15
+30006364@@@@@@Its dimension will be 12 cm by 6 cm and 0.5 cm thick.@@@@1@13@ntucle-docid:220; ntucle-sid:1764@LMC@2019-06-15
+30006365@@@@@@The design of the product will be determined after the research and development.@@@@1@13@ntucle-docid:220; ntucle-sid:1765@LMC@2019-06-15
+30006366@@@@@@“Santé” will have touch screen user interface (UI) that is optimized for the elderly users.@@@@1@15@ntucle-docid:220; ntucle-sid:1766@LMC@2019-06-15
+30006367@@@@@@Benefits@@@@1@1@ntucle-docid:220; ntucle-sid:1767@LMC@2019-06-15
+30006368@@@@@@Near Field Communication (NFC) will allow “Santé” to pair effortlessly with wearable gadgets and health-centric accessories such as blood pressure monitor.@@@@1@21@ntucle-docid:220; ntucle-sid:1768@LMC@2019-06-15
+30006369@@@@@@With the help of “Santé” and the growing number of health and fitness accessories, the elderly users can self-monitor without a hustle.@@@@1@22@ntucle-docid:220; ntucle-sid:1769@LMC@2019-06-15
+30006370@@@@@@Moreover, “Santé” will provide unparalleled convenience in communication and managing medical records.@@@@1@12@ntucle-docid:220; ntucle-sid:1770@LMC@2019-06-15
+30006371@@@@@@For example, when the user takes a blood pressure reading at the comfort of his home, “Santé” will automatically check whether the reading is within the user’s personalized healthcare parameters and will proactively notify user’s next-of-kin if necessary.@@@@1@38@ntucle-docid:220; ntucle-sid:1771@LMC@2019-06-15
+30006372@@@@@@If the user is connected to a medical institution, his doctor will also be notified and the doctor can communicate with the user to provide timely care.@@@@1@27@ntucle-docid:220; ntucle-sid:1772@LMC@2019-06-15
+30006373@@@@@@Since “Santé” will record all medical history in the secure cloud storage, the user and authorized persons will have the convenience of viewing all the medical records at any time from any location.@@@@1@33@ntucle-docid:220; ntucle-sid:1773@LMC@2019-06-15
+30006374@@@@@@Implementation@@@@1@1@ntucle-docid:220; ntucle-sid:1774@LMC@2019-06-15
+30006375@@@@@@The following steps will be taken.@@@@1@6@ntucle-docid:220; ntucle-sid:1775@LMC@2019-06-15
+30006376@@@@@@1) Collaboration with an existing iNo (iNomobile Singapore) to produce a prototype.@@@@1@12@ntucle-docid:220; ntucle-sid:1776@LMC@2019-06-15
+30006377@@@@@@2) Trial in a local nursing home for design improvement.@@@@1@10@ntucle-docid:220; ntucle-sid:1777@LMC@2019-06-15
+30006378@@@@@@3) Mass production and sale through collaboration with Ministry of Health.@@@@1@11@ntucle-docid:220; ntucle-sid:1778@LMC@2019-06-15
+30006379@@@@@@Costs and Budgets@@@@1@3@ntucle-docid:220; ntucle-sid:1779@LMC@2019-06-15
+30006380@@@@@@The whole project is estimated to cost about SGD 15,000 (see Table 1.1).@@@@1@13@ntucle-docid:220; ntucle-sid:1780@LMC@2019-06-15
+30006381@@@@@@Substantial amount of budget will be set aside for developing elderly-friendly design.@@@@1@12@ntucle-docid:220; ntucle-sid:1781@LMC@2019-06-15
+30006382@@@@@@S/N@@@@1@1@ntucle-docid:220; ntucle-sid:1782@LMC@2019-06-15
+30006383@@@@@@Particular@@@@1@1@ntucle-docid:220; ntucle-sid:1783@LMC@2019-06-15
+30006384@@@@@@Cost (SGD)@@@@1@2@ntucle-docid:220; ntucle-sid:1784@LMC@2019-06-15
+30006385@@@@@@1@@@@1@1@ntucle-docid:220; ntucle-sid:1785@LMC@2019-06-15
+30006386@@@@@@Research and Development (Design)@@@@1@4@ntucle-docid:220; ntucle-sid:1786@LMC@2019-06-15
+30006387@@@@@@7500@@@@1@1@ntucle-docid:220; ntucle-sid:1787@LMC@2019-06-15
+30006388@@@@@@2@@@@1@1@ntucle-docid:220; ntucle-sid:1788@LMC@2019-06-15
+30006389@@@@@@Application Development@@@@1@2@ntucle-docid:220; ntucle-sid:1789@LMC@2019-06-15
+30006390@@@@@@2000@@@@1@1@ntucle-docid:220; ntucle-sid:1790@LMC@2019-06-15
+30006391@@@@@@2@@@@1@1@ntucle-docid:220; ntucle-sid:1791@LMC@2019-06-15
+30006392@@@@@@Manufacturing and Marketing@@@@1@3@ntucle-docid:220; ntucle-sid:1792@LMC@2019-06-15
+30006393@@@@@@5500@@@@1@1@ntucle-docid:220; ntucle-sid:1793@LMC@2019-06-15
+30006394@@@@@@Total@@@@1@1@ntucle-docid:220; ntucle-sid:1794@LMC@2019-06-15
+30006395@@@@@@15000@@@@1@1@ntucle-docid:220; ntucle-sid:1795@LMC@2019-06-15
+30006396@@@@@@Table 1.1 Breakdown of costs@@@@1@5@ntucle-docid:220; ntucle-sid:1796@LMC@2019-06-15
+30006397@@@@@@Conclusion@@@@1@1@ntucle-docid:220; ntucle-sid:1797@LMC@2019-06-15
+30006398@@@@@@Technology is revolutionising the healthcare sector in unprecedented ways (Krueger.@@@@1@10@ntucle-docid:220; ntucle-sid:1798@LMC@2019-06-15
+30006399@@@@@@A, 2010).@@@@1@2@ntucle-docid:220; ntucle-sid:1799@LMC@2019-06-15
+30006400@@@@@@The ease of use and usefulness of “Santé” will make it the most revolutionary smart phone for the elderly in facilitating communication and managing their health records.@@@@1@27@ntucle-docid:220; ntucle-sid:1800@LMC@2019-06-15
+30006401@@@@@@Lastly, “Santé” will be without doubt the ultimate pal for the elderly when it comes to monitoring and managing their health.@@@@1@21@ntucle-docid:220; ntucle-sid:1801@LMC@2019-06-15
+30006402@@@@@@LED indicator lights in F&B outlets@@@@1@6@ntucle-docid:222; ntucle-sid:1821@LMC@2019-06-15
+30006403@@@@@@With an undergraduate population of 23713 [1], NTU is a very bustling place to be in.@@@@1@16@ntucle-docid:222; ntucle-sid:1822@LMC@2019-06-15
+30006404@@@@@@Even more so during mealtimes.@@@@1@5@ntucle-docid:222; ntucle-sid:1823@LMC@2019-06-15
+30006405@@@@@@As such, many staff and students find it difficult to locate an empty table at the respective food and beverages outlets in NTU.@@@@1@23@ntucle-docid:222; ntucle-sid:1824@LMC@2019-06-15
+30006406@@@@@@For example, the food and beverages cluster in the South Spine which includes Koufu and 1983 café accommodates a maximum of 1050 people [2].@@@@1@24@ntucle-docid:222; ntucle-sid:1825@LMC@2019-06-15
+30006407@@@@@@This is but a small fraction of just the undergraduate population, keeping in mind that there is still the faculty, staff and graduate populations to take into account.@@@@1@28@ntucle-docid:222; ntucle-sid:1826@LMC@2019-06-15
+30006408@@@@@@Not only are there insufficient seats for everybody, the seats are not put to efficient use either.@@@@1@17@ntucle-docid:222; ntucle-sid:1827@LMC@2019-06-15
+30006409@@@@@@There are cases of a 2 people taking up a 4 seat table, rendering the last 2 seats unusable to other people.@@@@1@22@ntucle-docid:222; ntucle-sid:1828@LMC@2019-06-15
+30006410@@@@@@Or people leave their belongings at their seats to go order their food and others, thinking they have found an empty table make their way over to be disappointed.@@@@1@29@ntucle-docid:222; ntucle-sid:1829@LMC@2019-06-15
+30006411@@@@@@My solution to this problem is to adapt the overhead LED indicator lights commonly found in multi-storey carparks to improve the experience of dinners at the food and beverages outlets.@@@@1@30@ntucle-docid:222; ntucle-sid:1830@LMC@2019-06-15
+30006412@@@@@@Another possible benefit of this system is that it could also lead to an increase in social interaction.@@@@1@18@ntucle-docid:222; ntucle-sid:1831@LMC@2019-06-15
+30006413@@@@@@The overhead LED indicators in carparks work using sensors to check if the lot has a car parked in it.@@@@1@20@ntucle-docid:222; ntucle-sid:1832@LMC@2019-06-15
+30006414@@@@@@A corresponding light is then displayed to indicate the status of the lot.@@@@1@13@ntucle-docid:222; ntucle-sid:1833@LMC@2019-06-15
+30006415@@@@@@Combined with a digital display at the entrance of the carpark, it informs users of both the availability of lots as well as their locations.@@@@1@25@ntucle-docid:222; ntucle-sid:1834@LMC@2019-06-15
+30006416@@@@@@This allows the users to make informed decisions and thus improves their experience.@@@@1@13@ntucle-docid:222; ntucle-sid:1835@LMC@2019-06-15
+30006417@@@@@@By adapting this system for use in food and beverage outlets like food courts we could improve the dining experience for diners too.@@@@1@23@ntucle-docid:222; ntucle-sid:1836@LMC@2019-06-15
+30006418@@@@@@I propose that every table will have an overhead indicator (green, amber and red) to indicate the status of the table.@@@@1@21@ntucle-docid:222; ntucle-sid:1837@LMC@2019-06-15
+30006419@@@@@@This is controlled by whoever is sitting at the particular table by a set of corresponding buttons.@@@@1@17@ntucle-docid:222; ntucle-sid:1838@LMC@2019-06-15
+30006420@@@@@@Red means that the table is full or already taken and whoever is sitting there does not want to share their table with strangers.@@@@1@24@ntucle-docid:222; ntucle-sid:1839@LMC@2019-06-15
+30006421@@@@@@Amber means that the table is taken but the person sitting there is open to the idea of sharing their table with others.@@@@1@23@ntucle-docid:222; ntucle-sid:1840@LMC@2019-06-15
+30006422@@@@@@Lastly, green is for fully empty tables.@@@@1@7@ntucle-docid:222; ntucle-sid:1841@LMC@2019-06-15
+30006423@@@@@@Furthermore, there will also be digital displays at the entrances to the eateries that inform potential customers of the number of seats available.@@@@1@23@ntucle-docid:222; ntucle-sid:1842@LMC@2019-06-15
+30006424@@@@@@In case diners forget to change the indicator lights back to green when they leave, every half hour, sensors will check if the customer has indeed left the table.@@@@1@29@ntucle-docid:222; ntucle-sid:1843@LMC@2019-06-15
+30006425@@@@@@This solution will not only help customers find seats more efficiently, but encourage people to be more sociable and interact with strangers as well.@@@@1@24@ntucle-docid:222; ntucle-sid:1844@LMC@2019-06-15
+30006426@@@@@@This is can be applied to any food and beverage outlet to improve the dining experience of the customers.@@@@1@19@ntucle-docid:222; ntucle-sid:1845@LMC@2019-06-15
+30006427@@@@@@493 words@@@@1@2@ntucle-docid:222; ntucle-sid:1846@LMC@2019-06-15
+30006428@@@@@@Never be Late Again@@@@1@4@ntucle-docid:223; ntucle-sid:1624@LMC@2019-06-15
+30006429@@@@@@Problem@@@@1@1@ntucle-docid:223; ntucle-sid:1625@LMC@2019-06-15
+30006430@@@@@@Students in NTU who have classes back to back, with each class several distance away from each other tend to take time to reach and miss the first 10-15 minutes of the next class.@@@@1@34@ntucle-docid:223; ntucle-sid:1626@LMC@2019-06-15
+30006431@@@@@@Being late is also not very conventional and it does not make a good first impression.@@@@1@16@ntucle-docid:223; ntucle-sid:1627@LMC@2019-06-15
+30006432@@@@@@This occurs mainly because the classes might be held in different areas of the school and by the time students reach the next class, they miss the lecture time where lecturers might have stated the importance and objectives of the topic being tested in an upcoming test.@@@@1@47@ntucle-docid:223; ntucle-sid:1628@LMC@2019-06-15
+30006433@@@@@@Or sometimes when the tutor goes through the questions you may miss out and not know how to do.@@@@1@19@ntucle-docid:223; ntucle-sid:1629@LMC@2019-06-15
+30006434@@@@@@This is a major problem for students in NTU especially for freshman in the first few months where they take a little more time to navigate their way to each class and find the shortest possible way to reach on time.@@@@1@41@ntucle-docid:223; ntucle-sid:1630@LMC@2019-06-15
+30006435@@@@@@Solution@@@@1@1@ntucle-docid:223; ntucle-sid:1631@LMC@2019-06-15
+30006436@@@@@@NTU can provide a service to students where they can rent a two wheel self-balancing scooter or unicycle that has now become very trendy and popular.@@@@1@26@ntucle-docid:223; ntucle-sid:1632@LMC@2019-06-15
+30006437@@@@@@This new scooter designed is portable and is very efficient.@@@@1@10@ntucle-docid:223; ntucle-sid:1633@LMC@2019-06-15
+30006438@@@@@@Students can probably rent it for a day at the service center for a price and use it around the school for an entire day.@@@@1@25@ntucle-docid:223; ntucle-sid:1634@LMC@2019-06-15
+30006439@@@@@@A deposit charge will be collected together with details and matriculation card of the students, but it will be returned back when the student gives it back at the end of the day.@@@@1@33@ntucle-docid:223; ntucle-sid:1635@LMC@2019-06-15
+30006440@@@@@@This way, students can travel all the around NTU faster and safer, without missing any important lecture and tutorials by arriving late.@@@@1@22@ntucle-docid:223; ntucle-sid:1636@LMC@2019-06-15
+30006441@@@@@@It is fast, efficient and trendy too.@@@@1@7@ntucle-docid:223; ntucle-sid:1637@LMC@2019-06-15
+30006442@@@@@@Benefit@@@@1@1@ntucle-docid:223; ntucle-sid:1638@LMC@2019-06-15
+30006443@@@@@@This will definitely benefit students who are always late due to their previous lesson at another corner of the school.@@@@1@20@ntucle-docid:223; ntucle-sid:1639@LMC@2019-06-15
+30006444@@@@@@Moreover, being late will never be a problem because this two wheel scooter helps to reach their next class destination in a shorter period of time.@@@@1@26@ntucle-docid:223; ntucle-sid:1640@LMC@2019-06-15
+30006445@@@@@@Implementation@@@@1@1@ntucle-docid:223; ntucle-sid:1641@LMC@2019-06-15
+30006446@@@@@@Cost/budget@@@@1@1@ntucle-docid:223; ntucle-sid:1642@LMC@2019-06-15
+30006447@@@@@@Each scooter costs about $300 and a unicycle $200@@@@1@9@ntucle-docid:223; ntucle-sid:1643@LMC@2019-06-15
+30006448@@@@@@Conclusion@@@@1@1@ntucle-docid:223; ntucle-sid:1644@LMC@2019-06-15

@@ -1,0 +1,845 @@
+30004690@@@@@@School: Nanyang Technological University@@@@1@4@ntucle-docid:161; ntucle-sid:1202@LMC@2019-06-14
+30004691@@@@@@Never Lose Your Way Again in NTU@@@@1@7@ntucle-docid:161; ntucle-sid:1205@LMC@2019-06-14
+30004692@@@@@@Never Lose Your Way Again in NTU@@@@1@7@ntucle-docid:161; ntucle-sid:1206@LMC@2019-06-14
+30004693@@@@@@Background@@@@1@1@ntucle-docid:161; ntucle-sid:1207@LMC@2019-06-14
+30004694@@@@@@Nanyang Technological University (NTU) is a 200-hectare campus well-equipped with academics facilities.@@@@1@12@ntucle-docid:161; ntucle-sid:1208@LMC@2019-06-14
+30004695@@@@@@There are more than 30 lecture theatres and over a hundred tutorial rooms in the many buildings within NTU.@@@@1@19@ntucle-docid:161; ntucle-sid:1209@LMC@2019-06-14
+30004696@@@@@@However, with such a large campus, students in NTU, especially freshmen, may find it challenging to find their exact venue for different classes.@@@@1@23@ntucle-docid:161; ntucle-sid:1210@LMC@2019-06-14
+30004697@@@@@@Problem@@@@1@1@ntucle-docid:161; ntucle-sid:1211@LMC@2019-06-14
+30004698@@@@@@With the difficulty in locating the exact lecture theatres and tutorial rooms to attend classes, students waste precious time wandering around the different buildings, and as a result, some are even late for classes, which can be disruptive to the lessons being conducted.@@@@1@43@ntucle-docid:161; ntucle-sid:1212@LMC@2019-06-14
+30004699@@@@@@The current directory in the campus is not very interactive.@@@@1@10@ntucle-docid:161; ntucle-sid:1213@LMC@2019-06-14
+30004700@@@@@@Even though the online platform on NTU’s website, maps.ntu.edu.sg, states specific routes to different location, it may still be insufficient to a freshmen that is unaware of their exact location.@@@@1@30@ntucle-docid:161; ntucle-sid:1214@LMC@2019-06-14
+30004701@@@@@@Therefore, there is a need to improve the means to address this problem.@@@@1@13@ntucle-docid:161; ntucle-sid:1215@LMC@2019-06-14
+30004702@@@@@@Solution@@@@1@1@ntucle-docid:161; ntucle-sid:1216@LMC@2019-06-14
+30004703@@@@@@With such a technologically-savvy generation, a mobile application software named ‘Find your NTU!’ can be developed for students to find their way around in NTU campus.@@@@1@26@ntucle-docid:161; ntucle-sid:1217@LMC@2019-06-14
+30004704@@@@@@‘Find your NTU!’ will make use of the mobile phone’s Global Positioning System(GPS) to pinpoint their exact location in the NTU campus, and guide them to the exact venues of their lessons.@@@@1@32@ntucle-docid:161; ntucle-sid:1218@LMC@2019-06-14
+30004705@@@@@@‘Find your NTU!’ will be specifically catered to the map of NTU campus, and will recognize the terms used to name the tutorial rooms and lecture theatres, for instances, TR +50 or LT19A.@@@@1@33@ntucle-docid:161; ntucle-sid:1219@LMC@2019-06-14
+30004706@@@@@@‘Find your NTU!’ will be designed to be user-friendly, free to use, and require minimal data usage.@@@@1@17@ntucle-docid:161; ntucle-sid:1220@LMC@2019-06-14
+30004707@@@@@@Moreover, it will be made compatible with the different operating systems of the various brands of mobile devices, such as iOS for iPhones, Android for Samsung phones, to make it accessible for everyone.@@@@1@33@ntucle-docid:161; ntucle-sid:1221@LMC@2019-06-14
+30004708@@@@@@In addition, it will be updated monthly to include new sections of the school campus, or include areas that newly under renovation, so that users will be accurately guided to their intended locations.@@@@1@33@ntucle-docid:161; ntucle-sid:1222@LMC@2019-06-14
+30004709@@@@@@Benefits@@@@1@1@ntucle-docid:161; ntucle-sid:1223@LMC@2019-06-14
+30004710@@@@@@With ‘Find your NTU!’, it can be much more convenient to navigate in NTU.@@@@1@14@ntucle-docid:161; ntucle-sid:1224@LMC@2019-06-14
+30004711@@@@@@This can lead to massive time savings to each individual student, as one gets from one venue to another for different modules more effectively and efficiently.@@@@1@26@ntucle-docid:161; ntucle-sid:1225@LMC@2019-06-14
+30004712@@@@@@This can eventually benefit NTU population as classes start and end on schedule.@@@@1@13@ntucle-docid:161; ntucle-sid:1226@LMC@2019-06-14
+30004713@@@@@@Furthermore, it can be easily implemented with smartphones commonly owned by students in NTU.@@@@1@14@ntucle-docid:161; ntucle-sid:1227@LMC@2019-06-14
+30004714@@@@@@Implementation@@@@1@1@ntucle-docid:161; ntucle-sid:1228@LMC@2019-06-14
+30004715@@@@@@‘Find your NTU!’ can be made known to students through the NTU school email during the first week of each semester, and after which, simply download ‘Find your NTU!’ on their mobile devices and one can utilize the application and start navigating his way around the NTU campus easily.@@@@1@49@ntucle-docid:161; ntucle-sid:1229@LMC@2019-06-14
+30004716@@@@@@Costs@@@@1@1@ntucle-docid:161; ntucle-sid:1230@LMC@2019-06-14
+30004717@@@@@@Mobile Application Software Development Cost: $25,000@@@@1@6@ntucle-docid:161; ntucle-sid:1231@LMC@2019-06-14
+30004718@@@@@@Monthly Maintenance of Application: $750-$1500 a month (Kohan B, 2015)@@@@1@10@ntucle-docid:161; ntucle-sid:1232@LMC@2019-06-14
+30004719@@@@@@Conclusion@@@@1@1@ntucle-docid:161; ntucle-sid:1233@LMC@2019-06-14
+30004720@@@@@@With students losing precious time finding their way around NTU campus, ‘Find your NTU!’ is an essential initiative to guide them within the NTU campus, and finding their way in NTU will no longer be a problem.@@@@1@37@ntucle-docid:161; ntucle-sid:1234@LMC@2019-06-14
+30004721@@@@@@Words: 500@@@@1@2@ntucle-docid:161; ntucle-sid:1235@LMC@2019-06-14
+30004722@@@@@@Background@@@@1@1@ntucle-docid:162; ntucle-sid:1286@LMC@2019-06-14
+30004723@@@@@@Transportation system has been one of the most beneficial and oldest innovations in human civilization.@@@@1@15@ntucle-docid:162; ntucle-sid:1287@LMC@2019-06-14
+30004724@@@@@@Human always seek after for an effective transportation system, no matter it is by means of conveniences or, to increase productivity.@@@@1@21@ntucle-docid:162; ntucle-sid:1288@LMC@2019-06-14
+30004725@@@@@@Safety is often the main issue regarding transportation, thus most transportation systems are well equipped with various forms of safety precautious measures, such as the air bags, safety belts and Antilock-Braking System.@@@@1@32@ntucle-docid:162; ntucle-sid:1289@LMC@2019-06-14
+30004726@@@@@@Problem@@@@1@1@ntucle-docid:162; ntucle-sid:1290@LMC@2019-06-14
+30004727@@@@@@However, it always seems that we have overlooked something in this field of innovation – bicycles.@@@@1@16@ntucle-docid:162; ntucle-sid:1291@LMC@2019-06-14
+30004728@@@@@@According to an article published by ASIAONE NEWS on 18thJuly2012, despite the decrease in overall road accident cases, fatalities involving cyclists are still rising.@@@@1@24@ntucle-docid:162; ntucle-sid:1292@LMC@2019-06-14
+30004729@@@@@@Bikes are no doubt one of the most dangerous forms of transportation, yet its safety measures has done minimal improvement throughout these decades.@@@@1@23@ntucle-docid:162; ntucle-sid:1293@LMC@2019-06-14
+30004730@@@@@@Often cyclists would wear a safety helmet to serve as a protection, but its ability to prevent major injuries is still an uncertainty.@@@@1@23@ntucle-docid:162; ntucle-sid:1294@LMC@2019-06-14
+30004731@@@@@@Therefore, an upgrade for the helmets is utmost needed.@@@@1@9@ntucle-docid:162; ntucle-sid:1295@LMC@2019-06-14
+30004732@@@@@@Solution@@@@1@1@ntucle-docid:162; ntucle-sid:1296@LMC@2019-06-14
+30004733@@@@@@I would like to introduce the Indicator Helm as an effective measure to solve the increasing road accident issues.@@@@1@19@ntucle-docid:162; ntucle-sid:1297@LMC@2019-06-14
+30004734@@@@@@Indicator Helm is a helmet that has a LED light board attached at the back of the helmet to inform the other road users the direction that the cyclist wish to turn by showing right or left arrow.@@@@1@38@ntucle-docid:162; ntucle-sid:1298@LMC@2019-06-14
+30004735@@@@@@It is relatively simple to turn on the indicator, for right direction, user simply has to press the button which to be clipped on the right handle of the bicycle; there will be a left button as well for left direction.@@@@1@41@ntucle-docid:162; ntucle-sid:1299@LMC@2019-06-14
+30004736@@@@@@Signals from the button pressed are sent to the LED board via Bluetooth Connection.@@@@1@14@ntucle-docid:162; ntucle-sid:1300@LMC@2019-06-14
+30004737@@@@@@Furthermore, the helmet also has reflective stickers to allow cyclist to be noticeable even in the darkest night.@@@@1@18@ntucle-docid:162; ntucle-sid:1301@LMC@2019-06-14
+30004738@@@@@@Moreover, the helmet has built-in motion-sensor-gyroscopes, allowing the LED light board to be lit up in red whenever the cyclist decelerates.@@@@1@21@ntucle-docid:162; ntucle-sid:1302@LMC@2019-06-14
+30004739@@@@@@Benefit@@@@1@1@ntucle-docid:162; ntucle-sid:1303@LMC@2019-06-14
+30004740@@@@@@First of all, the indicators shown are clear and will not cause confusion to others.@@@@1@15@ntucle-docid:162; ntucle-sid:1304@LMC@2019-06-14
+30004741@@@@@@In addition, LED light bulb is the best option because it is proven to be energy efficient and it shines an optimum amount of light to be noticeable without causing distractions for other road users.@@@@1@35@ntucle-docid:162; ntucle-sid:1305@LMC@2019-06-14
+30004742@@@@@@The LED board is waterproof, thus it will still be functioning well even if it is raining.@@@@1@17@ntucle-docid:162; ntucle-sid:1306@LMC@2019-06-14
+30004743@@@@@@Implementation@@@@1@1@ntucle-docid:162; ntucle-sid:1307@LMC@2019-06-14
+30004744@@@@@@Following steps would be taken to develop this product successfully:@@@@1@10@ntucle-docid:162; ntucle-sid:1308@LMC@2019-06-14
+30004745@@@@@@1@@@@1@1@ntucle-docid:162; ntucle-sid:1309@LMC@2019-06-14
+30004746@@@@@@We will outsource manufacturing company that produces quality helmets and use their expertise to collaborate with us.@@@@1@17@ntucle-docid:162; ntucle-sid:1310@LMC@2019-06-14
+30004747@@@@@@2@@@@1@1@ntucle-docid:162; ntucle-sid:1311@LMC@2019-06-14
+30004748@@@@@@A survey will be conducted to determine the reservation price of cyclists towards this product in order for us to sell it at a reasonable price.@@@@1@26@ntucle-docid:162; ntucle-sid:1312@LMC@2019-06-14
+30004749@@@@@@Cost@@@@1@1@ntucle-docid:162; ntucle-sid:1313@LMC@2019-06-14
+30004750@@@@@@LED board $8.00@@@@1@3@ntucle-docid:162; ntucle-sid:1314@LMC@2019-06-14
+30004751@@@@@@Dry Cell Holders $0.50@@@@1@4@ntucle-docid:162; ntucle-sid:1315@LMC@2019-06-14
+30004752@@@@@@Motion Sensor Gyroscope $9.00@@@@1@4@ntucle-docid:162; ntucle-sid:1316@LMC@2019-06-14
+30004753@@@@@@Buttons $0.50@@@@1@2@ntucle-docid:162; ntucle-sid:1317@LMC@2019-06-14
+30004754@@@@@@Reflective Stickers $2.00@@@@1@3@ntucle-docid:162; ntucle-sid:1318@LMC@2019-06-14
+30004755@@@@@@Bluetooth Adapter $7.00@@@@1@3@ntucle-docid:162; ntucle-sid:1319@LMC@2019-06-14
+30004756@@@@@@Total $27.00@@@@1@2@ntucle-docid:162; ntucle-sid:1320@LMC@2019-06-14
+30004757@@@@@@Conclusion@@@@1@1@ntucle-docid:162; ntucle-sid:1321@LMC@2019-06-14
+30004758@@@@@@The risk of accident cannot be avoided completely as there are many other factors that lead to it, but this proposed idea will significantly reduce accident that occurs among cyclist due to miscommunication.@@@@1@33@ntucle-docid:162; ntucle-sid:1322@LMC@2019-06-14
+30004759@@@@@@Hereby, I strongly encourage cyclists to consider Indicator Helm as danger never takes a vacation.@@@@1@15@ntucle-docid:162; ntucle-sid:1323@LMC@2019-06-14
+30004760@@@@@@Picture illustration of the helmet :@@@@1@6@ntucle-docid:162; ntucle-sid:1324@LMC@2019-06-14
+30004761@@@@@@1@@@@1@1@ntucle-docid:164; ntucle-sid:1202@LMC@2019-06-14
+30004762@@@@@@Background@@@@1@1@ntucle-docid:164; ntucle-sid:1203@LMC@2019-06-14
+30004763@@@@@@Cake is one of the most amazing things ever.@@@@1@9@ntucle-docid:164; ntucle-sid:1204@LMC@2019-06-14
+30004764@@@@@@It is known to be a form of dessert.@@@@1@9@ntucle-docid:164; ntucle-sid:1205@LMC@2019-06-14
+30004765@@@@@@Many of us have it during celebratory occasions.@@@@1@8@ntucle-docid:164; ntucle-sid:1206@LMC@2019-06-14
+30004766@@@@@@Some of us have it occasionally to satisfy our sweet tooth.@@@@1@11@ntucle-docid:164; ntucle-sid:1207@LMC@2019-06-14
+30004767@@@@@@However, many of us face problem when we need to cut the cake out to distribute.@@@@1@16@ntucle-docid:164; ntucle-sid:1208@LMC@2019-06-14
+30004768@@@@@@2@@@@1@1@ntucle-docid:164; ntucle-sid:1209@LMC@2019-06-14
+30004769@@@@@@Problem@@@@1@1@ntucle-docid:164; ntucle-sid:1210@LMC@2019-06-14
+30004770@@@@@@Not only to us, but also to the staffs of many cake shops, it is difficult to cut a circular cake to the number of pieces you want evenly or to the size you want it to be.@@@@1@38@ntucle-docid:164; ntucle-sid:1211@LMC@2019-06-14
+30004771@@@@@@Many times, all of us will get slices of different sizes.@@@@1@11@ntucle-docid:164; ntucle-sid:1212@LMC@2019-06-14
+30004772@@@@@@Some will get the smaller slice one, while others may get more than what they can eat.@@@@1@17@ntucle-docid:164; ntucle-sid:1213@LMC@2019-06-14
+30004773@@@@@@This causes disappointments, or worst, wastage of food.@@@@1@8@ntucle-docid:164; ntucle-sid:1214@LMC@2019-06-14
+30004774@@@@@@For shops that usually sell cakes in slices, it is unfair for some customers to get a bigger slice than others when both are paying the same amount.@@@@1@28@ntucle-docid:164; ntucle-sid:1215@LMC@2019-06-14
+30004775@@@@@@Therefore, a tool is needed to solve it.@@@@1@8@ntucle-docid:164; ntucle-sid:1216@LMC@2019-06-14
+30004776@@@@@@3@@@@1@1@ntucle-docid:164; ntucle-sid:1217@LMC@2019-06-14
+30004777@@@@@@Solution@@@@1@1@ntucle-docid:164; ntucle-sid:1218@LMC@2019-06-14
+30004778@@@@@@The “Cake Chart”, a cake cutter, is invented.@@@@1@8@ntucle-docid:164; ntucle-sid:1219@LMC@2019-06-14
+30004779@@@@@@This cake cutter looks just like a circular metal container with a base of 14 inch.@@@@1@16@ntucle-docid:164; ntucle-sid:1220@LMC@2019-06-14
+30004780@@@@@@The sides can be detached from the base and have slits on its inner sides.@@@@1@15@ntucle-docid:164; ntucle-sid:1221@LMC@2019-06-14
+30004781@@@@@@There will be metal pieces, where two long pieces are meant to be place in the middle as shown in the diagram below (Fig1).@@@@1@24@ntucle-docid:164; ntucle-sid:1222@LMC@2019-06-14
+30004782@@@@@@The metal pieces are knifes with good scallops, each with little curve coming to a point and it is thin and flexible.@@@@1@22@ntucle-docid:164; ntucle-sid:1223@LMC@2019-06-14
+30004783@@@@@@Users can slide the smaller metal pieces into the slits according to the way they want the cake to be cut after the two long pieces is being placed.@@@@1@29@ntucle-docid:164; ntucle-sid:1224@LMC@2019-06-14
+30004784@@@@@@To use this tool, base need to be detached.@@@@1@9@ntucle-docid:164; ntucle-sid:1225@LMC@2019-06-14
+30004785@@@@@@Place the cake below those metal pieces and press those metal pieces down the centre of the cake.@@@@1@18@ntucle-docid:164; ntucle-sid:1226@LMC@2019-06-14
+30004786@@@@@@Fig1 Top view of "Cake Chart"@@@@1@6@ntucle-docid:164; ntucle-sid:1227@LMC@2019-06-14
+30004787@@@@@@4@@@@1@1@ntucle-docid:164; ntucle-sid:1228@LMC@2019-06-14
+30004788@@@@@@Benefits@@@@1@1@ntucle-docid:164; ntucle-sid:1229@LMC@2019-06-14
+30004789@@@@@@It allows convenience as you can cut the number of cake you want all at once, and everybody get the same size of cake.@@@@1@24@ntucle-docid:164; ntucle-sid:1230@LMC@2019-06-14
+30004790@@@@@@Size of the slice can also be adjusted according to request, if anyone wants a bigger slice, by changing how you place the metal pieces.@@@@1@25@ntucle-docid:164; ntucle-sid:1231@LMC@2019-06-14
+30004791@@@@@@And for cake shops, customers can be ensured that they will get the same size of cake as everyone else that purchases it.@@@@1@23@ntucle-docid:164; ntucle-sid:1232@LMC@2019-06-14
+30004792@@@@@@5@@@@1@1@ntucle-docid:164; ntucle-sid:1233@LMC@2019-06-14
+30004793@@@@@@Implementation@@@@1@1@ntucle-docid:164; ntucle-sid:1234@LMC@2019-06-14
+30004794@@@@@@In order to produce this, the following steps will be taken:@@@@1@11@ntucle-docid:164; ntucle-sid:1235@LMC@2019-06-14
+30004795@@@@@@1@@@@1@1@ntucle-docid:164; ntucle-sid:1236@LMC@2019-06-14
+30004796@@@@@@We will collaborate with designers to ensure that product is possible to be implemented, as well as to work on improving the current design.@@@@1@24@ntucle-docid:164; ntucle-sid:1237@LMC@2019-06-14
+30004797@@@@@@2@@@@1@1@ntucle-docid:164; ntucle-sid:1238@LMC@2019-06-14
+30004798@@@@@@To approach manufacturing companies to produce the product.@@@@1@8@ntucle-docid:164; ntucle-sid:1239@LMC@2019-06-14
+30004799@@@@@@6@@@@1@1@ntucle-docid:164; ntucle-sid:1240@LMC@2019-06-14
+30004800@@@@@@Cost@@@@1@1@ntucle-docid:164; ntucle-sid:1241@LMC@2019-06-14
+30004801@@@@@@Metal sides and base – $7@@@@1@6@ntucle-docid:164; ntucle-sid:1242@LMC@2019-06-14
+30004802@@@@@@Metal pieces (knifes) – $25@@@@1@5@ntucle-docid:164; ntucle-sid:1243@LMC@2019-06-14
+30004803@@@@@@7@@@@1@1@ntucle-docid:164; ntucle-sid:1244@LMC@2019-06-14
+30004804@@@@@@Conclusion@@@@1@1@ntucle-docid:164; ntucle-sid:1245@LMC@2019-06-14
+30004805@@@@@@Cake is supposed to bring joy and happiness to everybody, some even have it to relieve stress.@@@@1@17@ntucle-docid:164; ntucle-sid:1246@LMC@2019-06-14
+30004806@@@@@@By having “Cake Chart”, it prevents the atmosphere to be dampened by the difficult cake cutting.@@@@1@16@ntucle-docid:164; ntucle-sid:1247@LMC@2019-06-14
+30004807@@@@@@Everybody leaves happily after having the cake!@@@@1@7@ntucle-docid:164; ntucle-sid:1248@LMC@2019-06-14
+30004808@@@@@@Side-view Camera@@@@1@2@ntucle-docid:167; ntucle-sid:1374@LMC@2019-06-14
+30004809@@@@@@Background:@@@@1@1@ntucle-docid:167; ntucle-sid:1377@LMC@2019-06-14
+30004810@@@@@@To have the right to drive, an individual would need to go through a series of theory and practical tests.@@@@1@20@ntucle-docid:167; ntucle-sid:1378@LMC@2019-06-14
+30004811@@@@@@These tests deem if a driver is fit to drive as well as teach him the rules and regulations of the roads.@@@@1@22@ntucle-docid:167; ntucle-sid:1379@LMC@2019-06-14
+30004812@@@@@@This ensures that the roads are safe.@@@@1@7@ntucle-docid:167; ntucle-sid:1380@LMC@2019-06-14
+30004813@@@@@@Problem:@@@@1@1@ntucle-docid:167; ntucle-sid:1381@LMC@2019-06-14
+30004814@@@@@@Although a driver has sufficient knowledge of the roads, there is an unavoidable issue of blind spots when the driver would like to turn or change lanes.@@@@1@27@ntucle-docid:167; ntucle-sid:1382@LMC@2019-06-14
+30004815@@@@@@While how to minimise this problem is taught, it still remains a huge accident causing factor on the roads.@@@@1@19@ntucle-docid:167; ntucle-sid:1383@LMC@2019-06-14
+30004816@@@@@@According to an article by The Telegraph, the number of crashes caused by blind spots has risen by 50% over the last two years.@@@@1@24@ntucle-docid:167; ntucle-sid:1384@LMC@2019-06-14
+30004817@@@@@@It is found that this could be due to vehicles having strengthened frames which in turns widens the blind spots and affect the view of other cars on the road.@@@@1@30@ntucle-docid:167; ntucle-sid:1385@LMC@2019-06-14
+30004818@@@@@@There are methods such as sensors that detect movement and flashes a light to the driver, but it may not be effective as by the time the light comes on, it may already be too late.@@@@1@36@ntucle-docid:167; ntucle-sid:1386@LMC@2019-06-14
+30004819@@@@@@Solution:@@@@1@1@ntucle-docid:167; ntucle-sid:1387@LMC@2019-06-14
+30004820@@@@@@The main objective is to give the driver ‘eyes’ that serve to see where they are unable to.@@@@1@18@ntucle-docid:167; ntucle-sid:1388@LMC@2019-06-14
+30004821@@@@@@It is an extension of the rear-view camera technology that assist drivers with parking.@@@@1@14@ntucle-docid:167; ntucle-sid:1389@LMC@2019-06-14
+30004822@@@@@@Cameras will be placed at the side of the vehicle and show the blind spots.@@@@1@15@ntucle-docid:167; ntucle-sid:1390@LMC@2019-06-14
+30004823@@@@@@This can be built into the vehicle or installed as an external component.@@@@1@13@ntucle-docid:167; ntucle-sid:1391@LMC@2019-06-14
+30004824@@@@@@When the driver wants to make a turn or a change of lane, upon activation of the turn signal, the camera would switch on and show the blind spot on the screen at the dashboard of the car.@@@@1@38@ntucle-docid:167; ntucle-sid:1392@LMC@2019-06-14
+30004825@@@@@@This ensures that he will always be in view of his blind spot and unnecessary accidents can be avoided.@@@@1@19@ntucle-docid:167; ntucle-sid:1393@LMC@2019-06-14
+30004826@@@@@@Benefits:@@@@1@1@ntucle-docid:167; ntucle-sid:1394@LMC@2019-06-14
+30004827@@@@@@This will result in a wider range of vision and effectively ensures that a driver has no one in his blind spots before a turn or a change of lane is made.@@@@1@32@ntucle-docid:167; ntucle-sid:1395@LMC@2019-06-14
+30004828@@@@@@As activation of the turn signal is needed to activate the camera, this also warns other road users of the driver’s intentions.@@@@1@22@ntucle-docid:167; ntucle-sid:1396@LMC@2019-06-14
+30004829@@@@@@Although this is already a necessary safety precaution, according to a study by the Society of Automotive Engineers (SAE), up to 50% of drivers do not signal before they turn.@@@@1@30@ntucle-docid:167; ntucle-sid:1397@LMC@2019-06-14
+30004830@@@@@@The device will inculcate this good habit on drivers.@@@@1@9@ntucle-docid:167; ntucle-sid:1398@LMC@2019-06-14
+30004831@@@@@@Implementation:@@@@1@1@ntucle-docid:167; ntucle-sid:1399@LMC@2019-06-14
+30004832@@@@@@To develop this device, the following steps will be taken:@@@@1@10@ntucle-docid:167; ntucle-sid:1400@LMC@2019-06-14
+30004833@@@@@@1@@@@1@1@ntucle-docid:167; ntucle-sid:1401@LMC@2019-06-14
+30004834@@@@@@We will collaborate with companies who are already producing the rear-view mirror@@@@1@12@ntucle-docid:167; ntucle-sid:1402@LMC@2019-06-14
+30004835@@@@@@2@@@@1@1@ntucle-docid:167; ntucle-sid:1403@LMC@2019-06-14
+30004836@@@@@@Conduct research on the best way to place the camera and how to do so.@@@@1@15@ntucle-docid:167; ntucle-sid:1404@LMC@2019-06-14
+30004837@@@@@@3@@@@1@1@ntucle-docid:167; ntucle-sid:1405@LMC@2019-06-14
+30004838@@@@@@Do experiments first in a controlled environment followed by actual testing on the roads@@@@1@14@ntucle-docid:167; ntucle-sid:1406@LMC@2019-06-14
+30004839@@@@@@Costs:@@@@1@1@ntucle-docid:167; ntucle-sid:1407@LMC@2019-06-14
+30004840@@@@@@Camera: $80@@@@1@2@ntucle-docid:167; ntucle-sid:1408@LMC@2019-06-14
+30004841@@@@@@Monitor: $50@@@@1@2@ntucle-docid:167; ntucle-sid:1409@LMC@2019-06-14
+30004842@@@@@@Wires: $20@@@@1@2@ntucle-docid:167; ntucle-sid:1410@LMC@2019-06-14
+30004843@@@@@@Software: $20@@@@1@2@ntucle-docid:167; ntucle-sid:1411@LMC@2019-06-14
+30004844@@@@@@Total costs: $170@@@@1@3@ntucle-docid:167; ntucle-sid:1412@LMC@2019-06-14
+30004845@@@@@@Conclusion:@@@@1@1@ntucle-docid:167; ntucle-sid:1413@LMC@2019-06-14
+30004846@@@@@@Road dangers are ever-present and accidents on the roads happens frequently.@@@@1@11@ntucle-docid:167; ntucle-sid:1414@LMC@2019-06-14
+30004847@@@@@@This enhancement will seek to assist drivers in the conquest for a safer driving experience, preventing accidents from occurring using modern technology.@@@@1@22@ntucle-docid:167; ntucle-sid:1415@LMC@2019-06-14
+30004848@@@@@@Assignment 1: Short Technical Proposal@@@@1@5@ntucle-docid:169; ntucle-sid:1230@LMC@2019-06-14
+30004849@@@@@@Proposal Title: A Sensor That Switches Off Every Switch@@@@1@9@ntucle-docid:169; ntucle-sid:1235@LMC@2019-06-14
+30004850@@@@@@Electricity consumption is a concern in the coming years.@@@@1@9@ntucle-docid:169; ntucle-sid:1236@LMC@2019-06-14
+30004851@@@@@@Consumers are encouraged to purchase energy efficient appliances and to have energy saving habits in oneself like using energy saving lightbulbs, switching off unnecessary switches, not everybody will adopt this electrical energy saving method.@@@@1@34@ntucle-docid:169; ntucle-sid:1237@LMC@2019-06-14
+30004852@@@@@@Consumers do not take individual responsibility in their life.@@@@1@9@ntucle-docid:169; ntucle-sid:1238@LMC@2019-06-14
+30004853@@@@@@According to the Singapore Power website, the average electricity consumption across different type of household has roughly increased from August 2014 to August 2015.@@@@1@24@ntucle-docid:169; ntucle-sid:1239@LMC@2019-06-14
+30004854@@@@@@Every day we use up a lot of electricity just for charging our electronical devices, watching the television or just cooking rice.@@@@1@22@ntucle-docid:169; ntucle-sid:1240@LMC@2019-06-14
+30004855@@@@@@There are times where people tend to leave the house for work without switching off all the electrical appliances.@@@@1@19@ntucle-docid:169; ntucle-sid:1241@LMC@2019-06-14
+30004856@@@@@@They are either forgetful and tend to miss out on one or two switches or they are simply rushed for time to run back to switch off one particular switch.@@@@1@30@ntucle-docid:169; ntucle-sid:1242@LMC@2019-06-14
+30004857@@@@@@Although it may only cause a few cents more for just a day, overtime the amount we are paying will be a lot more if it happens every single day.@@@@1@30@ntucle-docid:169; ntucle-sid:1243@LMC@2019-06-14
+30004858@@@@@@The main goal of this proposal is to create a kind of sensor that can help safe electricity.@@@@1@18@ntucle-docid:169; ntucle-sid:1244@LMC@2019-06-14
+30004859@@@@@@A sensor that can be placed at the front door and detect the human body.@@@@1@15@ntucle-docid:169; ntucle-sid:1245@LMC@2019-06-14
+30004860@@@@@@This sensor will be able to detect a person leaving the house and if the person doesn't come back inside after 10 minutes, all electrical appliances except the refrigerator switch will be automatically switched off.@@@@1@35@ntucle-docid:169; ntucle-sid:1246@LMC@2019-06-14
+30004861@@@@@@By having this sensor kind of device, it will help to save monthly bills.@@@@1@14@ntucle-docid:169; ntucle-sid:1247@LMC@2019-06-14
+30004862@@@@@@Although consumers might only save a few cents in a day, but overtime they will be saving a huge amount which can eventually be spent on other necessities.@@@@1@28@ntucle-docid:169; ntucle-sid:1248@LMC@2019-06-14
+30004863@@@@@@This sensor is useful to consumers who tend to forget things easily or they things tend to slip off their mind easily.@@@@1@22@ntucle-docid:169; ntucle-sid:1249@LMC@2019-06-14
+30004864@@@@@@With this sensor, the user can also take note of the switches that hasn’t been off using the phone application.@@@@1@20@ntucle-docid:169; ntucle-sid:1250@LMC@2019-06-14
+30004865@@@@@@It is also useful for users that are rushed for time, for example, rushing for a morning meeting.@@@@1@18@ntucle-docid:169; ntucle-sid:1251@LMC@2019-06-14
+30004866@@@@@@In order to develop this kind of sensor, the following steps will be taken.@@@@1@14@ntucle-docid:169; ntucle-sid:1252@LMC@2019-06-14
+30004867@@@@@@Firstly, we would do a research on the kind of different sensors and from there list the kind which is suitable to the idea that we created.@@@@1@27@ntucle-docid:169; ntucle-sid:1253@LMC@2019-06-14
+30004868@@@@@@Secondly, after finalizing which kind of sensor to use, find the company and collaborate with them.@@@@1@16@ntucle-docid:169; ntucle-sid:1254@LMC@2019-06-14
+30004869@@@@@@Thirdly, a smartphone application that is designed to be connected to the sensor will be available in the application.@@@@1@19@ntucle-docid:169; ntucle-sid:1255@LMC@2019-06-14
+30004870@@@@@@The estimated cost are as follows:@@@@1@6@ntucle-docid:169; ntucle-sid:1256@LMC@2019-06-14
+30004871@@@@@@Sensor: S$6.50@@@@1@2@ntucle-docid:169; ntucle-sid:1257@LMC@2019-06-14
+30004872@@@@@@To develop the application and installation on the phone: S$300@@@@1@10@ntucle-docid:169; ntucle-sid:1258@LMC@2019-06-14
+30004873@@@@@@Switching off electrical appliances will help to save electricity bills and consumption monthly.@@@@1@13@ntucle-docid:169; ntucle-sid:1259@LMC@2019-06-14
+30004874@@@@@@Having this device will help the consumers to have an easy life by not thinking about whether switches are off or whether they have to pay extra than what they should.@@@@1@31@ntucle-docid:169; ntucle-sid:1260@LMC@2019-06-14
+30004875@@@@@@The Smart Library System@@@@1@4@ntucle-docid:171; ntucle-sid:1249@LMC@2019-06-14
+30004876@@@@@@Background@@@@1@1@ntucle-docid:171; ntucle-sid:1250@LMC@2019-06-14
+30004877@@@@@@Libraries play an important role in universities partly because they provide essential study spaces.@@@@1@14@ntucle-docid:171; ntucle-sid:1251@LMC@2019-06-14
+30004878@@@@@@However, seat-hogging is a prevailing phenomenon which undermines university libraries’ functions.@@@@1@11@ntucle-docid:171; ntucle-sid:1252@LMC@2019-06-14
+30004879@@@@@@A survey done by Singapore Management University in 2015 revealed that seat-hogging was a major problem in its libraries [1]; surveys conducted in three overseas universities indicated that the majority of students were in favour of actions to be taken against seat-hogging [2] [3] [4].@@@@1@45@ntucle-docid:171; ntucle-sid:1253@LMC@2019-06-14
+30004880@@@@@@Problem@@@@1@1@ntucle-docid:171; ntucle-sid:1254@LMC@2019-06-14
+30004881@@@@@@Seat-hogging causes inefficiency and inconvenience in university libraries.@@@@1@8@ntucle-docid:171; ntucle-sid:1255@LMC@2019-06-14
+30004882@@@@@@Library-goers are often unable to find vacant seats even when the occupiers (“seat-hoggers”) are not actually using them.@@@@1@18@ntucle-docid:171; ntucle-sid:1256@LMC@2019-06-14
+30004883@@@@@@As a result, the facilities are not used to their full extent to meet students’ needs for study spaces.@@@@1@19@ntucle-docid:171; ntucle-sid:1257@LMC@2019-06-14
+30004884@@@@@@Moreover, seat-hogging creates extra burden on the librarians because they have to frequently patrol around to ensure the seats are used properly.@@@@1@22@ntucle-docid:171; ntucle-sid:1258@LMC@2019-06-14
+30004885@@@@@@Solution@@@@1@1@ntucle-docid:171; ntucle-sid:1259@LMC@2019-06-14
+30004886@@@@@@The Smart Library System is designed to detect, identify and blacklist seat-hoggers automatically.@@@@1@13@ntucle-docid:171; ntucle-sid:1260@LMC@2019-06-14
+30004887@@@@@@The system includes card readers installed on tables and low-cost weight sensors inserted under seat cushions.@@@@1@16@ntucle-docid:171; ntucle-sid:1261@LMC@2019-06-14
+30004888@@@@@@All card readers and weight sensors are connected to the central monitoring unit located at the librarians’ office.@@@@1@18@ntucle-docid:171; ntucle-sid:1262@LMC@2019-06-14
+30004889@@@@@@User will be required to tap their matric cards on the “card-tapping area” before and after using the seats.@@@@1@19@ntucle-docid:171; ntucle-sid:1263@LMC@2019-06-14
+30004890@@@@@@The weight sensor will detect the presence of the user on the chair.@@@@1@13@ntucle-docid:171; ntucle-sid:1264@LMC@2019-06-14
+30004891@@@@@@Possible statuses of the seat are listed.@@@@1@7@ntucle-docid:171; ntucle-sid:1265@LMC@2019-06-14
+30004892@@@@@@Status@@@@1@1@ntucle-docid:171; ntucle-sid:1266@LMC@2019-06-14
+30004893@@@@@@Card Tapped?@@@@1@2@ntucle-docid:171; ntucle-sid:1267@LMC@2019-06-14
+30004894@@@@@@Weight Detected?@@@@1@2@ntucle-docid:171; ntucle-sid:1268@LMC@2019-06-14
+30004895@@@@@@Screen Display@@@@1@2@ntucle-docid:171; ntucle-sid:1269@LMC@2019-06-14
+30004896@@@@@@Light Colour@@@@1@2@ntucle-docid:171; ntucle-sid:1270@LMC@2019-06-14
+30004897@@@@@@1@@@@1@1@ntucle-docid:171; ntucle-sid:1271@LMC@2019-06-14
+30004898@@@@@@No@@@@1@1@ntucle-docid:171; ntucle-sid:1272@LMC@2019-06-14
+30004899@@@@@@No@@@@1@1@ntucle-docid:171; ntucle-sid:1273@LMC@2019-06-14
+30004900@@@@@@Available@@@@1@1@ntucle-docid:171; ntucle-sid:1274@LMC@2019-06-14
+30004901@@@@@@Green@@@@1@1@ntucle-docid:171; ntucle-sid:1275@LMC@2019-06-14
+30004902@@@@@@2@@@@1@1@ntucle-docid:171; ntucle-sid:1276@LMC@2019-06-14
+30004903@@@@@@No@@@@1@1@ntucle-docid:171; ntucle-sid:1277@LMC@2019-06-14
+30004904@@@@@@Yes@@@@1@1@ntucle-docid:171; ntucle-sid:1278@LMC@2019-06-14
+30004905@@@@@@Unauthorised@@@@1@1@ntucle-docid:171; ntucle-sid:1279@LMC@2019-06-14
+30004906@@@@@@Red@@@@1@1@ntucle-docid:171; ntucle-sid:1280@LMC@2019-06-14
+30004907@@@@@@3@@@@1@1@ntucle-docid:171; ntucle-sid:1281@LMC@2019-06-14
+30004908@@@@@@Yes@@@@1@1@ntucle-docid:171; ntucle-sid:1282@LMC@2019-06-14
+30004909@@@@@@No, within 45 minutes@@@@1@4@ntucle-docid:171; ntucle-sid:1283@LMC@2019-06-14
+30004910@@@@@@Occupied@@@@1@1@ntucle-docid:171; ntucle-sid:1284@LMC@2019-06-14
+30004911@@@@@@Yellow@@@@1@1@ntucle-docid:171; ntucle-sid:1285@LMC@2019-06-14
+30004912@@@@@@4@@@@1@1@ntucle-docid:171; ntucle-sid:1286@LMC@2019-06-14
+30004913@@@@@@Yes@@@@1@1@ntucle-docid:171; ntucle-sid:1287@LMC@2019-06-14
+30004914@@@@@@No, for longer than 45 minutes@@@@1@6@ntucle-docid:171; ntucle-sid:1288@LMC@2019-06-14
+30004915@@@@@@Seat-hogging@@@@1@1@ntucle-docid:171; ntucle-sid:1289@LMC@2019-06-14
+30004916@@@@@@Red@@@@1@1@ntucle-docid:171; ntucle-sid:1290@LMC@2019-06-14
+30004917@@@@@@5@@@@1@1@ntucle-docid:171; ntucle-sid:1291@LMC@2019-06-14
+30004918@@@@@@Yes@@@@1@1@ntucle-docid:171; ntucle-sid:1292@LMC@2019-06-14
+30004919@@@@@@Yes@@@@1@1@ntucle-docid:171; ntucle-sid:1293@LMC@2019-06-14
+30004920@@@@@@In Use@@@@1@2@ntucle-docid:171; ntucle-sid:1294@LMC@2019-06-14
+30004921@@@@@@No light@@@@1@2@ntucle-docid:171; ntucle-sid:1295@LMC@2019-06-14
+30004922@@@@@@Signals will be transmitted to the central monitoring unit to alert the staff in status 2, 4 or whenever the “Report” button is pressed.@@@@1@24@ntucle-docid:171; ntucle-sid:1296@LMC@2019-06-14
+30004923@@@@@@Specific location and status of the concerned seat will be given to the librarians for them to handle accordingly.@@@@1@19@ntucle-docid:171; ntucle-sid:1297@LMC@2019-06-14
+30004924@@@@@@Seat-hogger’s items will be placed at a central depository to let others use the seats during peak periods.@@@@1@18@ntucle-docid:171; ntucle-sid:1298@LMC@2019-06-14
+30004925@@@@@@Furthermore, seat-hogger’s matric card will be blacklisted in the system for 6 hours, or 24 hours for repeat offender as a deterrence.@@@@1@22@ntucle-docid:171; ntucle-sid:1299@LMC@2019-06-14
+30004926@@@@@@Benefits@@@@1@1@ntucle-docid:171; ntucle-sid:1300@LMC@2019-06-14
+30004927@@@@@@The Smart Library System would increase efficiency of libraries by reducing seat-hogging.@@@@1@12@ntucle-docid:171; ntucle-sid:1301@LMC@2019-06-14
+30004928@@@@@@Hence, there would be more available seats for library-goers and librarians would be relieved from the triviality of continuous supervision of the libraries.@@@@1@23@ntucle-docid:171; ntucle-sid:1302@LMC@2019-06-14
+30004929@@@@@@Moreover, it would be convenient for users to locate available seats by simply looking for “green” indicator lights.@@@@1@18@ntucle-docid:171; ntucle-sid:1303@LMC@2019-06-14
+30004930@@@@@@The “Report” button would also provide an easy way to inform librarians of seat-hogging.@@@@1@14@ntucle-docid:171; ntucle-sid:1304@LMC@2019-06-14
+30004931@@@@@@Implementation@@@@1@1@ntucle-docid:171; ntucle-sid:1305@LMC@2019-06-14
+30004932@@@@@@1@@@@1@1@ntucle-docid:171; ntucle-sid:1306@LMC@2019-06-14
+30004933@@@@@@Omega Marketing Group (OMG-Solutions) will be engaged to provide low-cost weight sensing pads and a central monitoring unit.@@@@1@18@ntucle-docid:171; ntucle-sid:1307@LMC@2019-06-14
+30004934@@@@@@2@@@@1@1@ntucle-docid:171; ntucle-sid:1308@LMC@2019-06-14
+30004935@@@@@@Card readers will be supplied by Castles Technology, a local card-reader manufacturer.@@@@1@12@ntucle-docid:171; ntucle-sid:1309@LMC@2019-06-14
+30004936@@@@@@3@@@@1@1@ntucle-docid:171; ntucle-sid:1310@LMC@2019-06-14
+30004937@@@@@@Installation of the system will occur in summer vacation to minimise the disturbance.@@@@1@13@ntucle-docid:171; ntucle-sid:1311@LMC@2019-06-14
+30004938@@@@@@Costs@@@@1@1@ntucle-docid:171; ntucle-sid:1312@LMC@2019-06-14
+30004939@@@@@@Weight Sensing Pad $15/seat@@@@1@4@ntucle-docid:171; ntucle-sid:1313@LMC@2019-06-14
+30004940@@@@@@Card Reader $25/seat@@@@1@3@ntucle-docid:171; ntucle-sid:1314@LMC@2019-06-14
+30004941@@@@@@Central Monitoring Unit $200@@@@1@4@ntucle-docid:171; ntucle-sid:1315@LMC@2019-06-14
+30004942@@@@@@Conclusion@@@@1@1@ntucle-docid:171; ntucle-sid:1316@LMC@2019-06-14
+30004943@@@@@@Seat-hogging disrupts order in university libraries, causing low productivity and inconvenience.@@@@1@11@ntucle-docid:171; ntucle-sid:1317@LMC@2019-06-14
+30004944@@@@@@The Smart Library System would effectively prevent seat-hogging and increase efficiency in libraries, benefitting both students and librarians.@@@@1@18@ntucle-docid:171; ntucle-sid:1318@LMC@2019-06-14
+30004945@@@@@@Year 2, Semester@@@@1@3@ntucle-docid:172; ntucle-sid:1339@LMC@2019-06-14
+30004946@@@@@@Background@@@@1@1@ntucle-docid:172; ntucle-sid:1343@LMC@2019-06-14
+30004947@@@@@@Recycling in Singapore is an important affair due to land scarcity.@@@@1@11@ntucle-docid:172; ntucle-sid:1344@LMC@2019-06-14
+30004948@@@@@@With high population density and limited natural resources, there is a need to practice the 3R's (Reduce, Reuse and Recycle).@@@@1@20@ntucle-docid:172; ntucle-sid:1345@LMC@2019-06-14
+30004949@@@@@@However, there is still more that needs to be done to increase the recycling efforts.@@@@1@15@ntucle-docid:172; ntucle-sid:1346@LMC@2019-06-14
+30004950@@@@@@Based on the waste statistics and overall recycling data of 2014 collected by the National Environmental Agency (NEA), only 60% of the total waste is recycled.@@@@1@26@ntucle-docid:172; ntucle-sid:1347@LMC@2019-06-14
+30004951@@@@@@[1]@@@@1@1@ntucle-docid:172; ntucle-sid:1348@LMC@2019-06-14
+30004952@@@@@@Problem@@@@1@1@ntucle-docid:172; ntucle-sid:1349@LMC@2019-06-14
+30004953@@@@@@Although there are already nation-wide events that encourages and even provides incentives for recycling, the response is only mediocre.@@@@1@19@ntucle-docid:172; ntucle-sid:1350@LMC@2019-06-14
+30004954@@@@@@A study conducted by the Ministry of Environment and Water Resources revealed that the top reason that people do not recycle is that there are too few or too small an item to recycle.@@@@1@34@ntucle-docid:172; ntucle-sid:1351@LMC@2019-06-14
+30004955@@@@@@Another reason is that some people find it an inconvenience to attend the weekly recycling programmes, as they would have to accumulate their recyclables and physically bring the items to the event site.@@@@1@33@ntucle-docid:172; ntucle-sid:1352@LMC@2019-06-14
+30004956@@@@@@[2][3]@@@@1@1@ntucle-docid:172; ntucle-sid:1353@LMC@2019-06-14
+30004957@@@@@@Solution@@@@1@1@ntucle-docid:172; ntucle-sid:1354@LMC@2019-06-14
+30004958@@@@@@The proposal aims to implement a reverse vending machine that offers immediate incentives for depositing recyclables, specifically aluminum cans, glass bottles and newspapers.@@@@1@23@ntucle-docid:172; ntucle-sid:1355@LMC@2019-06-14
+30004959@@@@@@It will be placed at neighbourhood community centres as well as food courts with a high amount of traffic.@@@@1@19@ntucle-docid:172; ntucle-sid:1356@LMC@2019-06-14
+30004960@@@@@@The proposed incentives will be as such: the user will receive a $0.10 refund for each aluminum can, $0.50 for each glass bottle and $0.50 per kilogram of newspaper paper deposited.@@@@1@31@ntucle-docid:172; ntucle-sid:1357@LMC@2019-06-14
+30004961@@@@@@The cash is credited into a card that can be used to pay for the user’s food and beverages or transport.@@@@1@21@ntucle-docid:172; ntucle-sid:1358@LMC@2019-06-14
+30004962@@@@@@Benefits@@@@1@1@ntucle-docid:172; ntucle-sid:1359@LMC@2019-06-14
+30004963@@@@@@The machine aims to make recycling convenient for the public - the user does not have to accumulate recyclables for weekly programmes and he can recycle any amount he wishes - even if it’s just one aluminum can.@@@@1@38@ntucle-docid:172; ntucle-sid:1360@LMC@2019-06-14
+30004964@@@@@@Furthermore, providing on the spot incentives will further motivate recycling efforts and encourage people to spread the word.@@@@1@18@ntucle-docid:172; ntucle-sid:1361@LMC@2019-06-14
+30004965@@@@@@Implementation@@@@1@1@ntucle-docid:172; ntucle-sid:1362@LMC@2019-06-14
+30004966@@@@@@For the proposal to be effective, the following steps will be taken :@@@@1@13@ntucle-docid:172; ntucle-sid:1363@LMC@2019-06-14
+30004967@@@@@@1@@@@1@1@ntucle-docid:172; ntucle-sid:1364@LMC@2019-06-14
+30004968@@@@@@Engage a recycling company to handle the collecting and daily clearing of recyclables.@@@@1@13@ntucle-docid:172; ntucle-sid:1365@LMC@2019-06-14
+30004969@@@@@@2@@@@1@1@ntucle-docid:172; ntucle-sid:1366@LMC@2019-06-14
+30004970@@@@@@Engage a food court and/or a transport company that will be a partner for offering the food and beverage or transport incentives.@@@@1@22@ntucle-docid:172; ntucle-sid:1367@LMC@2019-06-14
+30004971@@@@@@The recycling company will be tendered to the food court and/or transport company.@@@@1@13@ntucle-docid:172; ntucle-sid:1368@LMC@2019-06-14
+30004972@@@@@@3@@@@1@1@ntucle-docid:172; ntucle-sid:1369@LMC@2019-06-14
+30004973@@@@@@Engage an engineering company will be in charge of the program credits the cash into the card, the sensors that detects the items being recycled as well as general maintenance of the system.@@@@1@33@ntucle-docid:172; ntucle-sid:1370@LMC@2019-06-14
+30004974@@@@@@Budget@@@@1@1@ntucle-docid:172; ntucle-sid:1371@LMC@2019-06-14
+30004975@@@@@@Recycling Bins - $90@@@@1@4@ntucle-docid:172; ntucle-sid:1372@LMC@2019-06-14
+30004976@@@@@@Load sensors - $10@@@@1@4@ntucle-docid:172; ntucle-sid:1373@LMC@2019-06-14
+30004977@@@@@@Application software - $100@@@@1@4@ntucle-docid:172; ntucle-sid:1374@LMC@2019-06-14
+30004978@@@@@@Computer hardware - $700@@@@1@4@ntucle-docid:172; ntucle-sid:1375@LMC@2019-06-14
+30004979@@@@@@Weekly maintenance - $100@@@@1@4@ntucle-docid:172; ntucle-sid:1376@LMC@2019-06-14
+30004980@@@@@@Total - $1000@@@@1@3@ntucle-docid:172; ntucle-sid:1377@LMC@2019-06-14
+30004981@@@@@@Conclusion@@@@1@1@ntucle-docid:172; ntucle-sid:1378@LMC@2019-06-14
+30004982@@@@@@Recycling is an important activity that will benefit the community and environment.@@@@1@12@ntucle-docid:172; ntucle-sid:1379@LMC@2019-06-14
+30004983@@@@@@The proposed system aims to tackle the main reason on why people are not recycling, and encourage a behavioural change towards recycling.@@@@1@22@ntucle-docid:172; ntucle-sid:1380@LMC@2019-06-14
+30004984@@@@@@In line with the study conducted by the Ministry of Environment and Water Resources, we also aim to increase the national recycling rate to 65% or higher by 2020.@@@@1@29@ntucle-docid:172; ntucle-sid:1381@LMC@2019-06-14
+30004985@@@@@@EyeBreak@@@@1@1@ntucle-docid:174; ntucle-sid:1391@LMC@2019-06-14
+30004986@@@@@@Background@@@@1@1@ntucle-docid:174; ntucle-sid:1392@LMC@2019-06-14
+30004987@@@@@@Singapore is ranked globally amongst the top for having high prevalence of myopia.@@@@1@13@ntucle-docid:174; ntucle-sid:1393@LMC@2019-06-14
+30004988@@@@@@Up to 65% of children aged 12 contracted myopia as compared to 12% in Australia and 30% in UK of the same age group.@@@@1@24@ntucle-docid:174; ntucle-sid:1394@LMC@2019-06-14
+30004989@@@@@@[1][2]@@@@1@1@ntucle-docid:174; ntucle-sid:1395@LMC@2019-06-14
+30004990@@@@@@Problem@@@@1@1@ntucle-docid:174; ntucle-sid:1396@LMC@2019-06-14
+30004991@@@@@@Scientific evidence indicate that myopia is caused by a mix of genetic and lifestyle factors.@@@@1@15@ntucle-docid:174; ntucle-sid:1397@LMC@2019-06-14
+30004992@@@@@@The lifestyle factors to myopia include long hours of near work such as reading and writing, computer use and lack of outdoor activity time.@@@@1@24@ntucle-docid:174; ntucle-sid:1398@LMC@2019-06-14
+30004993@@@@@@Heavy use of computers by children can lead to higher risk of developing and worsening myopic conditions at a small age.@@@@1@21@ntucle-docid:174; ntucle-sid:1399@LMC@2019-06-14
+30004994@@@@@@[3]@@@@1@1@ntucle-docid:174; ntucle-sid:1400@LMC@2019-06-14
+30004995@@@@@@The lack of cure to myopia means that preventive measures must be taken to encourage people cultivate good eye care habits.@@@@1@21@ntucle-docid:174; ntucle-sid:1401@LMC@2019-06-14
+30004996@@@@@@Solution@@@@1@1@ntucle-docid:174; ntucle-sid:1402@LMC@2019-06-14
+30004997@@@@@@The idea to develop a user-friendly eye care program – EyeBreak, began with the purpose of encouraging and to some extent enforcing eye care habits for children.@@@@1@27@ntucle-docid:174; ntucle-sid:1403@LMC@2019-06-14
+30004998@@@@@@(Refer to appendix A for sample screenshots)@@@@1@7@ntucle-docid:174; ntucle-sid:1404@LMC@2019-06-14
+30004999@@@@@@Throughout the operation of the computer, EyeBreak will track the usage time.@@@@1@12@ntucle-docid:174; ntucle-sid:1405@LMC@2019-06-14
+30005000@@@@@@At the indicated frequency, it will encourage the user to take a break and rest his/her eyes.@@@@1@17@ntucle-docid:174; ntucle-sid:1406@LMC@2019-06-14
+30005001@@@@@@If the user continues his usage for 2 hours regardless of the settings, EyeBreak will automatically dim the screen for 5 minutes to reduce glare and recommend the user to take a rest.@@@@1@33@ntucle-docid:174; ntucle-sid:1407@LMC@2019-06-14
+30005002@@@@@@An additional function to EyeBreak is the KidsCare add-on.@@@@1@9@ntucle-docid:174; ntucle-sid:1408@LMC@2019-06-14
+30005003@@@@@@It will allow parents to enforce a time limit to their children’ daily computer usage and block games that may not be suitable for children due to mature contents.@@@@1@29@ntucle-docid:174; ntucle-sid:1409@LMC@2019-06-14
+30005004@@@@@@Benefits@@@@1@1@ntucle-docid:174; ntucle-sid:1410@LMC@2019-06-14
+30005005@@@@@@EyeBreak provide users with eye care tips and encourages them to cultivate a good habit of taking eye breaks.@@@@1@19@ntucle-docid:174; ntucle-sid:1411@LMC@2019-06-14
+30005006@@@@@@It also allow parents to monitor and enforce children’ daily computer usage.@@@@1@12@ntucle-docid:174; ntucle-sid:1412@LMC@2019-06-14
+30005007@@@@@@This will gradually help reduce the prevalence of myopia, one child at a time.@@@@1@14@ntucle-docid:174; ntucle-sid:1413@LMC@2019-06-14
+30005008@@@@@@Furthermore, for those who already have myopia, it can slow down its progression.@@@@1@13@ntucle-docid:174; ntucle-sid:1414@LMC@2019-06-14
+30005009@@@@@@Implementation@@@@1@1@ntucle-docid:174; ntucle-sid:1415@LMC@2019-06-14
+30005010@@@@@@Upon completion, EyeBreak can be published on the Windows Store for download, at the same time it allows users to give ratings and feedback.@@@@1@24@ntucle-docid:174; ntucle-sid:1416@LMC@2019-06-14
+30005011@@@@@@EyeBreak is recommended to be pre-installed into consumer-level desktops and laptops running Windows operating system with future plans to expand into operating systems.@@@@1@23@ntucle-docid:174; ntucle-sid:1417@LMC@2019-06-14
+30005012@@@@@@As Microsoft provides online assistance with guides, tutorials and software tools to facilitate the development, reducing development costs of EyeBreak to a minimum.@@@@1@23@ntucle-docid:174; ntucle-sid:1418@LMC@2019-06-14
+30005013@@@@@@Costs/Budget@@@@1@1@ntucle-docid:174; ntucle-sid:1419@LMC@2019-06-14
+30005014@@@@@@Components@@@@1@1@ntucle-docid:174; ntucle-sid:1420@LMC@2019-06-14
+30005015@@@@@@Cost (SGD)@@@@1@2@ntucle-docid:174; ntucle-sid:1421@LMC@2019-06-14
+30005016@@@@@@Remarks@@@@1@1@ntucle-docid:174; ntucle-sid:1422@LMC@2019-06-14
+30005017@@@@@@Windows Dev Center Account Registration@@@@1@5@ntucle-docid:174; ntucle-sid:1423@LMC@2019-06-14
+30005018@@@@@@24@@@@1@1@ntucle-docid:174; ntucle-sid:1424@LMC@2019-06-14
+30005019@@@@@@Setting up of developer account via Microsoft Website [4]@@@@1@9@ntucle-docid:174; ntucle-sid:1425@LMC@2019-06-14
+30005020@@@@@@Conclusion@@@@1@1@ntucle-docid:174; ntucle-sid:1426@LMC@2019-06-14
+30005021@@@@@@The prevalence of myopia in Singapore and around the world is no longer a matter that can be ignored.@@@@1@19@ntucle-docid:174; ntucle-sid:1427@LMC@2019-06-14
+30005022@@@@@@Ultimately, a multi-pronged approach of reducing long hours of near work, participating in outdoor activities and public education should be employed to achieve the goal of defeating the spread of myopia.@@@@1@31@ntucle-docid:174; ntucle-sid:1428@LMC@2019-06-14
+30005023@@@@@@EyeBreak is the perfect tool that promotes eye care habits to heavy computer users, both children and adults.@@@@1@18@ntucle-docid:174; ntucle-sid:1429@LMC@2019-06-14
+30005024@@@@@@Importantly, in order to fully reap the benefits of EyeBreak, individuals must take responsibility of their vision health.@@@@1@18@ntucle-docid:174; ntucle-sid:1430@LMC@2019-06-14
+30005025@@@@@@(493 words)@@@@1@2@ntucle-docid:174; ntucle-sid:1431@LMC@2019-06-14
+30005026@@@@@@School of Chemical and Biomedical Engineering@@@@1@6@ntucle-docid:175; ntucle-sid:1222@LMC@2019-06-14
+30005027@@@@@@Title : Sensor device to detect unattended stove.@@@@1@8@ntucle-docid:175; ntucle-sid:1223@LMC@2019-06-14
+30005028@@@@@@There are gas and electric stoves in existence.@@@@1@8@ntucle-docid:175; ntucle-sid:1227@LMC@2019-06-14
+30005029@@@@@@Electric stoves are generally more expensive thus gas stoves are commonly used across many households.@@@@1@15@ntucle-docid:175; ntucle-sid:1228@LMC@2019-06-14
+30005030@@@@@@A knob is turned which will put out the fire and stop the flow of gas through the pipes.@@@@1@19@ntucle-docid:175; ntucle-sid:1229@LMC@2019-06-14
+30005031@@@@@@However, there are some cases whereby the gas leaks.@@@@1@9@ntucle-docid:175; ntucle-sid:1230@LMC@2019-06-14
+30005032@@@@@@Users will overlook this, as when there is no visible fire seen, they will assume that the stove is switched off.@@@@1@21@ntucle-docid:175; ntucle-sid:1231@LMC@2019-06-14
+30005033@@@@@@Unattended stoves or those that are not switched off properly are listed in SCDF’s Fire Safety Advisory.@@@@1@17@ntucle-docid:175; ntucle-sid:1232@LMC@2019-06-14
+30005034@@@@@@There were cases whereby the leakage of gas caused fire to break through.@@@@1@13@ntucle-docid:175; ntucle-sid:1233@LMC@2019-06-14
+30005035@@@@@@As mentioned, unattended stoves are one of the causes of fire breakouts.@@@@1@12@ntucle-docid:175; ntucle-sid:1234@LMC@2019-06-14
+30005036@@@@@@The main problem is that there is gas leaking even though the knob is switched off.@@@@1@16@ntucle-docid:175; ntucle-sid:1235@LMC@2019-06-14
+30005037@@@@@@The solution to overcome the problem is to develop a device that will detect the gas carbon monoxide (CO) emitted after the user attempts to switch the stove off and will automatically close the gas valve in the case where it was not closed.@@@@1@44@ntucle-docid:175; ntucle-sid:1236@LMC@2019-06-14
+30005038@@@@@@When the knob is turned, to put out the fire and the gas, the sensor will be switched on and proceeds to detect the amount of gas emitted.@@@@1@28@ntucle-docid:175; ntucle-sid:1237@LMC@2019-06-14
+30005039@@@@@@If the gas percentage reaches a limit, the user will be alerted by a beep sound.@@@@1@16@ntucle-docid:175; ntucle-sid:1238@LMC@2019-06-14
+30005040@@@@@@If the sensor is not attended within 40 seconds, the pipes where the gas flows will be blocked.@@@@1@18@ntucle-docid:175; ntucle-sid:1239@LMC@2019-06-14
+30005041@@@@@@The device will be automatically switched off when no gas is detected in a few minutes.@@@@1@16@ntucle-docid:175; ntucle-sid:1240@LMC@2019-06-14
+30005042@@@@@@Several components are needed before this device can be developed.@@@@1@10@ntucle-docid:175; ntucle-sid:1241@LMC@2019-06-14
+30005043@@@@@@They include the microprocessor, sensor, LCD display, buzzer, switches, battery contact and circuit board.@@@@1@14@ntucle-docid:175; ntucle-sid:1242@LMC@2019-06-14
+30005044@@@@@@The sensor used has to be capable of detecting the percentage of CO emitted.@@@@1@14@ntucle-docid:175; ntucle-sid:1243@LMC@2019-06-14
+30005045@@@@@@The microprocessor has to be programmed to send information to the LCD display, trigger the buzzer and the switch (that will block the gas flow) when the percentage of gas detected by the sensor hits the limit.@@@@1@37@ntucle-docid:175; ntucle-sid:1244@LMC@2019-06-14
+30005046@@@@@@The battery contact is used to place the batteries needed to provide power to the device.@@@@1@16@ntucle-docid:175; ntucle-sid:1245@LMC@2019-06-14
+30005047@@@@@@The components can be mounted onto a circuit board, which is covered with a plastic housing once it is completed.@@@@1@20@ntucle-docid:175; ntucle-sid:1246@LMC@2019-06-14
+30005048@@@@@@Through this implementation, the chances of fire accidents will be greatly reduced.@@@@1@12@ntucle-docid:175; ntucle-sid:1247@LMC@2019-06-14
+30005049@@@@@@The safety of the environment will be secured and there won’t be any damage cost to fork out when fire accidents are reduced.@@@@1@23@ntucle-docid:175; ntucle-sid:1248@LMC@2019-06-14
+30005050@@@@@@Components and assembly cost: S$ 38.00@@@@1@6@ntucle-docid:175; ntucle-sid:1249@LMC@2019-06-14
+30005051@@@@@@Product Cost: S$32.50@@@@1@3@ntucle-docid:175; ntucle-sid:1250@LMC@2019-06-14
+30005052@@@@@@To sum it up, this innovation will reduce fire hazards caused by stoves in households.@@@@1@15@ntucle-docid:175; ntucle-sid:1251@LMC@2019-06-14
+30005053@@@@@@The implementation used in this innovation involves mainly a sensor and a circuit board.@@@@1@14@ntucle-docid:175; ntucle-sid:1252@LMC@2019-06-14
+30005054@@@@@@The sensor is used to detect the amount of CO emitted by the gas stove.@@@@1@15@ntucle-docid:175; ntucle-sid:1253@LMC@2019-06-14
+30005055@@@@@@If by any chance the amount of gas detected goes beyond the limit, the sensor will activate a buzzer that will notify the user that gas is leaking.@@@@1@28@ntucle-docid:175; ntucle-sid:1254@LMC@2019-06-14
+30005056@@@@@@Thus preventing fire hazards.@@@@1@4@ntucle-docid:175; ntucle-sid:1255@LMC@2019-06-14
+30005057@@@@@@Background@@@@1@1@ntucle-docid:181; ntucle-sid:1537@LMC@2019-06-14
+30005058@@@@@@One of the most important resources known to mankind is water.@@@@1@11@ntucle-docid:181; ntucle-sid:1538@LMC@2019-06-14
+30005059@@@@@@The percentage of the water that cannot be consumed is approximately 96.5% while the remaining 3.5% exists as fresh water (USGS, 2015).@@@@1@22@ntucle-docid:181; ntucle-sid:1539@LMC@2019-06-14
+30005060@@@@@@However, 69% of this amount is inaccessible for drinking as it is stuck within polar ice caps and glaciers.@@@@1@19@ntucle-docid:181; ntucle-sid:1540@LMC@2019-06-14
+30005061@@@@@@Therefore, the actual amount of fresh water that is usable is less than 1% of the entire amount of water found on Earth (McMichael, 2014).@@@@1@25@ntucle-docid:181; ntucle-sid:1541@LMC@2019-06-14
+30005062@@@@@@Up to 60% of the human body is made up of water (McMichael, 2014).@@@@1@14@ntucle-docid:181; ntucle-sid:1542@LMC@2019-06-14
+30005063@@@@@@Vital organs within the human body are largely made up of water.@@@@1@12@ntucle-docid:181; ntucle-sid:1543@LMC@2019-06-14
+30005064@@@@@@Drinking water is of utmost importance as it helps to remove body waste, lubricate joints, and helps to deliver oxygen to various body parts.@@@@1@24@ntucle-docid:181; ntucle-sid:1544@LMC@2019-06-14
+30005065@@@@@@Problem@@@@1@1@ntucle-docid:181; ntucle-sid:1545@LMC@2019-06-14
+30005066@@@@@@In the event of a disaster, dehydration is common due to inaccessibility to clean water for consumption and sanitation.@@@@1@19@ntucle-docid:181; ntucle-sid:1546@LMC@2019-06-14
+30005067@@@@@@Due to the lack of clean water, it becomes common for the locals of the area be more susceptible to illnesses such as vomiting and diarrhea which may exacerbate dehydration (WHO, 2013).@@@@1@32@ntucle-docid:181; ntucle-sid:1547@LMC@2019-06-14
+30005068@@@@@@Solution@@@@1@1@ntucle-docid:181; ntucle-sid:1548@LMC@2019-06-14
+30005069@@@@@@Developing a product that can operate without a power source and can be used to treat polluted water onsite for these villages.@@@@1@22@ntucle-docid:181; ntucle-sid:1549@LMC@2019-06-14
+30005070@@@@@@This allows the victims from the disaster to have access to potable drinking water.@@@@1@14@ntucle-docid:181; ntucle-sid:1550@LMC@2019-06-14
+30005071@@@@@@Benefits@@@@1@1@ntucle-docid:181; ntucle-sid:1551@LMC@2019-06-14
+30005072@@@@@@This product is easy to use as it is operated by a simple mechanism.@@@@1@14@ntucle-docid:181; ntucle-sid:1552@LMC@2019-06-14
+30005073@@@@@@The omission of a power source will also mitigate hazardous risks associated with using the product.@@@@1@16@ntucle-docid:181; ntucle-sid:1553@LMC@2019-06-14
+30005074@@@@@@Villagers will be able to treat water onsite to produce water that is on par with WHO drinking water standards.@@@@1@20@ntucle-docid:181; ntucle-sid:1554@LMC@2019-06-14
+30005075@@@@@@Furthermore, it is also able to provide around 1500L/day in 14 hours, which is sufficient for 100 villagers.@@@@1@18@ntucle-docid:181; ntucle-sid:1555@LMC@2019-06-14
+30005076@@@@@@Implementation@@@@1@1@ntucle-docid:181; ntucle-sid:1556@LMC@2019-06-14
+30005077@@@@@@In order to develop the product, the following steps will be taken:@@@@1@12@ntucle-docid:181; ntucle-sid:1557@LMC@2019-06-14
+30005078@@@@@@1@@@@1@1@ntucle-docid:181; ntucle-sid:1558@LMC@2019-06-14
+30005079@@@@@@We will interview organizations that aid in disaster relief efforts to understand more about the conditions faced by disaster victims and the quality of water in these disaster zones.@@@@1@29@ntucle-docid:181; ntucle-sid:1559@LMC@2019-06-14
+30005080@@@@@@2@@@@1@1@ntucle-docid:181; ntucle-sid:1560@LMC@2019-06-14
+30005081@@@@@@Come up with a self-sustainable design that can solve the problem.@@@@1@11@ntucle-docid:181; ntucle-sid:1561@LMC@2019-06-14
+30005082@@@@@@3@@@@1@1@ntucle-docid:181; ntucle-sid:1562@LMC@2019-06-14
+30005083@@@@@@Build a small-scale prototype based on the design and test out the prototype to obtain results.@@@@1@16@ntucle-docid:181; ntucle-sid:1563@LMC@2019-06-14
+30005084@@@@@@4@@@@1@1@ntucle-docid:181; ntucle-sid:1564@LMC@2019-06-14
+30005085@@@@@@The product will be built after the prototype is successful, following which it will be brought to various disaster zones.@@@@1@20@ntucle-docid:181; ntucle-sid:1565@LMC@2019-06-14
+30005086@@@@@@Cost@@@@1@1@ntucle-docid:181; ntucle-sid:1566@LMC@2019-06-14
+30005087@@@@@@Overall frame: 300$@@@@1@3@ntucle-docid:181; ntucle-sid:1567@LMC@2019-06-14
+30005088@@@@@@Storage tanks: 100$@@@@1@3@ntucle-docid:181; ntucle-sid:1568@LMC@2019-06-14
+30005089@@@@@@Piping: 30$@@@@1@2@ntucle-docid:181; ntucle-sid:1569@LMC@2019-06-14
+30005090@@@@@@Hand pump: 25$@@@@1@3@ntucle-docid:181; ntucle-sid:1570@LMC@2019-06-14
+30005091@@@@@@Carbon filter: 30$@@@@1@3@ntucle-docid:181; ntucle-sid:1571@LMC@2019-06-14
+30005092@@@@@@Conclusion@@@@1@1@ntucle-docid:181; ntucle-sid:1572@LMC@2019-06-14
+30005093@@@@@@The lack of clean drinking water is a pressing issue in post-disaster relief efforts.@@@@1@14@ntucle-docid:181; ntucle-sid:1573@LMC@2019-06-14
+30005094@@@@@@Thus, this product will help to provide water within a short period of time without having to rely on supplies from relief organizations, which is constantly impeded by difficulties in transporting these supplies.@@@@1@33@ntucle-docid:181; ntucle-sid:1574@LMC@2019-06-14
+30005095@@@@@@As such, this may help to mitigate the consequences on the health of disaster victims.@@@@1@15@ntucle-docid:181; ntucle-sid:1575@LMC@2019-06-14
+30005096@@@@@@Thin Film Energy-O-Meter@@@@1@3@ntucle-docid:182; ntucle-sid:1263@LMC@2019-06-14
+30005097@@@@@@1@@@@1@1@ntucle-docid:182; ntucle-sid:1264@LMC@2019-06-14
+30005098@@@@@@Background@@@@1@1@ntucle-docid:182; ntucle-sid:1265@LMC@2019-06-14
+30005099@@@@@@Is Singapore energy extensive per capita?@@@@1@6@ntucle-docid:182; ntucle-sid:1266@LMC@2019-06-14
+30005100@@@@@@“There are two commonly quoted sources of energy statistics – the Energy Information Administration (EIA) and the International Energy Agency (IEA)” [1].@@@@1@22@ntucle-docid:182; ntucle-sid:1267@LMC@2019-06-14
+30005101@@@@@@As Singapore gears up towards a more energy intensive economy with increasing population, the emphasis on efficient energy consumption is of paramount importance.@@@@1@23@ntucle-docid:182; ntucle-sid:1268@LMC@2019-06-14
+30005102@@@@@@In addition, phantom power accounts for up to 10 percent of total energy consumption [2].@@@@1@15@ntucle-docid:182; ntucle-sid:1269@LMC@2019-06-14
+30005103@@@@@@Instead of just focusing solely on energy efficient devices, our attention should be turned to reducing unnecessary energy wastage.@@@@1@19@ntucle-docid:182; ntucle-sid:1270@LMC@2019-06-14
+30005104@@@@@@2@@@@1@1@ntucle-docid:182; ntucle-sid:1271@LMC@2019-06-14
+30005105@@@@@@Problem@@@@1@1@ntucle-docid:182; ntucle-sid:1272@LMC@2019-06-14
+30005106@@@@@@In order to reduce unnecessary energy usage, there are several energy saving devices currently available in the market such as Belkin Conserve Insight (F7C005) [3] and also EDIMAX SP-1101W [4].@@@@1@30@ntucle-docid:182; ntucle-sid:1273@LMC@2019-06-14
+30005107@@@@@@The devices are generally cumbersome and often requires the appliance to be plugged to it to allow for auto switch off.@@@@1@21@ntucle-docid:182; ntucle-sid:1274@LMC@2019-06-14
+30005108@@@@@@Therefore, it is necessary to improve on current energy saving devices.@@@@1@11@ntucle-docid:182; ntucle-sid:1275@LMC@2019-06-14
+30005109@@@@@@Diagram 1: Belkin Conserve Insight F7C005 Diagram 2: EDIMAX SP-1101W@@@@1@10@ntucle-docid:182; ntucle-sid:1276@LMC@2019-06-14
+30005110@@@@@@3@@@@1@1@ntucle-docid:182; ntucle-sid:1277@LMC@2019-06-14
+30005111@@@@@@Solution@@@@1@1@ntucle-docid:182; ntucle-sid:1278@LMC@2019-06-14
+30005112@@@@@@The main goal of the proposal is to significantly reduce the size; accurately show the energy usage for every appliance being wirelessly connected to the device; offering the function of auto switching.@@@@1@32@ntucle-docid:182; ntucle-sid:1279@LMC@2019-06-14
+30005113@@@@@@The dimensions of the battery operated magnetic device will be 20mm by 20mm with a thickness of 10mm.@@@@1@18@ntucle-docid:182; ntucle-sid:1280@LMC@2019-06-14
+30005114@@@@@@Firstly, an LED display panel commonly used in calculators will be incorporated to display the readings for the device.@@@@1@19@ntucle-docid:182; ntucle-sid:1281@LMC@2019-06-14
+30005115@@@@@@Secondly, the device is equipped with wireless capability.@@@@1@8@ntucle-docid:182; ntucle-sid:1282@LMC@2019-06-14
+30005116@@@@@@Therefore, the user would be able to receive notifications about energy usage and offering the function of auto switching off through the customizable application installed on the user’s smartphone.@@@@1@29@ntucle-docid:182; ntucle-sid:1283@LMC@2019-06-14
+30005117@@@@@@4@@@@1@1@ntucle-docid:182; ntucle-sid:1284@LMC@2019-06-14
+30005118@@@@@@Benefits@@@@1@1@ntucle-docid:182; ntucle-sid:1285@LMC@2019-06-14
+30005119@@@@@@The device is compatible with all household appliances.@@@@1@8@ntucle-docid:182; ntucle-sid:1286@LMC@2019-06-14
+30005120@@@@@@With the smartphone application interface available for all operating platforms in various languages, it will definitely be more user friendly compared to current devices.@@@@1@24@ntucle-docid:182; ntucle-sid:1287@LMC@2019-06-14
+30005121@@@@@@Be it at home or outside, people will no longer worry about the implications of not switching off their appliance because of the ease brought about by the application and device.@@@@1@31@ntucle-docid:182; ntucle-sid:1288@LMC@2019-06-14
+30005122@@@@@@In addition, it would help in preventing incidents and would see significant reductions in the bill.@@@@1@16@ntucle-docid:182; ntucle-sid:1289@LMC@2019-06-14
+30005123@@@@@@5@@@@1@1@ntucle-docid:182; ntucle-sid:1290@LMC@2019-06-14
+30005124@@@@@@Implementation@@@@1@1@ntucle-docid:182; ntucle-sid:1291@LMC@2019-06-14
+30005125@@@@@@The procedures will be as listed below:@@@@1@7@ntucle-docid:182; ntucle-sid:1292@LMC@2019-06-14
+30005126@@@@@@1@@@@1@1@ntucle-docid:182; ntucle-sid:1293@LMC@2019-06-14
+30005127@@@@@@We will collaborate with a company that deals in manufacturing thin film technology.@@@@1@13@ntucle-docid:182; ntucle-sid:1294@LMC@2019-06-14
+30005128@@@@@@2@@@@1@1@ntucle-docid:182; ntucle-sid:1295@LMC@2019-06-14
+30005129@@@@@@LED displays will be supplied by Kingbright-, a company which specialises in production of four digit 7-segment LED displays.@@@@1@19@ntucle-docid:182; ntucle-sid:1296@LMC@2019-06-14
+30005130@@@@@@3@@@@1@1@ntucle-docid:182; ntucle-sid:1297@LMC@2019-06-14
+30005131@@@@@@A smartphone application will also be designed by a software development team and once done will be available on all online platforms for free download.@@@@1@25@ntucle-docid:182; ntucle-sid:1298@LMC@2019-06-14
+30005132@@@@@@6@@@@1@1@ntucle-docid:182; ntucle-sid:1299@LMC@2019-06-14
+30005133@@@@@@Costs@@@@1@1@ntucle-docid:182; ntucle-sid:1300@LMC@2019-06-14
+30005134@@@@@@Four Digit 7- Segment LED Display@@@@1@6@ntucle-docid:182; ntucle-sid:1301@LMC@2019-06-14
+30005135@@@@@@1@@@@1@1@ntucle-docid:182; ntucle-sid:1302@LMC@2019-06-14
+30005136@@@@@@Application Software@@@@1@2@ntucle-docid:182; ntucle-sid:1303@LMC@2019-06-14
+30005137@@@@@@100@@@@1@1@ntucle-docid:182; ntucle-sid:1304@LMC@2019-06-14
+30005138@@@@@@Device Components@@@@1@2@ntucle-docid:182; ntucle-sid:1305@LMC@2019-06-14
+30005139@@@@@@20@@@@1@1@ntucle-docid:182; ntucle-sid:1306@LMC@2019-06-14
+30005140@@@@@@Total Device Prototype Cost@@@@1@4@ntucle-docid:182; ntucle-sid:1307@LMC@2019-06-14
+30005141@@@@@@121@@@@1@1@ntucle-docid:182; ntucle-sid:1308@LMC@2019-06-14
+30005142@@@@@@7@@@@1@1@ntucle-docid:182; ntucle-sid:1309@LMC@2019-06-14
+30005143@@@@@@Conclusion@@@@1@1@ntucle-docid:182; ntucle-sid:1310@LMC@2019-06-14
+30005144@@@@@@There are a million ways to reduce energy wastage in our daily lives and activities.@@@@1@15@ntucle-docid:182; ntucle-sid:1311@LMC@2019-06-14
+30005145@@@@@@Although a person’s efforts might be minute but a combined effort will go a long way in reducing energy wastage and protect Mother Earth.@@@@1@24@ntucle-docid:182; ntucle-sid:1312@LMC@2019-06-14
+30005146@@@@@@Extinction is Forever, Endangered means we still have time!@@@@1@9@ntucle-docid:182; ntucle-sid:1313@LMC@2019-06-14
+30005147@@@@@@WrIst Protect Software (WIPS)@@@@1@4@ntucle-docid:183; ntucle-sid:1590@LMC@2019-06-14
+30005148@@@@@@Background@@@@1@1@ntucle-docid:183; ntucle-sid:1591@LMC@2019-06-14
+30005149@@@@@@The widespread use of technology has resulted in the steady growth of both mobile and desktop users globally.@@@@1@18@ntucle-docid:183; ntucle-sid:1592@LMC@2019-06-14
+30005150@@@@@@[1] In Singapore, the Ministry of Education has also incorporated Next Generation Technologies in the curriculum to prepare students with the essential skills to live and work efficiently in an increasingly technologically advanced world.@@@@1@34@ntucle-docid:183; ntucle-sid:1593@LMC@2019-06-14
+30005151@@@@@@[2]@@@@1@1@ntucle-docid:183; ntucle-sid:1594@LMC@2019-06-14
+30005152@@@@@@Problem@@@@1@1@ntucle-docid:183; ntucle-sid:1595@LMC@2019-06-14
+30005153@@@@@@Prolonged and repetitive wrist movements from typing (on smart devices & keyboard) to computer mouse usage have placed many users at risk of Carpal Tunnel Syndrome (CTS).@@@@1@27@ntucle-docid:183; ntucle-sid:1596@LMC@2019-06-14
+30005154@@@@@@[3][4] This is especially common for the middle-aged working group.@@@@1@10@ntucle-docid:183; ntucle-sid:1597@LMC@2019-06-14
+30005155@@@@@@[5]@@@@1@1@ntucle-docid:183; ntucle-sid:1598@LMC@2019-06-14
+30005156@@@@@@Both the constant flexing and resting of the wrists on a surface cause pressure to form on the median nerve in the carpal tunnel that control finger movements.@@@@1@28@ntucle-docid:183; ntucle-sid:1599@LMC@2019-06-14
+30005157@@@@@@[3] In mild cases, numbness or tingling is reported.@@@@1@9@ntucle-docid:183; ntucle-sid:1600@LMC@2019-06-14
+30005158@@@@@@In severe cases, nerve damage caused CTS patients to suffer difficulty in handling and holding items and may require surgery.@@@@1@20@ntucle-docid:183; ntucle-sid:1601@LMC@2019-06-14
+30005159@@@@@@[4]@@@@1@1@ntucle-docid:183; ntucle-sid:1602@LMC@2019-06-14
+30005160@@@@@@Solution@@@@1@1@ntucle-docid:183; ntucle-sid:1603@LMC@2019-06-14
+30005161@@@@@@The main purpose of this proposal is to develop a WrIst Protect Software (WIPS) to help smart users to reduce the risks of getting CTS.@@@@1@25@ntucle-docid:183; ntucle-sid:1604@LMC@2019-06-14
+30005162@@@@@@While there are existing free apps that uses time-based method to provide reminders to take breaks [6], WIPS is expected to include usage-based counters that can be customized.@@@@1@28@ntucle-docid:183; ntucle-sid:1605@LMC@2019-06-14
+30005163@@@@@@Apart from simple timers, WIPS will have the capability to take administrator inputs and exceptions (e.g.@@@@1@16@ntucle-docid:183; ntucle-sid:1606@LMC@2019-06-14
+30005164@@@@@@do not activate when specific conferencing software are running), keyboard strokes, mouse clicks and movement (for desktop apps) and touches or activities (for smart phone users) to provide suitable visual and/or audio reminders.@@@@1@33@ntucle-docid:183; ntucle-sid:1607@LMC@2019-06-14
+30005165@@@@@@Flexibility is the key and different settings can be stored under different user profiles to avoid frustration due to non-applicable or untimely reminders.@@@@1@23@ntucle-docid:183; ntucle-sid:1608@LMC@2019-06-14
+30005166@@@@@@WIPS will also come with additional knowledge of CTS (links to useful websites and tips to educate users of the risks of CTS), and recommended wrist stretching exercises.@@@@1@28@ntucle-docid:183; ntucle-sid:1609@LMC@2019-06-14
+30005167@@@@@@[7] (Refer to Figures 1 to 3 in Appendix A)@@@@1@10@ntucle-docid:183; ntucle-sid:1610@LMC@2019-06-14
+30005168@@@@@@Benefits@@@@1@1@ntucle-docid:183; ntucle-sid:1611@LMC@2019-06-14
+30005169@@@@@@WIPS is designed to benefit any users who need customizable time-based or usage-based reminders to rest during prolonged work or engrossed gaming.@@@@1@22@ntucle-docid:183; ntucle-sid:1612@LMC@2019-06-14
+30005170@@@@@@WIPS can remind users to take regular breaks and do simple stretching exercises to reduce the risk of CTS.@@@@1@19@ntucle-docid:183; ntucle-sid:1613@LMC@2019-06-14
+30005171@@@@@@At the same time, it also allows the users to rest their eyes and mind during the short break.@@@@1@19@ntucle-docid:183; ntucle-sid:1614@LMC@2019-06-14
+30005172@@@@@@Implementation@@@@1@1@ntucle-docid:183; ntucle-sid:1615@LMC@2019-06-14
+30005173@@@@@@WIPS software development and testing will be handled by two developers (close friends) and me.@@@@1@15@ntucle-docid:183; ntucle-sid:1616@LMC@2019-06-14
+30005174@@@@@@The desktop version will be marketed on websites while the mobile versions will be distributed in Apple App Store and Google Play for iOS and Android users.@@@@1@27@ntucle-docid:183; ntucle-sid:1617@LMC@2019-06-14
+30005175@@@@@@The free version will come with advertisements while the paid ones without.@@@@1@12@ntucle-docid:183; ntucle-sid:1618@LMC@2019-06-14
+30005176@@@@@@It is to implement WIPS on a lower cost.@@@@1@9@ntucle-docid:183; ntucle-sid:1619@LMC@2019-06-14
+30005177@@@@@@Costs/Budget@@@@1@1@ntucle-docid:183; ntucle-sid:1620@LMC@2019-06-14
+30005178@@@@@@Software development and marketing will cost a total of $5,000.@@@@1@10@ntucle-docid:183; ntucle-sid:1621@LMC@2019-06-14
+30005179@@@@@@Software & Training $3,000@@@@1@4@ntucle-docid:183; ntucle-sid:1622@LMC@2019-06-14
+30005180@@@@@@Marketing $2,000@@@@1@2@ntucle-docid:183; ntucle-sid:1623@LMC@2019-06-14
+30005181@@@@@@Total $5,000@@@@1@2@ntucle-docid:183; ntucle-sid:1624@LMC@2019-06-14
+30005182@@@@@@Conclusion@@@@1@1@ntucle-docid:183; ntucle-sid:1625@LMC@2019-06-14
+30005183@@@@@@With increased global mobile and desktop usage both on and off work and school [1], the proposed WrIst Protect Software (WIPS) aims to reduce the risk of CTS due to prolonged and repetitive wrist movements.@@@@1@35@ntucle-docid:183; ntucle-sid:1626@LMC@2019-06-14
+30005184@@@@@@The customizable capability of WIPS will allow more people to adopt its implementation.@@@@1@13@ntucle-docid:183; ntucle-sid:1627@LMC@2019-06-14
+30005185@@@@@@(508 words)@@@@1@2@ntucle-docid:183; ntucle-sid:1628@LMC@2019-06-14
+30005186@@@@@@NTU Mobile Smart Navigator@@@@1@4@ntucle-docid:184; ntucle-sid:1422@LMC@2019-06-14
+30005187@@@@@@NANYANG TECHNOLOGICAL UNIVERSITY@@@@1@3@ntucle-docid:184; ntucle-sid:1424@LMC@2019-06-14
+30005188@@@@@@Background@@@@1@1@ntucle-docid:184; ntucle-sid:1427@LMC@2019-06-14
+30005189@@@@@@Navigation has always been important in our society.@@@@1@8@ntucle-docid:184; ntucle-sid:1428@LMC@2019-06-14
+30005190@@@@@@According to a survey conducted among smart phone users in the United States, 67% of the participants use their phone for navigation (Smith, 2015).@@@@1@24@ntucle-docid:184; ntucle-sid:1429@LMC@2019-06-14
+30005191@@@@@@In addition, pedestrian navigation on smartphones has also gained attention in recent times due to capable devices, off-board based navigation software and increased transmit rates of cellular networks (Rehrl, Goll, Leitinger, & Bruntsch, 2005).@@@@1@34@ntucle-docid:184; ntucle-sid:1430@LMC@2019-06-14
+30005192@@@@@@Therefore, it is important to have a good navigation application to aid users in finding their destinations quickly and efficiently.@@@@1@20@ntucle-docid:184; ntucle-sid:1431@LMC@2019-06-14
+30005193@@@@@@Problems@@@@1@1@ntucle-docid:184; ntucle-sid:1432@LMC@2019-06-14
+30005194@@@@@@There are several navigation applications that are readily available in the market.@@@@1@12@ntucle-docid:184; ntucle-sid:1433@LMC@2019-06-14
+30005195@@@@@@However, they have limitations that can be improved on.@@@@1@9@ntucle-docid:184; ntucle-sid:1434@LMC@2019-06-14
+30005196@@@@@@More commonly used applications such as Google Map and NTU Mobile do not offer comprehensive information such as the numbers of the various faculty buildings and the Global Positioning System (GPS) technology in a single phone application.@@@@1@37@ntucle-docid:184; ntucle-sid:1435@LMC@2019-06-14
+30005197@@@@@@These are some of the primary challenges for commercial navigation solutions, which include robust localization in the absence of GPS, efficient route-planning and effective user interface for platforms such as smartphones (Kannan, et al., 2013).@@@@1@35@ntucle-docid:184; ntucle-sid:1436@LMC@2019-06-14
+30005198@@@@@@Solutions@@@@1@1@ntucle-docid:184; ntucle-sid:1437@LMC@2019-06-14
+30005199@@@@@@Implementation of the proposed NTU Mobile Smart Navigator application will help to solve the problems mentioned above.@@@@1@17@ntucle-docid:184; ntucle-sid:1438@LMC@2019-06-14
+30005200@@@@@@The NTU Mobile Smart Navigator will incorporate three features into one mobile application.@@@@1@13@ntucle-docid:184; ntucle-sid:1439@LMC@2019-06-14
+30005201@@@@@@Firstly, GPS will be added to help users locate their current location and guide them to their destination.@@@@1@18@ntucle-docid:184; ntucle-sid:1440@LMC@2019-06-14
+30005202@@@@@@Secondly, a newly designed street map detailing information on facilities such as the canteens and the buildings will be created.@@@@1@20@ntucle-docid:184; ntucle-sid:1441@LMC@2019-06-14
+30005203@@@@@@Thirdly, a journey time estimator will be included for users to estimate their travelling time.@@@@1@15@ntucle-docid:184; ntucle-sid:1442@LMC@2019-06-14
+30005204@@@@@@Benefits@@@@1@1@ntucle-docid:184; ntucle-sid:1443@LMC@2019-06-14
+30005205@@@@@@The NTU Mobile Smart Navigator will benefit anyone who visits the school, particularly students and teachers who face a limited amount of travelling time between lessons.@@@@1@26@ntucle-docid:184; ntucle-sid:1444@LMC@2019-06-14
+30005206@@@@@@Directionally challenged users no longer have to waste time navigating around the school with the help of the application, as they can get accurate directions to their destination based on real time location.@@@@1@33@ntucle-docid:184; ntucle-sid:1445@LMC@2019-06-14
+30005207@@@@@@Users who are also interested in facilities such as canteens and stationery stores may also use the mobile application for directions to the facilities.@@@@1@24@ntucle-docid:184; ntucle-sid:1446@LMC@2019-06-14
+30005208@@@@@@Implementation@@@@1@1@ntucle-docid:184; ntucle-sid:1447@LMC@2019-06-14
+30005209@@@@@@The following steps will be undertaken to develop the new application:@@@@1@11@ntucle-docid:184; ntucle-sid:1448@LMC@2019-06-14
+30005210@@@@@@1@@@@1@1@ntucle-docid:184; ntucle-sid:1449@LMC@2019-06-14
+30005211@@@@@@We will collaborate with Tele Atlas, a company which specializes in providing navigation services, to design a new street map specifically for NTU with navigation tools such as GPS.@@@@1@29@ntucle-docid:184; ntucle-sid:1450@LMC@2019-06-14
+30005212@@@@@@2@@@@1@1@ntucle-docid:184; ntucle-sid:1451@LMC@2019-06-14
+30005213@@@@@@We will jointly work together with Singsys, a company specializing in designing high quality mobile applications.@@@@1@16@ntucle-docid:184; ntucle-sid:1452@LMC@2019-06-14
+30005214@@@@@@Singsys will help to design the application interface.@@@@1@8@ntucle-docid:184; ntucle-sid:1453@LMC@2019-06-14
+30005215@@@@@@Budget@@@@1@1@ntucle-docid:184; ntucle-sid:1454@LMC@2019-06-14
+30005216@@@@@@Application Software $7,000@@@@1@3@ntucle-docid:184; ntucle-sid:1455@LMC@2019-06-14
+30005217@@@@@@Design Cost $3,000@@@@1@3@ntucle-docid:184; ntucle-sid:1456@LMC@2019-06-14
+30005218@@@@@@Total Cost $10,000@@@@1@3@ntucle-docid:184; ntucle-sid:1457@LMC@2019-06-14
+30005219@@@@@@Conclusion@@@@1@1@ntucle-docid:184; ntucle-sid:1458@LMC@2019-06-14
+30005220@@@@@@Travelling is part of everyday life and it is important to have clear directions to get us to places that we want.@@@@1@22@ntucle-docid:184; ntucle-sid:1459@LMC@2019-06-14
+30005221@@@@@@The proposed application aims to provide users with a comprehensive navigation mobile application through the inclusion of GPS technology, a newly designed street map and a journey time estimator.@@@@1@29@ntucle-docid:184; ntucle-sid:1460@LMC@2019-06-14
+30005222@@@@@@This will allow the users to travel in ease and get to places on time.@@@@1@15@ntucle-docid:184; ntucle-sid:1461@LMC@2019-06-14
+30005223@@@@@@Word Count: 493@@@@1@3@ntucle-docid:184; ntucle-sid:1462@LMC@2019-06-14
+30005224@@@@@@Watch Your Money!@@@@1@3@ntucle-docid:185; ntucle-sid:1253@LMC@2019-06-14
+30005225@@@@@@Background@@@@1@1@ntucle-docid:185; ntucle-sid:1257@LMC@2019-06-14
+30005226@@@@@@Financial literacy is an ability that many will only understand with age.@@@@1@12@ntucle-docid:185; ntucle-sid:1258@LMC@2019-06-14
+30005227@@@@@@It is crucial that teenagers today understand its importance especially in Singapore’s society, where the growing disposable income of parents have led to poor money management and reckless spending of their children.@@@@1@32@ntucle-docid:185; ntucle-sid:1259@LMC@2019-06-14
+30005228@@@@@@Problem@@@@1@1@ntucle-docid:185; ntucle-sid:1260@LMC@2019-06-14
+30005229@@@@@@An article by Asiaone in 2008 exposed the lavish lifestyle that teenagers enjoy from the exorbitant sums of pocket money from their parents.@@@@1@23@ntucle-docid:185; ntucle-sid:1261@LMC@2019-06-14
+30005230@@@@@@With students having meals at restaurants at least 4 times a week and believing it be sustainable, it is only a matter of time before over-expenditure becomes a serious social problem.@@@@1@31@ntucle-docid:185; ntucle-sid:1262@LMC@2019-06-14
+30005231@@@@@@The government recognised this problem in 2013, where then Finance Minister Mr Shanmugaratnam announced the introduction of management skills into lower secondary education, but there has not been a significant change seen.@@@@1@32@ntucle-docid:185; ntucle-sid:1263@LMC@2019-06-14
+30005232@@@@@@Solution@@@@1@1@ntucle-docid:185; ntucle-sid:1264@LMC@2019-06-14
+30005233@@@@@@“WatchYourMoney!” is a smartphone application which will reach out and manage the spending of youths.@@@@1@15@ntucle-docid:185; ntucle-sid:1265@LMC@2019-06-14
+30005234@@@@@@While there are already applications which keep track of one’s expenses available, my application targets the youth of Singapore and provides many more functions aside from just recording expenditure.@@@@1@29@ntucle-docid:185; ntucle-sid:1266@LMC@2019-06-14
+30005235@@@@@@Firstly, users will be able to select how often they receive their pocket money, and it will automatically reset and record each time pocket money is received.@@@@1@27@ntucle-docid:185; ntucle-sid:1267@LMC@2019-06-14
+30005236@@@@@@Next, there will be periodical notifications to remind the user whenever they are reaching their limit.@@@@1@16@ntucle-docid:185; ntucle-sid:1268@LMC@2019-06-14
+30005237@@@@@@Should users forget to input certain expenditures, there is a reminder function to prompt him at various intervals, such as after meal times.@@@@1@23@ntucle-docid:185; ntucle-sid:1269@LMC@2019-06-14
+30005238@@@@@@Additionally, the application will divide user’s expenditure into different categories, and monitor the percentage of their pocket money spent.@@@@1@19@ntucle-docid:185; ntucle-sid:1270@LMC@2019-06-14
+30005239@@@@@@Upon detecting abnormally high expenditure in a certain category, the application will begin to suggest alternatives.@@@@1@16@ntucle-docid:185; ntucle-sid:1271@LMC@2019-06-14
+30005240@@@@@@For example, when there is a rise in food expenditure, WatchYourMoney will suggest cheaper food places near you.@@@@1@18@ntucle-docid:185; ntucle-sid:1272@LMC@2019-06-14
+30005241@@@@@@Companies who offer special deals for students can advertise with this application.@@@@1@12@ntucle-docid:185; ntucle-sid:1273@LMC@2019-06-14
+30005242@@@@@@Benefits@@@@1@1@ntucle-docid:185; ntucle-sid:1274@LMC@2019-06-14
+30005243@@@@@@With this application, youths would have a clear picture of how they spend their allowance and whether they are overspending in certain areas.@@@@1@23@ntucle-docid:185; ntucle-sid:1275@LMC@2019-06-14
+30005244@@@@@@The warning notifications serve to remind them to stay within their budget.@@@@1@12@ntucle-docid:185; ntucle-sid:1276@LMC@2019-06-14
+30005245@@@@@@It also acts as a platform for companies to advertise special offers, allowing them to reach a wider market while teenagers will benefit by saving more through these deals.@@@@1@29@ntucle-docid:185; ntucle-sid:1277@LMC@2019-06-14
+30005246@@@@@@Implementation@@@@1@1@ntucle-docid:185; ntucle-sid:1278@LMC@2019-06-14
+30005247@@@@@@To produce and promote this application, the following will be done:@@@@1@11@ntucle-docid:185; ntucle-sid:1279@LMC@2019-06-14
+30005248@@@@@@1@@@@1@1@ntucle-docid:185; ntucle-sid:1280@LMC@2019-06-14
+30005249@@@@@@Engage a professional software designer to create and develop the application.@@@@1@11@ntucle-docid:185; ntucle-sid:1281@LMC@2019-06-14
+30005250@@@@@@2@@@@1@1@ntucle-docid:185; ntucle-sid:1282@LMC@2019-06-14
+30005251@@@@@@Approach companies and negotiate special offers they would want to promote.@@@@1@11@ntucle-docid:185; ntucle-sid:1283@LMC@2019-06-14
+30005252@@@@@@3@@@@1@1@ntucle-docid:185; ntucle-sid:1284@LMC@2019-06-14
+30005253@@@@@@Submit the application to the Ministry of Education for approval.@@@@1@10@ntucle-docid:185; ntucle-sid:1285@LMC@2019-06-14
+30005254@@@@@@Credibility is boosted once endorsed by a government body.@@@@1@9@ntucle-docid:185; ntucle-sid:1286@LMC@2019-06-14
+30005255@@@@@@4@@@@1@1@ntucle-docid:185; ntucle-sid:1287@LMC@2019-06-14
+30005256@@@@@@Advertise through various means such as social media, to reach out to the youths.@@@@1@14@ntucle-docid:185; ntucle-sid:1288@LMC@2019-06-14
+30005257@@@@@@Costs/Budget@@@@1@1@ntucle-docid:185; ntucle-sid:1289@LMC@2019-06-14
+30005258@@@@@@The costs of production is approximately S8, 000 while advertisement costs for promotion would vary depending on the channel used.@@@@1@20@ntucle-docid:185; ntucle-sid:1290@LMC@2019-06-14
+30005259@@@@@@These could be recouped from the advertisement fees from companies that promote their deals, making this application free to download.@@@@1@20@ntucle-docid:185; ntucle-sid:1291@LMC@2019-06-14
+30005260@@@@@@Conclusion@@@@1@1@ntucle-docid:185; ntucle-sid:1292@LMC@2019-06-14
+30005261@@@@@@Youth overspending is a bigger issue than most people realise.@@@@1@10@ntucle-docid:185; ntucle-sid:1293@LMC@2019-06-14
+30005262@@@@@@Poor money management will have severe repercussions on the family or in the future if not dealt with.@@@@1@18@ntucle-docid:185; ntucle-sid:1294@LMC@2019-06-14
+30005263@@@@@@The most feasible approach for this generation of teenagers is through technology, thus this application provides a simple solution to a potentially serious problem.@@@@1@24@ntucle-docid:185; ntucle-sid:1295@LMC@2019-06-14
+30005264@@@@@@Background:@@@@1@1@ntucle-docid:187; ntucle-sid:1270@LMC@2019-06-14
+30005265@@@@@@Vehicle theft is a prevalent problem worldwide, with vehicles stolen being sold as a whole or for their parts.@@@@1@19@ntucle-docid:187; ntucle-sid:1271@LMC@2019-06-14
+30005266@@@@@@In Singapore, “statistics compiled for the first time by the General Insurance Association (GIA) showed that there were 341 vehicle thefts” in 2014 [1].@@@@1@24@ntucle-docid:187; ntucle-sid:1272@LMC@2019-06-14
+30005267@@@@@@In Malaysia, 13407 cars were stolen in the same year.@@@@1@10@ntucle-docid:187; ntucle-sid:1273@LMC@2019-06-14
+30005268@@@@@@[2].@@@@1@1@ntucle-docid:187; ntucle-sid:1274@LMC@2019-06-14
+30005269@@@@@@Vehicle theft causes great distress to owners, thus emphasizing the need to harness new technology in vehicle alarm systems to bring down vehicle theft rates.@@@@1@25@ntucle-docid:187; ntucle-sid:1275@LMC@2019-06-14
+30005270@@@@@@Problem:@@@@1@1@ntucle-docid:187; ntucle-sid:1276@LMC@2019-06-14
+30005271@@@@@@Most factory-fitted alarms have remained unchanged for years, functioning by the activation of loud sounds and flashing lights when the vehicle’s doors or windows are tampered with.@@@@1@27@ntucle-docid:187; ntucle-sid:1277@LMC@2019-06-14
+30005272@@@@@@Vehicle alarms sound similar, thus making it difficult for owners to distinguish his vehicle’s alarm from other vehicles.@@@@1@18@ntucle-docid:187; ntucle-sid:1278@LMC@2019-06-14
+30005273@@@@@@Thieves, armed with new technology, are easily able to deactivate these alarm systems.@@@@1@13@ntucle-docid:187; ntucle-sid:1279@LMC@2019-06-14
+30005274@@@@@@These factors render current alarm systems ineffective in deterring thieves.@@@@1@10@ntucle-docid:187; ntucle-sid:1280@LMC@2019-06-14
+30005275@@@@@@Solution:@@@@1@1@ntucle-docid:187; ntucle-sid:1281@LMC@2019-06-14
+30005276@@@@@@The EVAS (Enhanced Vehicle Alarm System) combines the use of the traditional alarm system with GPS trackers, immobilizers and network (4G) connectivity.@@@@1@22@ntucle-docid:187; ntucle-sid:1282@LMC@2019-06-14
+30005277@@@@@@These components will work together with the traditional alarm system, allowing the owner to check the status and location of his vehicle through an application in his smartphone.@@@@1@28@ntucle-docid:187; ntucle-sid:1283@LMC@2019-06-14
+30005278@@@@@@This app will display the doors or windows which were tampered with, allowing the owner to re-secure or lock the stated door or window.@@@@1@24@ntucle-docid:187; ntucle-sid:1284@LMC@2019-06-14
+30005279@@@@@@The app will also provide a button to alert the area’s police force of the vehicle’s status and location when the alarm is triggered.@@@@1@24@ntucle-docid:187; ntucle-sid:1285@LMC@2019-06-14
+30005280@@@@@@It can also immobilize his vehicle’s electrical systems when needed, cutting power to the engine.@@@@1@15@ntucle-docid:187; ntucle-sid:1286@LMC@2019-06-14
+30005281@@@@@@Benefits:@@@@1@1@ntucle-docid:187; ntucle-sid:1287@LMC@2019-06-14
+30005282@@@@@@With EVAS, the owner will have a multi-pronged response to a theft situation.@@@@1@13@ntucle-docid:187; ntucle-sid:1288@LMC@2019-06-14
+30005283@@@@@@EVAS improves the functionality of vehicle alarm systems using real-time notifications on the owner’s smartphone, improving response time by the vehicle owner and local authorities.@@@@1@25@ntucle-docid:187; ntucle-sid:1289@LMC@2019-06-14
+30005284@@@@@@The GPS trackers provide location updates of the vehicle, while the immobilizer can render the vehicle immobile at the owner’s will.@@@@1@21@ntucle-docid:187; ntucle-sid:1290@LMC@2019-06-14
+30005285@@@@@@With 4G connectivity, the alarm system can be activated at any range, unlike current alarm systems that work within radio signal range.@@@@1@22@ntucle-docid:187; ntucle-sid:1291@LMC@2019-06-14
+30005286@@@@@@Implementation:@@@@1@1@ntucle-docid:187; ntucle-sid:1292@LMC@2019-06-14
+30005287@@@@@@The EVAS prototype will feature in Proton’s 2016 range of vehicles.@@@@1@11@ntucle-docid:187; ntucle-sid:1293@LMC@2019-06-14
+30005288@@@@@@Network connectivity will be provided by Maxis, which has the best network coverage in Malaysia [3].@@@@1@16@ntucle-docid:187; ntucle-sid:1294@LMC@2019-06-14
+30005289@@@@@@A team of electrical engineers will ensure that EVAS is seamlessly incorporated into the electrical circuits of the vehicles, while systems engineers will ensure that the different components of EVAS function well together.@@@@1@33@ntucle-docid:187; ntucle-sid:1295@LMC@2019-06-14
+30005290@@@@@@Lastly, a software designing team will create the application linking EVAS to smartphones.@@@@1@13@ntucle-docid:187; ntucle-sid:1296@LMC@2019-06-14
+30005291@@@@@@Budget:@@@@1@1@ntucle-docid:187; ntucle-sid:1297@LMC@2019-06-14
+30005292@@@@@@Original Proton Alarm System $100@@@@1@5@ntucle-docid:187; ntucle-sid:1298@LMC@2019-06-14
+30005293@@@@@@GPS Tracking System $150@@@@1@4@ntucle-docid:187; ntucle-sid:1299@LMC@2019-06-14
+30005294@@@@@@Immobilizer System $100@@@@1@3@ntucle-docid:187; ntucle-sid:1300@LMC@2019-06-14
+30005295@@@@@@4G Chip $50@@@@1@3@ntucle-docid:187; ntucle-sid:1301@LMC@2019-06-14
+30005296@@@@@@Smartphone App $5@@@@1@3@ntucle-docid:187; ntucle-sid:1302@LMC@2019-06-14
+30005297@@@@@@Total EVAS Cost $405@@@@1@4@ntucle-docid:187; ntucle-sid:1303@LMC@2019-06-14
+30005298@@@@@@Conclusion:@@@@1@1@ntucle-docid:187; ntucle-sid:1304@LMC@2019-06-14
+30005299@@@@@@Vehicle theft causes huge losses to owners and insurance companies.@@@@1@10@ntucle-docid:187; ntucle-sid:1305@LMC@2019-06-14
+30005300@@@@@@Current alarm systems need to be upgraded to harness the new technology available.@@@@1@13@ntucle-docid:187; ntucle-sid:1306@LMC@2019-06-14
+30005301@@@@@@EVAS will use this technology as a multi-pronged defense that aims to deter thieves as well as increase the probability of recovering vehicles, ultimately bringing down the rate of vehicle theft.@@@@1@31@ntucle-docid:187; ntucle-sid:1307@LMC@2019-06-14
+30005302@@@@@@(497 words)@@@@1@2@ntucle-docid:187; ntucle-sid:1308@LMC@2019-06-14
+30005303@@@@@@Grocery Shopping – just a click away?@@@@1@7@ntucle-docid:188; ntucle-sid:1325@LMC@2019-06-14
+30005304@@@@@@Background:@@@@1@1@ntucle-docid:188; ntucle-sid:1326@LMC@2019-06-14
+30005305@@@@@@Given Nanyang Technological (NTU)’s capacity to house more than 10,400 undergraduates [1], graduates, exchange students, and stay-in professors notwithstanding, it would be a surprise to know that there are only three convenience stores on campus and one supermarket, Giant, to cater to the masses.@@@@1@44@ntucle-docid:188; ntucle-sid:1327@LMC@2019-06-14
+30005306@@@@@@Of the three convenience stores that are not only tucked away in corners of the campus, only one fully operates round-the-clock daily.@@@@1@22@ntucle-docid:188; ntucle-sid:1328@LMC@2019-06-14
+30005307@@@@@@Consequently, many live-in students find it cumbersome to manage essential grocery shopping, especially for those staying further away from the locations of these amenities.@@@@1@24@ntucle-docid:188; ntucle-sid:1329@LMC@2019-06-14
+30005308@@@@@@Problems:@@@@1@1@ntucle-docid:188; ntucle-sid:1330@LMC@2019-06-14
+30005309@@@@@@The hectic schedules of students further aggravate the inconvenience of this chore, especially during exam period.@@@@1@16@ntucle-docid:188; ntucle-sid:1331@LMC@2019-06-14
+30005310@@@@@@Imagine travelling for 15 minutes just to grab a carton a milk every week.@@@@1@14@ntucle-docid:188; ntucle-sid:1332@LMC@2019-06-14
+30005311@@@@@@Hence, a solution to reduce unnecessary inconvenience and time wasted is needed.@@@@1@12@ntucle-docid:188; ntucle-sid:1333@LMC@2019-06-14
+30005312@@@@@@Currently, the only grocery delivery service in Singapore is redmart.com.@@@@1@10@ntucle-docid:188; ntucle-sid:1334@LMC@2019-06-14
+30005313@@@@@@However, recent bouts of inefficiency, such as halting new orders nationwide from 25th to 28th February in 2015, makes redmart.com inadequate in solving this problem.@@@@1@25@ntucle-docid:188; ntucle-sid:1335@LMC@2019-06-14
+30005314@@@@@@(Feng, 2015) Not to mention that the products are slightly higher priced and their delivery collection range is limited.@@@@1@19@ntucle-docid:188; ntucle-sid:1336@LMC@2019-06-14
+30005315@@@@@@Therefore, a specific, yet affordable caterer for the campus would be ideal.@@@@1@12@ntucle-docid:188; ntucle-sid:1337@LMC@2019-06-14
+30005316@@@@@@Solution:@@@@1@1@ntucle-docid:188; ntucle-sid:1338@LMC@2019-06-14
+30005317@@@@@@The main goal of this proposal is to pull together student entrepreneurs and computing students to develop an app for NTU for grocery shopping.@@@@1@24@ntucle-docid:188; ntucle-sid:1339@LMC@2019-06-14
+30005318@@@@@@This team would then liaise with Giant Supermarket to provide the products.@@@@1@12@ntucle-docid:188; ntucle-sid:1340@LMC@2019-06-14
+30005319@@@@@@User range would include every NTU Network Account users to exclusively cater to the NTU population.@@@@1@16@ntucle-docid:188; ntucle-sid:1341@LMC@2019-06-14
+30005320@@@@@@Collection points would be set up biweekly at the carparks of each hall, thus facilitating their weekly grocery shopping by bringing the supermarket right to their doorstep.@@@@1@27@ntucle-docid:188; ntucle-sid:1342@LMC@2019-06-14
+30005321@@@@@@Benefits:@@@@1@1@ntucle-docid:188; ntucle-sid:1343@LMC@2019-06-14
+30005322@@@@@@The development of such an app can possibly solve the problem of wasting unnecessary travel and queuing time, which is of utmost importance to the busy schedules of students and professors.@@@@1@31@ntucle-docid:188; ntucle-sid:1344@LMC@2019-06-14
+30005323@@@@@@Additionally, student entrepreneurs and programmers can experience managing a business or app that will be accessed daily by users.@@@@1@19@ntucle-docid:188; ntucle-sid:1345@LMC@2019-06-14
+30005324@@@@@@Implementation:@@@@1@1@ntucle-docid:188; ntucle-sid:1346@LMC@2019-06-14
+30005325@@@@@@The following steps will be taken to develop such an app:@@@@1@11@ntucle-docid:188; ntucle-sid:1347@LMC@2019-06-14
+30005326@@@@@@1) Programming and maintenance of the app will be overseen by third-year students and up as possibly part of their assignments.@@@@1@21@ntucle-docid:188; ntucle-sid:1348@LMC@2019-06-14
+30005327@@@@@@2) Student entrepreneurs will liaise with Giant Supermarket in collaboration to supply the products and facilitate the delivery.@@@@1@18@ntucle-docid:188; ntucle-sid:1349@LMC@2019-06-14
+30005328@@@@@@Budget:@@@@1@1@ntucle-docid:188; ntucle-sid:1350@LMC@2019-06-14
+30005329@@@@@@App Development[3]@@@@1@2@ntucle-docid:188; ntucle-sid:1351@LMC@2019-06-14
+30005330@@@@@@6000@@@@1@1@ntucle-docid:188; ntucle-sid:1352@LMC@2019-06-14
+30005331@@@@@@Delivery Cost@@@@1@2@ntucle-docid:188; ntucle-sid:1353@LMC@2019-06-14
+30005332@@@@@@(Salary, Fuel, Vehicle)@@@@1@3@ntucle-docid:188; ntucle-sid:1354@LMC@2019-06-14
+30005333@@@@@@$135/day@@@@1@1@ntucle-docid:188; ntucle-sid:1355@LMC@2019-06-14
+30005334@@@@@@Conclusion:@@@@1@1@ntucle-docid:188; ntucle-sid:1356@LMC@2019-06-14
+30005335@@@@@@Perhaps, while dealing with grocery shopping may appear to be an insignificant problem in comparison to other more evident problems like security, the amount of time that can potentially be saved through the inclusion of modern technology into an everyday task can amount to be significant in the long run.@@@@1@50@ntucle-docid:188; ntucle-sid:1357@LMC@2019-06-14
+30005336@@@@@@All these are possible by making grocery shopping just a click away.@@@@1@12@ntucle-docid:188; ntucle-sid:1358@LMC@2019-06-14
+30005337@@@@@@Title: Saving lunch time with FoodFast@@@@1@6@ntucle-docid:189; ntucle-sid:1303@LMC@2019-06-14
+30005338@@@@@@Background@@@@1@1@ntucle-docid:189; ntucle-sid:1304@LMC@2019-06-14
+30005339@@@@@@A good lunch provides students with energy to remain attentive during lectures.@@@@1@12@ntucle-docid:189; ntucle-sid:1305@LMC@2019-06-14
+30005340@@@@@@However, it is common for a canteen to be flooded with students during lunch.@@@@1@14@ntucle-docid:189; ntucle-sid:1306@LMC@2019-06-14
+30005341@@@@@@A simple survey conducted by the 20th NTU Students’ Union executive committee [1] show that the majority of students would either consume their lunch somewhere else or skip their lunch in an event of a crowded canteen.@@@@1@37@ntucle-docid:189; ntucle-sid:1307@LMC@2019-06-14
+30005342@@@@@@Skipping lunch can cause students to be distracted by hunger and thus affecting academic performance.@@@@1@15@ntucle-docid:189; ntucle-sid:1308@LMC@2019-06-14
+30005343@@@@@@Problem@@@@1@1@ntucle-docid:189; ntucle-sid:1309@LMC@2019-06-14
+30005344@@@@@@With a population of 23713 undergraduates in Nanyang Technological University (NTU) [2], it is near impossible for most students to have a proper lunch during the mere hour given during the common lunch break.@@@@1@34@ntucle-docid:189; ntucle-sid:1310@LMC@2019-06-14
+30005345@@@@@@Many would find themselves walking from one crowded canteen to another in order to find empty seats or a stall with shorter queue to purchase their lunch and thus, wasting even more time in the process of doing so.@@@@1@39@ntucle-docid:189; ntucle-sid:1311@LMC@2019-06-14
+30005346@@@@@@Although NTU has its own network of campus webcams to help monitor crowd at certain canteens [3], the interface is not user-friendly and hence, it is not used by many students.@@@@1@31@ntucle-docid:189; ntucle-sid:1312@LMC@2019-06-14
+30005347@@@@@@Solution@@@@1@1@ntucle-docid:189; ntucle-sid:1313@LMC@2019-06-14
+30005348@@@@@@With the aid of a mobile application called FoodFast, users will be able to access any of the selected campus webcams.@@@@1@21@ntucle-docid:189; ntucle-sid:1314@LMC@2019-06-14
+30005349@@@@@@They can then monitor the crowd through live image feeds from the webcam.@@@@1@13@ntucle-docid:189; ntucle-sid:1315@LMC@2019-06-14
+30005350@@@@@@In addition, students and staff can log in to their NTU account and order food online through this application.@@@@1@19@ntucle-docid:189; ntucle-sid:1316@LMC@2019-06-14
+30005351@@@@@@This feature will help to eliminate the need to wait in long queues before ordering food.@@@@1@16@ntucle-docid:189; ntucle-sid:1317@LMC@2019-06-14
+30005352@@@@@@Benefits@@@@1@1@ntucle-docid:189; ntucle-sid:1318@LMC@2019-06-14
+30005353@@@@@@Not only will FoodFast benefit all NTU students and staff, it will benefit the public as well.@@@@1@17@ntucle-docid:189; ntucle-sid:1319@LMC@2019-06-14
+30005354@@@@@@Anyone can download FoodFast and use its campus webcam feature to eliminate the need of taking the risk of going to another canteen to find seats during lunch.@@@@1@28@ntucle-docid:189; ntucle-sid:1320@LMC@2019-06-14
+30005355@@@@@@NTU students and staff can also save time by ordering their food while making their way to the canteen.@@@@1@19@ntucle-docid:189; ntucle-sid:1321@LMC@2019-06-14
+30005356@@@@@@Implementation@@@@1@1@ntucle-docid:189; ntucle-sid:1322@LMC@2019-06-14
+30005357@@@@@@The mobile application will be designed by a software development team.@@@@1@11@ntucle-docid:189; ntucle-sid:1323@LMC@2019-06-14
+30005358@@@@@@By collaborating with NTU and its canteen staff, the webcam and food-ordering features will then be implemented.@@@@1@17@ntucle-docid:189; ntucle-sid:1324@LMC@2019-06-14
+30005359@@@@@@After the completion of the application, emails will be sent out to notify students and staff of NTU about the application.@@@@1@21@ntucle-docid:189; ntucle-sid:1325@LMC@2019-06-14
+30005360@@@@@@Cost@@@@1@1@ntucle-docid:189; ntucle-sid:1326@LMC@2019-06-14
+30005361@@@@@@With the help of Kinvey’s App Cost Estimator [4], a rough cost of developing the application can be estimated.@@@@1@19@ntucle-docid:189; ntucle-sid:1327@LMC@2019-06-14
+30005362@@@@@@Software Development $63 260@@@@1@4@ntucle-docid:189; ntucle-sid:1328@LMC@2019-06-14
+30005363@@@@@@Upgrading of canteens to cater online-ordering $200 000@@@@1@8@ntucle-docid:189; ntucle-sid:1329@LMC@2019-06-14
+30005364@@@@@@Conclusion@@@@1@1@ntucle-docid:189; ntucle-sid:1330@LMC@2019-06-14
+30005365@@@@@@Lunch plays an important part in ensuring that students are in their best condition for lectures.@@@@1@16@ntucle-docid:189; ntucle-sid:1331@LMC@2019-06-14
+30005366@@@@@@Thus, it is crucial to ensure that students are capable of having their lunch during break time.@@@@1@17@ntucle-docid:189; ntucle-sid:1332@LMC@2019-06-14
+30005367@@@@@@FoodFast will aid in saving time as students are not required to physically be at specific canteen to look for seats or purchase their food.@@@@1@25@ntucle-docid:189; ntucle-sid:1333@LMC@2019-06-14
+30005368@@@@@@Therefore, students can attend classes in a more comfortable condition as lunch will not be skipped due to insufficient time.@@@@1@20@ntucle-docid:189; ntucle-sid:1334@LMC@2019-06-14
+30005369@@@@@@Background:@@@@1@1@ntucle-docid:190; ntucle-sid:1371@LMC@2019-06-14
+30005370@@@@@@Limited road space has always been a problem in Singapore.@@@@1@10@ntucle-docid:190; ntucle-sid:1372@LMC@2019-06-14
+30005371@@@@@@In Tuas the largely industrial area in Singapore, roads available for cars are limited and not all bus lines branch out to all the factories.@@@@1@25@ntucle-docid:190; ntucle-sid:1373@LMC@2019-06-14
+30005372@@@@@@In the current legislation commuters on Personal Electric Vehicles (PEV) or Portable Mobility Devices (PMD) are not allowed to travel on LTA roads or pavements (Tang, M. 2015).@@@@1@28@ntucle-docid:190; ntucle-sid:1374@LMC@2019-06-14
+30005373@@@@@@Problem:@@@@1@1@ntucle-docid:190; ntucle-sid:1375@LMC@2019-06-14
+30005374@@@@@@Citations from LTA have shown that there is an increase in commuters for public transport this leads to higher congestion in public transport (OneMotoring 2010).@@@@1@25@ntucle-docid:190; ntucle-sid:1376@LMC@2019-06-14
+30005375@@@@@@This caused many company to suffer loss from inefficiency as employees are unable to reach work on time.@@@@1@18@ntucle-docid:190; ntucle-sid:1377@LMC@2019-06-14
+30005376@@@@@@Although LTA have implemented four additional train station to extend the green line from Joo Koon MRT, there is a lack of bus line that reach out to all the corner of the factories (Lok, S.@@@@1@36@ntucle-docid:190; ntucle-sid:1378@LMC@2019-06-14
+30005377@@@@@@(Ed.).@@@@1@1@ntucle-docid:190; ntucle-sid:1379@LMC@2019-06-14
+30005378@@@@@@2012).@@@@1@1@ntucle-docid:190; ntucle-sid:1380@LMC@2019-06-14
+30005379@@@@@@Workers that cycle to work have to face risk of accident as accident rate have increase over the years according to The Straits Times (Sim, R. 2013).@@@@1@27@ntucle-docid:190; ntucle-sid:1381@LMC@2019-06-14
+30005380@@@@@@Solution:@@@@1@1@ntucle-docid:190; ntucle-sid:1382@LMC@2019-06-14
+30005381@@@@@@The main goal of this proposal is to build overhead roads called the Sky Road across Tuas from the starting point of Joo Koon MRT that only PEV or PMD that can travel up to 25km/hour.@@@@1@36@ntucle-docid:190; ntucle-sid:1383@LMC@2019-06-14
+30005382@@@@@@The Sky road can be accessed from Joo Koon MRT station.@@@@1@11@ntucle-docid:190; ntucle-sid:1384@LMC@2019-06-14
+30005383@@@@@@The Sky Road can carry up to 11000kg in weight per metre and is accessible through a lift that will be situated at the MRT.@@@@1@25@ntucle-docid:190; ntucle-sid:1385@LMC@2019-06-14
+30005384@@@@@@Gentle slopes will be built at certain checkpoints to allow users to exit the Sky Road.@@@@1@16@ntucle-docid:190; ntucle-sid:1386@LMC@2019-06-14
+30005385@@@@@@Benefits:@@@@1@1@ntucle-docid:190; ntucle-sid:1387@LMC@2019-06-14
+30005386@@@@@@Sky road is an additional road that have similar structure as the MRT track.@@@@1@14@ntucle-docid:190; ntucle-sid:1388@LMC@2019-06-14
+30005387@@@@@@The Sky Road helps to reduce the number of public transport congestion in Tuas as people would switch to this alternate way of travelling, helping labour force reach their workplace on time.@@@@1@32@ntucle-docid:190; ntucle-sid:1389@LMC@2019-06-14
+30005388@@@@@@The Sky Road also allow workforce to travel on safely away from pedestrians and vehicles.@@@@1@15@ntucle-docid:190; ntucle-sid:1390@LMC@2019-06-14
+30005389@@@@@@Furthermore, as the PEVs run on electricity, lesser fuels are consumed hence which is environmental friendly.@@@@1@16@ntucle-docid:190; ntucle-sid:1391@LMC@2019-06-14
+30005390@@@@@@Implementation:@@@@1@1@ntucle-docid:190; ntucle-sid:1392@LMC@2019-06-14
+30005391@@@@@@1) Create prototype of the sky road with all the curves and split roads.@@@@1@14@ntucle-docid:190; ntucle-sid:1393@LMC@2019-06-14
+30005392@@@@@@2) Calculate the stress, strain and material strength required to builds the roads.@@@@1@13@ntucle-docid:190; ntucle-sid:1394@LMC@2019-06-14
+30005393@@@@@@3) Obtain approval from LTA and sponsorship from companies.@@@@1@9@ntucle-docid:190; ntucle-sid:1395@LMC@2019-06-14
+30005394@@@@@@4) Map out the possible sky road that are safe to branch out.@@@@1@13@ntucle-docid:190; ntucle-sid:1396@LMC@2019-06-14
+30005395@@@@@@5) Confirm final design and proceed with tender with a company to build the sky road.@@@@1@16@ntucle-docid:190; ntucle-sid:1397@LMC@2019-06-14
+30005396@@@@@@Cost:@@@@1@1@ntucle-docid:190; ntucle-sid:1398@LMC@2019-06-14
+30005397@@@@@@The cost for individuals will naturally be about $500~$2000 depending on what type of mini vehicle chosen.@@@@1@17@ntucle-docid:190; ntucle-sid:1399@LMC@2019-06-14
+30005398@@@@@@Users have to pay for the additional cost for parking only.@@@@1@11@ntucle-docid:190; ntucle-sid:1400@LMC@2019-06-14
+30005399@@@@@@No additional cost is required to use the sky road.@@@@1@10@ntucle-docid:190; ntucle-sid:1401@LMC@2019-06-14
+30005400@@@@@@An estimated cost for building the Sky Road will be $2152 per square metre (COMPARATIVE BRIDGE COSTS.@@@@1@17@ntucle-docid:190; ntucle-sid:1402@LMC@2019-06-14
+30005401@@@@@@2012).@@@@1@1@ntucle-docid:190; ntucle-sid:1403@LMC@2019-06-14
+30005402@@@@@@Conclusion:@@@@1@1@ntucle-docid:190; ntucle-sid:1404@LMC@2019-06-14
+30005403@@@@@@With public transport congestion as main issue, there is a lack of efficiency in transportation in the Tuas area.@@@@1@19@ntucle-docid:190; ntucle-sid:1405@LMC@2019-06-14
+30005404@@@@@@With the implementation of Sky Road there will be less commuters taking public transport and switching to better alternatives such as electric scooter, electric bicycles or other forms of PEV.@@@@1@30@ntucle-docid:190; ntucle-sid:1406@LMC@2019-06-14
+30005405@@@@@@COVER PAGE FOR ENGINEERING COMMUNICATION ASSIGNMENT 1@@@@1@7@ntucle-docid:191; ntucle-sid:1449@LMC@2019-06-14
+30005406@@@@@@TITLE : Diverting Queues with the Electronic Ordering Kiosk@@@@1@9@ntucle-docid:191; ntucle-sid:1454@LMC@2019-06-14
+30005407@@@@@@Diverting Queues with the Electronic Ordering Kiosk@@@@1@7@ntucle-docid:191; ntucle-sid:1455@LMC@2019-06-14
+30005408@@@@@@Background@@@@1@1@ntucle-docid:191; ntucle-sid:1456@LMC@2019-06-14
+30005409@@@@@@The South Spine is one of the locations in NTU which is very populated throughout the day, due to the amount of lessons located there.@@@@1@25@ntucle-docid:191; ntucle-sid:1457@LMC@2019-06-14
+30005410@@@@@@Koufu, one of the only nearby food courts located at the basement, is often crowded.@@@@1@15@ntucle-docid:191; ntucle-sid:1458@LMC@2019-06-14
+30005411@@@@@@Its wide variety of food choices and easy accessibility to other classrooms make it a top choice amongst students.@@@@1@19@ntucle-docid:191; ntucle-sid:1459@LMC@2019-06-14
+30005412@@@@@@Seats are not easily found, and queues are generally long throughout the stalls.@@@@1@13@ntucle-docid:191; ntucle-sid:1460@LMC@2019-06-14
+30005413@@@@@@Problem@@@@1@1@ntucle-docid:191; ntucle-sid:1461@LMC@2019-06-14
+30005414@@@@@@The drinks stall has one of the longest queues throughout the day.@@@@1@12@ntucle-docid:191; ntucle-sid:1462@LMC@2019-06-14
+30005415@@@@@@This queue often extends to and over the stall beside it, resulting in obstruction to the general flow of traffic in the food court.@@@@1@24@ntucle-docid:191; ntucle-sid:1463@LMC@2019-06-14
+30005416@@@@@@Crowding often occurs at the drinks collection point, blocking off the staircase leading into food court, causing movement around the central part of the food court to be slow which makes it hard to navigate in the premises itself.@@@@1@39@ntucle-docid:191; ntucle-sid:1464@LMC@2019-06-14
+30005417@@@@@@Staff preparing drinks may get confused occasionally when many orders are taken at once, resulting in the wrong drinks being prepared, creating unnecessary misunderstandings between consumers and staff.@@@@1@28@ntucle-docid:191; ntucle-sid:1465@LMC@2019-06-14
+30005418@@@@@@Therefore, there is a need to ease the queue while finding methods to aid staff in taking orders.@@@@1@18@ntucle-docid:191; ntucle-sid:1466@LMC@2019-06-14
+30005419@@@@@@Solution@@@@1@1@ntucle-docid:191; ntucle-sid:1467@LMC@2019-06-14
+30005420@@@@@@The Electronic Ordering Kiosk offers an alternative queue to the drink stall.@@@@1@12@ntucle-docid:191; ntucle-sid:1468@LMC@2019-06-14
+30005421@@@@@@Users will scroll through the interactive touch screen order their desired beverages.@@@@1@12@ntucle-docid:191; ntucle-sid:1469@LMC@2019-06-14
+30005422@@@@@@Upon confirmation of payment, either through NETS or Ez-Link, a queue number will be issued.@@@@1@15@ntucle-docid:191; ntucle-sid:1470@LMC@2019-06-14
+30005423@@@@@@[1].@@@@1@1@ntucle-docid:191; ntucle-sid:1471@LMC@2019-06-14
+30005424@@@@@@Users will then proceed to collect their drinks at the collection point upon being called on.@@@@1@16@ntucle-docid:191; ntucle-sid:1472@LMC@2019-06-14
+30005425@@@@@@Staff will prepare the drinks upon receipt of the order through a separate monitor located in the stall itself, and this monitor will show the orders with any comments being indicated on the screen itself.@@@@1@35@ntucle-docid:191; ntucle-sid:1473@LMC@2019-06-14
+30005426@@@@@@Benefits@@@@1@1@ntucle-docid:191; ntucle-sid:1474@LMC@2019-06-14
+30005427@@@@@@Consumers may opt to choose the shorter queue between the two available queues, and this will help ease the congestion and length of the original queue.@@@@1@26@ntucle-docid:191; ntucle-sid:1475@LMC@2019-06-14
+30005428@@@@@@Furthermore, this ease of congestion would allow for smoother human traffic flow, allowing for people to get around faster and thus saving time for many others.@@@@1@26@ntucle-docid:191; ntucle-sid:1476@LMC@2019-06-14
+30005429@@@@@@This kiosk will also minimize the cases of wrong orders, with staff being able to refer to orders on screen and prepare accordingly to the order.@@@@1@26@ntucle-docid:191; ntucle-sid:1477@LMC@2019-06-14
+30005430@@@@@@[2]@@@@1@1@ntucle-docid:191; ntucle-sid:1478@LMC@2019-06-14
+30005431@@@@@@Implementation@@@@1@1@ntucle-docid:191; ntucle-sid:1479@LMC@2019-06-14
+30005432@@@@@@Three of the above-mentioned kiosks can be placed at the empty spaces along the walls at the outer perimeter of the food court.@@@@1@23@ntucle-docid:191; ntucle-sid:1480@LMC@2019-06-14
+30005433@@@@@@This allows for queues to be created at less congested spaces, easing up the traffic in the main food court itself.@@@@1@21@ntucle-docid:191; ntucle-sid:1481@LMC@2019-06-14
+30005434@@@@@@Costs or Budget@@@@1@3@ntucle-docid:191; ntucle-sid:1482@LMC@2019-06-14
+30005435@@@@@@Kiosk - $3600@@@@1@3@ntucle-docid:191; ntucle-sid:1483@LMC@2019-06-14
+30005436@@@@@@Software and Installation - $400.@@@@1@5@ntucle-docid:191; ntucle-sid:1484@LMC@2019-06-14
+30005437@@@@@@Conclusion@@@@1@1@ntucle-docid:191; ntucle-sid:1485@LMC@2019-06-14
+30005438@@@@@@The Electronic Ordering Kiosk will be an asset to the currently congested food court, easing the traffic in the food court during peak hours, as well as minimize human errors with regards to wrong orders.@@@@1@35@ntucle-docid:191; ntucle-sid:1486@LMC@2019-06-14
+30005439@@@@@@Background@@@@1@1@ntucle-docid:192; ntucle-sid:1422@LMC@2019-06-14
+30005440@@@@@@Flash flood has always been a major problem in Singapore.@@@@1@10@ntucle-docid:192; ntucle-sid:1423@LMC@2019-06-14
+30005441@@@@@@According to Public Utilities Board (PUB), Singapore’s National Water Agency, the annual rainfall is 2,344.0 mm (92.28 inches).@@@@1@18@ntucle-docid:192; ntucle-sid:1424@LMC@2019-06-14
+30005442@@@@@@Given the high intensity of the rain, with limited infrastructure, flash flood can occur around 10-12 days annually.@@@@1@18@ntucle-docid:192; ntucle-sid:1425@LMC@2019-06-14
+30005443@@@@@@This causes economic losses and affects social activities.@@@@1@8@ntucle-docid:192; ntucle-sid:1426@LMC@2019-06-14
+30005444@@@@@@Problem@@@@1@1@ntucle-docid:192; ntucle-sid:1427@LMC@2019-06-14
+30005445@@@@@@To avoid water pounding in constructions, there are two ways existing in the market.@@@@1@14@ntucle-docid:192; ntucle-sid:1428@LMC@2019-06-14
+30005446@@@@@@One is to use a diesel pump to increase the drainage capacity during a heavy rain.@@@@1@16@ntucle-docid:192; ntucle-sid:1429@LMC@2019-06-14
+30005447@@@@@@Another is to create extra barriers to alleviate water penetration.@@@@1@10@ntucle-docid:192; ntucle-sid:1430@LMC@2019-06-14
+30005448@@@@@@However, they have obvious limitations.@@@@1@5@ntucle-docid:192; ntucle-sid:1431@LMC@2019-06-14
+30005449@@@@@@The diesel pump is run by contractors.@@@@1@7@ntucle-docid:192; ntucle-sid:1432@LMC@2019-06-14
+30005450@@@@@@Time is required for them to deploy the pump to the ponding site.@@@@1@13@ntucle-docid:192; ntucle-sid:1433@LMC@2019-06-14
+30005451@@@@@@Furthermore, when there is a pervasive intensive rain, only few buildings can be served.@@@@1@14@ntucle-docid:192; ntucle-sid:1434@LMC@2019-06-14
+30005452@@@@@@The extra barrier can only deter water penetration at designed level.@@@@1@11@ntucle-docid:192; ntucle-sid:1435@LMC@2019-06-14
+30005453@@@@@@Once the rainfall exceeds the limit, the building will be flooded.@@@@1@11@ntucle-docid:192; ntucle-sid:1436@LMC@2019-06-14
+30005454@@@@@@Therefore, a system can be adapted in house widely and constantly flush out ponding water is needed.@@@@1@17@ntucle-docid:192; ntucle-sid:1437@LMC@2019-06-14
+30005455@@@@@@Solution@@@@1@1@ntucle-docid:192; ntucle-sid:1438@LMC@2019-06-14
+30005456@@@@@@The objective of this proposal is to integrate a siphon system called Flood Flusher into the buildings.@@@@1@17@ntucle-docid:192; ntucle-sid:1439@LMC@2019-06-14
+30005457@@@@@@The basic shape of the system is a U-shape pipe, with one end in the building and another connected to the underground drainage canal.@@@@1@24@ntucle-docid:192; ntucle-sid:1440@LMC@2019-06-14
+30005458@@@@@@The interior part is a long flexible tube with a mouth that has several shapes to be chosen.@@@@1@18@ntucle-docid:192; ntucle-sid:1441@LMC@2019-06-14
+30005459@@@@@@The outer part is a fixed PVC pipe.@@@@1@8@ntucle-docid:192; ntucle-sid:1442@LMC@2019-06-14
+30005460@@@@@@The pipe at the roof and has a rain collection funnel.@@@@1@11@ntucle-docid:192; ntucle-sid:1443@LMC@2019-06-14
+30005461@@@@@@Initially, the whole system is closed at both ends of the siphon.@@@@1@12@ntucle-docid:192; ntucle-sid:1444@LMC@2019-06-14
+30005462@@@@@@During a heavy rain, the system will be filled with water quickly.@@@@1@12@ntucle-docid:192; ntucle-sid:1445@LMC@2019-06-14
+30005463@@@@@@Once any ponding or water leakage is observed, user can close the rain collection funnel and open both ends of the siphon.@@@@1@22@ntucle-docid:192; ntucle-sid:1446@LMC@2019-06-14
+30005464@@@@@@The interior tube mouth will provide a sucking force due to height difference.@@@@1@13@ntucle-docid:192; ntucle-sid:1447@LMC@2019-06-14
+30005465@@@@@@User can choose desired shape of mouth to remove water.@@@@1@10@ntucle-docid:192; ntucle-sid:1448@LMC@2019-06-14
+30005466@@@@@@The water will be discharged to the drainage canal.@@@@1@9@ntucle-docid:192; ntucle-sid:1449@LMC@2019-06-14
+30005467@@@@@@This system can constantly clear water as long as the rain continues to refill the siphon.@@@@1@16@ntucle-docid:192; ntucle-sid:1450@LMC@2019-06-14
+30005468@@@@@@Benefits@@@@1@1@ntucle-docid:192; ntucle-sid:1451@LMC@2019-06-14
+30005469@@@@@@This system is much lower energy consuming and can be activated immediately.@@@@1@12@ntucle-docid:192; ntucle-sid:1452@LMC@2019-06-14
+30005470@@@@@@Its ability to work long hours also improves its efficacy.@@@@1@10@ntucle-docid:192; ntucle-sid:1453@LMC@2019-06-14
+30005471@@@@@@Comparing to the existing methods, it is more reliable and cost-effective.@@@@1@11@ntucle-docid:192; ntucle-sid:1454@LMC@2019-06-14
+30005472@@@@@@Furthermore, little manpower is required to operate it and various situations can be tackled.@@@@1@14@ntucle-docid:192; ntucle-sid:1455@LMC@2019-06-14
+30005473@@@@@@Implementation@@@@1@1@ntucle-docid:192; ntucle-sid:1456@LMC@2019-06-14
+30005474@@@@@@1@@@@1@1@ntucle-docid:192; ntucle-sid:1457@LMC@2019-06-14
+30005475@@@@@@Pipe manufactures will supply the pipes.@@@@1@6@ntucle-docid:192; ntucle-sid:1458@LMC@2019-06-14
+30005476@@@@@@2@@@@1@1@ntucle-docid:192; ntucle-sid:1459@LMC@2019-06-14
+30005477@@@@@@Mechanism to open /close the rain collection funnel and pipe ends will be designed and manufactured.@@@@1@16@ntucle-docid:192; ntucle-sid:1460@LMC@2019-06-14
+30005478@@@@@@3@@@@1@1@ntucle-docid:192; ntucle-sid:1461@LMC@2019-06-14
+30005479@@@@@@Manufacturing of mouth will be outsourced to small companies.@@@@1@9@ntucle-docid:192; ntucle-sid:1462@LMC@2019-06-14
+30005480@@@@@@4@@@@1@1@ntucle-docid:192; ntucle-sid:1463@LMC@2019-06-14
+30005481@@@@@@Local construction companies and contractors will integrate the system into buildings.@@@@1@11@ntucle-docid:192; ntucle-sid:1464@LMC@2019-06-14
+30005482@@@@@@Conclusion@@@@1@1@ntucle-docid:192; ntucle-sid:1465@LMC@2019-06-14
+30005483@@@@@@The risk of excessive rainwater penetration in Singapore is increasing according to a study done by PUB.@@@@1@17@ntucle-docid:192; ntucle-sid:1466@LMC@2019-06-14
+30005484@@@@@@Flood Flusher aims to overcome the indoor flood problem more effectively and reliably to reduce the economic loss and disturbance to society.@@@@1@22@ntucle-docid:192; ntucle-sid:1467@LMC@2019-06-14
+30005485@@@@@@NANYANG@@@@1@1@ntucle-docid:196; ntucle-sid:1419@LMC@2019-06-14
+30005486@@@@@@TECHNOLOGICAL@@@@1@1@ntucle-docid:196; ntucle-sid:1420@LMC@2019-06-14
+30005487@@@@@@UNIVERSITY@@@@1@1@ntucle-docid:196; ntucle-sid:1421@LMC@2019-06-14
+30005488@@@@@@Proposal@@@@1@1@ntucle-docid:196; ntucle-sid:1422@LMC@2019-06-14
+30005489@@@@@@Proposal Title: CIY Table@@@@1@4@ntucle-docid:196; ntucle-sid:1423@LMC@2019-06-14
+30005490@@@@@@CIY (Clean-it-yourselves) Table@@@@1@3@ntucle-docid:196; ntucle-sid:1428@LMC@2019-06-14
+30005491@@@@@@Background:@@@@1@1@ntucle-docid:196; ntucle-sid:1429@LMC@2019-06-14
+30005492@@@@@@In most of the schools and universities canteens, overcrowding has been one of the most common issues these years.@@@@1@19@ntucle-docid:196; ntucle-sid:1430@LMC@2019-06-14
+30005493@@@@@@(‘Our children are eating lunch on the canteen floor’, 2012) One of the causes of overcrowding is due to the unclean tables as diners choose to use the cleaned one.@@@@1@30@ntucle-docid:196; ntucle-sid:1431@LMC@2019-06-14
+30005494@@@@@@Therefore, there are less useable tables when more and more tables are left unclean.@@@@1@14@ntucle-docid:196; ntucle-sid:1432@LMC@2019-06-14
+30005495@@@@@@Problem:@@@@1@1@ntucle-docid:196; ntucle-sid:1433@LMC@2019-06-14
+30005496@@@@@@Current method to clean the tables depends on the manpower.@@@@1@10@ntucle-docid:196; ntucle-sid:1434@LMC@2019-06-14
+30005497@@@@@@However, they have obvious limitations.@@@@1@5@ntucle-docid:196; ntucle-sid:1435@LMC@2019-06-14
+30005498@@@@@@During dining peak hours, they may find themselves becoming more and more exhausted and fail to cope up with the crowd’s demands.@@@@1@22@ntucle-docid:196; ntucle-sid:1436@LMC@2019-06-14
+30005499@@@@@@Besides, the tables might not be completely clean due to workers’ tiredness.@@@@1@12@ntucle-docid:196; ntucle-sid:1437@LMC@2019-06-14
+30005500@@@@@@To thoroughly eliminate this limitation, old method should be abandoned and technology should be brought into the management of canteen.@@@@1@20@ntucle-docid:196; ntucle-sid:1438@LMC@2019-06-14
+30005501@@@@@@Solution:@@@@1@1@ntucle-docid:196; ntucle-sid:1439@LMC@2019-06-14
+30005502@@@@@@In this article, CIY, an automated-cleaning table has been proposed.@@@@1@10@ntucle-docid:196; ntucle-sid:1440@LMC@2019-06-14
+30005503@@@@@@It has been developed with conveyor belt and automated-wiping mechanism.@@@@1@10@ntucle-docid:196; ntucle-sid:1441@LMC@2019-06-14
+30005504@@@@@@Once the diners finish their meal, by just a click on a button, the food residue will be removed in few seconds.@@@@1@22@ntucle-docid:196; ntucle-sid:1442@LMC@2019-06-14
+30005505@@@@@@The automated-whipping mechanism and water-spraying of CIY will make sure that the table will be kept hygienic for the next diners.@@@@1@21@ntucle-docid:196; ntucle-sid:1443@LMC@2019-06-14
+30005506@@@@@@In addition, the container in CIY is capable to store up to 200 diners’ food residue.@@@@1@16@ntucle-docid:196; ntucle-sid:1444@LMC@2019-06-14
+30005507@@@@@@Therefore, workers will only need to replace the container once per two days.@@@@1@13@ntucle-docid:196; ntucle-sid:1445@LMC@2019-06-14
+30005508@@@@@@The structure of table and automated whipping mechanism are as shown in diagram 1.@@@@1@14@ntucle-docid:196; ntucle-sid:1446@LMC@2019-06-14
+30005509@@@@@@Diagram 1@@@@1@2@ntucle-docid:196; ntucle-sid:1447@LMC@2019-06-14
+30005510@@@@@@Benefit:@@@@1@1@ntucle-docid:196; ntucle-sid:1448@LMC@2019-06-14
+30005511@@@@@@CIY benefits massively crowded canteens and also the diners.@@@@1@9@ntucle-docid:196; ntucle-sid:1449@LMC@2019-06-14
+30005512@@@@@@Once the previous diner has finished his meal, by just a click, the table will then be ready to accommodate the next diners.@@@@1@23@ntucle-docid:196; ntucle-sid:1450@LMC@2019-06-14
+30005513@@@@@@The average time needed to have a table cleaned and ready for the next diners is minimized to less than 5 seconds.@@@@1@22@ntucle-docid:196; ntucle-sid:1451@LMC@2019-06-14
+30005514@@@@@@Looking at the greater picture, a canteen can efficiently accommodate more diners in a given time.@@@@1@16@ntucle-docid:196; ntucle-sid:1452@LMC@2019-06-14
+30005515@@@@@@Furthermore, the perfect hygienic condition provided by CIY will absolutely enhance the dining experience of all diners.@@@@1@17@ntucle-docid:196; ntucle-sid:1453@LMC@2019-06-14
+30005516@@@@@@As compared to the traditional method of cleaning, there is no such guarantee on the hygienic condition.@@@@1@17@ntucle-docid:196; ntucle-sid:1454@LMC@2019-06-14
+30005517@@@@@@Implementation:@@@@1@1@ntucle-docid:196; ntucle-sid:1455@LMC@2019-06-14
+30005518@@@@@@The implementation can be done in the following steps:@@@@1@9@ntucle-docid:196; ntucle-sid:1456@LMC@2019-06-14
+30005519@@@@@@1@@@@1@1@ntucle-docid:196; ntucle-sid:1457@LMC@2019-06-14
+30005520@@@@@@Collaboration with the hardware suppliers will be made to get the delivery of conveyor belt, rotating cylinder, whipping tool, container and custom made table.@@@@1@24@ntucle-docid:196; ntucle-sid:1458@LMC@2019-06-14
+30005521@@@@@@2@@@@1@1@ntucle-docid:196; ntucle-sid:1459@LMC@2019-06-14
+30005522@@@@@@Collaboration with the software company to develop the application to automate cleaning process.@@@@1@13@ntucle-docid:196; ntucle-sid:1460@LMC@2019-06-14
+30005523@@@@@@3@@@@1@1@ntucle-docid:196; ntucle-sid:1461@LMC@2019-06-14
+30005524@@@@@@The hardware parts will be assembled and tested with the developed software.@@@@1@12@ntucle-docid:196; ntucle-sid:1462@LMC@2019-06-14
+30005525@@@@@@Budget:@@@@1@1@ntucle-docid:196; ntucle-sid:1463@LMC@2019-06-14
+30005526@@@@@@Hardware cost (per table) $50@@@@1@5@ntucle-docid:196; ntucle-sid:1464@LMC@2019-06-14
+30005527@@@@@@Software development $200@@@@1@3@ntucle-docid:196; ntucle-sid:1465@LMC@2019-06-14
+30005528@@@@@@Assembling and testing $20@@@@1@4@ntucle-docid:196; ntucle-sid:1466@LMC@2019-06-14
+30005529@@@@@@Total $270@@@@1@2@ntucle-docid:196; ntucle-sid:1467@LMC@2019-06-14
+30005530@@@@@@Conclusion:@@@@1@1@ntucle-docid:196; ntucle-sid:1468@LMC@2019-06-14
+30005531@@@@@@Overcrowded canteen has always been one of the most common problems recently, especially in schools and universities.@@@@1@17@ntucle-docid:196; ntucle-sid:1469@LMC@2019-06-14
+30005532@@@@@@Therefore, CIY aims to minimize the cleaning time and consequently leads to a better flow of diners in the canteen.@@@@1@20@ntucle-docid:196; ntucle-sid:1470@LMC@2019-06-14
+30005533@@@@@@In addition, CIY makes sure that the hygienic condition of tables to be up to mark.@@@@1@16@ntucle-docid:196; ntucle-sid:1471@LMC@2019-06-14
+30005534@@@@@@Addressing the overcrowding problem and hygienic concern, CIY promises to be an essential tool towards a better society.@@@@1@18@ntucle-docid:196; ntucle-sid:1472@LMC@2019-06-14
